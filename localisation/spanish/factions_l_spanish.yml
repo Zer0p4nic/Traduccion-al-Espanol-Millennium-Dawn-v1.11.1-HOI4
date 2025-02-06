@@ -1,0 +1,262 @@
+﻿l_spanish:
+ #Factions with unique features
+ NATO: "OTAN"
+ NATO_member: "Miembro de la OTAN"
+ NATO_member_desc: "La Organización del Tratado del Atlántico Norte (OTAN) es una alianza defensiva compuesta por Estados Unidos, Canadá y varios países europeos. Comenzando como una mera alianza política, la OTAN rápidamente se convirtió en una alianza militar antisoviética. Después de la disolución de la Unión Soviética, la OTAN ha tomado un papel cada vez más intervencionista en el mundo. Sin embargo, el propósito principal de la alianza sigue siendo defender a sus países miembros, y atacar a un estado miembro es un ataque contra todos."
+ NATO_member_tooltip: "§R¡Reglas Especiales de la Facción§!:\n- Solo el Líder de la Facción puede garantizar otros países\n- Los países solo pueden ser llamados a guerras defensivas\n- La entrada y salida de la facción se controla mediante decisiones/eventos"
+ NATO_guarantee_rule_tt: "§R¡Solo el Líder de la Facción de la OTAN puede garantizar otros países!§!"
+ NATO_call_ally_rule_tt: "§R¡Los miembros de la OTAN solo pueden llamar a aliados en guerras defensivas!§!"
+ NATO_join_ally_rule_tt: "§R¡Los miembros de la OTAN solo pueden unirse a aliados en guerras defensivas!§!"
+ NATO_join_faction_rule_tt: "§R¡Los países no pueden unirse a la OTAN por medios normales!§!"
+ NATO_offer_join_faction_rule_tt: "§R¡No se puede invitar a otros países a unirse a la OTAN por medios normales!§!"
+ NATO_kick_from_faction_rule_tt: "§R¡Los países de la OTAN no pueden ser expulsados de la OTAN por medios normales!§!"
+ NATO_leave_faction_rule_tt: "§R¡Los países de la OTAN no pueden abandonar la OTAN por medios normales!§!"
+ NATO_dismantle_faction_rule_tt: "§R¡La OTAN no puede ser desmantelada!§!"
+
+ RESISTANCE_AXIS: "Eje de la Resistencia"
+ faction_resistance_axis_member: "Eje de la Resistencia"
+ faction_resistance_axis_member_desc: "El Eje de la Resistencia se refiere a una alianza informal entre Irán, Siria y Hezbolá (más tarde también milicias chiítas iraquíes y rebeldes hutíes). Es una colección de países que se oponen a la influencia israelí, saudí y occidental en el Medio Oriente."
+ faction_resistance_axis_member_TT: "§R¡Regla Especial de la Facción§!:\n- Solo se permiten países chiítas en la facción"
+ resistance_axis_join_faction_rule_tt: "§R¡Solo los países chiítas pueden unirse al Eje de la Resistencia!§!"
+ resistance_axis_offer_join_faction_rule_tt: "§R¡Solo los países chiítas pueden unirse al Eje de la Resistencia!§!"
+
+ CSTO: "OTSC"
+ CSTO_member: "Miembro de la OTSC"
+ CSTO_member_desc: "La Organización del Tratado de Seguridad Colectiva es una alianza militar defensiva compuesta por estados postsoviéticos. La organización comenzó con la caída de la Unión Soviética y la creación de la Comunidad de Estados Independientes, ya que los países intentaron mantener la unidad de las naciones postsoviéticas. Finalmente, evolucionó hacia una alianza militar separada."
+ CSTO_member_tooltip: "§RFacción Reglas Especiales§!:\n- Solo los países que alguna vez formaron parte de la Unión Soviética pueden estar en la facción\n- Los países solo pueden ser llamados a guerras defensivas"
+ CSTO_call_ally_rule_tt: "§RLos miembros de la CSTO solo pueden llamar a aliados en guerras defensivas!§!"
+ CSTO_join_ally_rule_tt: "§RLos miembros de la CSTO solo pueden unirse a aliados en guerras defensivas!§!"
+ CSTO_join_faction_rule_tt: "§RLos países postsoviéticos solo pueden unirse a la CSTO!§!"
+ CSTO_offer_join_faction_rule_tt: "§RLos países postsoviéticos solo pueden ser invitados a la CSTO!§!"
+
+ FIFTH_INTERNATIONAL_MEMBER_FACTION: "$faction_fifth_international_member$"
+ faction_fifth_international_member: "5ta Internacional"
+ faction_fifth_international_member_desc: "La 5ta Internacional ha sido fundada como sucesora de la 4ta Internacional de Trotsky y la 3ra Internacional de Stalin para unir a todos los comunistas del mundo contra la amenaza capitalista."
+ faction_fifth_international_member_TT: "§RFacción Reglas Especiales§!:\n- Solo los países gobernados por comunistas emergentes o no alineados pueden estar en la facción"
+ faction_fifth_international_member_join_faction_rule_tt: "§R¡Necesitamos ser gobernados por [Communist-State_L] o [Neutral_Communism_L] para unirse a la 5ta Internacional!§!"
+ faction_fifth_international_member_offer_join_faction_rule_tt: "§R¡Ellos necesitan ser gobernados por [Communist-State_L] o [Neutral_Communism_L] para unirse a la 5ta Internacional!§!"
+
+ UKR_baltic_black_sea_union_faction: "Unión Báltico-Mar Negro"
+ faction_baltic_black_sea_union_member: "Unión Báltico-Mar Negro"
+ faction_baltic_black_sea_union_member_desc: "La Unión Báltico-Mar Negro es una sucesora del Intermarium. Con un grupo de naciones aliadas desde el Mar Báltico hasta el Mar Negro, actuarán como un amortiguador entre el Este y el Oeste."
+ faction_baltic_black_sea_union_member_TT: "§RFacción Reglas Especiales§!:\n- Solo los países a los que se les propuso inicialmente la Unión pueden estar en la facción\n- Los países solo pueden ser llamados a guerras defensivas"
+ faction_baltic_black_sea_union_member_call_ally_rule_tt: "§RLos miembros de la Unión Báltico-Mar Negro solo pueden llamar a aliados en guerras defensivas!§!"
+ faction_baltic_black_sea_union_member_join_ally_rule_tt: "§RLos miembros de la Unión Báltico-Mar Negro solo pueden unirse a aliados en guerras defensivas!§!"
+ faction_baltic_black_sea_union_member_join_faction_rule_tt: "§RSolo los países a los que se les propuso inicialmente la Unión pueden estar en la Unión Báltico-Mar Negro!§!"
+ faction_baltic_black_sea_union_member_offer_join_faction_rule_tt: "§RSolo los países a los que se les propuso inicialmente la Unión pueden estar en la Unión Báltico-Mar Negro!§!"
+
+ Jerusalem_Defence_Pact: "Pacto de Defensa de Jerusalén"
+ faction_jerusalem_defence_pact_member: "Pacto de Defensa de Jerusalén"
+ faction_jerusalem_defence_pact_member_desc: "El Pacto de Defensa de Jerusalén es una alianza militar creada por Siria para proteger la Ciudad Santa de Jerusalén."
+ faction_jerusalem_defence_pact_member_TT: "§RFacción Regla Especial§!:\n- Solo Israel y sus vecinos pueden estar en la facción"
+ faction_jerusalem_defence_pact_member_join_faction_rule_tt: "§RSolo Israel y sus vecinos pueden unirse al Pacto de Defensa de Jerusalén!§!"
+ faction_jerusalem_defence_pact_member_offer_join_faction_rule_tt: "§RSolo Israel y sus vecinos pueden unirse al Pacto de Defensa de Jerusalén!§!"
+
+ PENINSULA_SHIELD: "Consejo de Cooperación del Golfo"
+ idea_gcc_member_state: "Miembro del Consejo de Cooperación del Golfo"
+ idea_gcc_member_state_desc: "El GCC es una unión política y económica de todas las monarquías árabes en el Golfo Pérsico."
+ idea_gcc_member_state_TT: "§RFacción Reglas Especiales§!:\n- Una vez que se complete §YA Alianza Robusta§!, solo los países miembros del GCC pueden estar en la facción"
+ gcc_member_state_join_faction_rule_tt: "§RSolo los Miembros del Consejo de Cooperación del Golfo pueden unirse a la facción del Consejo de Cooperación del Golfo!§!"
+ gcc_member_state_offer_join_faction_rule_tt: "§RSolo los Miembros del Consejo de Cooperación del Golfo pueden unirse a la facción del Consejo de Cooperación del Golfo!§!"
+
+ british_commonwealth: "La Commonwealth"
+ faction_british_commonwealth: "La Commonwealth"
+ faction_british_commonwealth_desc: "El Reino Unido ha decidido reformar la Commonwealth en una alianza más orientada a lo militar."
+ faction_british_commonwealth_TT: "§RFacción Regla Especial§!:\n- Solo los países con el §YMiembro de la Commonwealth of Nations§! pueden estar en la facción"
+ faction_british_commonwealth_join_faction_rule_tt: "§RSolo los Miembros de la Commonwealth of Nations pueden unirse a la Commonwealth Británica!§!"
+ faction_british_commonwealth_offer_join_faction_rule_tt: "§RSolo los Miembros de la Commonwealth of Nations pueden unirse a la Commonwealth Británica!§!"
+
+ monroe_alliance: "Alianza Monroe"
+ faction_monroe_alliance: "Alianza Monroe"
+ faction_monroe_alliance_desc: "Estados Unidos ha revitalizado la idea de la Alianza Monroe, un plan para defender a las naciones americanas de invasiones."
+ faction_monroe_alliance_TT: "§RFacción Reglas Especiales§!:\n- Solo los países de América del Norte y del Sur pueden estar en la facción\n- Los países solo pueden ser llamados a guerras defensivas"
+ faction_monroe_alliance_call_ally_rule_tt: "§RLos miembros de la Alianza Monroe solo pueden llamar a aliados en guerras defensivas!§!"
+ faction_monroe_alliance_join_ally_rule_tt: "§RLos miembros de la Alianza Monroe solo pueden unirse a aliados en guerras defensivas!§!"
+ faction_monroe_alliance_join_faction_rule_tt: "§RSolo los países de América del Norte y del Sur pueden unirse a la Alianza Monroe!§!"
+ faction_monroe_alliance_offer_join_faction_rule_tt: "§RSolo los países de América del Norte y del Sur pueden unirse a la Alianza Monroe!§!"
+
+ cento_alliance: "CENTO"
+ faction_cento_alliance: "Miembro de CENTO"
+ faction_cento_alliance_desc: "CENTO, también conocido como la Organización del Tratado Central, es una alianza militar recientemente revivida para salvaguardar los valores seculares y democráticos en el Medio Oriente. Aunque la alianza no fue muy efectiva durante la Guerra Fría, sus miembros han prometido cambiar eso y generar más cambios en la región."
+ faction_cento_TT: "§RFacción Reglas Especiales§!:\n- Solo algunos países en el Medio Oriente y Asia Central pueden estar en la facción\n- Los países solo pueden ser llamados a guerras defensivas"
+ faction_cento_alliance_call_ally_rule_tt: "§RLos miembros de la Alianza CENTO solo pueden llamar a aliados en guerras defensivas!§!"
+ faction_cento_alliance_join_ally_rule_tt: "§RLos miembros de CENTO solo pueden unirse a aliados en guerras defensivas!§!"
+ faction_cento_alliance_join_faction_rule_tt: "§RSolo algunos países en el Medio Oriente y Asia Central pueden unirse a CENTO!§!"
+ faction_cento_alliance_offer_join_faction_rule_tt: "§RSolo algunos países en el Medio Oriente y Asia Central pueden unirse a CENTO!§!"
+
+ imperial_bloc_alliance: "Bloque Imperial"
+ faction_imperial_bloc_alliance: "Miembro del Bloque Imperial"
+ faction_imperial_bloc_alliance_desc: "El Bloque Imperial, a menudo referido como los neos-Poderes Centrales, ha sido formado por Alemania para competir contra la dominación de la CSTO y la OTAN en la región. Aunque la formación del pacto por parte de Alemania fue forzosa por naturaleza, ha conducido a un cambio hacia un mundo más bipolar."
+ faction_imperial_bloc_TT: "§RFacción Reglas Especiales§!:\n- Solo algunos países de Europa pueden estar en la facción\n- Los países pueden ser llamados a guerras §HOfensivas§!"
+ faction_imperial_bloc_join_faction_rule_tt: "§RSolo algunos países de Europa pueden unirse al Bloque Imperial!§!"
+ faction_imperial_bloc_alliance_join_faction_rule_tt: "§RSolo algunos países de Europa pueden unirse al Bloque Imperial!§!"
+ faction_imperial_bloc_alliance_offer_join_faction_rule_tt: "§RSolo algunos países de Europa pueden unirse al Bloque Imperial!§!"
+
+ brics_alliance: "BRICS"
+ faction_brics_alliance: "Miembro de BRICS"
+ faction_brics_alliance_desc: "BRICS es una colección de varios países que abarcan varias regiones. Aunque el pacto fue inicialmente diseñado para ser más económico, sus miembros han decidido que lo mejor para ellos es formar un pacto defensivo para rivalizar con alianzas como la OTAN."
+ faction_brics_TT: "§RFacción Reglas Especiales§!:\n- Cualquier país aprobado por los miembros principales puede estar en la facción\n- Los países solo pueden ser llamados a guerras defensivas"
+ faction_brics_alliance_call_ally_rule_tt: "§RLos miembros de la Alianza BRICS solo pueden llamar a aliados en guerras defensivas!§!"
+ faction_brics_alliance_join_ally_rule_tt: "§RLos miembros de BRICS solo pueden unirse a aliados en guerras defensivas!§!"
+ faction_brics_alliance_join_faction_rule_tt: "§RSolo los países con aprobación pueden unirse a BRICS!§!"
+ faction_brics_alliance_offer_join_faction_rule_tt: "§RSolo los países con aprobación pueden unirse a BRICS!§!"
+
+
+ mto_alliance: "MTO"
+ faction_mto_alliance: "Miembro de MTO"
+ faction_mto_alliance_desc: "Este país es miembro de MTO (Organización del Tratado Mediterráneo), que participa en la defensa mutua de otras naciones islámicas que están en el MTO. El MTO también participa en varios proyectos económicos en el Medio Oriente y áreas cercanas, con el objetivo principal de mejorar el bienestar económico de los musulmanes."
+ faction_mto_TT: "§RFacción Reglas Especiales§!:\n- Solo algunos países en el Medio Oriente y el Norte de África pueden estar en la facción\n- Los países solo pueden ser llamados a guerras defensivas"
+ faction_mto_alliance_call_ally_rule_tt: "§RLos miembros de la Alianza MTO solo pueden llamar a aliados en guerras defensivas!§!"
+ faction_mto_alliance_join_ally_rule_tt: "§RLos miembros de MTO solo pueden unirse a aliados en guerras defensivas!§!"
+ faction_mto_alliance_join_faction_rule_tt: "§RSolo algunos países en el Medio Oriente y el Norte de África pueden unirse a MTO!§!"
+ faction_mto_alliance_offer_join_faction_rule_tt: "§RSolo algunos países en el Medio Oriente y el Norte de África pueden unirse a MTO!§!"
+
+ fao_alliance: "FAO"
+ faction_fao_alliance: "Miembro de FAO"
+ faction_fao_alliance_desc: "Esta nación es miembro de la alianza FAO (Frente Contra la Opresión), cuyo objetivo principal es derrotar la influencia y presencia de Occidente (a quienes consideran los opresores) en la región del Medio Oriente. También buscan unir a las naciones musulmanas bajo una sola alianza para rivalizar con las potencias del mundo."
+ faction_fao_TT: "§RFacción Reglas Especiales§!:\n- Solo las naciones chiitas pueden unirse a la FAO\n- Los países solo pueden ser llamados a guerras defensivas"
+ faction_fao_alliance_call_ally_rule_tt: "§RLos miembros de la Alianza FAO solo pueden llamar a aliados en guerras defensivas!§!"
+ faction_fao_alliance_join_ally_rule_tt: "§RLos miembros de la FAO solo pueden unirse a aliados en guerras defensivas!§!"
+ faction_fao_alliance_join_faction_rule_tt: "§R!§!"
+ faction_fao_alliance_offer_join_faction_rule_tt: "§RSolo las naciones chiitas pueden unirse a la FAO!§!"
+
+ chinese_united_front: "Frente Unido Chino"
+ faction_chinese_united_front: "Frente Unido Chino"
+ faction_chinese_united_front_desc: ""
+ faction_chinese_united_front_TT: "§RFacción Regla Especial§!:\n- Solo las naciones chinas pueden estar en la facción"
+ faction_chinese_united_front_join_faction_rule_tt: "§RSolo las naciones chinas pueden unirse al Frente Unido Chino!§!"
+ faction_chinese_united_front_offer_join_faction_rule_tt: "§RSolo las naciones chinas pueden unirse al Frente Unido Chino!§!"
+
+ SHANGHAI_PACT: "Pacto de Shanghái"
+ sco_member: "Miembro de la Organización de Cooperación de Shanghái"
+ sco_member_desc: "La Organización de Cooperación de Shanghái (OCS) es una organización política, económica y de seguridad euroasiática, cuya creación fue anunciada el 15 de junio de 2001 en Shanghái, China, por los líderes de China, Kazajistán, Kirguistán, Rusia, Tayikistán y Uzbekistán."
+ sco_member_econ_desc: "La Organización de Cooperación de Shanghái (OCS) es una organización política, económica y de seguridad euroasiática, cuya creación fue anunciada el 15 de junio de 2001 en Shanghái, China, por los líderes de China, Kazajistán, Kirguistán, Rusia, Tayikistán y Uzbekistán."
+ sco_member_pol_desc: "La Organización de Cooperación de Shanghái (OCS) es una organización política, económica y de seguridad euroasiática, cuya creación fue anunciada el 15 de junio de 2001 en Shanghái, China, por los líderes de China, Kazajistán, Kirguistán, Rusia, Tayikistán y Uzbekistán."
+ sco_member_mil_desc: "La Organización de Cooperación de Shanghái (OCS) es una organización euroasiática política, económica y de seguridad, cuya creación fue anunciada el 15 de junio de 2001 en Shanghái, China, por los líderes de China, Kazajistán, Kirguistán, Rusia, Tayikistán y Uzbekistán."
+ sco_member_tooltip: "§RFacción Reglas Especiales§!:\n- China no puede disolver su facción\n- China solo puede invitar a otros miembros de la OCS a su facción\n- Los miembros regulares de la OCS son libres de unirse a otras facciones"
+ sco_member_leave_faction_rule_tt: "§RChina no puede abandonar el Pacto de Shanghái!§!"
+ sco_member_dismantle_faction_rule_tt: "§RChina no puede desmantelar el Pacto de Shanghái!§!"
+ sco_member_join_faction_rule_tt: "§RSólo los miembros de la Organización de Cooperación de Shanghái pueden unirse al Pacto de Shanghái!§!"
+ sco_member_offer_join_faction_rule_tt: "§RSólo los miembros de la Organización de Cooperación de Shanghái pueden unirse al Pacto de Shanghái!§!"
+
+ gca_alliance: "Alianza de Gran Colombia"
+ faction_gca_alliance: "Miembro de Gran Colombia"
+ faction_gca_alliance_desc: "La Alianza de Gran Colombia, también conocida como Gran Colombia, fue un estado que abarcó gran parte de América del Sur y parte de América Central del sur desde 1819 hasta 1831. Incluía lo que hoy es Colombia, el Ecuador continental, Panamá y Venezuela, junto con partes del norte de Perú, el noroeste de Brasil, y Guyana. Debido a los sentimientos de los federalistas, separatistas y a los conflictos políticos internos, el colapso de la nación fue evidente. Pero ahora Venezuela busca la reunificación de Gran Colombia a través de una alianza política y militar."
+ faction_gca_TT: "§RFacción Reglas Especiales§!:\n- Solo algunos países de América del Sur y América Central pueden estar en la facción\n- Los países solo pueden ser llamados a guerras defensivas"
+ faction_gca_alliance_call_ally_rule_tt: "§RLos miembros de la Alianza de Gran Colombia solo pueden llamar a aliados en guerras defensivas!§!"
+ faction_gca_alliance_join_ally_rule_tt: "§RLos miembros de la Alianza Gran Colombia solo pueden unirse a aliados en guerras defensivas!§!"
+ faction_gca_alliance_join_faction_rule_tt: "§RSólo algunos países de América del Sur pueden unirse a GCA!§!"
+ faction_gca_alliance_offer_join_faction_rule_tt: "§RSólo algunos países de América del Sur pueden unirse a GCA!§!"
+
+ fia_alliance: "Alianza Independiente Libre"
+ faction_fia_alliance: "Miembro de la Alianza Independiente Libre"
+ faction_fia_alliance_desc: ""
+ fia_member_tooltip: "§RFacción Reglas Especiales§!:\n- Solo los países que fueron parte de la Unión Soviética están permitidos en la facción\n- Los países solo pueden ser llamados a guerras defensivas"
+ fia_call_ally_rule_tt: "§RLos miembros de la FIA solo pueden llamar a aliados en guerras defensivas!§!"
+ fia_join_ally_rule_tt: "§RLos miembros de la FIA solo pueden unirse a aliados en guerras defensivas!§!"
+ fia_join_faction_rule_tt: "§RSólo los países post-soviéticos pueden unirse a la FIA!§!"
+ fia_offer_join_faction_rule_tt: "§RSólo los países post-soviéticos pueden ser invitados a la FIA!§!"
+ # Normal Factions #
+
+ #Syria
+ Levant_Liberation_Committee: "Liga de Liberación del Levante"
+ Peninsula_Sword: "Espada de la Península"
+
+ #Gulf Countries
+ UNITED_ARAB_ALLIANCE: "Alianza Árabe Unida"
+
+ #English Factions
+ british_alliance: "Alianza Anglo-Sajona"
+
+ #United States
+ freedom_league: "Liga de la Libertad"
+ washington_pact: "Pacto de Washington"
+
+ #Japan
+ japanese_alliance_democratic: "Alianza de Asia Oriental"
+ east_asian_pact: "Pacto de Asia Oriental"
+ japanese_alliance_communist: "Esfera de Prosperidad Roja"
+
+ #Brazil
+ unasul: "UNASUL"
+
+ #Republic of Korea
+ USA_ROK: "Alianza USA-ROK"
+
+ #Poland
+ Eastern_europe_pact: "Pacto de Europa del Este"
+ REP_member: "Miembro REP"
+ polish_pact: "Pacto de Europa Roja"
+
+ #Denmark
+ KALMAR_UNION: "La Unión de Kalmar"
+
+ #Greece
+ Balkan_Socialist_Union: "Unión Socialista Balcánica"
+
+ #EU, USoE
+ Fossil_Energy_Pact_faction: "Pacto de Energía Fosil"
+ Eurasian_Alliance: "Alianza Euroasiática"
+ Western_Alliance: "Alianza Occidental"
+
+ #Armenia
+ Anti_Turanic_Coalition: "Coalición Anti-Turánica"
+
+ #Brazil
+ UNASUL_faction: "UNASUL"
+ 
+ #India
+ Aryavarta_pact: "Pacto del Sol Sagrado"
+ VIE_RAJPACT: "Pacto Revolucionario"
+
+ #Sweden
+ Northern_Alliance: "Alianza del Norte"
+
+ # MP custom factions
+ TEAM_A: "Equipo A"
+ TEAM_B: "Equipo B"
+ TEAM_C: "Equipo C"
+ TEAM_D: "Equipo D"
+
+ # Generic Faction Names
+ FACTION_NAME_DEMOCRATIC_1: "Organización para la Seguridad Internacional"
+ FACTION_NAME_DEMOCRATIC_2: "Tratado de Defensa Mundial"
+ FACTION_NAME_DEMOCRATIC_3: "Organización para la Paz y la Estabilidad"
+ FACTION_NAME_DEMOCRATIC_4: "Tratado de Defensa Preventiva de $CONTINENT$"
+ FACTION_NAME_DEMOCRATIC_5: "$CONTINENT_ADJ$ Coalición"
+ FACTION_NAME_DEMOCRATIC_6: "$CONTINENT_ADJ$ Federación"
+
+ FACTION_NAME_COMMUNIST_1: "Iniciativa de Paz"
+ FACTION_NAME_COMMUNIST_2: "Liga de Autodeterminación"
+ FACTION_NAME_COMMUNIST_3: "Pacto Colectivo de Defensa $CONTINENT_ADJ$"
+ FACTION_NAME_COMMUNIST_4: "El Pacto de Autodeterminación $CONTINENT_ADJ$"
+ FACTION_NAME_COMMUNIST_5: "El Compacto $LEADER_COUNTRY_ADJ$"
+
+ FACTION_NAME_FASCIST_1: "Califato $CONTINENT_ADJ$"
+ FACTION_NAME_FASCIST_2: "Califato Islámico de $CONTINENT$"
+ FACTION_NAME_FASCIST_3: "La Ummah $LEADER_COUNTRY_ADJ$"
+ FACTION_NAME_FASCIST_4: "Seguidores de $LEADER_COUNTRY$"
+ FACTION_NAME_FASCIST_5: "Camino de la Rectitud $CONTINENT_ADJ$"
+
+ FACTION_NAME_NONALIGNED_1: "Estados $CONTINENT_ADJ$ No Alineados"
+ FACTION_NAME_NONALIGNED_2: "Organización $CONTINENT_ADJ$ No Alineada para la Paz y la Estabilidad"
+ FACTION_NAME_NONALIGNED_3: "La Alianza $CONTINENT$"
+ FACTION_NAME_NONALIGNED_4: "Naciones Confederadas $CONTINENT_ADJ$"
+ FACTION_NAME_NONALIGNED_5: "La Coalición $LEADER_COUNTRY$"
+
+ FACTION_NAME_NATIONALIST_1: "Liga de Defensa Nacionalista"
+ FACTION_NAME_NATIONALIST_2: "El Pacto de Defensa de los Valores $LEADER_COUNTRY_ADJ$"
+ FACTION_NAME_NATIONALIST_3: "Pacto de Restauración Nacional $LEADER_COUNTRY_ADJ$"
+ FACTION_NAME_NATIONALIST_4: "Pacto para Hacer Grande a $LEADER_COUNTRY$ de Nuevo"
+
+
+ #Warsaw pact
+ FIFTH_INTERNATIONAL_MEMBER_FACTION: "$faction_warsaw_pact_member$"
+ faction_fifth_international_member: "Pacto de Varsovia"
+ faction_fifth_international_member_desc: "Un documento que formalizó la creación de una alianza militar de estados socialistas europeos bajo el rol dirigente de la URSS, la Organización del Pacto de Varsovia, y consolidó la bipolaridad del mundo durante 36 años. La conclusión del tratado fue una respuesta a la negativa de la Unión Soviética y los países socialistas de unirse a la OTAN, así como la adhesión de la RFA a la OTAN. Después del derrocamiento en 1989-1990 de los regímenes comunistas en los países de Europa Central y Oriental, la existencia de la Organización del Pacto de Varsovia como una alianza militar-política de países socialistas perdió su sentido. El 25 de febrero de 1991, los estados participantes del Pacto de Varsovia abolieron sus estructuras militares y el 1 de julio de 1991, en Praga, firmaron el Protocolo sobre la terminación completa del Tratado."
+ faction_fifth_international_member_TT: "§RFacción Reglas Especiales§!:\n- Solo los países gobernados por Comunistas Emergentes o No Alineados están permitidos en la facción"
+ faction_fifth_international_member_join_faction_rule_tt: "§RNecesitamos ser gobernados por [Communist-State_L] o [Neutral_Communism_L] para unirse a la 5ta Internacional!§!"
+ faction_fifth_international_member_offer_join_faction_rule_tt: "§RNecesitan ser gobernados por [Communist-State_L] o [Neutral_Communism_L] para unirse a la 5ta Internacional!§!"
+ 
+ #UAR faction
+ UAR_arab_liberation_front: "Frente de Liberación Árabe"

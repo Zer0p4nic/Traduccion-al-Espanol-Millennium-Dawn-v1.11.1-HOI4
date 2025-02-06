@@ -1,0 +1,5 @@
+﻿l_spanish:
+ raid_category_nuclear_raids: "Ataques Nucleares"
+ tooltip_raid_category_nuclear_raids: "§HAtaques Nucleares§! \nAtaques llevados a cabo por bombarderos estratégicos o misiles balísticos que portan armas nucleares, contra objetivos tácticos o estratégicos.\n\n§RADVERTENCIA: La Gran Línea Roja. Cruzar esta línea puede significar el fin del mundo tal como lo conocemos...§!"
+ success_modifier_air_agility: "unidad con §HVentaja de Radar§!"
+ success_modifier_air_agility_negative: "unidad con baja §HVentaja de Radar§!"

@@ -1,0 +1,670 @@
+﻿l_spanish:
+ terrain_chicago_illinois: "Chicago, Estados Unidos"
+ terrain_berlin: "Berlín, Alemania"
+ terrain_aleppo_citadel_syria: "Alepo, Siria"
+ terrain_jerusalem: "Jerusalén, Disputado"
+ terrain_mecca: "La Meca, Arabia Saudita"
+ terrain_paris: "París, Francia"
+ terrain_rio_de_janiero: "Río de Janeiro, Brasil"
+ terrain_lisbon: "Lisboa, Portugal"
+ terrain_london: "Londres, Reino Unido"
+ terrain_moscow: "Moscú, Rusia"
+ terrain_hong_kong: "Hong Kong, China"
+ terrain_singapore: "Singapur"
+ terrain_shanghai: "Shanghái, China"
+ terrain_fuzhou: "Fuzhou, China"
+ terrain_beijing: "Pekín, China"
+ terrain_athens: "Atenas, Grecia"
+ terrain_istanbul: "Estambul, Turquía"
+ #Argentina
+ terrain_buenos_aires: "Buenos Aires, Argentina"
+ terrain_cordoba: "Córdoba, Argentina"
+ #Armenia
+ terrain_yerevan: "Ereván, Armenia"
+ #Australia
+ terrain_adelaide: "Adelaida, Australia"
+ terrain_brisbane: "Brisbane, Australia"
+ terrain_canberra: "Canberra, Australia"
+ terrain_melbourne: "Melbourne, Australia"
+ terrain_perth: "Perth, Australia"
+ terrain_sydney: "Sídney, Australia"
+ terrain_mt_uluru: "Monte Uluru, Australia"
+ #Austria
+ terrain_vienna: "Viena, Austria"
+ terrain_graz: "Graz, Austria"
+ #Azerbaijan
+ terrain_baku: "Bakú, Azerbaiyán"
+ #Bahrain
+ terrain_manama: "Manama, Baréin"
+ terrain_nsa_bahrain: "Baréin"
+ #Bangladesh
+ terrain_chittagong: "Chittagong, Bangladés"
+ terrain_dhaka: "Daca, Bangladés"
+ #Belgium
+ terrain_brussels: "Bruselas, Bélgica"
+ #Belize
+ terrain_belmopan: "Belmopán, Belice"
+ #Bolivia
+ terrain_la_paz: "La Paz, Bolivia"
+ #Bulgaria
+ terrain_plovdiv: "Plovdiv, Bulgaria"
+ terrain_sofia: "Sofía, Bulgaria"
+ #Brazil
+ terrain_brasilia: "Brasilia, Brasil"
+ terrain_fortaleza: "Fortaleza, Brasil"
+ terrain_manaus: "Manaos, Brasil"
+ terrain_porto_algre: "Porto Alegre, Brasil"
+ terrain_recife: "Recife, Brasil"
+ terrain_salvador: "Salvador, Brasil"
+ terrain_sao_jose_dos_campos: "Sao Jose dos Campos, Brasil"
+ terrain_sao_paulo: "Sao Paulo, Brasil"
+ #Burkina Faso
+ terrain_ouagadougou: "Uagadugú, Burkina Faso"
+ #Burundi
+ terrain_bujumbura: "Buyumbura, Burundi"
+ #Cameroon
+ terrain_douala: "Duala, Camerún"
+ terrain_yaounde: "Yaundé, Camerún"
+ #Canada
+ terrain_montreal: "Montreal, Canadá"
+ terrain_ottawa: "Ottawa, Canadá"
+ terrain_quebec: "Quebec, Canadá"
+ terrain_toronto: "Toronto, Canadá"
+ terrain_vancouver: "Vancouver, Canadá"
+ terrain_victoria: "Victoria, Canadá"
+ terrain_hamilton: "Hamilton, Canadá"
+ #Cambodia
+ terrain_phnom_penh: "Phnom Penh, Camboya"
+ #Chad
+ terrain_ndjamena: "Yamena, Chad"
+ #China
+ terrain_chongqing: "Chongqing, China"
+ terrain_hangzhou: "Hangzhou, China"
+ terrain_harbin: "Harbin, China"
+ terrain_shenzhen: "Shenzhen, China"
+ terrain_tianjin: "Tianjin, China"
+ terrain_xiamen: "Xiamen, China"
+ terrain_guangzhou: "Guangzhou, China"
+ terrain_chengdu: "Chengdu, China"
+ terrain_zhengzhou: "Zhengzhou, China"
+ terrain_xining: "Xining, China"
+ terrain_xian: "Xi'an, China"
+ terrain_wuxi: "Wuxi, China"
+ terrain_wuhan: "Wuhan, China"
+ terrain_wenzhou: "Wenzhou, China"
+ terrain_taiyuan: "Taiyuan, China"
+ terrain_shijiazhuang: "Shjiazhuang, China"
+ terrain_shenyang: "Shenyang, China"
+ terrain_qingdao: "Qingdao, China"
+ terrain_nanning: "Nanning, China"
+ terrain_nanchang: "Nanchang, China"
+ terrain_kunming: "Kunming, China"
+ terrain_guiyang: "Guiyang, China"
+ terrain_dalian: "Dalian, China"
+ terrain_changsha: "Changsha, China"
+ terrain_urumqi: "Urumqi, China"
+ terrain_bengbu: "Bengbu, China"
+ terrain_changde: "Changde, China"
+ terrain_jinghong: "Jinghong, China"
+ terrain_panzhiua: "Panzhihua, China"
+ terrain_lanzhou: "Lanzhou, China"
+ terrain_taizhou: "Taizhou, China"
+ terrain_yiwu: "Yiwu, China"
+ terrain_huaian: "Huaian, China"
+ terrain_hefei: "Hefei, China"
+ terrain_xuzhou: "Xuzhou, China"
+ terrain_jining: "Jining, China"
+ terrain_xinxiang: "Xinxiang, China"
+ terrain_handan: "Handan, China"
+ terrain_luoyang: "Luoyang, China"
+ terrain_xiaogan: "Xiaogan, China"
+ terrain_shantou: "Shantou, China"
+ terrain_zhangpu: "Zhangpu, China"
+ terrain_ningbo: "Ningbo, China"
+ terrain_cixi: "Cixi, China"
+ terrain_shaoxing: "Shaoxing, China"
+ terrain_yancheng: "Yancheng, China"
+ terrain_lianyungang: "Lianyungang, China"
+ terrain_yantai: "Yantai, China"
+ terrain_rongcheng: "Rongcheng, China"
+ terrain_dandong: "Dandong, China"
+ terrain_anshan: "Anshan, China"
+ terrain_chaoyang: "Chaoyang, China"
+ terrain_xilinghot: "Xilinghot, China"
+ terrain_qiqihar: "Qiqihar, China"
+ terrain_yanji: "Yanji, China"
+ terrain_changchun: "Changchun, China"
+ terrain_chifeng: "Chifeng, China"
+ terrain_hohhot: "Hohhot, China"
+ terrain_ordos: "Ordos, China"
+ terrain_meishan: "Meishan, China"
+ terrain_luzhou: "Luzhou, China"
+ terrain_lijiang: "Lijiang, China"
+ terrain_lhasa: "Lhasa, China"
+ terrain_korla: "Korla, China"
+ terrain_kashgar: "Kashgar, China"
+ terrain_xiangyang: "Xiangyang, China"
+ terrain_wenchang: "Wenchang, China"
+ terrain_haikou: "Haikou, China"
+ terrain_quanzhou: "Quanzhou, China"
+ terrain_shuyang: "Shuyang, China"
+ terrain_linyi: "Linyi, China"
+ terrain_tangshan: "Tangshan, China"
+ terrain_nanjing: "Nanjing, China"
+ terrain_jinan: "Jinan, China"
+ terrain_changzhou: "Changzhou, China"
+ terrain_zibo: "Zibo, China"
+ terrain_suzhou: "Suzhou, China"
+ terrain_yangzhou: "Yangzhou, China"
+ terrain_yinchuan: "Yinchuan, China"
+ terrain_zhuhai: "Zhuhai, China"
+ #Chile
+ terrain_santiago: "Santiago, Chile"
+ #Colombia
+ terrain_bogota: "Bogotá, Colombia"
+ terrain_barranquilla: "Barranquilla, Colombia"
+ terrain_medellin: "Medellín, Colombia"
+ #Congo
+ terrain_brazzaville: "Brazzaville, Congo"
+ #Costa Rica
+ terrain_san_jose: "San José, Costa Rica"
+ #Cote d'Ivoire
+ terrain_abidjan: "Abiyán, Costa de Marfil"
+ terrain_yamoussoukro: "Yamoussoukro, Costa de Marfil"
+ #Cuba
+ terrain_havana: "La Habana, Cuba"
+ #Croatia
+ terrain_zagreb: "Zagreb, Croacia"
+ #Czech Republic
+ terrain_prague: "Praga, República Checa"
+ terrain_ostrava: "Ostrava, República Checa"
+ terrain_brno: "Brno, República Checa"
+ #Denmark
+ terrain_copenhagen: "Copenhague, Dinamarca"
+ #Dominican Republic
+ terrain_santo_domingo: "Santo Domingo, República Dominicana"
+ #Democratic Republic of Congo
+ terrain_kinshasa: "Kinshasa, RD del Congo"
+ terrain_lubumbashi: "Lubumbashi, RD del Congo"
+ terrain_kananga: "Kananga, RD del Congo"
+ terrain_kisangani: "Kisangani, RD del Congo"
+ terrain_mbuji_mayi: "Mbuji Mayi, RD del Congo"
+ #Ecuador
+ terrain_quito: "Quito, Ecuador"
+ terrain_guayaquil: "Guayaquil, Ecuador"
+ #Egypt
+ terrain_alexandria: "Alejandría, Egipto"
+ terrain_cairo: "El Cairo, Egipto"
+ terrain_giza: "Guiza, Egipto"
+ #El Salvador
+ terrain_san_salvador: "San Salvador, El Salvador"
+ #Estonia
+ terrain_tallinn: "Tallín, Estonia"
+ #Eritrea
+ terrain_asmara: "Asmara, Eritrea"
+ #Ethiopia
+ terrain_addis_ababa: "Adís Abeba, Etiopía"
+ #Finland
+ terrain_helsinki: "Helsinki, Finlandia"
+ terrain_turku: "Turku, Finlandia"
+ #France
+ terrain_lyon: "Lyon, Francia"
+ terrain_nantes: "Nantes, Francia"
+ terrain_bordeaux: "Burdeos, Francia"
+ terrain_lille: "Lille, Francia"
+ terrain_marseille: "Marsella, Francia"
+ terrain_nice: "Niza, Francia"
+ terrain_rouen: "Rouen, Francia"
+ terrain_strasbourg: "Estrasburgo, Francia"
+ terrain_toulouse: "Toulouse, Francia"
+ terrain_versailles: "Versalles, Francia"
+ #Germany
+ terrain_bremen: "Bremen, Alemania"
+ terrain_dortmund: "Dortmund, Alemania"
+ terrain_dresden: "Dresde, Alemania"
+ terrain_essen: "Essen, Alemania"
+ terrain_frankfurt: "Fráncfort, Alemania"
+ terrain_hamburg: "Hamburgo, Alemania"
+ terrain_hannover: "Hanóver, Alemania"
+ terrain_kiel: "Kiel, Alemania"
+ terrain_koln: "Colonia, Alemania"
+ terrain_munchen: "Múnich, Alemania"
+ terrain_nurnberg: "Núremberg, Alemania"
+ terrain_rostock: "Rostock, Alemania"
+ terrain_stuttgart: "Stuttgart, Alemania"
+ terrain_chemnitz: "Chemnitz, Alemania"
+ terrain_magdeburg: "Magdeburgo, Alemania"
+ terrain_dusseldorf: "Düsseldorf, Alemania"
+ #Haiti
+ terrain_port_au_prince: "Puerto Príncipe, Haití"
+ #Holland
+ terrain_den_haag: "La Haya, Holanda"
+ terrain_amsterdam: "Ámsterdam, Holanda"
+ terrain_rotterdam: "Rotterdam, Holanda"
+ terrain_antwerp: "Amberes, Holanda"
+ terrain_breda: "Breda, Holanda"
+ #Northern Macedonia
+ terrain_skopje: "Skopje, Macedonia del Norte"
+ #Gambia
+ terrain_banjul: "Banjul, Gambia"
+ #Ghana
+ terrain_accra:"Accra, Ghana"
+ #Greece
+ terrain_iraklion: "Heraclión, Grecia"
+ terrain_thessaloniki: "Salónica, Grecia"
+ #Guatemala
+ terrain_guatamela_city: "Ciudad de Guatemala, Guatemala"
+ #Georgia
+ terrain_tbilisi: "Tiflis, Georgia"
+ #Hungary
+ terrain_budapest: "Budapest, Hungría"
+ terrain_szeged: "Szeged, Hungría"
+ terrain_debrecen: "Debrecen, Hungría"
+ #Iran
+ terrain_ahvaz: "Ahvaz, Irán"
+ terrain_isfahan: "Isfahán, Irán"
+ terrain_mashhad: "Mashhad, Irán"
+ terrain_shiraz: "Shiraz, Irán"
+ terrain_tabriz: "Tabriz, Irán"
+ terrain_tehran: "Teherán, Irán"
+ #Iraq
+ terrain_baghdad: "Bagdad, Irak"
+ terrain_basrah: "Basora, Irak"
+ terrain_mosul: "Mosul, Irak"
+ terrain_karbala: "Kerbala, Irak"
+ terrain_fallujah: "Faluya, Irak"
+ #Ireland
+ terrain_dublin: "Dublín, Irlanda"
+ #Israel
+ terrain_haifa: "Haifa, Israel"
+ terrain_tel_aviv: "Tel Aviv, Israel"
+ #Italy/Vatican
+ terrain_florence: "Florencia, Italia"
+ terrain_venice: "Venecia, Italia"
+ terrain_milan: "Milán, Italia"
+ terrain_genoa: "Génova, Italia"
+ terrain_rome: "Roma, Italia"
+ terrain_naples: "Nápoles, Italia"
+ terrain_vatican: "Ciudad del Vaticano"
+ terrain_palermo: "Palermo, Italia"
+ terrain_cagilari: "Cagliari, Italia"
+ terrain_torino: "Turín, Italia"
+ terrain_bologne: "Bolonia, Italia"
+ terrain_taranto: "Tarento, Italia"
+ terrain_trieste: "Trieste, Italia"
+ #India
+ terrain_srinagar: "Srinagar, India"
+ terrain_ludhiana: "Ludhiana, India"
+ terrain_delhi: "Delhi, India"
+ terrain_agra: "Agra, India"
+ terrain_ahmedabad: "Ahmedabad, India"
+ terrain_kanpur: "Kanpur, India"
+ terrain_patna: "Patna, India"
+ terrain_mumbai: "Bombay, India"
+ terrain_hyderabad: "Hyderabad, India"
+ terrain_bengaluru: "Bengaluru, India"
+ terrain_kochi: "Kochi, India"
+ terrain_chennai: "Chennai, India"
+ terrain_kolkata: "Calcuta, India"
+ #Indonesia
+ terrain_jakarta: "Yakarta, Indonesia"
+ terrain_surabaya: "Surabaya, Indonesia"
+ #Jamaica
+ terrain_kingston: "Kingston, Jamaica"
+ #Japan
+ terrain_fukuoka: "Fukuoka, Japón"
+ terrain_kyoto: "Kioto, Japón"
+ terrain_matsuyama: "Matsuyama, Japón"
+ terrain_naha: "Naha, Japón"
+ terrain_osaka: "Osaka, Japón"
+ terrain_sapporo: "Sapporo, Japón"
+ terrain_sendai: "Sendai, Japón"
+ terrain_tokyo: "Tokio, Japón"
+ terrain_yokohama: "Yokohama, Japón"
+ terrain_hiroshima: "Hiroshima, Japón"
+ #Jordan
+ terrain_amman: "Amán, Jordania"
+ #Kazakh
+ terrain_astana: "Astaná, Kazajistán"
+ terrain_almaty: "Almatý, Kazajistán"
+ #Kenya
+ terrain_nairobi: "Nairobi, Kenia"
+ #Kurdistan
+ terrain_erbil: "Erbil, Kurdistán"
+ #Kuwait
+ terrain_kuwait_city: "Ciudad de Kuwait, Kuwait"
+ #Kyrgz
+ terrain_bishkek: "Biskek, Kirguistán"
+ #Latvia
+ terrain_riga: "Riga, Letonia"
+ #Laos
+ terrain_vientiane: "Vientián, Laos"
+ #Lebanon
+ terrain_beirut: "Beirut, Líbano"
+ #Libya
+ terrain_benghazi: "Bengasi, Libia"
+ terrain_tripoli: "Trípoli, Libia"
+ #Lithuania
+ terrain_vilnius: "Vilna, Lituania"
+ terrain_kaunas: "Kaunas, Lituania"
+ terrain_klaipeda: "Klaipėda, Lituania"
+ terrain_siauliai: "Šiauliai, Lituania"
+ #Luxembourg
+ terrain_luxembourg_city: "Ciudad de Luxemburgo, Luxemburgo"
+ #Macau
+ terrain_macau: "Macao, China"
+ #Madagascar
+ terrain_antananarivo: "Antananarivo, Madagascar"
+ #Malaysia
+ terrain_kuala_lumpur: "Kuala Lumpur, Malasia"
+ #Mali
+ terrain_bamako: "Bamako, Malí"
+ #Mexico
+ terrain_mexico_city: "Ciudad de México, México"
+ terrain_guadalajara: "Guadalajara, México"
+ terrain_monterrey: "Monterrey, México"
+ terrain_tijuana: "Tijuana, México"
+ terrain_mexicali: "Mexicali, México"
+ #Moldova
+ terrain_kishinev: "Chisináu, Moldavia"
+ terrain_komrat: "Comrat, Moldavia"
+ terrain_cahul: "Cahul, Moldavia"
+ terrain_balti: "Bălți, Moldavia"
+ #Monaco
+ terrain_monaco: "Mónaco"
+ #Mongolia
+ terrain_ulan_bator: "Ulán Bator, Mongolia"
+ terrain_khovd: "Jovd, Mongolia"
+ terrain_erdent: "Erdenet, Mongolia"
+ terrain_darkhan: "Darhan, Mongolia"
+ #Montenegro
+ terrain_podgorica: "Podgorica, Montenegro"
+ #Morroco
+ terrain_tangier: "Tánger, Marruecos"
+ terrain_casablanca: "Casablanca, Marruecos"
+ #Mozambique
+ terrain_maputo: "Maputo, Mozambique"
+ #Myanmar
+ terrain_yangon: "Rangún, Myanmar"
+ #Namibia
+ terrain_windhoek: "Windhoek, Namibia"
+ #Nepal
+ terrain_mt_everest: "Monte Everest, Nepal"
+ #New Zealand
+ terrain_auckland: "Auckland, Nueva Zelanda"
+ terrain_wellington: "Wellington, Nueva Zelanda"
+ #Nicaragua
+ terrain_managua: "Managua, Nicaragua"
+ #Nigeria
+ terrain_abuja: "Abuya, Nigeria"
+ terrain_kano: "Kano, Nigeria"
+ terrain_lagos: "Lagos, Nigeria"
+ #Norway
+ terrain_oslo: "Oslo, Noruega"
+ terrain_bergen: "Bergen, Noruega"
+ #North Korea
+ terrain_pyongyang: "Pionyang, Corea del Norte"
+ #Oman
+ terrain_muscat: "Mascate, Omán"
+ #Paraguay
+ terrain_asuncion: "Asunción, Paraguay"
+ #Pakistan
+ terrain_islamabad: "Islamabad, Pakistán"
+ terrain_karachi: "Karachi, Pakistán"
+ terrain_lahore: "Lahore, Pakistán"
+ terrain_peshawar: "Peshawar, Pakistán"
+ #Palestine
+ terrain_gaza: "Gaza, Palestina"
+ #Panama
+ terrain_panama_city: "Ciudad de Panamá, Panamá"
+ #Peru
+ terrain_lima: "Lima, Perú"
+ #Philippines
+ terrain_manila: "Manila, Filipinas"
+ #Poland
+ terrain_warsaw: "Varsovia, Polonia"
+ terrain_gdansk: "Gdansk, Polonia"
+ terrain_bialystok: "Białystok, Polonia"
+ terrain_bydgoszcz: "Bydgoszcz, Polonia"
+ terrain_czestochowa: "Częstochowa, Polonia"
+ terrain_katowice: "Katowice, Polonia"
+ terrain_krakow: "Cracovia, Polonia"
+ terrain_lodz: "Łódź, Polonia"
+ terrain_lublin: "Lublin, Polonia"
+ terrain_poznan: "Poznań, Polonia"
+ terrain_szczecin: "Szczecin, Polonia"
+ terrain_wroclaw: "Breslavia, Polonia"
+ terrain_slupsk: "Słupsk, Polonia"
+ terrain_elblag: "Elbląg, Polonia"
+ terrain_olsztyn: "Olsztyn, Polonia"
+ terrain_suwalki: "Suwałki, Polonia"
+ terrain_torun: "Toruń, Polonia"
+ terrain_plock: "Płock, Polonia"
+ terrain_wloclawek: "Włocławek, Polonia"
+ terrain_gorzow: "Gorzów Wielkopolski, Polonia"
+ terrain_siedlce: "Siedlce, Polonia"
+ #Portgual
+ terrain_algarve: "Algarve, Portugal"
+ terrain_porto: "Oporto, Portugal"
+ #Qatar
+ terrain_doha: "Doha, Catar"
+ #Romania
+ terrain_bucharest: "Bucarest, Rumanía"
+ terrain_constanta: "Constanza, Rumanía"
+ terrain_timisoara: "Timișoara, Rumanía"
+ terrain_oradea: "Oradea, Rumanía"
+ terrain_iasi: "Iași, Rumanía"
+ terrain_arad: "Arad, Rumanía"
+ terrain_baia_mare: "Baia Mare, Rumanía"
+ terrain_sibiu: "Sibiu, Rumanía"
+ terrain_cluj_napoca: "Cluj-Napoca, Rumanía"
+ terrain_craiova: "Craiova, Rumanía"
+ terrain_galati: "Galați, Rumanía"
+ terrain_bacau: "Bacău, Rumanía"
+ terrain_brasov: "Brașov, Rumanía"
+ terrain_buzau: "Buzău, Rumanía"
+ terrain_targu_mures: "Târgu Mureș, Rumanía"
+ terrain_braila: "Brăila, Rumanía"
+ terrain_botosani: "Botoșani, Rumanía"
+ terrain_satu_mare: "Satu Mare, Rumanía"
+ terrain_ploiesti: "Ploiești, Rumanía"
+ terrain_pitesti: "Pitești, Rumanía"
+ #Russia
+ terrain_chelyabinsk: "Cheliábinsk, Rusia"
+ terrain_yekaterinburg: "Ekaterimburgo, Rusia"
+ terrain_perm: "Perm, Rusia"
+ terrain_irkutsk: "Irkutsk, Rusia"
+ terrain_kaliningrad: "Kaliningrado, Rusia"
+ terrain_kazan: "Kazán, Rusia"
+ terrain_khabarovsk: " Хабаровск, Rusia"
+ terrain_krasnador: "Krasnodar, Rusia"
+ terrain_krasnoyarsk: "Krasnoyarsk, Rusia"
+ terrain_kursk: "Kursk, Rusia"
+ terrain_murmansk: "Murmansk, Rusia"
+ terrain_nizhny_novgorod: "Nizhni Nóvgorod, Rusia"
+ terrain_novosibirsk: "Novosibirsk, Rusia"
+ terrain_orel: "Oriol, Rusia"
+ terrain_rostov: "Rostov del Don, Rusia"
+ terrain_samara: "Samara, Rusia"
+ terrain_saratov: "Sarátov, Rusia"
+ terrain_st_petersburg: "San Petersburgo, Rusia"
+ terrain_tomsk: "Tomsk, Rusia"
+ terrain_tver: "Tver, Rusia"
+ terrain_vladivostok: "Vladivostok, Rusia"
+ terrain_volgograd: "Volgogrado, Rusia"
+ terrain_voronezh: "Vorónezh, Rusia"
+ terrain_yaroslavl: "Yaroslavl, Rusia"
+ terrain_komsomolsk: "Komsomolsk del Amur, Rusia"
+ #Rwanda
+ terrain_kigali: "Kigali, Ruanda"
+ #Saudi Arabia
+ terrain_dammam: "Dammam, Arabia Saudita"
+ terrain_jeddah: "Yeda, Arabia Saudita"
+ terrain_riyadh: "Riad, Arabia Saudita"
+ #Senegal
+ terrain_dakar: "Dakar, Senegal"
+ #Serbia
+ terrain_nis: "Niš, Serbia"
+ terrain_belgrade: "Belgrado, Serbia"
+ terrain_novi_sad: "Novi Sad, Serbia"
+ terrain_sarajevo: "Sarajevo, Serbia"
+ #Slovakia
+ terrain_bratislava: "Bratislava, Eslovaquia"
+ terrain_kosice: "Košice, Eslovaquia"
+ #Slovenia
+ terrain_ljubljana: "Liubliana, Eslovenia"
+ #South Africa
+ terrain_cape_town: "Ciudad del Cabo, Sudáfrica"
+ terrain_durban: "Durban, Sudáfrica"
+ terrain_johannesburg: "Johannesburgo, Sudáfrica"
+ terrain_pretoria: "Pretoria, Sudáfrica"
+ #South Sudan
+ terrain_juba: "Yuba, Sudán del Sur"
+ #Spain
+ terrain_barcelona: "Barcelona, España"
+ terrain_bilbao: "Bilbao, España"
+ terrain_ceuta: "Ceuta, España"
+ terrain_granada: "Granada, España"
+ terrain_madrid: "Madrid, España"
+ terrain_malaga: "Málaga, España"
+ terrain_melilla: "Melilla, España"
+ terrain_murcia: "Murcia, España"
+ terrain_sevilla: "Sevilla, España"
+ terrain_valencia: "Valencia, España"
+ terrain_zaragoza: "Zaragoza, España"
+ #Sri Lanka
+ terrain_colombo: "Colombo, Sri Lanka"
+ #Somalia
+ terrain_mogadishu: "Mogadiscio, Somalia"
+ #Sudan
+ terrain_khartoum: "Jartum, Sudán"
+ #Sweden
+ terrain_malmo: "Malmö, Suecia"
+ terrain_goteborg: "Gotemburgo, Suecia"
+ terrain_stockholm: "Estocolmo, Suecia"
+ #Switzerland
+ terrain_basel: "Basilea, Suiza"
+ terrain_geneve: "Ginebra, Suiza"
+ terrain_zurich: "Zúrich, Suiza"
+ #Syria
+ terrain_daraa: "Daraa, Siria"
+ terrain_damascus: "Damasco, Siria"
+ terrain_deir_ez_zor: "Deir ez Zor, Siria"
+ terrain_idlib: "Idlib, Siria"
+ terrain_homs: "Homs, Siria"
+ terrain_raqqa: "Raqqa, Siria"
+ #Tanzania
+ terrain_dar_es_salaam: "Dar es Salaam, Tanzania"
+ terrain_kilimanjaro: "Kilimanjaro, Tanzania"
+ terrain_mwanza: "Mwanza, Tanzania"
+ #Thailand
+ terrain_bangkok: "Bangkok, Tailandia"
+ #Taiwan
+ terrain_taibei: "Taipéi, Taiwán"
+ #Tunisia
+ terrain_tunis: "Túnez, Túnez"
+ #transnistria
+ terrain_tiraspol: "Tiráspol, Transnistria"
+ #Turkey
+ terrain_adana: "Adana, Turquía"
+ terrain_ankara: "Ankara, Turquía"
+ terrain_antalya: "Antalya, Turquía"
+ terrain_bursa: "Bursa, Turquía"
+ terrain_diyarbakir: "Diyarbakır, Turquía"
+ terrain_izmir: "Esmirna, Turquía"
+ terrain_izmit: "İzmit, Turquía"
+ terrain_kayseri: "Kayseri, Turquía"
+ terrain_konya: "Konya, Turquía"
+ terrain_trabzon: "Trebisonda, Turquía"
+ terrain_uskudar: "Üsküdar, Turquía"
+ #Turkmenistan
+ terrain_ashgabat: "Asjabad, Turkmenistán"
+ #United Arab Emirates
+ terrain_abu_dhabi: "Abu Dabi, Emiratos Árabes Unidos"
+ terrain_dubai: "Dubái, Emiratos Árabes Unidos"
+ #Ukraine
+ terrain_kiev: "Kiev, Ucrania"
+ terrain_dnipro: "Dnipro, Ucrania"
+ terrain_donestk: "Donetsk, Ucrania"
+ terrain_lwow: "Leópolis, Ucrania"
+ terrain_sevastpol: "Sebastopol, Ucrania"
+ terrain_chernivtsi: "Chernivtsí, Ucrania"
+ terrain_odessa: "Odesa, Ucrania"
+ terrain_ivanofrankvisk: "Ivano-Frankivsk, Ucrania"
+ #Uganda
+ terrain_kampala: "Kampala, Uganda"
+ #Uruguay
+ terrain_montevideo: "Montevideo, Uruguay"
+ #Uzbekistan
+ terrain_tashkent: "Taskent, Uzbekistán"
+ terrain_samarkand: "Samarcanda, Uzbekistán"
+ #United Kingdom
+ terrain_gibraltar: "Gibraltar, Reino Unido"
+ terrain_belfast: "Belfast, Reino Unido"
+ terrain_birmingham: "Birmingham, Reino Unido"
+ terrain_cambridge: "Cambridge, Reino Unido"
+ terrain_cardiff: "Cardiff, Reino Unido"
+ terrain_leeds: "Leeds, Reino Unido"
+ terrain_liverpool: "Liverpool, Reino Unido"
+ terrain_manchester: "Mánchester, Reino Unido"
+ terrain_newcastle: "Newcastle, Reino Unido"
+ terrain_nottingham: "Nottingham, Reino Unido"
+ terrain_oxford: "Oxford, Reino Unido"
+ terrain_sheffield: "Sheffield, Reino Unido"
+ terrain_george_town: "George Town, Reino Unido"
+ terrain_saint_george: "Saint George, Reino Unido"
+ terrain_edinburgh: "Edimburgo, Reino Unido"
+ terrain_glasgow: "Glasgow, Reino Unido"
+ #United States
+ terrain_atlanta: "Atlanta, EE. UU."
+ terrain_austin: "Austin, EE. UU."
+ terrain_baltimore: "Baltimore, EE. UU."
+ terrain_boston: "Boston, EE. UU."
+ terrain_buffalo: "Búfalo, EE. UU."
+ terrain_cleveland: "Cleveland, EE. UU."
+ terrain_dallas: "Dallas, EE. UU."
+ terrain_denver: "Denver, EE. UU."
+ terrain_detroit: "Detroit, EE. UU."
+ terrain_houston: "Houston, EE. UU."
+ terrain_indianapolis: "Indianápolis, EE. UU."
+ terrain_kansas_city: "Kansas City, EE. UU."
+ terrain_los_angeles: "Los Ángeles, EE. UU."
+ terrain_miami: "Miami, EE. UU."
+ terrain_key_west: "Cayo Hueso, EE. UU."
+ terrain_minneapolis: "Mineápolis, EE. UU."
+ terrain_mission_viejo: "Mission Viejo, EE. UU."
+ terrain_new_orleans: "Nueva Orleans, EE. UU."
+ terrain_new_york: "Nueva York, EE. UU."
+ terrain_newark: "Newark, EE. UU."
+ terrain_oakland: "Oakland, EE. UU."
+ terrain_oklahoma_city: "Oklahoma City, EE. UU."
+ terrain_philadelphia: "Filadelfia, EE. UU."
+ terrain_phoneix: "Fénix, EE. UU."
+ terrain_pittsburgh: "Pittsburgh, EE. UU."
+ terrain_portland: "Portland, EE. UU."
+ terrain_riverside: "Riverside, EE. UU."
+ terrain_sacramento: "Sacramento, EE. UU."
+ terrain_san_antonio: "San Antonio, EE. UU."
+ terrain_san_diego: "San Diego, EE. UU."
+ terrain_san_francisco: "San Francisco, EE. UU."
+ terrain_seattle: "Seattle, EE. UU."
+ terrain_st_louis: "San Luis, EE. UU."
+ terrain_tampa: "Tampa, EE. UU."
+ terrain_las_vegas: "Las Vegas, EE. UU."
+ terrain_washington_dc: "Washington D. C., EE. UU."
+ terrain_san_juan: "San Juan, EE. UU."
+ terrain_charlotte_amalie: "Charlotte Amalie, EE. UU."
+ #Vietnam
+ terrain_hanoi: "Hanói, Vietnam"
+ terrain_ho_chi_minh: "Ciudad Ho Chi Minh, Vietnam"
+ #Venezuela
+ terrain_caracas: "Caracas, Venezuela"
+ terrain_maracaibo: "Maracaibo, Venezuela"
+ #Yemen
+ terrain_aden: "Adén, Yemen"
+ terrain_sanaa: "Saná, Yemen"
+ #Zambia
+ terrain_lusaka: "Lusaka, Zambia"
+ #Zimbabwe
+ terrain_bulawayo: "Bulawayo, Zimbabue"
+ terrain_harare: "Harare, Zimbabue"

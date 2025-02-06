@@ -1,0 +1,33 @@
+﻿l_spanish:
+DIVISION_QUEUED:0 "$N$ Unidad"
+DIVISIONS_QUEUED:0 "$N$ Unidades"
+ARMY_LEDGER_ARMIES:1 "Unidades"
+ARMY_LEDGER_THRESHOLD_EQUIPMENT_RATIO:1 "Proporción de Equipamiento Cumplido para Unidades Desplegadas"
+ARMY_LEDGER_THRESHOLD_BASIC_TEMPLATE_INFO:1 "Lista de Plantillas de Unidades"
+ARMY_LEDGER_THRESHOLD_FUZZY_TEMPLATE_COUNT:1 "Cantidades Aproximadas de Unidades por Plantilla"
+ARMY_LEDGER_THRESHOLD_TEMPLATE_COUNT:1 "Cantidades de Unidades por Plantilla"
+TRIGGER_DIVISIONS_MORE_THAN:0 "Tiene más de $AMOUNT|H$ unidades"
+TRIGGER_DIVISIONS_LESS_THAN:0 "Tiene al menos $AMOUNT|H$ unidades"
+TRIGGER_DIVISIONS:0 "Unidades"
+DIVISIONS:0 "Unidades"
+DIVISIONS_COUNTRY:0 "§T$COUNTRY|H$ tiene $VAL|H$ Unidades§!"
+ARMY_TAB:0 "Unidades"
+ARMY_ARMY_LABEL:0 "Visión General del Ejército"
+TOPBAR_ARMY_DESC:0 "Vea una visión general de sus unidades."
+
+COMBAT_COMMITED_LABEL:0 "$COUNT$ Unidades"
+
+ARMY_ARMY_LABEL:0 "Visión General de la Unidad"
+ARMY_DIVISONS_TAB:0 "§YUnidades§!"
+ARMY_DIVISIONS_ACTIVE:0 "$N$ Unidades de Combate"
+ARMY_DIVISIONS_BUTTON:0 "§GHaga clic§! para seleccionar.\n§GHaga clic§! mientras §HSostiene Mayús§! para seleccionar múltiples unidades.\n§GHaga clic derecho§! para desplazarse a la Unidad."
+
+EXP_MULTIPLE_DIVISIONS:0 "$COUNT$/$TOTAL$ Unidades"
+EXP_SINGLE_DIVISION:0 "1 Unidad"
+VOL_MULTIPLE_DIVISIONS:0 "$COUNT$ Unidades"
+VOL_SINGLE_DIVISION:0 "1 Unidad"
+
+LEDGER_DIVISIONS: "Unidades"
+
+REQUEST_EXPEDITIONARIES_DIVISIONS_COUNT:0 "$NUM_DIVS|Y$ Unidades Totales"
+UNITS_VIEW_DIVISIONS_COUNT:0 "$DIV|G$ Unidades"

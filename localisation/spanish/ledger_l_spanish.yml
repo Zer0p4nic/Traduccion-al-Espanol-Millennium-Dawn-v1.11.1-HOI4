@@ -1,0 +1,58 @@
+﻿l_spanish:
+ LEDGER_TITLE_SL: "[Root.GetLedgerTitle]"
+ LEDGER_TITLE: "Libro de Contabilidad"
+ LEDGER_TITLE_LAND: "Ejército"
+ LEDGER_TITLE_NAVY_AIR: "Armada y Fuerza Aérea"
+ LEDGER_TITLE_INDUSTRY: "Industria"
+ LEDGER_TITLE_TERRITORY: "Territorio"
+ LEDGER_TITLE_ECONOMY: "Economía"
+ LEDGER_TITLE_FACTIONS: "Facciones"
+
+ LEDGER_OPEN: "Abrir interfaz §YLibro de Contabilidad§!"
+ LEDGER_OPEN_DESC: "Abre la interfaz del Libro de Contabilidad que muestra la información de los países alrededor del mundo, que va desde la información económica, militar y política."
+
+ LEDGER_COUNTRY_TT: "El país de [THIS.GetNameWithFlag]."
+ LEDGER_SORT_TT: "Haz clic para ordenar"
+ LEDGER_GROUP_TT: "Haz clic para agrupar"
+ LEDGER_REFRESH_TT: "Haz clic para actualizar la lista"
+
+ LEDGER_POLITICAL_POWER_TT: "Poder Político Diario §Y!: [?this.political_power_daily|+=]"
+ LEDGER_INDUSTRY_TT: "Industrias Civiles Totales: [?this.num_of_civilian_factories|Y0]\nIndustrias Militares Totales: [?this.num_of_military_factories|Y0]\nAstilleros Totales: [?this.num_of_naval_factories|Y0]"
+ LEDGER_POPULATION: "Población"
+ LEDGER_RESEARCH_SLOTS: "Espacios de Investigación"
+ LEDGER_RESEARCH_SLOTS_TT: "Bonificación de Velocidad de Investigación: [?this.modifier@research_speed_factor|+=%]\nGrupos de Compartición de Tecnología: [?this.num_tech_sharing_groups|Y0]\nEspacios de Investigación Originales: [?this.original_research_slots|Y0]"
+
+ LEDGER_BATTALIONS: "Batallones"
+ LEDGER_COMMAND_POWER_TT: "Poder de Comando Diario: [?this.command_power_daily|+=]"
+ LEDGER_LAND_DOCTRINE_LEVEL: "Nivel de Doctrina Terrestre"
+
+ LEDGER_NAVY: "Barcos"
+ LEDGER_AIR: "Mano de Obra de la Fuerza Aérea"
+ LEDGER_ROCKET_SITES: "Edificaciones de Misiles"
+
+ LEDGER_CIV_FACTORIES_TT: "Bonificación de Velocidad de Construcción: [?THIS.modifier@production_speed_buildings_factor|+=%]\nFábricas Civiles Efectivas: [?THIS.effective_civilian_factories|Y0]"
+ LEDGER_CONSUMER_GOODS_TT: "§YCIndustria Civil§! Consumida por §YCosto de Impuestos§!: [?used_consumer_goods_factories|0Y]\n§YCIndustria Civil§! Restante Después del §YCosto de Impuestos§!: [?THIS.consumer_goods_factories|0Y]"
+ LEDGER_MILITARY_FACTORIES_TT: "Bonificación de Producción Industrial: [?this.modifier@industrial_capacity_factory|+=%]\nFábricas Militares Efectivas: [?this.effective_military_factories|Y0]"
+ LEDGER_DOCKYARDS_TT: "Bonificación de Producción de Astilleros: [?this.modifier@industrial_capacity_dockyard|+=%]\nAstilleros Efectivos: [?this.effective_naval_factories|Y0]"
+
+ LEDGER_OWNED_STATES: "Estados Poseídos"
+ LEDGER_CONTROLLED_STATES: "Estados Controlados"
+ LEDGER_OWNED_CONTROLLED_STATES: "Poseído Controlado"
+ LEDGER_OCCUPIED_STATES: "Estados Ocupados"
+ LEDGER_CORE_STATES: "Estados Principales"
+ LEDGER_CONTROLLED_STATES_INCLUDING_SUBJECTS: "Controlado (incl. sujetos)"
+
+ LEDGER_GDP: "PIB"
+ LEDGER_GDP_C: "PIB/C"
+ LEDGER_DEBT: "Deuda"
+ LEDGER_PRODUCTIVITY: "Productividad"
+ LEDGER_DEBT_TT: "[THIS.GetNameWithFlag] tiene una deuda valorada en $[?THIS.debt|-]b. Actualmente están pagando $[?debt_rate|-] en intereses cada semana, con una tasa de interés de [?interest_rate]%. "
+ LEDGER_TREASURY: "Tesorería"
+ LEDGER_TREASURY_TT: "[THIS.GetNameWithFlag] tiene una tesorería valorada en $$[?THIS.tresury|+]b. Actualmente están ganando $[?THIS.treasury_rate|+]b cada semana, después de considerar los gastos. También tienen §YInversiones Internacionales§! por un valor de $[?THIS.int_investments|+]b, lo que a su vez les genera $[?int_investments_rate|+]b semanalmente.\n"
+ LEDGER_GROSS_INCOME: "Ingreso Bruto"
+ LEDGER_INCOME_TT: "§CPoblación Ingreso:§! $§G[?population_tax|+3]§!\n§LCorporaciones Ingreso:§! $§G[?corporate_tax|+3]§!\n§GInversiones Internacionales:§! $§G[?int_investments_rate|+3]§!\n§8Exportaciones de Recursos:§! $§G[?resource_sale_rate|+3]§!\n§HIngreso Adicional:§! $§G[?additional_income_rate|+3]§!\n\nIngreso Bruto: $§G[?display_income]§!"
+ LEDGER_TOTAL_EXPENSE: "Gasto Total"
+ LEDGER_EXPENSE_TT: "§CBurocracia:§! $§R[?bureaucracy_gain|-3]§!\n§ODefensa:§! $§R[?defence_gain|-3]§!\n§8Seguridad Interna:§! $§R[?security_gain|-3]§!\n§GEducación:§! $§R[?education_gain|-3]§!\n§PSalud:§! $§R[?health_gain|-3]§!\n§BBienestar:§! $§R[?welfare_gain|-3]§!\n§RIntereses sobre Deuda:§! $§R[?debt_rate|-3]§!\n§7Control Migratorio§!: $$[?border_control_gain|-3]\n§HGastos Adicionales:§! $§R[?additional_expenses_rate|-3]§!\n\nGasto Total: $§R[?display_expense]§!"
+
+ LEDGER_FACTION_LEADER: "Líder"
+ LEDGER_FACTION_MEMBERS: "Miembros"

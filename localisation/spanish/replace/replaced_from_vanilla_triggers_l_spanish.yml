@@ -1,0 +1,9 @@
+﻿l_spanish:
+ TRIGGER_HAS_VOLUNTEERS_MORE_THAN:0 "Tiene $VALUE|H$ fuerzas de intervención o más de $COUNTRY2|H$"
+ TRIGGER_HAS_VOLUNTEERS_LESS_THAN:0 "Tiene menos de $VALUE|H$ fuerzas de intervención de $COUNTRY2|H$"
+ TRIGGER_HAS_NOT_MILITARY_ACCESS_TO:0 "No tiene bases militares en $COUNTRY|H$"
+ TRIGGER_HAS_MILITARY_ACCESS_TO:0 "Tiene bases militares en $COUNTRY|H$"
+ TRIGGER_GIVES_NOT_MILITARY_ACCESS_TO:0 "No alberga bases militares para $COUNTRY|H$"
+ TRIGGER_GIVES_MILITARY_ACCESS_TO:0 "Alberga bases militares para $COUNTRY|H$"
+ TRIGGER_IS_IRONMAN:0 "El juego no está en modo Ironman."
+ TRIGGER_IS_NOT_IRONMAN:0 "El juego está en modo Ironman."

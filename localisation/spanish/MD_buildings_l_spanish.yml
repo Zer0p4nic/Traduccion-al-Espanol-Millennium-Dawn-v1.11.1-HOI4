@@ -1,0 +1,48 @@
+﻿l_spanish:
+ landmark_kaaba: "Kaaba"
+ landmark_kaaba_plural: "$landmark_kaaba$"
+ landmark_kaaba_desc: "La Kaaba es una estructura sagrada en forma de cubo en el corazón del sitio más sagrado del Islam, el Masjid al-Haram en La Meca. Envuelta en seda negra con caligrafía dorada, es la dirección hacia la cual millones de musulmanes alrededor del mundo se orientan en oración, simbolizando unidad y devoción. Venerada como la Casa de Dios, la Kaaba tiene un profundo significado espiritual, encarnando siglos de fe, peregrinación e historia."
+
+ landmark_milad: "Milad Tower"
+ landmark_milad_plural: "$landmark_milad$"
+ landmark_milad_desc: "La Torre Milad, o Borj-e Milad, tiene sus raíces en el período pre-revolucionario de Irán, con los planes iniciales que datan de la década de 1970. Tras la Revolución Iraní de 1979, estos planes iniciales fueron archivados debido a los cambios en las prioridades políticas. Sin embargo, la visión fue reavivada a finales de la década de 1990, y la construcción comenzó en 2000, alineándose con el nuevo enfoque de Irán en el desarrollo y la modernización. La Torre Milad es la realización de este sueño de varias décadas. Su diseño combina elementos del patrimonio iraní con la ingeniería contemporánea, convirtiéndola en un emblema llamativo tanto de la continuidad histórica como de la identidad en evolución del país. Hoy en día, la torre se erige como un complejo multifuncional y un importante hito cultural, ofreciendo a los residentes y visitantes de Teherán vistas panorámicas de la ciudad y las lejanas montañas Alborz."
+
+ landmark_domeofrock: "Cúpula de la Roca"
+ landmark_domeofrock_plural: "$landmark_domeofrock$"
+ landmark_domeofrock_desc: "La Cúpula de la Roca es un famoso santuario islámico, conocido por su cúpula dorada que domina la Ciudad Vieja. Construida en el siglo VII, se erige sobre el Haram al-Sharif o Monte del Templo, un lugar sagrado tanto para musulmanes como para judíos. Alberga la Piedra Fundacional, que los musulmanes creen que es el lugar donde el Profeta Mahoma ascendió al cielo y los judíos como el sitio del Santo de los Santos del antiguo Templo Judío."
+ 
+ landmark_goldengate: "Puente Golden Gate"
+ landmark_goldengate_plural: "$landmark_goldengate$"
+ landmark_goldengate_desc: "El Puente Golden Gate se erige majestuoso contra el telón de fondo de las colinas brumosas de San Francisco, con sus icónicas torres rojo-anaranjadas que se elevan hacia el cielo. Abarcando la entrada del Pacífico a la bahía, el puente conecta elegantemente la ciudad con los vastos Marin Headlands, ofreciendo vistas impresionantes del agua resplandeciente abajo. Su belleza atemporal y brillantez en ingeniería lo convierten en un símbolo tanto de innovación como de la belleza natural de California."
+ 
+ landmark_UScongress: "Washington, D.C."
+ landmark_UScongress_plural: "$landmark_UScongress$"
+ landmark_UScongress_desc: "Washington, D.C., la capital de Estados Unidos, es una ciudad rica en historia y hogar de monumentos y lugares icónicos. El National Mall alberga estructuras de renombre como el Lincoln Memorial, el Monumento a Washington y el Capitolio de los EE.UU., todos representando momentos clave y figuras de la historia estadounidense. La ciudad también alberga la Casa Blanca y memoriales como el Memorial a los Veteranos de Vietnam y el Memorial de Martin Luther King Jr., convirtiéndola en un destino significativo tanto para la política como para la cultura."
+
+ landmark_fuji: "Fuji-san"
+ landmark_fuji_plural: "$landmark_fuji$"
+ landmark_fuji_desc: "El Monte Fuji se eleva grácilmente desde la tierra, su pico sagrado tocando los cielos, un símbolo de armonía entre la naturaleza y lo divino. Envuelto en nubes o brillando bajo el sol, encarna serenidad y fuerza, un guardián atemporal sobre el paisaje de Japón. Contemplar el Fuji-san es sentir el despertar tranquilo del alma, como si se escucharan los susurros de los antiguos espíritus llevados por el viento."
+ 
+ landmark_giza: "Pirámides de Giza"
+ landmark_giza_plural: "$landmark_giza$"
+ landmark_giza_desc: "Las Pirámides de Giza, ubicadas en las afueras de El Cairo, Egipto, son estructuras antiguas construidas como tumbas monumentales para los faraones durante el Reino Antiguo. La más famosa, la Gran Pirámide, fue construida para el faraón Khufu y es una de las Siete Maravillas del Mundo Antiguo, sirviendo como un testamento a la destreza en ingeniería y arquitectura de los antiguos egipcios. Estas pirámides, junto con la Esfinge, simbolizan el legado perdurable de Egipto y están entre los monumentos más icónicos y visitados del mundo."
+ 
+ landmark_shuttle: "Centro Espacial Kennedy"
+ landmark_shuttle_plural: "$landmark_shuttle$"
+ landmark_shuttle_desc: "El Centro Espacial Kennedy, ubicado en la costa atlántica de Florida, sirve como el principal sitio de lanzamiento para las misiones tripuladas espaciales de la NASA. Cuenta con instalaciones masivas como el icónico Edificio de Ensamblaje de Vehículos, donde se preparan los cohetes para el lanzamiento, y el Complejo de Lanzamiento 39, el histórico sitio de las misiones Apolo y del Transbordador Espacial. El centro sigue siendo un hub de innovación y exploración, desempeñando un papel vital en las misiones espaciales actuales, incluyendo la exploración comercial y del espacio profundo."
+ 
+ landmark_shuttle_launch: "Centro Espacial Kennedy"
+ landmark_shuttle_launch_plural: "$landmark_shuttle_launch$"
+ landmark_shuttle_launch_desc: "El Centro Espacial Kennedy, ubicado en la costa atlántica de Florida, sirve como el principal sitio de lanzamiento para las misiones tripuladas espaciales de la NASA. Cuenta con instalaciones masivas como el icónico Edificio de Ensamblaje de Vehículos, donde se preparan los cohetes para el lanzamiento, y el Complejo de Lanzamiento 39, el histórico sitio de las misiones Apolo y del Transbordador Espacial. El centro sigue siendo un hub de innovación y exploración, desempeñando un papel vital en las misiones espaciales actuales, incluyendo la exploración comercial y del espacio profundo."
+
+ landmark_buran: "Cosmodromo de Baikonur"
+ landmark_buran_plural: "$landmark_buran$"
+ landmark_buran_desc: "El Cosmodromo de Baikonur, ubicado en las remotas estepas de Kazajistán, es el primer y más grande puerto espacial del mundo, desempeñando un papel fundamental en las misiones espaciales tanto soviéticas como rusas. Establecido en 1955, ha lanzado misiones históricas, incluida la de Yuri Gagarin, el primer ser humano en el espacio, a bordo de Vostok 1. El complejo del cosmodromo, con sus plataformas de lanzamiento, instalaciones de investigación y hangares de ensamblaje, sigue siendo un símbolo icónico de la historia de la exploración espacial."
+ 
+ landmark_ICBMsilominot: "Base Aérea Minot"
+ landmark_ICBMsilominot_plural: "$landmark_ICBMsilominot$"
+ landmark_ICBMsilominot_desc: "El complejo de misiles de la Base Aérea Minot consta de una extensa red de silos subterráneos que albergan misiles balísticos intercontinentales (ICBM), dispersos por las llanuras de Dakota del Norte. Los silos están fortificados y fuertemente custodiados, diseñados para resistir amenazas externas mientras mantienen un estado de preparación constante. Estas instalaciones remotas y aisladas juegan un papel crucial en la estrategia de disuasión nuclear de los EE.UU., garantizando una capacidad de respuesta rápida en caso de emergencia."
+ 
+ landmark_ICBMsiloyasny: "Base de Misiles Yasny"
+ landmark_ICBMsiloyasny_plural: "$landmark_ICBMsiloyasny$"
+ landmark_ICBMsiloyasny_desc: "La base de misiles Yasny, ubicada cerca de Dombarovsky en la región de Orenburg, Rusia, es un importante sitio estratégico de misiles que alberga ICBM basados en silos. Establecida durante la Guerra Fría, tiene complejos extensos de silos subterráneos, instalaciones fortificadas de control de lanzamiento y un alto nivel de seguridad para proteger sus activos de alto valor. Como parte crucial de la tríada nuclear de Rusia, los misiles de Yasny están destinados a garantizar la disuasión y la capacidad de respuesta rápida."

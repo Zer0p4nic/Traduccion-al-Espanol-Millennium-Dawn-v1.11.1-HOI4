@@ -1,0 +1,349 @@
+﻿l_spanish:
+ # Macro Investment Decisions
+ AC_DECISIONS: "Proyectos de Construcción"
+ AC_DECISIONS_desc: "Nuestros proyectos de construcción en países extranjeros.\n\nNuestra cantidad actual de §GInversiones Internacionales§! $$[?ROOT.int_investments] §Hmil millones§!.\nProyectos de §YInversión Activa§! actuales: [?active_projects]/15\n"
+
+ AC_construction_CANCEL_decision: "Cancelar Proyecto de Construcción"
+ AC_construction_CANCEL_decision_desc: "Reembolsa el costo de los edificios sin terminar."
+
+ AC_target_country_DECISIONS: "Proyectos de Construcción"
+ AC_target_country_DECISIONS_desc: "Proyectos de construcción de países extranjeros en nuestro país."
+
+ # General Decisions
+ # AC_projext_x_text = Display Loc for the Investor
+ # AC_project_x_desc = Description Scripted Loc
+ # AC_project_x_decision = Decision Loc
+ # AC_project_x_decision_desc = Decision Decsription
+ # AC_project_x_target_decision = Foreign Investment
+ # AC_project_x_target_decision_desc = Foreign Investment Description
+ AC_project_0_text: "§Y[AC_GetConstructionTypeProject0]§! x[?project_build_amount^0] en [From.GetName]"
+ AC_project_0_desc: "\nTiempo total de construcción: [?project_total_construction_duration_display^0] días\n\nCosto Inicial: [?project_monetary_cost^0]\nID del Proyecto: 0\nHaga clic derecho para ver el estado objetivo.\n"
+
+ AC_project_0_decision: "[AC_GetProjectText0]"
+ AC_project_0_decision_desc: "[AC_GetProjectDesc0]"
+
+ AC_project_0_target_decision: "§Y[From.AC_GetConstructionTypeProject0]§! x[From.AC_GetProject0Amount] en [From.AC_GetProjectState0]"
+ AC_project_0_target_decision_desc: "\nPaís: [From.GetName]\nCola de Construcción: [From.AC_GetProject0Amount]\n\nSeleccionar esta decisión cancelará el proyecto de construcción.\n\nHaga clic derecho para ver el estado objetivo.\nID del Proyecto: 0"
+
+ AC_project_1_text: "§Y[AC_GetConstructionTypeProject1]§! x[?project_build_amount^1] en [From.GetName]"
+ AC_project_1_desc: "\nTiempo total de construcción: [?project_total_construction_duration_display^1] días\n\nCosto Inicial: [?project_monetary_cost^1]\nID del Proyecto: 1\nHaga clic derecho para ver el estado objetivo.\n"
+
+ AC_project_1_decision: "[AC_GetProjectText1]"
+ AC_project_1_decision_desc: "[AC_GetProjectDesc1]"
+
+ AC_project_1_target_decision: "§Y[From.AC_GetConstructionTypeProject1]§! x[From.AC_GetProject1Amount] en [From.AC_GetProjectState1]"
+ AC_project_1_target_decision_desc: "\nPaís: [From.GetName]\nCola de Construcción: [From.AC_GetProject1Amount]\n\nSeleccionar esta decisión cancelará el proyecto de construcción.\n\nHaga clic derecho para ver el estado objetivo.\nID del Proyecto: 1"
+
+ AC_project_2_text: "§Y[AC_GetConstructionTypeProject2]§! x[?project_build_amount^2] en [From.GetName]"
+ AC_project_2_desc: "\nTiempo total de construcción: [?project_total_construction_duration_display^2] días\n\nCosto Inicial: [?project_monetary_cost^2]\nID del Proyecto: 2\nHaga clic derecho para ver el estado objetivo.\n"
+
+ AC_project_2_decision: "[AC_GetProjectText2]"
+ AC_project_2_decision_desc: "[AC_GetProjectDesc2]"
+
+ AC_project_2_target_decision: "§Y[From.AC_GetConstructionTypeProject2]§! x[From.AC_GetProject2Amount] en [From.AC_GetProjectState2]"
+ AC_project_2_target_decision_desc: "\nPaís: [From.GetName]\nCola de Construcción: [From.AC_GetProject2Amount]\n\nSeleccionar esta decisión cancelará el proyecto de construcción.\n\nHaga clic derecho para ver el estado objetivo.\nID del Proyecto: 2"
+
+ AC_project_3_text: "§Y[AC_GetConstructionTypeProject3]§! x[?project_build_amount^3] en [From.GetName]"
+ AC_project_3_desc: "\nTiempo total de construcción: [?project_total_construction_duration_display^3] días\n\nCosto Inicial: [?project_monetary_cost^3]\nID del Proyecto: 3\nHaga clic derecho para ver el estado objetivo.\n"
+
+ AC_project_3_decision: "[AC_GetProjectText3]"
+ AC_project_3_decision_desc: "[AC_GetProjectDesc3]"
+
+ AC_project_3_target_decision: "§Y[From.AC_GetConstructionTypeProject3]§! x[From.AC_GetProject3Amount] en [From.AC_GetProjectState3]"
+ AC_project_3_target_decision_desc: "\nPaís: [From.GetName]\nCola de Construcción: [From.AC_GetProject3Amount]\n\nSeleccionar esta decisión cancelará el proyecto de construcción.\n\nHaga clic derecho para ver el estado objetivo.\nID del Proyecto: 3"
+
+ AC_project_4_text: "§Y[AC_GetConstructionTypeProject4]§! x[?project_build_amount^4] en [From.GetName]"
+ AC_project_4_desc: "\nTiempo total de construcción: [?project_total_construction_duration_display^4] días\n\nCosto Inicial: [?project_monetary_cost^4]\nID del Proyecto: 4\nHaga clic derecho para ver el estado objetivo.\n"
+
+ AC_project_4_decision: "[AC_GetProjectText4]"
+ AC_project_4_decision_desc: "[AC_GetProjectDesc4]"
+
+ AC_project_4_target_decision: "§Y[From.AC_GetConstructionTypeProject4]§! x[From.AC_GetProject4Amount] en [From.AC_GetProjectState4]"
+ AC_project_4_target_decision_desc: "\nPaís: [From.GetName]\nCola de Construcción: [From.AC_GetProject4Amount]\n\nSeleccionar esta decisión cancelará el proyecto de construcción.\n\nHaga clic derecho para ver el estado objetivo.\nID del Proyecto: 4"
+
+ AC_project_5_text: "§Y[AC_GetConstructionTypeProject5]§! x[?project_build_amount^5] en [From.GetName]"
+ AC_project_5_desc: "\nTiempo total de construcción: [?project_total_construction_duration_display^5] días\n\nCosto Inicial: [?project_monetary_cost^5]\nID del Proyecto: 5\nHaga clic derecho para ver el estado objetivo.\n"
+
+ AC_project_5_decision: "[AC_GetProjectText5]"
+ AC_project_5_decision_desc: "[AC_GetProjectDesc5]"
+
+ AC_project_5_target_decision: "§Y[From.AC_GetConstructionTypeProject5]§! x[From.AC_GetProject5Amount] en [From.AC_GetProjectState5]"
+ AC_project_5_target_decision_desc: "\nPaís: [From.GetName]\nCola de Construcción: [From.AC_GetProject5Amount]\n\nSeleccionar esta decisión cancelará el proyecto de construcción.\n\nHaga clic derecho para ver el estado objetivo.\nID del Proyecto: 5"
+
+ AC_project_6_text: "§Y[AC_GetConstructionTypeProject6]§! x[?project_build_amount^6] en [From.GetName]"
+ AC_project_6_desc: "\nTiempo total de construcción: [?project_total_construction_duration_display^6] días\n\nCosto Inicial: [?project_monetary_cost^6]\nID del Proyecto: 6\nHaga clic derecho para ver el estado objetivo.\n"
+
+ AC_project_6_decision: "[AC_GetProjectText6]"
+ AC_project_6_decision_desc: "[AC_GetProjectDesc6]"
+
+ AC_project_6_target_decision: "§Y[FROM.AC_GetConstructionTypeProject6]§! x[From.AC_GetProject6Amount] en [From.AC_GetProjectState6]"
+ AC_project_6_target_decision_desc: "\nPaís: [From.GetName]\nCola de Construcción: [From.AC_GetProject6Amount]\n\nSeleccionar esta decisión cancelará el proyecto de construcción.\n\nHaga clic derecho para ver el estado objetivo.\nID del Proyecto: 6"
+
+ AC_project_7_text: "§Y[AC_GetConstructionTypeProject7]§! x[?project_build_amount^7] en [From.GetName]"
+ AC_project_7_desc: "\nTiempo total de construcción: [?project_total_construction_duration_display^7] días\n\nCosto Inicial: [?project_monetary_cost^7]\nID del Proyecto: 7\nHaga clic derecho para ver el estado objetivo.\n"
+
+ AC_project_7_decision: "[AC_GetProjectText7]"
+ AC_project_7_decision_desc: "[AC_GetProjectDesc7]"
+
+ AC_project_7_target_decision: "§Y[From.AC_GetConstructionTypeProject7]§! x[From.AC_GetProject7Amount] en [From.AC_GetProjectState7]"
+ AC_project_7_target_decision_desc: "\nPaís: [From.GetName]\nCola de Construcción: [From.AC_GetProject7Amount]\n\nSeleccionar esta decisión cancelará el proyecto de construcción.\n\nHaga clic derecho para ver el estado objetivo.\nID del Proyecto: 7"
+
+ AC_project_8_text: "§Y[AC_GetConstructionTypeProject8]§! x[?project_build_amount^8] en [From.GetName]"
+ AC_project_8_desc: "\nTiempo total de construcción: [?project_total_construction_duration_display^8] días\n\nCosto Inicial: [?project_monetary_cost^8]\nID del Proyecto: 8\nHaga clic derecho para ver el estado objetivo.\n"
+
+ AC_project_8_decision: "[AC_GetProjectText8]"
+ AC_project_8_decision_desc: "[AC_GetProjectDesc8]"
+
+ AC_project_8_target_decision: "§Y[From.AC_GetConstructionTypeProject8]§! x[From.AC_GetProject8Amount] en [From.AC_GetProjectState8]"
+ AC_project_8_target_decision_desc: "\nPaís: [From.GetName]\nCola de Construcción: [From.AC_GetProject8Amount]\n\nSeleccionar esta decisión cancelará el proyecto de construcción.\n\nHaga clic derecho para ver el estado objetivo.\nID del Proyecto: 8"
+ AC_project_9_text: "§Y[AC_GetConstructionTypeProject9]§! x[?project_build_amount^9] en [From.GetName]"
+ AC_project_9_desc: "\nTiempo total de construcción: [?project_total_construction_duration_display^9] días\n\nCosto Inicial: [?project_monetary_cost^9]\nID del Proyecto: 9\nHaga clic derecho para ver el estado objetivo.\n"
+
+ AC_project_9_decision: "[AC_GetProjectText9]"
+ AC_project_9_decision_desc: "[AC_GetProjectDesc9]"
+
+ AC_project_9_target_decision: "§Y[From.AC_GetConstructionTypeProject9]§! x[From.AC_GetProject9Amount] en [From.AC_GetProjectState9]"
+ AC_project_9_target_decision_desc: "\nPaís: [From.GetName]\nCola de Construcción: [From.AC_GetProject9Amount]\n\nSeleccionar esta decisión cancelará el proyecto de construcción.\n\nHaga clic derecho para ver el estado objetivo.\nID del Proyecto: 9"
+
+ AC_project_10_text: "§Y[AC_GetConstructionTypeProject10]§! x[?project_build_amount^10] en [From.GetName]"
+ AC_project_10_desc: "\nTiempo total de construcción: [?project_total_construction_duration_display^10] días\n\nCosto Inicial: [?project_monetary_cost^10]\nID del Proyecto: 10\nHaga clic derecho para ver el estado objetivo.\n"
+
+ AC_project_10_decision: "[AC_GetProjectText10]"
+ AC_project_10_decision_desc: "[AC_GetProjectDesc10]"
+
+ AC_project_10_target_decision: "§Y[From.AC_GetConstructionTypeProject10]§! x[From.AC_GetProject10Amount] en [From.AC_GetProjectState10]"
+ AC_project_10_target_decision_desc: "\nPaís: [From.GetName]\nCola de Construcción: [From.AC_GetProject10Amount]\n\nSeleccionar esta decisión cancelará el proyecto de construcción.\n\nHaga clic derecho para ver el estado objetivo.\nID del Proyecto: 10"
+
+ AC_project_11_text: "§Y[AC_GetConstructionTypeProject11]§! x[?project_build_amount^11] en [From.GetName]"
+ AC_project_11_desc: "\nTiempo total de construcción: [?project_total_construction_duration_display^11] días\n\nCosto Inicial: [?project_monetary_cost^11]\nID del Proyecto: 11\nHaga clic derecho para ver el estado objetivo.\n"
+
+ AC_project_11_decision: "[AC_GetProjectText11]"
+ AC_project_11_decision_desc: "[AC_GetProjectDesc11]"
+
+ AC_project_11_target_decision: "§Y[From.AC_GetConstructionTypeProject11]§! x[From.AC_GetProject11Amount] en [From.AC_GetProjectState11]"
+ AC_project_11_target_decision_desc: "\nPaís: [From.GetName]\nCola de Construcción: [From.AC_GetProject11Amount]\n\nSeleccionar esta decisión cancelará el proyecto de construcción.\n\nHaga clic derecho para ver el estado objetivo.\nID del Proyecto: 11"
+
+ AC_project_12_text: "§Y[AC_GetConstructionTypeProject12]§! x[?project_build_amount^12] en [From.GetName]"
+ AC_project_12_desc: "\nTiempo total de construcción: [?project_total_construction_duration_display^12] días\n\nCosto Inicial: [?project_monetary_cost^12]\nID del Proyecto: 12\nHaga clic derecho para ver el estado objetivo.\n"
+
+ AC_project_12_decision: "[AC_GetProjectText12]"
+ AC_project_12_decision_desc: "[AC_GetProjectDesc12]"
+
+ AC_project_12_target_decision: "§Y[From.AC_GetConstructionTypeProject12]§! x[From.AC_GetProject12Amount] en [From.AC_GetProjectState12]"
+ AC_project_12_target_decision_desc: "\nPaís: [From.GetName]\nCola de Construcción: [From.AC_GetProject12Amount]\n\nSeleccionar esta decisión cancelará el proyecto de construcción.\n\nHaga clic derecho para ver el estado objetivo.\nID del Proyecto: 12"
+
+ AC_project_13_text: "§Y[AC_GetConstructionTypeProject13]§! x[?project_build_amount^13] en [From.GetName]"
+ AC_project_13_desc: "\nTiempo total de construcción: [?project_total_construction_duration_display^13] días\n\nCosto Inicial: [?project_monetary_cost^13]\nID del Proyecto: 13\nHaga clic derecho para ver el estado objetivo.\n"
+
+ AC_project_13_decision: "[AC_GetProjectText13]"
+ AC_project_13_decision_desc: "[AC_GetProjectDesc13]"
+
+ AC_project_13_target_decision: "§Y[From.AC_GetConstructionTypeProject13]§! x[From.AC_GetProject13Amount] en [From.AC_GetProjectState13]"
+ AC_project_13_target_decision_desc: "\nPaís: [From.GetName]\nCola de Construcción: [From.AC_GetProject13Amount]\n\nSeleccionar esta decisión cancelará el proyecto de construcción.\n\nHaga clic derecho para ver el estado objetivo.\nID del Proyecto: 13"
+
+ AC_project_14_text: "§Y[AC_GetConstructionTypeProject14]§! x[?project_build_amount^14] en [From.GetName]"
+ AC_project_14_desc: "\nTiempo total de construcción: [?project_total_construction_duration_display^14] días\n\nCosto Inicial: [?project_monetary_cost^14]\nID del Proyecto: 14\nHaga clic derecho para ver el estado objetivo.\n"
+
+ AC_project_14_decision: "[AC_GetProjectText14]"
+ AC_project_14_decision_desc: "[AC_GetProjectDesc14]"
+
+ AC_project_14_target_decision: "§Y[From.AC_GetConstructionTypeProject14]§! x[From.AC_GetProject14Amount] en [From.AC_GetProjectState14]"
+ AC_project_14_target_decision_desc: "\nPaís: [From.GetName]\nCola de Construcción: [From.AC_GetProject14Amount]\n\nSeleccionar esta decisión cancelará el proyecto de construcción.\n\nHaga clic derecho para ver el estado objetivo.\nID del Proyecto: 14"
+
+ # Investment UI Displays
+ # 1 - Civilian Industry
+ AC_construction_CIC: "§YIndustria Civil§!\nEste edificio proporciona al estado industria para la producción de bienes civiles o la construcción de nuevos edificios. Puede convertirse en industria militar si es necesario.\n\n§YCosto Base por Estructura:§! §R$[?global.BUILD_COST_CIVILIAN_FACTORY]§! Mil millones"
+ AC_construction_CIC_delayed: "§YRequisitos§!:\n[!AC_building_cic_button_click_enabled]"
+ # 2 - Military Industry
+ AC_construction_MIC: "§YIndustria Militar§!\nEste edificio proporciona al estado industria para la producción de nuevo equipo militar. Puede convertirse en industria civil si es necesario.\n\n§YCosto Base por Estructura:§! §R$[?global.BUILD_COST_MILITARY_FACTORY]§! Mil millones"
+ AC_construction_MIC_delayed: "§YRequisitos§!:\n[!AC_building_mic_button_click_enabled]"
+ # 3 - Naval Dockyaard
+ AC_construction_NIC: "§YAstillero Naval§!\nEste edificio proporciona al estado industria para la construcción de nuevos barcos.\n\n§YCosto Base por Estructura:§! §R$[?global.BUILD_COST_DOCKYARD]§! Mil millones"
+ AC_construction_NIC_delayed: "§YRequisitos§!:\n[!AC_building_nic_button_click_enabled]"
+ # 4 - Infrastructure
+ AC_construction_INF: "§YInfraestructura§!\nEste edificio proporciona al estado la mejora de la infraestructura. Aumenta su poder de suministro en regiones estratégicas e incrementa la velocidad de sus divisiones, así como el aumento de la extracción de recursos naturales.\n\n§YCosto Base por Estructura:§! §R$[?global.BUILD_COST_INFRASTRUCTURE]§! Mil millones"
+ AC_construction_INF_delayed: "§YRequisitos§!:\n[!AC_building_infra_button_click_enabled]"
+ # 5 - Office Sectors
+ AC_construction_offices: "§YSector de Oficinas§!\nEl sector de oficinas representa todas las demás industrias de la economía más allá de la extracción y las industrias pesadas. Estas incluyen servicios financieros, atención al cliente, tecnología de la información, servicios minoristas y mucho más.\n\n§YCosto Base por Estructura:§! §R$[?global.BUILD_COST_OFFICES]§! Mil millones"
+ AC_construction_offices_delayed: "§YRequisitos§!:\n[!AC_building_offices_button_click_enabled]"
+ # 6 - Sam-Site Building
+ AC_construction_AA: "§YSitios SHORAD§!\nLos §YSitios SHORAD§! (Defensa Aérea de Corto Alcance) son complejos y grupos de armas antiaéreas y tácticas que manejan la defensa aérea contra amenazas aéreas de baja altitud. Estos sitios trabajan juntos para dividir el espacio aéreo en áreas defendibles, proporcionando cobertura aérea local a objetivos militares y de infraestructura desde todo tipo de aeronaves, desde helicópteros hasta aviones de baja altitud y aviones de combate.\n\n§YCosto Base por Estructura:§! §R$[?global.BUILD_COST_ANTIAIR]§! Mil millones"
+ AC_construction_AA_delayed: "§YRequisitos§!:\n[!AC_building_antiair_button_click_enabled]"
+ # 7 - Radar Station
+ AC_construction_RAD: "§YEstación de Radar§!\nLas Estaciones de Radar permiten obtener información sobre las tropas enemigas en estados cercanos. Consiste en varios radares y sensores, así como activos de inteligencia y capacidad para analizar la situación en evolución.\nUn nivel más alto aumentará su alcance efectivo.\nTambién proporciona al estado una mejor detección de las fuerzas aéreas enemigas, dando a sus aeronaves una mejor oportunidad de enfrentarlas.\nAdemás, los radares aumentan la detección de flotas enemigas en el mar.\n\n§YCosto Base por Estructura:§! §R$[?global.BUILD_COST_RADAR]§! Mil millones"
+ AC_construction_RAD_delayed: "§YRequisitos§!:\n[!AC_building_radar_button_click_enabled]"
+ # 8 - Air Base
+ AC_construction_AIR: "§YBase Aérea§!\nEste edificio proporciona al estado el despliegue de sus fuerzas aéreas.\n\n§YCosto Base por Estructura:§! §R$[?global.BUILD_COST_AIRBASE]§! Mil millones"
+ AC_construction_AIR_delayed: "§YRequisitos§!:\n[!AC_building_airbase_button_click_enabled]"
+ # 9 - Fuel Silo
+ AC_construction_fuel_silo: "§YReserva Estratégica de Combustible§!\nEste edificio proporciona a su nación más espacio para almacenar §HCombustible§!.\n\n§YCosto Base por Estructura:§! §R$[?global.BUILD_COST_FUEL_SILO]§! Mil millones"
+ AC_construction_fuel_silo_delayed: "§YRequisitos§!:\n[!AC_building_fuel_silos_button_click_enabled]"
+ # 10 - Network Infrastructure
+ AC_construction_internet_station: "§YInfraestructura de Red§!\nLa Infraestructura de Red son estructuras altas utilizadas en los campos de telecomunicaciones y radio comunicaciones para empujar transmisiones a grandes distancias o cables de fibra óptica subterráneos y sistemas de computación en la nube.\n\nCada nivel de §YInfraestructura de Red§! mejora la velocidad de crecimiento de la productividad local en un §G+5.00%§!.\nCada nivel de §YInfraestructura de Red§! reduce la duración de las §YInversiones Internacionales§! en un §G-5.00%§!.\n\n§YCosto Base por Estructura:§! §R$[?global.BUILD_COST_INTERNET_STATION]§! Mil millones"
+ AC_construction_internet_station_delayed: "§YRequisitos§!:\n[!AC_building_internet_station_button_click_enabled]"
+ # 11 - Synthetic Refineries
+ AC_construction_REF: "§YInfraestructura de Energía Renovable§!\nLa infraestructura de energía renovable es un término general para todas las fuentes de energía renovable. Estas incluyen, entre otras, parques solares, turbinas eólicas, refinerías de biocombustibles, plantas de carbón vegetal, plantas de energía de biocombustibles y mucho más. Como tal, utiliza fuentes renovables y produce combustible a partir de esas fuentes.\n\n§YCosto Base por Estructura:§! §R$[?global.BUILD_COST_REFINERY]§! Mil millones"
+ AC_construction_REF_delayed: "§YRequisitos§!:\n[!AC_building_ref_button_click_enabled]"
+ # 12 - Fossil Fuel Powerplant
+ AC_construction_POWER_PLANT: "§YPlanta de Energía de Combustibles Fósiles§!\nLa Planta de Energía de Combustibles Fósiles es un término general para todas las fuentes de energía termoeléctrica basadas en combustibles fósiles. Estas incluyen, entre otras, carbón, gas natural y petróleo.\n\n§YCosto Base por Estructura:§! §R$[?global.BUILD_COST_FOSSIL_POWERPLANT]§! Mil millones"
+ AC_construction_POWER_PLANT_delayed: "§YRequisitos§!:\n[!AC_building_power_plant_button_click_enabled]"
+ # 13 - Nuclear Reactor
+ AC_construction_NUCLEAR_REACTOR: "§YReactor Nuclear§!\nEl edificio del Reactor Nuclear convierte la energía nuclear en energía eléctrica, consumiendo uranio moderadamente enriquecido en el proceso.\n\n§YCosto Base por Estructura:§! §R$[?global.BUILD_COST_NUCLEAR_REACTOR]§! Mil millones"
+ AC_construction_NUCLEAR_REACTOR_delayed: "§YRequisitos§!:\n[!AC_building_nuclear_reactor_button_click_enabled]"
+ # 14 - Agriculture District
+ AC_construction_AGRICULTURE_DISTRICT: "§YDistritos Agrícolas Comercializados§!\n§YDistritos Agrícolas Comercializados§! representa un término general para toda la agricultura no de subsistencia dentro de nuestra nación. Incluye la agroindustria, tierras arables, silos de granos, mataderos y más.\n\n§YCosto Base por Estructura:§! §R$[?global.BUILD_COST_AGRICULTURE_DISTRICT]§! Miles de millones"
+ AC_construction_AGRICULTURE_DISTRICT_delayed: "§YPrerrequisitos§!:\n[!AC_building_agriculture_district_button_click_enabled]"
+
+ AC_down_arrow_tt: "Ocultar la interfaz de §YInversión§!"
+ AC_up_arrow_tt: "Mostrar la interfaz de §YInversión§!"
+
+ AC_build_amount_green: "[?ROOT.project_build_amount^-1]"
+ AC_build_amount_red: "§R[?ROOT.project_build_amount^-1]§!"
+ AC_building_amount_increase_button_tt: "Selecciona cuántos edificios del tipo seleccionado deseas construir en este estado.\n\n§LCantidad máxima depende del edificio, los espacios libres en el estado y tus tecnologías.§!"
+ AC_project_being_cancelled: "Proyecto Cancelado"
+ AC_build_cost_text_tt: "[?ROOT.project_monetary_cost^-1] Miles de millones"
+ AC_time_text_tt: "[?ROOT.project_total_construction_duration_display^-1] días"
+
+ patience_young_one_tt: "§Y[PREV.CONTROLLER.GetNameWithFlag]§! está considerando actualmente una §Cofreta de inversión§! de §Y[ROOT.GetNameWithFlag]§!. Por favor, espera hasta que acepten o rechacen.\n"
+ this_investment_offer_pending_tt: "§Y[PREV.CONTROLLER.GetNameWithFlag]§! no está considerando actualmente una §Cofreta de inversión§! de §Y[ROOT.GetNameWithFlag]§!.\n"
+ has_available_treasury_tt: "§YTesorería§! tiene Más de $$§Y[?ROOT.project_monetary_cost^-1]§! Miles de millones (Actual: $$§G[?ROOT.treasury]§! Miles de millones)\n"
+
+ AC_build_button_text: "[AC_GetBuildButtonText]"
+ AC_start_project: "Invertir"
+ AC_cancel_project: "Cancelar"
+ AC_standby_project: "Analizando"
+ AC_standby_project_desc: "[THIS.GetName] está analizando nuestra solicitud"
+ AC_build_button_tt: "[AC_GetBuildButtonTT]"
+ AC_build_button_tt_1: "Invertir en proyectos de construcción aumentará tu influencia con el país objetivo y proporcionará ingresos de inversión para tu país.\n\n§YAmbos el nivel de corrupción del país y el nivel de infraestructura del estado afectarán el tiempo total de construcción. La construcción tiene un aumento predeterminado del 35% en el tiempo, independientemente de los modificadores.§!\n\n§LSi el país objetivo acepta tu oferta de inversión, al final del período de construcción obtendrán el edificio.§!\nLa IA rechazará inversiones si tienen problemas con la economía o su influencia interna es demasiado baja.\n\n[investment_cooldown]"
+ AC_build_button_tt_delayed: "§YPrerrequisitos§!:\n[!AC_build_button_click_enabled]"
+ AC_14_cooldown_tt: "Si el país lo acepta, habrá un §Ytemporizador de 14 días§! que comenzará al aceptar. No ganarás más influencia sin importar cuánto dinero inviertas en esta nación durante este período de enfriamiento."
+ AC_30_cooldown_tt: "Si el país lo acepta, habrá un §Ytemporizador de 30 días§! que comenzará al aceptar. No ganarás más influencia sin importar cuánto dinero inviertas en esta nación durante este período de enfriamiento."
+ AC_build_button_tt_2: "Cancelar el proyecto activo (Solo puedes hacer una inversión en este estado por día)."
+ AC_build_button_tt_b: "Presionar este botón solicitará un permiso del controlador del estado. Si aceptan, comenzará un proyecto de construcción en tu pestaña de decisiones. Este proyecto se repite hasta que se completen todos los edificios en cola.\n\n§YLa velocidad de construcción recibe una penalización del -25% respecto a lo que sería normalmente (los modificadores de velocidad de construcción de tu país se aplican).§![From.AC_GetPoliticalPowerCost]\n\n§LSolo puedes tener un proyecto de construcción activo a la vez.\n\nUn estado no puede tener un proyecto de construcción activo de múltiples países.\n\nEl controlador de este estado rechazará si tiene una opinión negativa de ti.§!"
+ ac_influence_icon_tooltip: "[AC_GainTooltip]"
+ influence_gain_tooltip_yes_tt: "Ganaremos influencia con este proyecto de inversión.\n\n[investment_cooldown]"
+ influence_gain_tooltip_no_tt: "No ganaremos influencia con este proyecto de inversión.\n"
+
+ AC_event.1.t: "Oferta de Inversión de [From.GetNameWithFlag]"
+ AC_event.1.d: "[From.GetName] propone construir [?FROM.project_build_amount^-1]x [From.AC_GetConstructionType] en [?FROM.AC_state_target.GetName].\n\nEl costo total del proyecto se estima en $$[?FROM.project_monetary_cost^-1] miles de millones. Se estima que tardará [?FROM.project_construction_duration^-1] días en completar este proyecto. [From.GetName] está ofreciendo un trato en el que contribuimos con el 10% de la suma de construcción. El [From.GetNameWithFlag] potencialmente ganará influencia de este trabajo. [FROM.GetNameWithFlag] obtendrá ganancias de este proyecto.\n\n\nDías para Completar: [?FROM.project_construction_duration^-1]\nCosto Total del Proyecto([FROM.GetNameWithFlag]): $[?FROM.project_monetary_cost^-1] Miles de millones\nTipo de Edificio: [From.AC_GetConstructionType]\nCosto del Inversor ([THIS.GeTNameWithFlag]): $$[?investor_cost]\nUbicación: [?FROM.AC_state_target.GetName]"
+ AC_event.1.o1: "Aceptar la Oferta"
+ AC_event.1.o2: "Rechazar la Oferta"
+
+ AC_event.2.t: "Permiso de Construcción Rechazado"
+ AC_event.2.d: "Hemos recibido un rechazo de nuestro potencial nuevo socio de inversión. ¡Es increíble que rechazaran nuestro proyecto! No es como si fuéramos a ganar alguna influencia o control sobre su gobierno ayudando a desarrollar sus naciones. Oh, bueno, el trato de inversión con [FROM.GetName] ha fracasado en [?FROM.AC_state_target.GetName], así que podríamos enviar una oferta de inversión a alguien más."
+ AC_event.2.o1: "Tal vez su vecino..."
+
+ AC_event.3.t: "Proyecto de Construcción Cancelado"
+ AC_event.3.d: "Desafortunadamente, no pudimos completar nuestro trato de inversión con nuestros amigos en [FROM.GetName]. Hay muchas razones potenciales para esto, ya sea por relaciones con el gobierno, falta de fondos o tal vez solo una falta general de interés por parte de la gente local. Siempre podemos intentarlo en otro momento."
+ AC_event.3.o1: "¡Su pérdida!"
+
+ AC_cancel_investment_tt: "Cancelar la siguiente inversión de [From.GetName]:"
+
+ # Build Cost Tooltip
+ AC_build_cost_tt: "§YCosto de Inversión Extranjera§!\n\n§YCosto de Inversión Extranjera§! §ges el costo inicial del proyecto que estamos considerando comenzar. Se toma directamente de la tesorería de nuestra nación y se añade a nuestras§! §YInversiones Internacionales§! §guna vez aceptado el proyecto.§!\n\n§gSi acabas de hacer clic desde otro país o estado, asegúrate de aumentar la cantidad de edificios o hacer clic en otro edificio para actualizar la información y ver el costo real.§!\n\n§gLa corrupción, las ideas nacionales y más pueden afectar el costo del proyecto de inversión. La corrupción de la nación inversora aumentará el costo del proyecto según su nivel de corrupción.§!\n"
+ AC_build_cost_tt_delayed: "Modificadores:\n§YCosto para Invertir en [PREV.CONTROLLER.GetNamewithFlag]:§! [?ROOT.displayable_monetary_cost_modifier|%0-] \n"
+
+ # Construction Time Tooltip
+ AC_clock_tt: "§YTiempo para Completar la Inversión:§! [?ROOT.project_total_construction_duration_display^-1] Días\n\n§YTiempo para Completar la Inversión§! §gor la duración del proyecto es simplemente el total del tiempo que tardará en completar nuestro proyecto propuesto en [PREV.GetName]. A más edificios que ofrezcas a §Y[PREV.CONTROLLER.GetNamewithFlag]§!, más largo será el proyecto.§!\n\n§gSi acabas de hacer clic desde otro país o estado, asegúrate de aumentar la cantidad de edificios o hacer clic en otro edificio para actualizar la información y ver el costo real.§!\n"
+ AC_clock_tt_delayed: "Modificadores:\n[AC_GetInfrastructure]\n§YModificador para Invertir en [PREV.CONTROLLER.GetNamewithFlag]:§! [?ROOT.displayable_construction_modifier|%]\n"
+
+ # Misc Investment
+ AC_page_up: "Página Siguiente"
+ # Italian Mafia Tooltips
+ AC_ITA_wasted_foreign_funds_time: "Cuidado, §Yla infiltración de la mafia en proyectos de inversión§! puede hacer que los tiempos de construcción aumenten hasta un §R+200%§!\n"
+ AC_ITA_wasted_foreign_funds: "Cuidado, §Yla infiltración de la mafia en proyectos de inversión§! puede hacer que el costo aumente hasta un §R+200%§!\n"
+ # Idea Modifiers - Increases Cost
+
+ # Misc - Infrastructure "Time increase" for construction
+ AC_Infrastructure_0: "§YInfraestructura§! Nivel 0 §R+50%§!"
+ AC_Infrastructure_1: "§YInfraestructura§! Nivel 1 §R+40%§!"
+ AC_Infrastructure_2: "§YInfraestructura§! Nivel 2 §R+30%§!"
+ AC_Infrastructure_3: "§YInfraestructura§! Nivel 3 §R+20%§!"
+ AC_Infrastructure_4: "§YInfraestructura§! Nivel 4 §R+10%§!"
+ AC_Infrastructure_5: "§YInfraestructura§! Nivel 5 §R+0%§!"
+
+ # Misc - Cont -- Opinion Modifier For Construction
+ AC_construction_opinion4: "Recientemente Invertido"
+ disabled_foreign_investment_flag_tt: "§Y[ROOT.GetNameWithFlag]§! puede invertir en otros países.\n"
+ int_auto_reject_investment_flag_tt: "§Y[PREV.CONTROLLER.GetNameWithFlag]§! no está rechazando ofertas automáticamente en este momento"
+
+ ## -- Owned State Investment Menu
+ state_based_investments_screen_tt: "§HInversión Interna§!"
+ check_for_investment_project_limits_tt: "Actualmente Tiene Disponible §HInversión Interna§! Ranura (Proyectos Gratuitos: [current_state_owned_investment_projects] / [maximum_state_owned_investment_projects])"
+ state_based_investments_screen_delayed_tt: "El menú a continuación es una serie de decisiones que puedes tomar para fomentar diversos tipos de desarrollo en [THIS.GetName]. Todas las naciones tendrán un mínimo de dos ranuras disponibles que pueden usar para cualquiera de sus estados en todo el país. Puedes elegir hacer múltiples proyectos en un estado o puedes elegir distribuir los proyectos por todo el país. Puedes obtener ranuras adicionales aumentando el §YRango de Poder§! de tu nación.\n\nRanuras por Rango de Poder:\n- §YSuperpotencia§!: 6\n- §YGran Potencia§!: 5\n- §YPotencia Mayor§!: 4\n- §YPotencia Regional§!: 3\n"
+ available_internal_investments_screen_tt: "Ranuras Disponibles de §HInversión Interna§!: [current_state_owned_investment_projects] / [maximum_state_owned_investment_projects]"
+ available_internal_investments_tt: "Todas las naciones tendrán un mínimo de dos ranuras disponibles que pueden usar para cualquiera de sus estados en todo el país. Puedes elegir hacer múltiples proyectos en un estado o puedes elegir distribuir los proyectos por todo el país. Puedes obtener ranuras adicionales aumentando el §YRango de Poder§! de tu nación.\n\nProyectos en Curso:\n[ROOT.state_owned_investment_timer_six][ROOT.state_owned_investment_timer_five][ROOT.state_owned_investment_timer_four][ROOT.state_owned_investment_timer_three][ROOT.state_owned_investment_timer_two][ROOT.state_owned_investment_timer_one]"
+ state_owned_investment_timer_one_tt: "Proyecto en §Y[?var:state_owned_investments_project_one_state.GetName]§! Días Restantes: [?state_owned_investments_project_one:days_left|0Y] Días (Fecha de Completación: [?state_owned_investments_project_one_expiration_date.GetDateStringNoHourLong])\n"
+ state_owned_investment_timer_two_tt: "Proyecto en §Y[?var:state_owned_investments_project_two_state.GetName]§! Días Restantes: [?state_owned_investments_project_two:days_left|0Y] Días (Fecha de Completación: [?state_owned_investments_project_two_expiration_date.GetDateStringNoHourLong])\n"
+ state_owned_investment_timer_three_tt: "Proyecto en §Y[?var:state_owned_investments_project_three_state.GetName]§! Días Restantes: [?state_owned_investments_project_three:days_left|0Y] Días (Fecha de Completación: [?state_owned_investments_project_three_expiration_date.GetDateStringNoHourLong])\n"
+ state_owned_investment_timer_four_tt: "Proyecto en §Y[?var:state_owned_investments_project_four.GetName]§! Días Restantes: [?state_owned_investments_project_four:days_left|0Y] Días (Fecha de Completación: [?state_owned_investments_project_four_expiration_date.GetDateStringNoHourLong])\n"
+ state_owned_investment_timer_five_tt: "Proyecto en §Y[?var:state_owned_investments_project_five_state.GetName]§! Días Restantes: [?state_owned_investments_project_five:days_left|0Y] Días (Fecha de Completación: [?state_owned_investments_project_five_expiration_date.GetDateStringNoHourLong])\n"
+ state_owned_investment_timer_six_tt: "Proyecto en §Y[?var:state_owned_investments_project_six_state.GetName]§! Días Restantes: [?state_owned_investments_project_six:days_left|0Y] Días (Fecha de Completación: [?state_owned_investments_project_six_expiration_date.GetDateStringNoHourLong])\n"
+
+ # Dynamic Modifiers
+ state_owned_local_renewable_capacity_modifier: "Expandir la Capacidad Renovable Local"
+ state_owned_local_renewable_capacity_modifier_desc: ""
+ state_owned_local_infrastructure_modifier: "Expandir la Infraestructura Local"
+ state_owned_local_infrastructure_modifier_desc: ""
+ state_owned_local_military_infrastructure_modifier: "Expandir la Infraestructura Militar Local"
+ state_owned_local_military_infrastructure_modifier_desc: ""
+ state_owned_local_energy_infrastructure_modifier: "Expandir la Infraestructura Energética Local"
+ state_owned_local_energy_infrastructure_modifier_desc: ""
+ state_owned_build_forward_logistics_base_modifier: "Construir Bases Logísticas Avanzadas"
+ state_owned_build_forward_logistics_base_modifier_desc: ""
+ state_owned_improve_rebuilding_efforts_modifier: "Mejorar los Esfuerzos de Reconstrucción"
+ state_owned_improve_rebuilding_efforts_modifier_desc: ""
+ state_owned_hire_extra_primary_sector_workers_modifier: "Contratar Trabajadores Extra del Sector Primario"
+ state_owned_hire_extra_primary_sector_workers_modifier_desc: ""
+
+ # Buttons
+ currently_encouraged_investments: "Actualmente §YFomentando Inversiones§! en §Y[THIS.GetName]§!."
+ encourage_investments_in_state_tt: "§YFomentar Inversiones§! en §Y[THIS.GetName]§!\n---------\nPodemos fomentar inversiones en §Y[THIS.GetName]§! reduciendo la burocracia en el área y haciendo que el tiempo de inversión sea más rápido de lo que sería normalmente."
+ encourage_investments_in_state_delayed_tt: "§YPrerrequisitos:§!\n[!encourage_investments_in_state_click_enabled]\n§YEfectos:§!\n[!encourage_investments_in_state_click]\n"
+ encourage_investments_in_state_click_tt: "Durante 120 Días, las §YInversiones§! en §Y[THIS.GetName]§! serán §Y15%§! más baratas. La IA también tendrá más probabilidades de invertir en el estado."
+
+ encourage_productivity_in_state: "Actualmente Fomentando la Productividad en §Y[THIS.GetName]§!."
+ encourage_productivity_in_state_tt: "§YFomentar el Crecimiento de la Productividad§! en §Y[THIS.GetName]§!\n---------\nPodemos fomentar el crecimiento de la productividad en §Y[THIS.GetName]§! trayendo nuevas tecnologías, técnicas y más a la región para ayudarla a crecer."
+ encourage_productivity_in_state_delayed_tt: "§YPrerrequisitos:§!\n[!encourage_productivity_in_state_click_enabled]\n§YEfectos:§!\n[!encourage_productivity_in_state_click]\n"
+ encourage_productivity_in_state_click_tt: "Durante 120 Días, el §YCrecimiento de la Productividad§! en §Y[THIS.GetName]§! será §Y20%§! más rápido."
+
+ expand_local_building_capacity: "Actualmente §YExpandiendo la Capacidad de Construcción Local§! en §Y[THIS.GetName]§!."
+ block_future_expand_local_building_capacity: "Podemos §YExpandir la Capacidad de Construcción Local§! en §Y[THIS.GetName]§! (Veces que se ha Expandido la Capacidad de Construcción: [?expanded_building_slot_times|0Y])"
+ expand_local_building_capacity_tt: "§YExpandir la Capacidad de Construcción Local§! en §Y[THIS.GetName]§!\n---------\nPodemos expandir la capacidad de construcción local implementando una variedad de políticas de construcción local, despejando terrenos adicionales y expandiendo los recursos disponibles para los constructores locales."
+ expand_local_building_capacity_delayed_tt: "§YPrerrequisitos:§!\n[!expand_local_building_capacity_click_enabled]\n§YEfectos:§!\n[!expand_local_building_capacity_click]\n"
+ expand_local_building_capacity_click_tt: "Cada 120 Días podemos ganar §G1§! §YRanura de Construcción§! en §Y[THIS.GetName]§!. Podemos expandir las §YRanuras de Construcción§! en un estado dado hasta §Y5§!."
+
+ expand_local_renewable_capacity: "Actualmente §YExpandiendo la Capacidad Renovable Local§! en §Y[THIS.GetName]§!."
+ expand_local_renewable_capacity_tt: "§YExpandir la Capacidad Renovable Local§! en §Y[THIS.GetName]§!\n---------\nDeberíamos fomentar la §YInfraestructura de Energía Renovable§! en §Y[THIS.GetName]§! obteniendo energía adicional de la red de energía renovable local."
+ expand_local_renewable_capacity_delayed_tt: "§YPrerrequisitos:§!\n[!expand_local_renewable_capacity_click_enabled]\n§YEfectos:§!\n[!expand_local_renewable_capacity_click]\n"
+ expand_local_renewable_capacity_click_tt: "Durante 120 Días ganamos lo siguiente en §Y[THIS.GetName]§!:\n"
+
+ expand_local_infrastructure: "Actualmente §YExpandiendo la Infraestructura Local§! en §Y[THIS.GetName]§!."
+ expand_local_infrastructure_tt: "§YExpandir la Infraestructura Local§! en §Y[THIS.GetName]§!\n---------\nLa infraestructura en §Y[THIS.GetName]§! deja algo que desear. Deberíamos idear algunos proyectos a corto plazo específicos para expandir la infraestructura en el estado y ayudar a enfatizar y expandir el desarrollo local del estado."
+ expand_local_infrastructure_delayed_tt: "§YPrerrequisitos:§!\n[!expand_local_infrastructure_click_enabled]\n§YEfectos:§!\n[!expand_local_infrastructure_click]\n"
+ expand_local_infrastructure_click_tt: "Durante 120 Días ganamos lo siguiente en §Y[THIS.GetName]§!:\n"
+
+ expand_local_military_infrastructure: "Actualmente §YExpandiendo la Infraestructura Militar Local§! en §Y[THIS.GetName]§!."
+ expand_local_military_infrastructure_tt: "§YExpandir la Infraestructura Militar Local§! en §Y[THIS.GetName]§!\n---------\nEl ejército se ha acercado al gobierno e identificado posibles sitios de construcción en §Y[THIS.GetName]§!. Han sugerido expandir la infraestructura militar local aquí para asegurar que el ejército en la región esté adecuadamente apoyado en caso de conflicto en el área."
+ expand_local_military_infrastructure_delayed_tt: "§YPrerrequisitos:§!\n[!expand_local_military_infrastructure_click_enabled]\n§YEfectos:§!\n[!expand_local_military_infrastructure_click]\n"
+ expand_local_military_infrastructure_click_tt: "Durante 120 Días ganamos lo siguiente en §Y[THIS.GetName]§!:\n"
+
+ expand_local_energy_infrastructure: "Actualmente §YExpandir la Infraestructura Energética Local§! en §Y[THIS.GetName]§!."
+ expand_local_energy_infrastructure_tt: "§YExpandir la Infraestructura Energética Local§! en §Y[THIS.GetName]§!\n---------\nLa energía local en §Y[THIS.GetName]§! puede expandirse para apoyar mejor a la población de la región local, así como para mejorar la red nacional."
+ expand_local_energy_infrastructure_delayed_tt: "§YPrerrequisitos:§!\n[!expand_local_energy_infrastructure_click_enabled]\n§YEfectos:§!\n[!expand_local_energy_infrastructure_click]\n"
+ expand_local_energy_infrastructure_click_tt: "Durante 120 Días ganamos lo siguiente en §Y[THIS.GetName]§!:\n"
+
+ build_forward_logistics_base: "Actualmente §YConstruir Base Logística Avanzada§! en §Y[THIS.GetName]§!."
+ build_forward_logistics_base_tt: "§YConstruir Base Logística Avanzada§! en §Y[THIS.GetName]§!\n---------\nEl estado está un poco desconectado de nuestra logística primaria. Deberíamos considerar construir bases logísticas avanzadas para ayudar a apoyar a las tropas desplegadas en §Y[THIS.GetName]§!."
+ build_forward_logistics_base_delayed_tt: "§YPrerrequisitos:§!\n[!build_forward_logistics_base_click_enabled]\n§YEfectos:§!\n[!build_forward_logistics_base_click]\n"
+ build_forward_logistics_base_click_tt: "Durante 120 Días ganamos lo siguiente en §Y[THIS.GetName]§!:\n"
+
+ improve_rebuilding_efforts: "Actualmente §YMejorar los Esfuerzos de Reconstrucción§! en §Y[THIS.GetName]§!."
+ improve_rebuilding_efforts_tt: "§YMejorar los Esfuerzos de Reconstrucción§! en §Y[THIS.GetName]§!\n---------\nAhora que §Y[THIS.GetName]§! está completamente bajo nuestro control, deberíamos enfatizar los esfuerzos de reconstrucción en la región para asegurar que la población pueda continuar sin impedimentos."
+ improve_rebuilding_efforts_delayed_tt: "§YPrerrequisitos:§!\n[!improve_rebuilding_efforts_click_enabled]\n§YEfectos:§!\n[!improve_rebuilding_efforts_click]\n"
+ improve_rebuilding_efforts_click_tt: "Durante 120 Días ganamos lo siguiente en §Y[THIS.GetName]§!:\n"
+
+ hire_extra_primary_sector_workers: "Actualmente §YContratar Trabajadores Extra del Sector Primario§! en §Y[THIS.GetName]§!."
+ hire_extra_primary_sector_workers_tt: "§YContratar Trabajadores Extra del Sector Primario§! en §Y[THIS.GetName]§!\n---------\nLa producción de recursos en §Y[THIS.GetName]§! no cumple con las expectativas del país para la producción. Deberíamos considerar contratar trabajadores adicionales del sector primario para ayudar con la producción de los recursos."
+ hire_extra_primary_sector_workers_delayed_tt: "§YPrerrequisitos:§!\n[!hire_extra_primary_sector_workers_click_enabled]\n§YEfectos:§!\n[!hire_extra_primary_sector_workers_click]\n"
+ hire_extra_primary_sector_workers_click_tt: "Durante 120 Días ganamos lo siguiente en §Y[THIS.GetName]§!:\n"

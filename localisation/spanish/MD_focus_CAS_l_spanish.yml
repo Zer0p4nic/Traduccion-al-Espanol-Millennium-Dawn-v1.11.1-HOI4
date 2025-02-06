@@ -1,0 +1,98 @@
+﻿l_spanish:
+ # Header
+ Cascadia_focus: "Árbol de enfoque Cascadia"
+
+      #####################
+      # A Post United Era #
+      #####################
+    ###################
+    #### Focus Tree ###
+    ###################
+
+  ####################################
+  ##### Building A Stable Nation #####
+  ####################################
+CAS_focus_olympia_rises: "Olympia resurge"
+CAS_focus_olympia_rises_desc: "Con Seattle sobredesarrollada, la capital estatal de Washington se convertirá en la nueva capital nacional. Olympia tiene un buen nombre de todos modos."
+CAS_focus_stabilization_of_washington: "Estabilización de Washington"
+CAS_focus_stabilization_of_washington_desc: "Desde el establecimiento de la capital federal de nuestra nación, podemos comenzar a estabilizar el estado donde ahora reside nuestra capital. Organizar la infraestructura y la actividad económica básica devolverá una forma de cohesión social que nos permitirá invertir y avanzar hacia mejores esfuerzos de integración pronto después."
+CAS_focus_the_new_home: "El nuevo hogar"
+CAS_focus_the_new_home_desc: "Con la estabilidad económica... por lo que vale al menos, así como los esfuerzos cohesivos de nuestra gente para formar una semblanza de estructura social. Ahora podemos comenzar el proceso de desplegar servicios civiles y de emergencia en todo el estado de Washington y empezar a llamar a esta esquina del continente nuestro nuevo hogar."
+CAS_focus_our_oregon_trail: "Nuestro sendero de Oregon"
+CAS_focus_our_oregon_trail_desc: "Aunque los nativos y los colonos tuvieron que viajar a través del continente, ahora debemos viajar hacia el sur para comenzar la reconstrucción de nuestro territorio vecino, que es el estado de Oregon. Con una base establecida aquí en Washington, deberíamos ser capaces de ponerlos en marcha en un tiempo relativamente corto."
+CAS_focus_another_pacific_gem: "Otra joya del Pacífico"
+CAS_focus_another_pacific_gem_desc: "Con la funcionalidad económica y social restaurada, podemos comenzar a conectar y crear servicios civiles y de emergencia para vincular el estado de Oregon con nuestro lugar de inicio. El futuro se vuelve cada vez más brillante, aunque sea un poco."
+CAS_focus_i_dont_know: "¿No lo sé?"
+CAS_focus_i_dont_know_desc: "No, dije Idaho, por supuesto que no sabíamos la condición del estado. Una cadena montañosa rodea la mayor parte del estado. De todos modos, podemos comenzar a revivir cosas como la industria minera y otras actividades económicas para darles esperanza nuevamente."
+CAS_focus_mountain_marvel: "Maravilla montañosa"
+CAS_focus_mountain_marvel_desc: "Economía, buena, gente, feliz, situación, suficientemente buena. Genial. Ahora es el momento de vincular el estado con el resto de la nación, desde aquí podemos comenzar a averiguar exactamente qué haremos en nuestro nuevo lugar en el mundo."
+CAS_focus_a_new_beginning: "Un nuevo comienzo"
+CAS_focus_a_new_beginning_desc: "Con la nación estabilizada, ahora debemos ver qué es exactamente lo que queremos hacer. Nuestra posición significa que no estamos realmente ni en ventaja ni en desventaja, pero necesitaremos actuar ahora antes de que las cosas en el continente comiencen a caldearse nuevamente."
+
+
+  ###########################
+  ##### Custom Tooltips #####
+  ###########################
+CAS_end_of_teaser: "Fin oficial del árbol de avance, ahora controlas tu tierra. Así que haz con ella lo que desees... por ahora."
+
+
+
+  #################
+  ##### ideas #####
+  #################
+CAS_ideas_domestic_centric_policy: "Política centrada en lo doméstico"
+CAS_ideas_domestic_centric_policy_desc: "Nuestra nación es joven, débil y muy impresionable. En lugar de ser una simple aparición en la historia, debemos centrarnos verdaderamente en nosotros mismos para asegurar nuestra estabilidad, crecimiento y la capacidad de lograr el futuro que deseamos en la vida."
+CAS_ideas_rocky_mountain_resistance: "Resistencia de las Montañas Rocosas"
+CAS_ideas_rocky_mountain_resistance_desc: "A pesar de la unidad que hemos logrado crear, la gran división que representa la cadena montañosa de las Rocosas ha envalentonado a aquellos que creen que están tan alejados a pesar de estar tan cerca. Por lo tanto, la unión con Idaho es, en el mejor de los casos, una relación frágil. Necesitamos manejar esto antes de que empiece a desbordarse y cause más problemas de los que podemos manejar."
+CAS_ideas_rocky_mountain_crackdowns: "Represalias en las Montañas Rocosas"
+CAS_ideas_rocky_mountain_crackdowns_desc: "Las investigaciones iniciales han ido bien, el crimen está disminuyendo y las afiliaciones al grupo RMR están disminuyendo lentamente."
+CAS_ideas_rocky_mountain_rescue: "Rescate en las Montañas Rocosas"
+CAS_ideas_rocky_mountain_rescue_desc: "La membresía en el RMR ha disminuido, el crimen está en su nivel más bajo de todos los tiempos. La situación es estable y parece más esperanzadora con cada día que pasa. La policía local está tomando poco a poco el control de más y más operaciones."
+CAS_ideas_cascadian_union: "Unión Cascadia"
+CAS_ideas_cascadian_union_desc: "La paz ha sido restaurada en Idaho, nuestra pequeña unión de estados es más fuerte que nunca. Ahora, con las tácticas y los miembros del RMR completamente tratados y disueltos, podemos aprender, mejorar y hacer avanzar a nuestra gente y a nuestra nación desde esos primeros dolores de crecimiento que sufrimos."
+
+
+  #####################
+  ##### Decisions #####
+  #####################
+CAS_decisions_war_time_mobilization_category: "Movilización en tiempos de guerra"
+CAS_decisions_war_time_mobilization_category_desc: "Cuando surja la necesidad, podemos llamar a una legión voluntaria de personas para al menos llenar los vacíos en las líneas. Porque no sabemos cuándo llegará la guerra, pero sí sabemos que nos alcanzará."
+CAS_war_time_mobilization: "Movilización de la primera ola"
+CAS_war_time_mobilization_desc: "El llamado a las armas está sobre nosotros y debemos reunirnos para asegurar la defensa de nuestros hogares. ¡A las armas, chicos de Dixie!"
+CAS_war_second_wave_defenders: "Defensores de la segunda ola"
+CAS_war_second_wave_defenders_desc: "El enemigo avanza, por lo que debemos alistar otra ola de defensores. La moral de la nación sufrirá, pero necesitamos las tropas."
+CAS_war_desperate_defenders: "Defensores desesperados"
+CAS_war_desperate_defenders_desc: "Las cosas se están poniendo sombrías, necesitamos cada cuerpo disponible, esté preparado o no, para mantener la línea. Tal vez, solo tal vez, aún podamos ganar esto."
+
+
+  ##################
+  ##### Events #####
+  ##################
+cascadia_event.1.t: "La resistencia se levanta"
+cascadia_event.1.d: "Desde los primeros días de nuestra formación, el estado de Idaho nos ha estado dando... problemas, por decirlo de alguna manera. Siendo el más aislado de los tres estados, muchos dentro de Idaho creen que sería más seguro y fácil ser su propia entidad. No creemos que eso vaya a ninguna parte, pero con la continua agitación, muchos temen un posible conflicto tan pronto después del caos y la anarquía que vino antes."
+cascadia_event.1.o1: "No podemos dar un respiro"
+cascadia_event.2.t: "Oleada de crímenes"
+cascadia_event.2.d: "Ha habido una ola creciente de crímenes que está plagando el estado de Idaho. Aunque esto podría ser solo un tropiezo en la restauración del orden y la ley en general. Hay algunas personas que están preocupadas por las implicaciones que esto podría significar. Aunque no hay evidencia clara, algunos ciudadanos e incluso ministros están presionando al gobierno para que envíe un escuadrón especial de investigación para asegurar la situación."
+cascadia_event.2.o1: "La policía local puede manejar esto"
+cascadia_event.2.o2: "Alguien consígame los números de la membresía en el RMR"
+cascadia_event.3.t: "Marchas de las Montañas Rocosas"
+cascadia_event.3.d: "El grupo conocido como la Resistencia de las Montañas Rocosas ha comenzado a organizar marchas. Aunque no hay nada ilegal al respecto, el creciente número de miembros del grupo está causando preocupaciones en toda Olympia. Por lo tanto, el gobierno nacional ha emitido una orden para comenzar una movilización sutil, ya que los temores sobre la situación en Idaho continúan en aumento."
+cascadia_event.3.o1: "Nunca termina"
+cascadia_event.4.t: "El ascenso del Hombre de la Montaña"
+cascadia_event.4.d: "La Resistencia de las Montañas Rocosas ha tomado el estado de Idaho y con ello, el líder del grupo ha salido a la luz. Un hombre robusto llamado Robert \"Mountain Man\" Johnson. Aunque no parece gran cosa, él y su grupo han hecho lo que muchos esperaban evitar en estos primeros días de nuestra nación. Por lo tanto, debemos ponernos en marcha y movilizar a la nación para asegurarnos de que esto se maneje antes de que el mundo mismo decida interferir con nosotros más de lo que probablemente ya lo ha hecho."
+cascadia_event.4.o1: "Dios ayúdanos"
+cascadia_event.5.t: "Marchamos"
+cascadia_event.5.d: "Ha llegado el momento de resolver esto, marchamos a través de las montañas y asumimos la paz que tanto hemos deseado."
+cascadia_event.5.o1: "¡Vamos a la guerra!"
+cascadia_event.300.t: "Llega la Unidad de Investigación Especial"
+cascadia_event.300.d: "Hace un tiempo, después de mucho rogar al gobierno en Olympia, el gobierno envió una UIE al estado de Idaho. Las investigaciones iniciales no arrojaron más que migas. Sin embargo, a medida que pasó el tiempo, se descubrieron oleadas de crímenes cooptadas y pronto los miembros del RMR fueron detenidos y afortunadamente arrestados por cometer dichos crímenes."
+cascadia_event.300.o1: "Bueno, al menos es algo"
+cascadia_event.301.t: "Disminución del crimen"
+cascadia_event.301.d: "A medida que la UIE y la policía local continúan manejando la ola de crímenes y más y más miembros del RMR son arrestados por robo de armas y una plétora de otros crímenes. Los números de membresía están comenzando a disminuir a medida que las cosas parecen mejorar para la estabilidad del estado de Idaho, muchos se preguntan cuándo todo llegará a su fin pacífico."
+cascadia_event.301.o1: "Ojalá sea antes que después"
+cascadia_event.302.t: "Esfuerzos continuos"
+cascadia_event.302.d: "A medida que pasa el tiempo, la UIE ha asumido un rol más de asesoría y asistencia, ya que la policía local ha recibido cada vez más control operativo sobre la situación. El crimen sigue disminuyendo y las membresías del RMR han alcanzado su nivel más bajo de todos los tiempos. Los rumores dicen que su líder, conocido simplemente como \"Mountain Man\", tiene previsto dar un discurso en los próximos días. Esto ocurre mientras los líderes de la UIE debaten si ya es hora de dejar el estado, ya que la ley y el orden parecen estar casi restaurados."
+cascadia_event.302.o1: "Ha tomado tiempo, pero valió la pena"
+cascadia_event.303.t: "Paz restaurada"
+cascadia_event.303.d: "Hoy temprano, el líder del RMR anunció la disolución oficial del grupo. Muchos miembros se indignaron, pero estaban tan desanimados que simplemente regresaron a sus hogares. La policía local afirma que el crimen está en su nivel más bajo de todos los tiempos y la estabilidad se ha restaurado una vez más en el estado de Idaho. Ahora podemos comenzar a avanzar juntos como una sola nación."
+cascadia_event.303.o1: "Finalmente podemos respirar de nuevo"

@@ -1,0 +1,20 @@
+﻿l_spanish:
+ Houthi.threat: "Guerra Civil Yemení"
+ ISIS.threat: "Yihad en Irak y el Levante"
+ Libyan_Civil_War.threat: "Guerra Civil Libia"
+ Syrian_Civil_War.threat: "Guerra Civil Siria"
+ threat_SOV_second_chechen_war: "Segunda Guerra Chechena"
+ #Music Station
+ MD_Soundtrack_TITLE: "Banda Sonora MD"
+ MD_fm_habibi_TITLE: "Brisa del Este"
+ MD_regional_music_TITLE: "Banda Sonora Regional"
+
+ # Scripted GUI Button Clicks
+ l_click: "£click_left §YL Click§!"
+ shift_l_click: "£key_shift + £click_left §YShift L Click§!"
+ ctrl_l_click: "£key_ctrl + £click_left §YCtrl L Click§!"
+ r_click: "£click_right §YR Click§!"
+ ctrl_r_click: "£key_ctrl + £click_right §YCtrl R Click§!"
+ shift_r_click: "£key_shift + £click_right §YShift R Click§!"
+
+ SLOTS_DESC: "¡VAMOOSSSSSSS!"

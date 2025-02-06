@@ -1,0 +1,46 @@
+﻿l_spanish:
+ ERI_eritrea_puppet_focus: "Árbol de enfoque eritreo"
+ # ETHIOPIAN PUPPET FOCUS TREE #
+ ERI_eritrea_puppet_federation: "La Segunda Federación"
+ ERI_eritrea_puppet_federation_desc: "Por segunda vez en nuestra historia, estamos sujetos a Etiopía. La primera vez no funcionó, pero ¿tal vez esta vez sí?"
+ ERI_eritrea_puppet_federation_assembly: "Asamblea de Representantes Eritrea"
+ ERI_eritrea_puppet_federation_assembly_desc: "En curso"
+ ERI_eritrea_puppet_federation_constitution: "Escribir una Constitución"
+ ERI_eritrea_puppet_federation_constitution_desc: "En curso"
+ ERI_eritrea_puppet_federation_appoint_chief_executive: "Nombrar al Director Ejecutivo"
+ ERI_eritrea_puppet_federation_appoint_chief_executive_desc: "Es hora de votar por nuestro representante oficial para reemplazar al actual Gobierno de Transición. Aunque estamos en una federación con Etiopía nuevamente, necesitamos un hombre fuerte en la cima para luchar por nuestros derechos."
+ appoint_chief_executive_tt: "§YSe nombrará un nuevo Director Ejecutivo.§!"
+ ERI_eritrea_puppet_federation_christian: "Director Ejecutivo Ahmed Nasser"
+ ahmed_nasser_cf: "Ahmed Nasser es el nuevo Director Ejecutivo"
+ ERI_eritrea_puppet_federation_muslim: "Director Ejecutivo Hussein Kelifay"
+ hussein_kelifay_cf: "Hussein Kelifay es el nuevo Director Ejecutivo"
+
+ # EVENTS #
+ eritrea.1.t: "Nombrar un Director Ejecutivo"
+ eritrea.1.d: "Frente Nacional de Salvación Eritrea (ENSF), Frente de Liberación Eritrea (ELF)"
+ eritrea.1.a: "Ahmed Nasser, líder del ENSF"
+ eritrea.1.b: "Hussein Kelifay, líder del ELF"
+
+ eritrea.2.t: "La primera escuela de idioma amhárico abre hoy"
+ eritrea.2.d: "Etiopía ha financiado una serie de nuevas escuelas destinadas a enseñar amhárico a las masas. Parece que cada persona entre 18 y 60 años se verá obligada a tomar al menos el curso de nivel básico para aprender algunas oraciones básicas. Para los alumnos, se introducirá una nueva materia desde segundo grado en adelante."
+ eritrea.2.a: "Tal vez no queramos entenderlos..."
+
+ eritrea.3.t: "Los partidos etíopes forman ramas eritreanas"
+ eritrea.3.d: "Con la ocupación etíope de Eritrea en marcha, muchos partidos con sede en Etiopía han comenzado a abrir sucursales dentro de nuestras ciudades, con el espectro político que va desde nuestro propio Frente de Liberación Eritrea hasta representantes del EPRDF, todos compitiendo por que alguien escuche sus plataformas.\n\nIncluso hay algunos que parecen querer un regreso a "Los buenos viejos tiempos" bajo Selassie..."
+ eritrea.3.a: "¿Quizás deberíamos tomar un manifiesto?"
+ eritrea.3.b: "¿Qué pasa con uno de nuestros propios partidos?"
+ eritrea.3.c: "¿Realmente funciona la democracia?"
+
+ eritrea.4.t: "EISM ofrece esfuerzos radicales de reconstrucción"
+ eritrea.4.d: "Con la guerra con Etiopía bien y verdaderamente terminada, no hay escasez de diáspora dispuesta a regresar para reconstruir Eritrea, tanto de la guerra como del terrible reinado de Afwerki.\n\nAparentemente, algunos de estos diáspora, sin embargo, parecen más radicales que otros, con supuestos miembros del EISM que se ofrecen a reconstruir Eritrea, siempre y cuando sean ellos quienes tengan el poder dentro de las mezquitas..."
+ eritrea.4.a: "Quizás deberíamos responder a la llamada a la oración."
+ eritrea.4.b: "Creo que no."
+
+ # IDEAS #
+ ERI_ethiopian_lawbooks: "Sistema legal reescrito"
+ ERI_ethiopian_lawbooks_desc: "Etiopía ha dado a Eritrea una serie de nuevos libros legales y directrices para reconstruir el sistema legal eritreo desde cero, lo que ha resultado en un sistema legal de Eritrea mucho más eficiente que nunca."
+ ERI_amharic_constitution: "Constitución Federal Etíope-Eritrea"
+ ERI_amharic_constitution_desc: "Con una nueva constitución en vigor, Etiopía ha consolidado su control sobre Eritrea, a costa de asumir al menos una parte de la responsabilidad fiscal por los asuntos internos de Eritrea."
+
+ # LEADERS
+ ERI_transitional_government_desc: "El gobierno de Eritrea ha caído, Etiopía está reorganizando las estructuras políticas de la nación y, como tal, tiene un gobierno en transición del reinado anterior a uno que se alinee mejor con el actual estado etíope."

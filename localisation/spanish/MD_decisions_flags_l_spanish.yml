@@ -1,0 +1,40 @@
+﻿l_spanish:
+ coalition_party_negotiations: "Negociando con un partido para la coalición."
+ different_country_flags_category: "Decisión de cambio de bandera"
+ different_country_flags_category_desc: "Podemos cambiar nuestra bandera para representar mejor al partido gobernante actual en nuestro país. El partido gobernante actual es [Root.GetRulingParty]"
+
+ Reset_flag: "Cambiar bandera"
+ Reset_flag_desc: "Hoy tenemos la capacidad de cambiar nuestra bandera."
+ Autocracy_flag: "Cambiar bandera"
+ Autocracy_flag_desc: "Hoy tenemos la capacidad de cambiar nuestra bandera."
+ Special_flag: "Cambiar bandera"
+ Special_flag_desc: "Hoy tenemos la capacidad de cambiar nuestra bandera."
+ More_Special_flag: "Cambiar bandera"
+ More_Special_flag_desc: "Hoy tenemos la capacidad de cambiar nuestra bandera."
+
+ add_dynamic_flag: "No deberías poder ver esto. Agrega [?original_tag.GetTag]"
+ add_dynamic_flag_desc: "Deja de cambiar de etiqueta, tramposo"
+ Rebel_flag: "Cambiar bandera"
+ Rebel_flag_desc: "Hoy tenemos la capacidad de cambiar nuestra bandera."
+ Special_Rebel_flag: "Cambiar bandera"
+ Special_Rebel_flag_desc: "Hoy tenemos la capacidad de cambiar nuestra bandera."
+
+ HUN_Edgy_flag: "Cambiar bandera"
+ HUN_Edgy_flag_flag_desc: "Hoy tenemos la capacidad de cambiar nuestra bandera..."
+ SAF_Edgy_flag: "Cambiar bandera"
+ SAF_Edgy_flag_flag_desc: "Hoy tenemos la capacidad de cambiar nuestra bandera..."
+
+ SER_flag_change: "Renombrar a Serbia"
+ SER_flag_change_desc: "Con la pérdida de Montenegro, deberíamos renombrar nuestra nación a Serbia."
+
+ USA_Reset_flag: "Cambiar bandera"
+ USA_Reset_flag_desc: "Hoy tenemos la capacidad de cambiar nuestra bandera."
+
+ MAU_NEW_flag: "Cambiar bandera"
+ MAU_NEW_flag_desc: "Lo mismo pero con rayas rojas."
+ IRQ_NEW_flag: "Cambiar bandera"
+ IRQ_NEW_flag_desc: "Debemos actualizar nuestra bandera para distanciarnos de la era Ba'athista."
+ DRC_NEW_flag: "Cambiar bandera"
+ DRC_NEW_flag_desc: "Creo que un azul más claro sería mejor."
+ RWA_NEW_flag: "Cambiar bandera"
+ RWA_NEW_flag_desc: "Nuestra bandera se ha asociado con la brutalidad del genocidio de 1994. Sería mejor cambiarla."

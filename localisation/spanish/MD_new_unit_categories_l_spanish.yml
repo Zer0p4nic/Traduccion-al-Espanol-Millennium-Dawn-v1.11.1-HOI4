@@ -1,0 +1,26 @@
+﻿l_spanish:
+  category_all_recon: "Reconocimiento"
+  category_militia: "Milicia"
+  category_non_militia: "No Milicia"
+  category_apc: "Infantería Mecanizada"
+  category_IFV: "Infantería Blindada"
+  category_all_airborne: "Todos Aerotransportados"
+  category_all_amphibous: "Todos Marines"
+  category_real_tanks: "Tanques de Batalla Principales"
+  category_asg: "Tanque Ligero / Cañón de Asalto"
+  category_spart: "Artillería Autopropulsada"
+  category_mot_inf: "Infantería Motorizada"
+  category_foot_inf: "Infantería de a Pie"
+
+  category_inf_airborne: "Infantería Paracaidista Ligera"
+  category_mot_airborne: "Paracaidistas Motorizados"
+  category_arm_airborne: "Paracaidistas Mecanizados y Blindados"
+
+	category_inf_amphib: "Infantería de Marina Ligera"
+	category_mot_amphib: "Marines Motorizados"
+	category_arm_amphib: "Marines Mecanizados y Blindados"
+
+	category_air_aslt: "Helicópteros de Asalto y Ataque"
+	category_inf_aslt: "Infantería de Asalto Aéreo Ligera"
+	category_arm_aslt: "Asalto Aéreo Mecanizado y Blindado"
+	category_atk_helo: "Unidades de Helicópteros de Ataque"

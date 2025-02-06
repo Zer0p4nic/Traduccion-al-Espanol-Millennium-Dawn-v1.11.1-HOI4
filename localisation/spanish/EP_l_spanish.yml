@@ -1,0 +1,54 @@
+﻿l_spanish:
+ market_money_cost_display_header_tt: "§YCostos del Dinero de Mercado§!"
+ infantry_equipment_loc: "Armas de Infantería:
+ cnc_equipment_loc: "Equipo CNC:
+ aa_equipment_loc: "MANPAD:
+ at_equipment_loc: "ATGM:
+ hat_equipment_loc: "ATGM Montado:
+ art_equipment_loc: "Artillería:
+ atk_helo_equipment_loc: "Helicóptero de Ataque:
+ trans_helo_equipment_loc: "Helicóptero de Transporte:
+ util_equipment_loc: "Vehículo Utilitario:
+ mbt_equipment_loc: "MBT:
+ apc_equipment_loc: "APC:
+ ifv_equipment_loc: "IFV:
+ spart_equipment_loc: "Artillería SP:
+ light_tank_equipment_loc: "Tanque Ligero:
+ spaa_equipment_loc: "Anti-Aérea SP:
+ train_equipment_loc: "Tren:
+ convoy_equipment_loc: "Convoy:
+ sml_pln_equipment_loc: "Avión Pequeño:
+ med_pln_equipment_loc: "Avión Mediano:
+ lrg_pln_equipment_loc: "Avión Grande:
+ inf_equip_desc: "§YEquipo de Infantería§!"
+ arm_equip_desc: "§YEquipo Blindado§!"
+ air_equip_desc: "§YEquipo de Aeronaves§!"
+ sup_equip_desc: "§YEquipo de Suministros§!"
+ infantry_equipment_loc_tt: "§R[?temp_infantry_equipment_cost]b/CPW§!"
+ cnc_equipment_loc_tt: "§R[?temp_cnc_equipment_cost]b/CPW§!"
+ aa_equipment_loc_tt: "§R[?temp_aa_equipment_cost]b/CPW§!"
+ at_equipment_loc_tt: "§R[?temp_at_equipment_cost]b/CPW§!"
+ hat_equipment_loc_tt: "§R[?temp_hat_equipment_cost]b/CPW§!"
+ art_equipment_loc_tt: "§R[?temp_art_equipment_cost]b/CPW§!"
+ atk_helo_equipment_loc_tt: "§R[?temp_atk_helo_equipment_cost]b/CPW§!"
+ trans_helo_equipment_loc_tt: "§R[?temp_trans_helo_equipment_cost]b/CPW§!"
+ util_equipment_loc_tt: "§R[?temp_util_equipment_cost]b/CPW§!"
+ mbt_equipment_loc_tt: "§R[?temp_mbt_equipment_cost]b/CPW§!"
+ apc_equipment_loc_tt: "§R[?temp_apc_equipment_cost]b/CPW§!"
+ ifv_equipment_loc_tt: "§R[?temp_ifv_equipment_cost]b/CPW§!"
+ spart_equipment_loc_tt: "§R[?temp_spart_equipment_cost]b/CPW§!"
+ light_tank_equipment_loc_tt: "§R[?temp_light_tank_equipment_cost]b/CPW§!"
+ spaa_equipment_loc_tt: "§R[?temp_spaa_equipment_cost]b/CPW§!"
+ train_equipment_loc_tt: "§R[?temp_train_equipment_cost]b/CPW§!"
+ convoy_equipment_loc_tt: "§R[?temp_convoy_equipment_cost]b/CPW§!"
+ sml_pln_equipment_loc_tt: "§R[?temp_sml_pln_equipment_cost]b/CPW§!"
+ med_pln_equipment_loc_tt: "§R[?temp_med_pln_equipment_cost]b/CPW§!"
+ lrg_pln_equipment_loc_tt: "§R[?temp_lrg_pln_equipment_cost]b/CPW§!"
+ current_contract_total_tt: "§YCostos totales actuales del contrato:§! §R[?temp_contract_total_cost]b/Por Semana§!"
+ projected_contract_total_tt: "§YCostos totales proyectados del contrato:§! §R[?temp_projected_total_cost]b/Por Semana§!"
+ current_market_income_tt: "§YIngresos actuales del mercado:§! §G[?market_sold_value_track]b/Por Semana§!"
+ purchase_costs: "§YLos valores mostrados arriba son cuánto cuesta cada tipo de equipo semanalmente cuando se compra (Miles de millones por semana). Cualquier generación de equipo tendrá el mismo costo base por semana.§!"
+ button_instructions: "§GHaz clic en el botón para agregar ese valor a los costos proyectados. Haz clic una vez cada vez que agregues ese tipo de equipo al contrato§!"
+ cost_button_tt: "Haz clic izquierdo para agregar costo. Haz clic derecho para restar costo."
+ base_cost_desc: "§YCostos semanales base§!"
+ add_cost_desc: "§YSi se agregó costo semanal§!"

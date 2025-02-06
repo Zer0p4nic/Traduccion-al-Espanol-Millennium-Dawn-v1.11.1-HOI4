@@ -1,0 +1,33 @@
+﻿l_spanish:
+
+ # DYNAMIC MODIFIER
+ education_dynamic_modifier: "Modificador Dinámico de Tasa de Alfabetización"
+ education_dynamic_modifier_desc: "Con más financiación, una mano firme en el timón y algo de paciencia, esta nación puede esperar ver un aumento en la §YTasa de Alfabetización§! Una tasa de alfabetización más alta implicará mayor productividad en sectores educados, como los trabajos de §HOficina§!\n\nSin embargo, existen beneficios al reducir la tasa de alfabetización, si la nación tiene una §YEconomía Agraria§!, por ejemplo..."
+
+ # DECISIONS
+ education_category: "Tasas de Alfabetización en [ROOT.GetNameWithFlag]"
+ education_category_desc: "Como una nación que lucha por brindar a su población la educación que necesita, [ROOT.GetName] necesita gestionar su presupuesto educativo de manera efectiva para poder reducir los males de §Y$education_dynamic_modifier$§!, se te dará un informe sobre la §YTasa de Alfabetización§! anualmente, al final del año escolar.\n§YEventos§!, §YDecisiones§! y elecciones hechas en el §YÁrbol de Foco§! pueden aumentar (o disminuir) esta tasa.\n\nA una §YTasa de Alfabetización§! del 95%, [ROOT.GetName] perderá esta mecánica, esta mecánica volverá si la §YTasa de Alfabetización§! cae por debajo del 90%, esto puede ocurrir debido a varios factores.\n\n[ROOT.GetNameWithFlag]'s Current §YTasa de Alfabetización§!: [?ROOT.literacy_rate|%2]"
+
+ # UNUSED CONTENT (FOR NOW)
+ # literacy_up_drift_active: "§YTasas de Alfabetización§! §Gestán aumentando debido a nuestro gasto educativo!§!"
+ # literacy_down_drift_active: "§YTasas de Alfabetización§! §Restán disminuyendo debido a nuestra retención del gasto educativo!§!"
+
+ # TOOLTIPS
+ # EFFECT TOOLTIPS
+ literacy_rate_change_TT: "§YTasa de Alfabetización§! cambia en [?LR_change|+%2]"
+ literacy_rate_change_event_TT: "§YTasa de Alfabetización§! cambia en [?literacy_change_stored|+%2]"
+ # IN GAME TOOLTIPS
+ lit_rate_TT_yes: "\n\n[FROM.GetName] actualmente tiene una §YTasa de Alfabetización§! de [?FROM.literacy_rate|Y%2], esto afectará la §YTasa de Alfabetización§! de [ROOT.GetName] si ocurre la anexión!"
+
+ # EVENTS
+ education.1.t: "¡El Ministro de Educación Informa Sobre Altas Tasas de Alfabetización!"
+ education.1.d: "Nuestra prudente financiación educativa y currículos gestionados expertamente han dado sus frutos, con una tasa de alfabetización superior al 95%, ahora podemos llamarnos una sociedad altamente educada y bien instruida, con poca resistencia de aquellos detractores, tanto dentro como fuera de las fronteras de la nación. Al lograr este objetivo monumental, ya no recibiremos informes anuales sobre las tasas de alfabetización de nuestra nación."
+ education.1.A: "¿Todavía recibo mi manzana diaria?"
+
+ education.2.t: "¡El Ministro de Educación Informa Sobre la Disminución de las Tasas de Alfabetización!"
+ education.2.d: "A pesar de nuestros mejores esfuerzos, nuestras tasas de alfabetización parecen haber caído, ya sea debido al apoyo vacilante hacia mantener bien financiado el sistema educativo o a una gran afluencia de personas menos alfabetizadas, es una conjetura de cualquiera, una vez más recibiremos informes anuales sobre las tasas de alfabetización de nuestra nación."
+ education.2.A: "¿Dónde están mis libros de abecedario?"
+
+ education_literacy_pulse.1.t: "¡Vacaciones de Verano!"
+ education_literacy_pulse.1.d: "Mientras la escuela está cerrada por el Verano, esperamos que nuestros estudiantes saluden la bandera, sin importar lo aburrido que sea. Los informes han llegado y los exámenes de nuestros estudiantes han sido contabilizados, no importa lo que pase, esperemos que se vuelvan útiles, ¿de acuerdo?"
+ education_literacy_pulse.1.A: "Espero que nuestras calificaciones sean buenas."

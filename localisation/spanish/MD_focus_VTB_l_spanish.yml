@@ -1,0 +1,120 @@
+﻿l_spanish:
+ VBT_Start: "¡Vitebsk Será Rusa!"
+ VBT_Start_desc:  "We have long endured the bullying of the authorities over us, but now that the whole country is on fire, it's time to make our move. We will seize all administrations and form a militia that will fight for our independence!"
+
+ VBT_Economic_help: "Asistencia Financiera"
+ VBT_Economic_help_desc: "Nuestra joven república necesita dinero, esperamos la ayuda de Rusia."
+
+ VBT_mobilisation: "Declarar Movilización"
+ VBT_mobilisation_desc: "Es hora de levantar a nuestros residentes para defender la patria."
+
+ VBT_strengthen_government: "Fortalecer el Poder del Gobierno"
+ VBT_strengthen_government_desc: "Un país fuerte necesita un gobierno fuerte."
+
+ VBT_weapon_help: "Ayuda con Armas"
+ VBT_weapon_help_desc:  "The warehouses of our region do not have enough weapons to equip our militia, we hope that Russia will help"
+
+ VBT_Ruble: "El Rublo Como Moneda Principal"
+ VBT_Ruble_desc:  "We are putting the Russian Ruble into circulation to improve our economic condition"
+
+ VBT_government: "Gobierno de la República de Vitebsk"
+ VBT_government_desc:  "We are ready to finally formalize the government of our republic with legislative acts"
+
+ VBT_volunteers_help: "Voluntarios de Rusia"
+ VBT_volunteers_help_desc:  "Many volunteers from Russia want to fight for us, we are ready to let them into the territory of our republic"
+
+ VBT_weapon_help2: "Solicitud Repetida de Armas"
+ VBT_weapon_help2_desc:  "Our struggle for independence requires more weapons, because the enemy continues to advance"
+
+ VBT_intervene: "Intervención Rusa"
+ VBT_intervene_desc:  "We cannot fight alone and are ready to request the help of the Russian army"
+
+ VBT_referendum: "El Referéndum Sobre la Unión a Rusia"
+ VBT_referendum_desc:  "We have defended our independence, now we are ready to join Russia, will they accept us?"
+
+ VBT_svet: "Nacionalización de la empresa electro-técnica \"Svet\""
+ VBT_svet_desc:  "Since we are now an independent state, it is necessary to build our economy. We will begin nationalization of former Belarusian enterprises"
+
+
+ VBT_roads: "Restaurar Carreteras"
+ VBT_roads_desc: "Es necesario restaurar las carreteras en nuestra república que han sufrido por las operaciones militares."
+
+
+ VBT_army_republic: "Ejército Republicano"
+ VBT_army_republic_desc: "Debemos estar preparados para defendernos, por lo que necesitamos crear un ejército republicano para proteger nuestro país."
+
+ VBT_education: "Educación en la República"
+ VBT_education_desc: "Es necesario comenzar a ocuparse del sistema educativo de nuestra república."
+
+ VBT_specnaz_republic: "Fuerzas Especiales Republicanas"
+ VBT_specnaz_republic_desc: "Los voluntarios experimentados que llegaron de Rusia y otros países pueden convertirse en instructores para las fuerzas especiales emergentes de la república."
+
+ VBT_passports: "Comenzar a Distribuir Pasaportes"
+ VBT_passports_desc: "Estamos listos para legislar la ciudadanía de nuestra república."
+
+ VBT_defence_republic: "Preparar una Estrategia de Defensa Nacional"
+ VBT_defence_republic_desc: "Nuestro pequeño país está obligado a defenderse de sus vecinos más peligrosos, por lo que necesitamos desarrollar una estrategia de defensa nacional."
+
+ VBT_medicine: "Medicina en la República"
+ VBT_medicine_desc: "Es necesario aumentar el costo de la medicina porque después de la guerra, muchos heridos y lesionados no pueden someterse normalmente a cursos de rehabilitación."
+
+ VBT_social: "Aumentar el Gasto Social"
+ VBT_social_desc: "Los ciudadanos de nuestra república deben tener todas las garantías que podamos brindarles."
+
+
+ vitebsk_rus.1.t: "Abandono del Estado de la Unión"
+ vitebsk_rus.1.d: "¡Rusia patrocina descaradamente a separatistas en nuestro territorio! ¡No puede haber cuestión de ningún estado de la unión!"
+ vitebsk_rus.1.a: "¡Fuera, Rusia!"
+
+ vitebsk_rus.2.t: "Los rebeldes de Vitebsk están pidiendo equipo"
+ vitebsk_rus.2.d: "Los rebeldes de Vitebsk nos están pidiendo equipo para sus soldados, ya que los suministros bajo su control resultaron ser insignificantes."
+ vitebsk_rus.2.a: "Les daremos armas."
+ vitebsk_rus.2.b: "No, no interferiremos."
+
+ vitebsk_rus.3.t: "Asistencia Económica para la República No Reconocida"
+ vitebsk_rus.3.d: "Los rebeldes de Vitebsk nos están pidiendo que les proporcionemos apoyo financiero, ya que casi no tienen dinero a su disposición."
+ vitebsk_rus.3.a: "Deberíamos darles dinero."
+ vitebsk_rus.3.b: "No, no interferiremos."
+
+ vitebsk_rus.4.t: "Los rebeldes de Vitebsk están pidiendo equipo"
+ vitebsk_rus.4.d: "Los rebeldes de Vitebsk nos están pidiendo equipo para sus soldados, ya que los suministros bajo su control resultaron ser insignificantes."
+ vitebsk_rus.4.a: "Les daremos armas."
+ vitebsk_rus.4.b: "No, no interferiremos."
+
+ vitebsk_rus.5.t: "Los rebeldes de Vitebsk piden intervenir en el conflicto"
+ vitebsk_rus.5.d: "El conflicto ya ha cobrado muchas víctimas y el pueblo de la República de Vitebsk nos pide que pongamos fin al conflicto. ¿Estamos dispuestos a atacar a un estado reconocido y soberano por el bien de nuestras ambiciones?"
+ vitebsk_rus.5.a: "Salvaremos a la población ruso-parlante de Vitebsk."
+ vitebsk_rus.5.b: "Creo que no vale la pena interferir."
+
+ vitebsk_rus.6.t: "La República de Vitebsk celebra un referéndum sobre la unión a nuestro país"
+ vitebsk_rus.6.d: "Los rebeldes de Vitebsk están celebrando un referéndum, después del sangriento final de la guerra civil, sobre la unión a nuestro país. ¿Nos atreveremos a hacerlo?"
+ vitebsk_rus.6.a: "Es hora de que vuelvan a casa."
+ vitebsk_rus.6.b: "No queremos enemistarnos completamente con la comunidad mundial."
+
+ vitebsk_rus.7.t: "¡Nos declaramos Bielorrusia!"
+ vitebsk_rus.7.d: "El gobierno actual de Bielorrusia finalmente ha traicionado a las personas que viven en estas tierras, intentando separarlas del pueblo ruso unido. Moscú no ve esto y no quiere tener nada que ver con nosotros, por lo que asumiremos el papel de una verdadera república rusa."
+ vitebsk_rus.7.a: "¡Los bielorrusos son rusos!"
+
+ vitebsk_rus.8.t: "La Caída de Minsk"
+ vitebsk_rus.8.d: "El enemigo ha capturado Minsk, tal vez deberíamos concluir un tratado de paz con ellos, porque nuestras fuerzas claramente no son suficientes para contenerlos."
+ vitebsk_rus.8.a: "Les enviaremos una oferta."
+
+ vitebsk_rus.9.t: "El Gobierno de Bielorrusia propone un tratado de paz"
+ vitebsk_rus.9.d: "Hemos recibido un mensaje del Gobierno de Bielorrusia con una propuesta para concluir un tratado de paz. Parece que estamos luchando guerras con más éxito de lo que esperaban."
+ vitebsk_rus.9.a: "Creo que es hora de hacer las paces."
+ vitebsk_rus.9.b: "La guerra hasta el final amargo."
+
+ vitebsk_rus.10.t: "La República de Vitebsk ofrece integración"
+ vitebsk_rus.10.d: "El liderazgo de la República de Vitebsk ofrece una opción de integración, donde serán una república con derechos ampliados, a diferencia de otros sujetos del estado."
+ vitebsk_rus.10.a: "Estamos de acuerdo."
+ vitebsk_rus.10.b: "No aceptamos tales condiciones."
+
+ vitebsk_focus: "Árbol de Enfoque de la República Popular de Vitebsk"
+
+
+ VTB_National_Defense_Strategy: "Estrategia de Defensa Nacional"
+ VTB_profarmy: "Ejército Republicano"
+
+ #Cosmetic
+ VTB_RUS_communism: "Belorrusia"
+ VTB_RUS_nationalist: "Belorrusia"

@@ -1,0 +1,78 @@
+﻿l_spanish:
+ # Header
+ New_England_focus: "Árbol de Enfoque de Nueva Inglaterra"
+
+      #####################
+      # A Post United Era #
+      #####################
+    ###################
+    #### Focus Tree ###
+    ###################
+
+  ####################################
+  ##### New Nation, New Problems #####
+  ####################################
+NEN_new_nation_new_problems: "Nueva Nación, Nuevos Problemas"
+NEN_new_nation_new_problems_desc: "Con el polvo asentándose podemos comenzar a averiguar dónde podríamos configurar realmente nuestra \"base de operaciones\", también conocida como la capital de nuestra nación."
+NEN_focus_maine_mayhem: "Caos de Maine"
+NEN_focus_maine_mayhem_desc: "Con Maine siendo nuestro estado más grande en cuanto a masa de tierra, también es el más difícil de manejar ya que la gente trata de esconderse en los bosques y montañas. Por lo tanto, debemos atraerlos a través de la creación de una estructura económica básica. La comida es un derecho para que sobrevivamos y vivamos y Maine servirá como un buen punto de partida para dicha composición económica básica."
+NEN_focus_greenville_gallantries: "Galanterías de Greenville"
+NEN_focus_greenville_gallantries_desc: "A medida que las personas comienzan a trabajar juntas y la cohesión social se moldea en una forma pacífica, ahora es el momento en que comenzamos a implementar servicios administrativos y civiles. Pronto, el estado de Maine será una maravilla para abrazar en nuestra joven nación."
+NEN_focus_hampshire_havoc: "Caos de New Hampshire"
+NEN_focus_hampshire_havoc_desc: "Siendo aproximadamente el estado más central de nuestra nueva nación, New Hampshire es un estado estratégicamente importante para restaurar el orden en nuestra nación en general. Por lo tanto, debemos establecer infraestructura y actividad económica para preparar al estado para la \"reintegración\"."
+NEN_focus_concord_concrete: "Concreto de Concord"
+NEN_focus_concord_concrete_desc: "La cohesión económica y social ha alcanzado niveles aceptables donde podemos comenzar a implementar servicios civiles y de emergencia para mejorar la vida de las personas y restaurar el orden y la ley en el estado. En todo esto, el principal poder económico ha sido la empresa constructora conocida como Concord Concrete, donde literalmente han estado sentando las bases para el futuro de nuestra joven nación."
+NEN_focus_messychusetts: "Messychusetts"
+NEN_focus_messychusetts_desc: "Massachusetts se ha convertido en un desastre absoluto desde la caída de la antigua república. Esto es devastador para nuestra joven nación ya que muchos dentro de nuestra nación consideran que Boston en sí es la capital cultural que ampliamente identifica lo que significa ser un neoinglés. Como tal, haremos lo que podamos para limpiar, reconstruir y establecer un camino para traer de vuelta esta cultura al centro de atención."
+NEN_focus_boston_beauty: "Belleza de Boston"
+NEN_focus_boston_beauty_desc: "A través del trabajo incansable y el sudor de la frente ahora restauramos la gloria de esta ciudad y tierra alguna vez hermosa. Con este estado restaurado ahora podemos solidificar esta nueva gloria y pasión encontradas implementando servicios civiles y administrativos para permitir la restauración completa del orden y la paz en otra parte de nuestra gran nación."
+NEN_focus_vermont_violence: "Violencia de Vermont"
+NEN_focus_vermont_violence_desc: "Vermont, la otra mitad de los \"Gemelos del Triángulo\", es un estado en la frontera con Nueva York y, por lo tanto, también está bastante aislado a pesar de su desarrollo. Con este aislamiento, actos rampantes de violencia han consumido las calles y es nuestro trabajo restaurar la paz y la estabilidad en el estado para que pueda ser reintegrado a su familia del noreste. Comenzaremos con algunas inversiones económicas y de infraestructura básica limitadas a lo largo de las regiones fronterizas de Massachusetts y New Hampshire y seguiremos desde allí."
+NEN_focus_virtuous_vermont: "Virtuoso Vermont"
+NEN_focus_virtuous_vermont_desc: "Tomó algún tiempo, pero con trabajo duro y cantidades encomiables de dedicación de la población local hemos comenzado a devolver la paz y la virtud a estas tierras alguna vez inestables. Ahora podemos establecer la administración gubernamental y la aplicación de la ley para organizar mejor y establecer la base de la reintegración del estado."
+NEN_focus_connecticut_crutch: "La Muleta de Connecticut"
+NEN_focus_connecticut_crutch_desc: "Nuestro segundo estado más pequeño, pero que abarca aproximadamente una tercera parte de nuestra costa, Connecticut sirve como una especie de apuesta por derecho propio. Su diversidad económica es difícil de mantener con tanta costa y poco terreno interior con el que trabajar. Por lo tanto, es nuestra responsabilidad establecer un estándar de diversidad en términos de economía para que el estado y su gente tengan tantas oportunidades como cualquier otra parte de nuestra nación."
+NEN_focus_middletown_miracle: "Milagro de Middletown"
+NEN_focus_middletown_miracle_desc: "Con algo de inversión ligera en industrias agrícolas y de procesamiento de alimentos, hemos podido establecer una línea de base que no es solo \"manufactura pesada o envío\". Ahora podemos comenzar a implementar servicios civiles y reestablecer el orden y la paz en el estado, convirtiéndolo en una pieza más del rompecabezas de Nueva Inglaterra."
+NEN_focus_rhode_island_riots: "Disturbios de Rhode Island"
+NEN_focus_rhode_island_riots_desc: "A pesar de ser nuestro territorio más pequeño, el estado de Rhode Island ha sido tomado por bandas de alborotadores. Con tanta inestabilidad, debemos establecer esencialmente solo asentamientos fronterizos para disuadir a los alborotadores de continuar. Desde allí podemos introducir lentamente agencias de aplicación de la ley para permitir el desgaste de este \"caos organizado\"."
+NEN_focus_providence_parties: "Fiestas de Providence"
+NEN_focus_providence_parties_desc: "Tomó algún tiempo, pero finalmente lo logramos. Los grupos de alborotadores se han reducido considerablemente y la cohesión social ha comenzado a ser una prioridad entre las personas del estado. Con esta tendencia creciente de estabilidad, ahora es el momento de capitalizarla al introducir servicios civiles como la aplicación de la ley local, bomberos y la administración gubernamental. Pronto nuestra nación volverá a estar completa."
+NEN_focus_new_new_england: "Nueva, Nueva Inglaterra"
+NEN_focus_new_new_england_desc: "Ha sido un viaje largo y peligroso, pero con dedicación, determinación y la voluntad de las personas de nuestra gran nación hemos prevalecido. Nuestra nación está unida y con esta unidad establecemos un camino que podemos crear. El futuro es ahora y el futuro será nuestro."
+
+
+  ###########################
+  ##### Custom Tooltips #####
+  ###########################
+NEN_Augusta_capital: "Ha hecho §YAugusta§! La Capital"
+NEN_Concord_capital: "Ha hecho §YConcord§! La Capital"
+NEN_Boston_capital: "Ha hecho §YBoston§! La Capital"
+NEN_end_of_teaser: "Fin oficial del árbol de avance, ahora controlas tu tierra. Así que haz con ella lo que te plazca... por ahora."
+
+
+
+  #####################
+  ##### Decisions #####
+  #####################
+NEN_decisions_war_time_mobilization_category: "Movilización en Tiempo de Guerra"
+NEN_decisions_war_time_mobilization_category_desc: "Cuando surja la necesidad, podemos convocar a una legión de voluntarios para al menos llenar los vacíos en las líneas. Porque no sabemos cuándo llegará la guerra, pero sabemos que estará sobre nosotros."
+NEN_war_time_mobilization: "Movilización de la 1ª Ola"
+NEN_war_time_mobilization_desc: "El llamado a las armas está sobre nosotros y debemos avanzar para asegurar la defensa de nuestros hogares. ¡A las armas por los chicos de Dixie!"
+NEN_war_second_wave_defenders: "Defensores de la 2ª Ola"
+NEN_war_second_wave_defenders_desc: "El enemigo avanza, por lo tanto, debemos reclutar otra ola de defensores. La moral de la nación sufrirá pero necesitamos las tropas."
+NEN_war_desperate_defenders: "Defensores Desesperados"
+NEN_war_desperate_defenders_desc: "Las cosas se están poniendo sombrías, necesitamos todos los cuerpos disponibles, capaces o no, para mantener la línea. Tal vez, solo tal vez, aún podamos ganar esto."
+
+
+  ##################
+  ##### Events #####
+  ##################
+NEN_event.1.t: "Sede del Gobierno"
+NEN_event.1.d: "Con nuestra nueva nación surgiendo de la antigua república, debemos buscar establecer la capital de nuestra nación. Muchos simplemente desean hacer las cosas simples para que podamos seguir con nuestros días y trabajar hacia la estabilización del reino. Como tal, hay un debate sobre qué capital estatal albergará la capital nacional. Hasta ahora, nuestras opciones parecen ser Maine, New Hampshire y Massachusetts. Cualquiera que sea la elección, probablemente será una buena independientemente de que todos estén relativamente cerca el uno del otro."
+NEN_event.1.o1: "¿Podemos seguir con esto ya?"
+NEN_event.2.t: "Elección de la Capital"
+NEN_event.2.d: "Como se dijo antes, el debate sobre Augusta, Concord y Boston sigue en pie. Muchos creen que Boston ya es el lugar no oficial para la identidad de Nueva Inglaterra, pero otros creen que Boston debería quedarse para ser la capital cultural y no la capital real."
+NEN_event.2.o1: "Augusta, Maine"
+NEN_event.2.o2: "Concord, New Hampshire"
+NEN_event.2.o3: "Boston, Massachusetts"

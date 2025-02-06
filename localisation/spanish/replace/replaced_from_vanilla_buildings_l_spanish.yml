@@ -1,0 +1,106 @@
+﻿l_spanish:
+ # 0
+ industrial_complex: "Industria Civil"
+ industrial_complex_plural: "Industrias Civiles"
+ industrial_complex_desc: "Este edificio proporciona al estado industria para la producción de bienes civiles o la construcción de nuevos edificios. Se puede convertir en industria militar si es necesario.\n\nProporciona al estado:\nNúmero base de trabajadores requeridos: §Y345K§!\nProducción base del PIB por §YIndustria Civil§!: $§Y20 mil millones§!\nConsumo base de energía: §R-0.4§! GW\n"
+ # 1
+ arms_factory: "Industria Militar"
+ arms_factory_plural: "Industrias Militares"
+ arms_factory_desc: "Este edificio proporciona al estado industria para la producción de nuevo equipo militar. Se puede convertir en industria civil si es necesario.\n\nProporciona al estado:\nNúmero base de trabajadores requeridos: §Y25K§!\nProducción base del PIB por §YIndustria Militar§!: $§Y1 mil millones§!\nConsumo base de energía: §R-0.4§! GW"
+ # 2
+ infrastructure: "Infraestructura"
+ infrastructure_plural: "Infraestructura"
+ infrastructure_desc: "Este edificio proporciona al estado una mejora de la infraestructura. Aumenta su poder de suministro en regiones estratégicas e incrementa la velocidad de sus divisiones, así como aumenta su extracción de recursos naturales."
+ # 3
+ internet_station: "Infraestructura de Red"
+ internet_station_plural: "Infraestructura de Red"
+ internet_station_desc: "§YInfraestructura de Red§! son estructuras altas utilizadas en los campos de telecomunicaciones y comunicación por radio para impulsar transmisiones a grandes distancias o cables de fibra óptica subterráneos y sistemas de computación en la nube.\n\nCada nivel de §YInfraestructura de Red§! mejora la velocidad de crecimiento de la productividad local en un §G+5.00%§!.\nCada nivel de §YInfraestructura de Red§! reduce la duración de §YInversiones Internacionales§! en un §G-5.00%§!."
+ # 4
+ dockyard: "Astillero Naval"
+ dockyard_plural: "Astilleros Navales"
+ dockyard_desc: "§YAstilleros Navales§! representan la capacidad de un estado para producir embarcaciones militares de todo tipo, desde §YPatrulleras§!, §YConvoyes§!, §YDestructores§!, §YPortaaviones§! y más.\n\nProporciona al estado:\nNúmero base de trabajadores requeridos: §Y25K§!\nProducción base del PIB por §YAstillero Naval§!: $§Y1 mil millones§!\nConsumo base de energía: §R-0.4§! GW"
+ # 5
+ air_base: "Base Aérea"
+ air_base_plural: "Bases Aéreas"
+ air_base_desc: "Una §YBase Aérea§! es una instalación de almacenamiento y un complejo militar para el despliegue y la preparación de sus fuerzas aéreas. Se puede apilar hasta el nivel diez, agregando una capacidad adicional de §Y50§! aviones por nivel."
+ # 6
+ radar_station: "Estación de Radar"
+ radar_station_plural: "Estaciones de Radar"
+ radar_station_desc: "§YEstaciones de Radar§! le permiten obtener información sobre las tropas enemigas en estados cercanos. Consiste en diversos radares y sensores, así como activos de inteligencia y capacidad para analizar la situación en evolución.\nUn nivel más alto aumentará su alcance efectivo.\nSus radares también proporcionan al estado una mejor detección de las fuerzas aéreas enemigas, dando a sus aviones una mejor oportunidad de enfrentarlos.\nAdemás, los radares aumentan la detección de flotas enemigas en el mar."
+ RADAR_ONMAP_TOOLTIP: "§HEstación de radar§! nivel: $LVL|G$/$TOT|H$\nPertenece a: $WHO|H$"
+ RADAR_ONMAP_DAMAGED_TOOLTIP: "§HEstación de radar§! nivel: $LVL|R$/$TOT|H$\nPertenece a: $WHO|H$"
+ # 7
+ anti_air_building: "Sitios SHORAD"
+ anti_air_building_plural: "Sitios SHORAD"
+ anti_air_building_desc: "§YSitios SHORAD§! (Defensa Aérea de Corto Alcance) son complejos y grupos de armas antiaéreas y tácticas que manejan la defensa aérea contra amenazas aéreas de baja altitud. Estos sitios trabajan juntos para dividir el espacio aéreo en áreas defendibles, proporcionando cobertura aérea a objetivos militares locales e infraestructura desde todo, desde helicópteros hasta aviones de baja altitud y aviones de reacción."
+ # 8
+ nuclear_reactor: "Reactor Nuclear"
+ nuclear_reactor_plural: "Reactores Nucleares"
+ nuclear_reactor_desc: "Este edificio convierte energía nuclear en energía eléctrica, consumiendo uranio moderadamente enriquecido en el proceso.\n\nProporciona al estado:\nGanancia base de energía: §G+2§! GW\n"
+ # 9
+ synthetic_refinery: "Infraestructura de Energía Renovable"
+ synthetic_refinery_plural: "Infraestructura de Energía Renovable"
+ synthetic_refinery_desc: "§YInfraestructura de Energía Renovable§! es un término general para todas las fuentes de energía renovable. Estas incluyen, entre otras, parques solares, turbinas eólicas, refinerías de biocombustibles, plantas de carbón vegetal, plantas de energía de biocombustibles y más. Como tal, utiliza fuentes renovables y produce combustible a partir de esas fuentes.\n\nProporciona al estado:\nGanancia base de energía: §G+0.5§! GW\n"
+ synthetic_refinery_amount: "$VALUE|Y0=$"
+ synthetic_refinery_resource: "£resources_strip|$FRAME$"
+ # 10
+ fuel_silo: "Reserva Estratégica de Combustible"
+ fuel_silo_plural: "Reservas Estratégicas de Combustible"
+ fuel_silo_desc: "La §YReserva Estratégica de Combustible§! es una amalgama de almacenes, almacenamiento en seco y otros almacenamientos similares a §YCombustible§!. Este edificio proporciona a su nación más espacio para almacenar §HCombustible§!."
+ # 11
+ offices: "Sector de Oficinas"
+ offices_plural: "Sectores de Oficinas"
+ offices_desc: "Los §YSectores de Oficina§! representan todas las demás industrias de la economía más allá de las industrias de extracción y pesadas. Esto incluye servicios financieros, al cliente, tecnología de la información, servicios minoristas y mucho más.\n\nProporciona al estado:\nNúmero base de trabajadores requeridos: §Y630K§!\nProducción base del PIB por §YSector de Oficina§!: $§Y50 mil millones§!\nConsumo base de energía: §R-0.25§! GW" #\n\nCombustible por día (K): §R-240.00§!
+ # 12
+ naval_base: "Base Naval"
+ naval_base_plural: "Bases Navales"
+ naval_base_desc: "Extiende el alcance de su flota y proporciona servicios de reparación para ella. Permite el suministro en el extranjero y la exportación de recursos. Niveles más altos aumentan el rendimiento del suministro."
+ # 13
+ bunker: "Fuerte Terrestre"
+ bunker_plural: "Fuertes Terrestres"
+ bunker_desc: "Este edificio inflige una penalización de ataque de $VALUE|+%0$ por cada nivel de fuerte en el atacante en combate. Atacar desde múltiples direcciones reducirá el efecto del fuerte."
+ # 14
+ coastal_bunker: "Fuerte Costero"
+ coastal_bunker_plural: "Fuertes Costeros"
+ coastal_bunker_desc: "Este edificio inflige una penalización de ataque de $VALUE|+%0$ por cada nivel de fuerte en el atacante en combate de invasión naval."
+ # 15 -
+ supply_node: "Centro de Suministro"
+ supply_node_desc: "Un Centro de Suministro es un punto a lo largo de un ferrocarril, fuera de las ciudades existentes, donde se puede obtener suministro."
+ # 16 - Railways
+ rail_way: "Ferrocarriles"
+ rail_way_plural: "Ferrocarriles"
+ rail_way_desc: "Los ferrocarriles se utilizan para conectar Centros de Suministro entre sí para permitir el suministro lejos de su capital.\n\nCada nivel de §YFerrocarriles§! mejora la velocidad de crecimiento de la productividad local en un §G+4.00%§!."
+ # 17 - Fossil Fuel Powerplant
+ fossil_powerplant: "Planta de Energía de Combustibles Fósiles"
+ fossil_powerplant_plural: "Plantas de Energía de Combustibles Fósiles"
+ fossil_powerplant_desc: "§YPlantas de Energía de Combustibles Fósiles§! es un término general para todas las fuentes de energía termoeléctrica basadas en combustibles fósiles. Estas incluyen, entre otras, carbón, gas natural y petróleo. §YPlantas de Energía de Combustibles Fósiles§! permanecerán inactivas si la generación de energía es mayor que el consumo.\n\nProporciona al estado:\nGanancia base de energía: §G+1§! GW\n"
+ fossil_powerplant_amount: "$VALUE|Y0=$"
+ fossil_powerplant_resource: "£resources_strip|$FRAME$"
+ # 18 - Commercialized Agriculture District
+ agriculture_district: "Distrito de Agricultura Comercializada"
+ agriculture_district_plural: "Distritos de Agricultura Comercializada"
+ agriculture_district_desc: "§YDistritos de Agricultura Comercializada§! representa un término general para toda la agricultura no de subsistencia dentro de nuestra nación. Incluye agroindustria, tierras arables, silos de granos, mataderos y más.\n\nProporciona al estado:\nNúmero base de trabajadores requeridos: §Y250K§!\nProducción base del PIB por §YDistrito de Agricultura Comercializada§!: $§Y25 mil millones§!\nConsumo base de energía: §R-0.10§! GW\n§YGanancia de Combustible§! de los Estados: 8\n§YSuministros Locales§!: 1.5%\n"
+ agriculture_district_amount: "$VALUE|Y0=$"
+ # 19 - Missile Launch Sites
+ rocket_site: "Sitio de Lanzamiento de Misiles"
+ rocket_site_plural: "Sitios de Lanzamiento de Misiles"
+ rocket_site_desc: "§YSitios de Lanzamiento de Misiles§! representa un término general para todo el equipo de misiles de teatro de nivel que va desde §YMisiles Superficie-Aire§! hasta §YMisiles Balísticos Intercontinentales§!. Proporciona al estado la capacidad de desplegar estos activos estratégicos en nuestras zonas aéreas estratégicas para ayudar en nuestra defensa aérea o proporcionar capacidades ofensivas."
+ # New Buildings
+ nuclear_facility: "Instalación Civil de I+D"
+ nuclear_facility_plural: "Instalaciones Civiles de I+D"
+ nuclear_facility_desc: "Una instalación civil de I+D incluye todo tipo de proyectos especiales relacionados con la capacidad industrial civil, instalaciones nucleares y más."
+ air_facility: "Instalación de Aerodinámica y Aviónica"
+ air_facility_plural: "Instalaciones de Aerodinámica y Aviónica"
+ air_facility_desc: "Las instalaciones experimentales para aerodinámica y aviónica le permiten iniciar proyectos de investigación para aeronaves, cohetes avanzados, electrónica relacionada y proyectos espaciales."
+ naval_facility: "Instalación de Ingeniería Naval"
+ naval_facility_plural: "Instalaciones de Ingeniería Naval"
+ naval_facility_desc: "Las instalaciones experimentales para ingeniería naval le permiten iniciar proyectos de investigación relacionados con buques de superficie y submarinos.\nUna instalación de ingeniería naval solo se puede crear en una provincia costera."
+ mega_gun_emplacement: "Cañón de Gran Calibre de Carga Múltiple"
+ mega_gun_emplacement_plural: "Cañones de Calibre de Carga Múltiple"
+ mega_gun_emplacement_desc: "Operando bajo el principio de propulsión de carga múltiple, este cañón de gran calibre está diseñado para alcanzar rangos de bombardeo sin precedentes. Utilizando una serie de túneles subterráneos, acelera proyectiles a velocidades supersónicas antes de lanzarlos hacia objetivos distantes."
+ stronghold_network: "Red Defensiva en Todo el Estado"
+ stronghold_network_plural: "Redes Defensivas en Todo el Estado"
+ stronghold_network_desc: "Una extensa red defensiva compuesta por túneles, puntos fuertes, trincheras, refugios antibombas, depósitos de armas y sitios de demolición previamente planificados les da a los defensores una ventaja decisiva contra cualquier atacante."
+ land_facility: "Instalación de Guerra Terrestre"
+ land_facility_plural: "Instalaciones de Guerra Terrestre"
+ land_facility_desc: "Las instalaciones experimentales para la guerra terrestre le permiten iniciar proyectos de investigación relacionados con diversos aspectos de la guerra terrestre, como tanques especiales o artillería."
