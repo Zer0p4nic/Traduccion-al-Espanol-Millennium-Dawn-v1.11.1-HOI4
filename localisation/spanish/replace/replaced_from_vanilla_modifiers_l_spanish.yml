@@ -2211,7 +2211,7 @@
  HARD_ATTACK_TAKEN: "£hard_attack_texticon  §TAtaque Duro Recibido: §!"
  STAT_COMMON_BUILD_COST_IC_T_CONVERTING: "£equipment_conversion_texticon  §TCosto de Conversión: §!"
  STAT_ARMY_EQUIPMENT_CAPTURE_FACTOR: "£infantry_equipment_texticon  Relación de Captura de Equipo: "
- STAT_ARMY_FUEL_CAPACITY: "£fuel_texticon  Capacidad de Combustible:
+ STAT_ARMY_FUEL_CAPACITY: "£fuel_texticon  Capacidad de Combustible: "
  STAT_COMMON_FUEL_CONSUMPTION: "£fuel_consumption_texticon  Uso de Combustible: "
  STAT_COMMON_FUEL_CONSUMPTION_FACTOR: "£fuel_consumption_texticon  Uso de Combustible: "
  STAT_NAVY_LG_ATTACK: "£soft_attack_texticon  Ataque Ligero: "
