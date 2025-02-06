@@ -2050,7 +2050,7 @@
  USA_f35_supply_chain: "Cadena De Suministro Del F-35"
  USA_f35_supply_chain_desc: "Cuantos más F-35 decidamos vender, más se tensará nuestra cadena de suministro. Tendremos que moderar cuántos de estos aviones vendemos, de lo contrario, nuestro sector industrial militar se ralentizará considerablemente. Sin embargo, a medida que se completen más pedidos, tendremos más capacidad disponible."
  USA_f35_program: "Programa Nacional Del F-35"
- USA_f35_program_desc: "Hemos comenzado a financiar el programa F-35 con el objetivo de convertirlo en nuestro caza multifuncional principal en el futuro previsible."
+ USA_f35_program_desc: "Hemos comenzado a financiar el programa F-35 con el objetivo de convertirlo en nuestro caza polivalente principal en el futuro previsible."
  USA_iraq_war_cost: "La Guerra De Irak"
  USA_iraq_war_cost_desc: "La Guerra de Irak ha sido un fracaso relativo. Nuestros esfuerzos por continuar la guerra ahora nos costarán una considerable cantidad de dinero durante algún tiempo, ya que debemos reunir dinero para el equipo y la mano de obra requeridos."
  petro_dollar: "El Petrodólar"
@@ -2483,7 +2483,7 @@
 
  # F35 Program
  usa.80.t: "El Rol Multifuncional del Mañana, el F-35"
- usa.80.d: "Después de años de colaboración, innovación y diseño, los ingenieros de Lockheed Martin, junto con sus socios Northrop Grumman y BAE Systems, finalmente han presentado un nuevo caza multifuncional de quinta generación: el F-35 Lightning II. Se dice que es el caza multifuncional de quinta generación más avanzado hasta la fecha, permitiendo a nuestro ejército avanzar décadas por delante de cualquier competidor. Sin embargo, hay mucho debate sobre si el programa valdrá la pena, ya que algunos argumentan que para cuando comience la producción, ya se podría haber desarrollado un diseño aún mejor."
+ usa.80.d: "Después de años de colaboración, innovación y diseño, los ingenieros de Lockheed Martin, junto con sus socios Northrop Grumman y BAE Systems, finalmente han presentado un nuevo caza polivalente de quinta generación: el F-35 Lightning II. Se dice que es el caza polivalente de quinta generación más avanzado hasta la fecha, permitiendo a nuestro ejército avanzar décadas por delante de cualquier competidor. Sin embargo, hay mucho debate sobre si el programa valdrá la pena, ya que algunos argumentan que para cuando comience la producción, ya se podría haber desarrollado un diseño aún mejor."
  usa.80.o1: "Financiar el programa"
  usa.80.o2: "Podemos hacer mejores aviones"
 
