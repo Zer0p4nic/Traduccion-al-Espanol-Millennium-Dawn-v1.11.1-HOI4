@@ -69,8 +69,8 @@
  offer_docking_rights_active:0 "está albergando bases navales para"
  similar_ruling_party:0 "Misma Perspectiva"
  different_party_types:0 "Perspectiva Diferente"
- DR_FACTION_WRONG_IDEOLOGY:0 "Perspectiva Diferente:
- DR_FACTION_MATCHING_MAJOR:0 "§Y$THEM|U$§! es la principal perspectiva diferente:
+ DR_FACTION_WRONG_IDEOLOGY:0 "Perspectiva Diferente: "
+ DR_FACTION_MATCHING_MAJOR:0 "§Y$THEM|U$§! es la principal perspectiva diferente: "
  DIPLOMACY_SEND_VOLUNTEERS_ACTION_DESC:0 "Podemos desplegar una fuerza de intervención en este país para salvaguardar la paz y la seguridad internacionales siempre que no sean nuestros aliados. Esta fuerza cumplirá con el derecho internacional humanitario y utilizará el nivel mínimo de fuerza necesario para lograr sus objetivos."
  SEND_VOL_TARGET_IS_ALLY:0 "Estamos aliados con @$TAG$$WHO|H$. Enviar fuerzas de intervención a aliados no es posible. Únete a su guerra y envía fuerzas expedicionarias en su lugar."
  SEND_VOL_TARGET_AT_WAR:0 "Para enviar una fuerza de intervención, @$TAG$$WHO|H$ debe estar en guerra."

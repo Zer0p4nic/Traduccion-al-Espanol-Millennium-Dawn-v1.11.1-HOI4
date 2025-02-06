@@ -108,8 +108,8 @@
  ETA_WEEKS:0 "§T$WEEKS|H$ semanas de $COST|H$ días restantes.§!"
  ETA_DAYS:0 "§T$DAYS|H$ día(s) de $COST|H$ días restantes.§!"
  RESEARCH_PROGRESS:0 "§T$PROGRESS|%1H$ terminado.§!"
- RESEARCH_IS_BEING_RESEARCHED:0 "Se está investigando:
- RESEARCH_HAS_STARTED_RESEARCH:0 "Se ha investigado antes:
+ RESEARCH_IS_BEING_RESEARCHED:0 "Se está investigando: "
+ RESEARCH_HAS_STARTED_RESEARCH:0 "Se ha investigado antes: "
  DAYS_SAVED:0 "§T$DAYS|H$ día(s) de $MAX|H$ días guardados.§!"
  DAYS_SAVED_DESC:0 "§TPuedes guardar un máximo de $MAX|H$ días de investigación por ranura de investigación. Asigna una tecnología para usar los días de investigación guardados.§!"
  DAYS_SAVED_RESEARCH_DESC:0 "Días guardados: $DAYS|0G$\n"

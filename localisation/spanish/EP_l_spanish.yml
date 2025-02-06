@@ -1,25 +1,25 @@
 ﻿l_spanish:
  market_money_cost_display_header_tt: "§YCostos del Dinero de Mercado§!"
- infantry_equipment_loc: "Armas de Infantería:
- cnc_equipment_loc: "Equipo CNC:
- aa_equipment_loc: "MANPAD:
- at_equipment_loc: "ATGM:
- hat_equipment_loc: "ATGM Montado:
- art_equipment_loc: "Artillería:
- atk_helo_equipment_loc: "Helicóptero de Ataque:
- trans_helo_equipment_loc: "Helicóptero de Transporte:
- util_equipment_loc: "Vehículo Utilitario:
- mbt_equipment_loc: "MBT:
- apc_equipment_loc: "APC:
- ifv_equipment_loc: "IFV:
- spart_equipment_loc: "Artillería SP:
- light_tank_equipment_loc: "Tanque Ligero:
- spaa_equipment_loc: "Anti-Aérea SP:
- train_equipment_loc: "Tren:
- convoy_equipment_loc: "Convoy:
- sml_pln_equipment_loc: "Avión Pequeño:
- med_pln_equipment_loc: "Avión Mediano:
- lrg_pln_equipment_loc: "Avión Grande:
+ infantry_equipment_loc: "Armas de Infantería: "
+ cnc_equipment_loc: "Equipo CNC: "
+ aa_equipment_loc: "MANPAD: "
+ at_equipment_loc: "ATGM: "
+ hat_equipment_loc: "ATGM Montado: "
+ art_equipment_loc: "Artillería: "
+ atk_helo_equipment_loc: "Helicóptero de Ataque: "
+ trans_helo_equipment_loc: "Helicóptero de Transporte: "
+ util_equipment_loc: "Vehículo Utilitario: "
+ mbt_equipment_loc: "MBT: "
+ apc_equipment_loc: "APC: "
+ ifv_equipment_loc: "IFV: "
+ spart_equipment_loc: "Artillería SP: "
+ light_tank_equipment_loc: "Tanque Ligero: "
+ spaa_equipment_loc: "Anti-Aérea SP: "
+ train_equipment_loc: "Tren: "
+ convoy_equipment_loc: "Convoy: "
+ sml_pln_equipment_loc: "Avión Pequeño: "
+ med_pln_equipment_loc: "Avión Mediano: "
+ lrg_pln_equipment_loc: "Avión Grande: "
  inf_equip_desc: "§YEquipo de Infantería§!"
  arm_equip_desc: "§YEquipo Blindado§!"
  air_equip_desc: "§YEquipo de Aeronaves§!"

@@ -8,9 +8,9 @@
  MODULE_ALLOWED_ROLE_IS_FORBIDDEN_BY_ANOTHER_MODULE: "El rol $ROLE|H$ está £trigger_yes£ por el módulo $ALLOWING_MODULE|H$ pero está £trigger_no£ por el módulo $FORBIDDING_MODULE|H$.\n\n"
 
  ### DESIGNER ###
- DESIGNER_CHASSIS_BASE: "Tecnología:
- DESIGNER_FROM_MODULES: "Módulos:
- DESIGNER_UNSAVED_CHANGES: "Cambios sin guardar:
+ DESIGNER_CHASSIS_BASE: "Tecnología: "
+ DESIGNER_FROM_MODULES: "Módulos: "
+ DESIGNER_UNSAVED_CHANGES: "Cambios sin guardar: "
 
  ### EQUIPMENT MODULE SLOTS ###
 
