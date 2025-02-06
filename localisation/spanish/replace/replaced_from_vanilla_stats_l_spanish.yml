@@ -1,35 +1,35 @@
 ﻿l_spanish:
- STAT_NAVY_SUB_VISIBILITY:0 "Sigilo de Submarinos:
+ STAT_NAVY_SUB_VISIBILITY:0 "Sigilo de Submarinos: "
  STAT_NAVY_SUB_VISIBILITY_DESC:0 "Qué tan silencioso y sigiloso es el submarino."
- STAT_NAVY_SHORE_BOMBARDMENT:0 "Capacidad de Asalto Anfibio:
+ STAT_NAVY_SHORE_BOMBARDMENT:0 "Capacidad de Asalto Anfibio: "
  STAT_NAVY_SHORE_BOMBARDMENT_DESC:0 "La capacidad de un barco para ayudar a las tropas embarcadas en asaltos anfibios y combates en costas cercanas cuando está en misión de Retención."
- STAT_NAVY_MISSION_COVERAGE:0 "Eficiencia de Detección del Enemigo:
+ STAT_NAVY_MISSION_COVERAGE:0 "Eficiencia de Detección del Enemigo: "
  STAT_NAVY_MISSION_COVERAGE_DESC:0 "§THasta qué punto el barco es eficiente detectando enemigos. Cada barco suma su eficiencia de detección.§!"
  STAT_NAVY_FIRE_RANGE_DESC:0 "El alcance de los misiles principales del barco."
- STAT_NAVY_EVASION:0 "Armas de Defensa Puntual:
+ STAT_NAVY_EVASION:0 "Armas de Defensa Puntual: "
  STAT_NAVY_EVASION_DESC:0 "Capacidad de los barcos para evitar impactos enemigos con bengalas, CIWS y otras contramedidas. Los barcos más pequeños tienen naturalmente más probabilidades de evadir impactos."
- STAT_NAVY_SUB_ATTACK:0 "Guerra Antisubmarina:
+ STAT_NAVY_SUB_ATTACK:0 "Guerra Antisubmarina: "
  STAT_NAVY_SUB_ATTACK_DESC:0 "Cuánto daño podemos hacer a los submarinos enemigos."
- STAT_NAVY_ATTACK:0 "Poder de fuego de misiles:
+ STAT_NAVY_ATTACK:0 "Poder de fuego de misiles: "
  STAT_NAVY_ATTACK_DESC:0 "Cuántos y qué tan poderosos son nuestros misiles antibuque."
  STAT_NAVY_ANTI_AIR_ATTACK_DESC:0 "Cuántos y qué tan poderosos son nuestros misiles antiaéreos para atacar aeronaves enemigas."
  STAT_NAVY_ANTI_AIR_TARGETTING_DESC:0 "Qué tan bien el radar del barco puede rastrear y atacar aeronaves enemigas."
- STAT_AIR_RANGE:0 "Alcance de Vuelo:
- STAT_AIR_AGILITY:0 "Ventaja de Radar:
+ STAT_AIR_RANGE:0 "Alcance de Vuelo: "
+ STAT_AIR_AGILITY:0 "Ventaja de Radar: "
  STAT_AIR_AGILITY_DESC:0 "Cómo las características de sigilo de una aeronave, la aviónica, los sistemas de armas y el entrenamiento del piloto le dan ventaja en un combate BVR y en un enfrentamiento cercano."
- STAT_AIR_DEFENCE:0 "Defensa Aérea:
+ STAT_AIR_DEFENCE:0 "Defensa Aérea: "
  STAT_AIR_DEFENCE_DESC:0 "La capacidad de una aeronave para engañar y/o maniobrar o destruir una amenaza de armas entrante."
- STAT_NAVY_RAIDING_COORDINATION:1 "Coordinación de Incursiones:
- STAT_NAVY_PATROL_COORDINATION:1 "Coordinación de Patrullas:
- STAT_NAVY_TORPEDO_ATTACK:0 "Armas Guiadas Antibuque:
+ STAT_NAVY_RAIDING_COORDINATION:1 "Coordinación de Incursiones: "
+ STAT_NAVY_PATROL_COORDINATION:1 "Coordinación de Patrullas: "
+ STAT_NAVY_TORPEDO_ATTACK:0 "Armas Guiadas Antibuque: "
  STAT_NAVY_TORPEDO_ATTACK_DESC:0 "Cuánto daño podemos hacer cuando usamos los misiles antibuque y torpedos del barco."
- STAT_NAVY_HG_ATTACK:1 "Apoyo en Combate Terrestre:
+ STAT_NAVY_HG_ATTACK:1 "Apoyo en Combate Terrestre: "
  STAT_NAVY_HG_ATTACK_DESC:0 "Una medida de cuánto puede el barco apoyar el combate costero, ya sea desembarcando unidades o con apoyo de fuego."
- STAT_NAVY_HG_ARMOR_PIERCING:1 "Perforación Pesada:
+ STAT_NAVY_HG_ARMOR_PIERCING:1 "Perforación Pesada: "
  STAT_NAVY_HG_ARMOR_PIERCING_DESC:0 "Esta estadística es negativa para evitar que el daño del apoyo terrestre se aplique en batallas navales"
- STAT_NAVY_LG_ATTACK:1 "Ataque Ligero:
+ STAT_NAVY_LG_ATTACK:1 "Ataque Ligero: "
  STAT_NAVY_LG_ATTACK_DESC:0 "Daño hecho por la artillería naval, cañones automáticos y ametralladoras, también contribuirá marginalmente al bombardeo costero."
- STAT_NAVY_LG_ARMOR_PIERCING:1 "Perforación Ligera:
+ STAT_NAVY_LG_ARMOR_PIERCING:1 "Perforación Ligera: "
  STAT_NAVY_LG_ARMOR_PIERCING_DESC:0 "Perforación de la armadura de los cañones ligeros, valores de perforación más altos aumentan la probabilidad de impactos críticos, mientras que valores de perforación por debajo de la armadura enemiga reducen severamente el daño."
- STAT_NAVY_SURFACE_VISIBILITY:0 "Visibilidad en Superficie:
+ STAT_NAVY_SURFACE_VISIBILITY:0 "Visibilidad en Superficie: "
  STAT_NAVY_SURFACE_VISIBILITY_DESC:0 "Qué tan difícil es encontrar e impactar este barco, valores más pequeños aumentarán la supervivencia y también harán que el barco sea más difícil de detectar"
