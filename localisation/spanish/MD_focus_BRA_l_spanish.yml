@@ -317,7 +317,7 @@
  BRA_maritime_routine: "Rutina Marítima"
  BRA_maritime_routine_desc: "Los bombarderos navales marítimos serían una excelente inversión."
  BRA_mr_fighters: "Caza Polivalente"
- BRA_mr_fighters_desc: "Los cazas multifuncionales son implementos efectivos de guerra, ya que representan un comodín. Aunque no son particularmente buenos en una sola cosa, siguen siendo herramientas valiosas para nuestras fuerzas armadas."
+ BRA_mr_fighters_desc: "Los cazas polivalentes son implementos efectivos de guerra, ya que representan un comodín. Aunque no son particularmente buenos en una sola cosa, siguen siendo herramientas valiosas para nuestras fuerzas armadas."
  BRA_light_fighters: "Cazas Ligeros"
  BRA_light_fighters_desc: "Los cazas ligeros serían una excelente herramienta para usar. Pueden proporcionar reconocimiento y también apoyo aéreo ligero para nuestras tropas. Además, pueden ayudar a interceptar bombarderos enemigos."
  BRA_air_trained_pilots: "Pilotos Entrenados en Aire"

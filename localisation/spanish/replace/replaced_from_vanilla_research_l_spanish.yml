@@ -13,7 +13,7 @@
  air_techs_folder: "Helicópteros"
  air_techs_folder_desc: "Helicópteros de Ataque y Transporte."
  fixed_wing_folder: "Aeronaves de Ala Fija"
- fixed_wing_folder_desc: "Aeronaves de combate monomotor y bimotor basadas en cazas multifuncionales."
+ fixed_wing_folder_desc: "Aeronaves de combate monomotor y bimotor basadas en cazas polivalentes."
  bomber_folder: "Aeronaves Bombarderas"
  bomber_folder_desc: "Aeronaves de combate especializadas para ataques estratégicos, navales o cercanos dedicados."
  TITLE_BATTLEFIELD_SUPPORT: "Apoyo en el Campo de Batalla"

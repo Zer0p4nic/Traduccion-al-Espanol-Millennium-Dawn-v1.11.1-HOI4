@@ -642,9 +642,9 @@
  spaa_hull_4: "Casco de Defensa Antiaérea Autopropulsada de 5ª Generación"
  spaa_hull_4_desc: "Las armas de defensa antiaérea autopropulsadas, también conocidas como armas de defensa antiaérea móviles, se refieren a las armas de defensa antiaérea móviles que instalan ametralladoras antiaéreas, cañones antiaéreos o misiles superficie-aire en vehículos militares. Se pueden dividir en cañones antiaéreos autopropulsados (cañones antiaéreos autopropulsados), lanzadores de misiles de defensa antiaérea autopropulsados y sistemas de defensa antiaérea combinados de misiles y artillería autopropulsados."
 
- tank_drones: "Drone de Apoyo"
+ tank_drones: "Dron de Apoyo"
  tank_drones_desc: "La torreta del tanque puede estar equipada con una estación de control de drones. El dron puede usarse para vigilar el campo de batalla circundante, adquirir objetivos y observar la efectividad del fuego.\n\n§GConsejo del Diseñador: Equipar nuestros tanques con drones mejorará su capacidad para destruir enemigos§!"
- tank_drones_2: "Drone de Apoyo Mejorado"
+ tank_drones_2: "Dron de Apoyo Mejorado"
  tank_drones_2_desc: "Un dron de apoyo mejorado podrá no solo vigilar el campo de batalla, sino también dirigir el fuego, bloquear objetivos para proyectiles de búsqueda e incluso defenderse de proyectiles entrantes.\n\n§GConsejo del Diseñador: Equipar nuestros tanques con drones mejorará su capacidad para destruir enemigos§!"
 
  afv_base_turret: "Torreta Básica de VBCI"
