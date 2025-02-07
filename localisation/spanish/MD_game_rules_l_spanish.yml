@@ -48,7 +48,7 @@
  RULE_OPTION_CHAOTIC_PC_NO: "No"
  RULE_OPTION_CHAOTIC_PC_NO_DESC: "Esta opción debería evitar que todos hagan apropiaciones de tierras en las conferencias de paz de la IA.\nLo hace limitando quién puede reclamar estados a las potencias y líderes de facciones. (Esto solo afectará a la IA, no al jugador.)"
  RULE_OPTION_CHAOTIC_PC_YES: "Sí"
- RULE_OPTION_CHAOTIC_PC_YES_DESC: "Para aquellos que realmente disfrutan de las conferencias de paz malditas, ¿por qué limitar el mundo a 1 §YRusia§! cuando 12 §YRusias§! son posibles!\n(¡No soy responsable de los resultados que puedan ocurrir con esta opción!)"
+ RULE_OPTION_CHAOTIC_PC_YES_DESC: "Para aquellos que realmente disfrutan de las conferencias de paz malditas, ¿por qué limitar el mundo a 1 §YRusia§! cuando 12 §YRusias§! son posibles!\n(No soy responsable de los resultados que puedan ocurrir con esta opción!)"
 
  RULE_ALLOW_PLAYER_LED_PEACE_CONFERENCE: "Activar Conferencias de Paz Lideradas por el Jugador"
  RULE_OPTION_PLAYER_LED_PC_NO: "No"
@@ -616,7 +616,7 @@
  RULE_SPREAD_INFLUENCE_14_COOLDOWN: "14 Días"
  RULE_SPREAD_INFLUENCE_14_COOLDOWN_DESC: "Una vez cada 14 días, puedes propagar tu influencia a otra nación."
  RULE_SPREAD_INFLUENCE_0_COOLDOWN: "Sin Enfriamiento"
- RULE_SPREAD_INFLUENCE_0_COOLDOWN_DESC: "Sin enfriamiento para propagar influencia, ¡para cuando desees invertir todo tu §HPoder Político§! en influenciar a otras naciones!"
+ RULE_SPREAD_INFLUENCE_0_COOLDOWN_DESC: "Sin enfriamiento para propagar influencia, para cuando desees invertir todo tu §HPoder Político§! en influenciar a otras naciones!"
  RULE_SPREAD_INFLUENCE_60_COOLDOWN: "60 Días"
  RULE_SPREAD_INFLUENCE_60_COOLDOWN_DESC: "Una vez cada 60 días, puedes propagar tu influencia a otra nación."
 
@@ -632,7 +632,7 @@
  RULE_14_DAY_INFLUENCE: "Enfriamiento de 14 Días"
  RULE_14_DAY_INFLUENCE_DESC: "La opción predeterminada. El enfriamiento para la influencia ganada de invertir es de 14 días o 2 semanas. Esto se aplica a la nación para todas las oportunidades de inversión posibles. Aunque aún puedes invertir, no ganarás ninguna influencia en este período de tiempo."
  RULE_0_DAY_INFLUENCE: "Sin Enfriamiento"
- RULE_0_DAY_INFLUENCE_DESC: "Influencia ganada de la antigua MD del límite de tiempo de inversión. ¡Puedes invertir con la frecuencia que desees mientras aún ganas influencia, no recomendado para aquellos que disfrutan del equilibrio!"
+ RULE_0_DAY_INFLUENCE_DESC: "Influencia ganada de la antigua MD del límite de tiempo de inversión. Puedes invertir con la frecuencia que desees mientras aún ganas influencia, no recomendado para aquellos que disfrutan del equilibrio!"
  RULE_30_DAY_INFLUENCE: "Enfriamiento de 30 Días"
  RULE_30_DAY_INFLUENCE_DESC: "La opción sugerida para multijugador. El enfriamiento para la influencia ganada de invertir es de 30 días o aproximadamente 1 mes. Esto se aplica a la nación para todas las oportunidades de inversión posibles. Aunque aún puedes invertir, no ganarás ninguna influencia en este período de tiempo."
 
@@ -650,8 +650,8 @@
 
  # OPTIMISATION AND PERFORMANCE
  RULE_ENABLE_DIVISION_LIMITER: "Habilitar Limitador de Divisiones de la IA"
- RULE_NO_ENABLE_DIVISION_LIMITER_DESC: "Limitador de Divisiones de la IA Deshabilitado\n\nDe manera predeterminada, la IA no estará limitada en la cantidad de unidades que puede producir. Si deseas limitar las divisiones por razones de rendimiento, ¡habilítame!"
- RULE_YES_ENABLE_DIVISION_LIMITER_DESC: "Limitador de Divisiones de la IA Habilitado\n\nCuando estoy habilitado, la IA tendrá menos probabilidades de producir unidades, ¡permitiendo una experiencia más optimizada para que tú, el jugador, juegues con relativa paz!"
+ RULE_NO_ENABLE_DIVISION_LIMITER_DESC: "Limitador de Divisiones de la IA Deshabilitado\n\nDe manera predeterminada, la IA no estará limitada en la cantidad de unidades que puede producir. Si deseas limitar las divisiones por razones de rendimiento, habilítame!"
+ RULE_YES_ENABLE_DIVISION_LIMITER_DESC: "Limitador de Divisiones de la IA Habilitado\n\nCuando estoy habilitado, la IA tendrá menos probabilidades de producir unidades, permitiendo una experiencia más optimizada para que tú, el jugador, juegues con relativa paz!"
  RULE_OPTION_POTATO_EDITION: "Edición Patata"
  RULE_POTATO_EDITION_DIVISION_LIMITER_DESC: "Limitador de Divisiones de la IA de la Edición Patata Habilitado\n\nLimita aún más a la IA por razones de rendimiento.\n"
 
@@ -680,8 +680,8 @@
  RULE_NO_ALLOW_CHEAT_DECISIONS_DESC: "Decisiones de trampa deshabilitadas"
 
  RULE_ALLOW_TOGGLING_CHEAT_DECISIONS: "§Y(Multijugador)§! Permitir alternar decisiones de trampa globalmente"
- RULE_YES_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y(Opcional)§!\n\nAlternar decisiones de trampa globales habilitadas\n§YNOTA:§! Cualquier nación en el mundo puede alternar las decisiones de trampa, y los efectos son §Yglobales§!. Aparecerá un evento indicando qué nación lo alterna.\n§Y¡Debe asegurarse de que se le permite usar la decisión en un juego multijugador!§!\n\n§YNOTA:§! ¡También debe habilitar la regla del juego \"Permitir decisiones de trampa\" si desea usar trampas!"
- RULE_NO_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y(Opcional)§!\n\nAlternar decisiones de trampa globales deshabilitadas\n§YNOTA:§! Cualquier nación en el mundo puede alternar las decisiones de trampa, y los efectos son §Yglobales§!. Aparecerá un evento indicando qué nación lo alterna.\n§Y¡Debe asegurarse de que se le permite usar la decisión en un juego multijugador!§!\n\n§YNOTA:§! ¡También debe habilitar la regla del juego \"Permitir decisiones de trampa\" si desea usar trampas!"
+ RULE_YES_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y(Opcional)§!\n\nAlternar decisiones de trampa globales habilitadas\n§YNOTA:§! Cualquier nación en el mundo puede alternar las decisiones de trampa, y los efectos son §Yglobales§!. Aparecerá un evento indicando qué nación lo alterna.\n§YDebe asegurarse de que se le permite usar la decisión en un juego multijugador!§!\n\n§YNOTA:§! También debe habilitar la regla del juego \"Permitir decisiones de trampa\" si desea usar trampas!"
+ RULE_NO_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y(Opcional)§!\n\nAlternar decisiones de trampa globales deshabilitadas\n§YNOTA:§! Cualquier nación en el mundo puede alternar las decisiones de trampa, y los efectos son §Yglobales§!. Aparecerá un evento indicando qué nación lo alterna.\n§YDebe asegurarse de que se le permite usar la decisión en un juego multijugador!§!\n\n§YNOTA:§! También debe habilitar la regla del juego \"Permitir decisiones de trampa\" si desea usar trampas!"
 
  RULE_DISABLE_ANTI_BULLY: "Deshabilitar el cansancio público de la guerra"
  RULE_YES_ANTI_BULLY_DESC: "Deshabilita el sistema de cansancio público de la guerra, permitiéndote ser un belicista sin penalizaciones."

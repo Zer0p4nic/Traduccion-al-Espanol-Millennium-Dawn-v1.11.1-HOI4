@@ -269,7 +269,7 @@
  focus_POTEF502_effect_tt: "Cada miembro de la Unión Europea §Gmejorará su opinión en +30§! con los siguientes países: [KAZ.GetNameWithFlag], [KYR.GetNameWithFlag], [TAJ.GetNameWithFlag], [UZB.GetNameWithFlag], [TRK.GetNameWithFlag], [PER.GetNameWithFlag], [TUR.GetNameWithFlag], [GRE.GetNameWithFlag].\nAdemás, la influencia [CHI.GetFlag][CHI.GetAdjective] se §Greducirá§! en esos países.\n"
 
  ### trigger tooltips ###
- tooltip_focus_POTEF203_trigger: "¡Está en la facción §YUnión Europea de Defensa§!"
+ tooltip_focus_POTEF203_trigger: "Está en la facción §YUnión Europea de Defensa§!"
  tooltip_focus_POTEF205_trigger: "[USA.conservatism_L] partido gobernante"
  tooltip_focus_POTEF206_trigger: "El enfoque §YMéxico§! ha sido completado"
 

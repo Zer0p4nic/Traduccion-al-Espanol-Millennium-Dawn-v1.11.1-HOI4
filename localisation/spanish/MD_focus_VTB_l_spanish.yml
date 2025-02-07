@@ -1,5 +1,5 @@
 ﻿l_spanish:
- VBT_Start: "¡Vitebsk Será Rusa!"
+ VBT_Start: "Vitebsk Será Rusa!"
  VBT_Start_desc:  "We have long endured the bullying of the authorities over us, but now that the whole country is on fire, it's time to make our move. We will seize all administrations and form a militia that will fight for our independence!"
 
  VBT_Economic_help: "Asistencia Financiera"
@@ -63,8 +63,8 @@
 
 
  vitebsk_rus.1.t: "Abandono del Estado de la Unión"
- vitebsk_rus.1.d: "¡Rusia patrocina descaradamente a separatistas en nuestro territorio! ¡No puede haber cuestión de ningún estado de la unión!"
- vitebsk_rus.1.a: "¡Fuera, Rusia!"
+ vitebsk_rus.1.d: "Rusia patrocina descaradamente a separatistas en nuestro territorio! No puede haber cuestión de ningún estado de la unión!"
+ vitebsk_rus.1.a: "Fuera, Rusia!"
 
  vitebsk_rus.2.t: "Los rebeldes de Vitebsk están pidiendo equipo"
  vitebsk_rus.2.d: "Los rebeldes de Vitebsk nos están pidiendo equipo para sus soldados, ya que los suministros bajo su control resultaron ser insignificantes."
@@ -91,9 +91,9 @@
  vitebsk_rus.6.a: "Es hora de que vuelvan a casa."
  vitebsk_rus.6.b: "No queremos enemistarnos completamente con la comunidad mundial."
 
- vitebsk_rus.7.t: "¡Nos declaramos Bielorrusia!"
+ vitebsk_rus.7.t: "Nos declaramos Bielorrusia!"
  vitebsk_rus.7.d: "El gobierno actual de Bielorrusia finalmente ha traicionado a las personas que viven en estas tierras, intentando separarlas del pueblo ruso unido. Moscú no ve esto y no quiere tener nada que ver con nosotros, por lo que asumiremos el papel de una verdadera república rusa."
- vitebsk_rus.7.a: "¡Los bielorrusos son rusos!"
+ vitebsk_rus.7.a: "Los bielorrusos son rusos!"
 
  vitebsk_rus.8.t: "La Caída de Minsk"
  vitebsk_rus.8.d: "El enemigo ha capturado Minsk, tal vez deberíamos concluir un tratado de paz con ellos, porque nuestras fuerzas claramente no son suficientes para contenerlos."

@@ -77,22 +77,22 @@
  MLR_rus_companies: "Cooperación con Empresas Rusas"
  MLR_rus_companies_desc: "Las empresas rusas serán nuestros principales socios"
  MLR_integrate_army: "Integrarse en el Ejército Ruso"
- MLR_integrate_army_desc: "¡Llevaremos a nuestro ejército a los estándares del Ejército Ruso!"
+ MLR_integrate_army_desc: "Llevaremos a nuestro ejército a los estándares del Ejército Ruso!"
 
  russia.56.t: "Referéndum sobre el Destino de §Y[MLR.GetNamewithFlag]§!"
  russia.56.d: "§Y[MLR.GetNamewithFlag]§! ha anunciado un referéndum sobre la adhesión a Rusia. Como resultado, la votación fue exitosa y la mayoría de los ciudadanos expresaron su deseo de convertirse en parte de nuestro país. ¿Los aceptaremos?"
  russia.56.a: "No, no los necesitamos... estados"
- russia.56.b: "¡Se unirán a Rusia!"
+ russia.56.b: "Se unirán a Rusia!"
 
  russia.57.t: "El Ejército de Liberación de Malorossiya Está con Nosotros"
  russia.57.d: "Nuestros hermanos en la liberación de Pequeña Rusia se unieron a nosotros"
- russia.57.a: "¡Hurra!"
+ russia.57.a: "Hurra!"
 
  autonomy_union_state_mlr: "Estado de la Unión"
  autonomy_republic_rf_mal: "República de Significado Federal"
 
- MLR_ter_oborona_tt: "¡Se creará la §YDefensa Territorial§! de Malorossiya"
- MLR_nat_gurad_tt: "¡Se creará la §YGuardia Nacional§! de Malorossiya"
+ MLR_ter_oborona_tt: "Se creará la §YDefensa Territorial§! de Malorossiya"
+ MLR_nat_gurad_tt: "Se creará la §YGuardia Nacional§! de Malorossiya"
 
  MLR_manifest_decisions: "Manifiesto de Malorossiya"
  MLR_manifest_decisions_desc: "Una vez estas tierras pertenecieron a Malorossiya, las declararemos nuestras y lucharemos por su regreso a su tierra natal"

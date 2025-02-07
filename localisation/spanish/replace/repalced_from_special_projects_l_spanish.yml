@@ -99,7 +99,7 @@
  ############################
  sp_armoured_vehicle_project: "Experimentación con Vehículos Blindados"
  sp_armoured_vehicle_project_desc: "Si alguna vez vamos a producir vehículos blindados nacionales, debemos invertir tiempo y esfuerzo en experimentar con diferentes diseños de vehículos."
- sp_armoured_vehicle_project_tt: "¡Podremos investigar §YCascos de Tanques de Batalla Principales§!, §YCascos de AFV§!, §YCascos de Tanques Ligeros§!, §YCascos de Artillería Autopropulsada§! y §YCascos de Antiaéreos Autopropulsados§!"
+ sp_armoured_vehicle_project_tt: "Podremos investigar §YCascos de Tanques de Batalla Principales§!, §YCascos de AFV§!, §YCascos de Tanques Ligeros§!, §YCascos de Artillería Autopropulsada§! y §YCascos de Antiaéreos Autopropulsados§!"
  sp_tank_support_drones: "Drones de Apoyo para Tanques"
  sp_tank_support_drones_desc: "Los drones se están volviendo cada vez más comunes en el campo de batalla. Dado que nuestros tanques tienen visión limitada, podría tener sentido integrar un centro de control de drones en nuestro tanque y equipar el tanque con un dron lanzable. De esta manera, el operador del tanque podrá vigilar mejor el campo de batalla."
  sp_tank_support_drones_2: "Drones de Combate para Tanques"
@@ -160,7 +160,7 @@
  ######################
  sp_naval_vessel_project: "Experimentación con Buques Navales"
  sp_naval_vessel_project_desc: "Para navegar los siete mares (o incluso nuestra piscina), debemos comprometer recursos para desarrollar buques de guerra experimentales."
- sp_naval_vessel_project_tt: "¡Podremos investigar §YCascos de Corbetas§!, §YCascos de Fragatas§!, §YCascos de Destructores§!, §YCascos de Cruceros§!, §YCascos de Operadores de Helicópteros§!, §YCascos de Portaaviones§!, §YCascos de Submarinos de Ataque§! y §YCascos de Submarinos de Misiles§!"
+ sp_naval_vessel_project_tt: "Podremos investigar §YCascos de Corbetas§!, §YCascos de Fragatas§!, §YCascos de Destructores§!, §YCascos de Cruceros§!, §YCascos de Operadores de Helicópteros§!, §YCascos de Portaaviones§!, §YCascos de Submarinos de Ataque§! y §YCascos de Submarinos de Misiles§!"
  sp_stealth_corvette: "Corbetas Sigilosas"
  sp_stealth_corvette_desc: "Las corbetas sigilosas a pequeña escala son una excelente opción para expandir nuestra capacidad de luchar contra potencias hostiles sin que sus buques puedan detectarnos."
  sp_stealth_frigate: "Fragatas Sigilosas"
@@ -193,7 +193,7 @@
  #########################
  sp_aircraft_project: "Experimentación con Aeronaves"
  sp_aircraft_project_desc: "Las aeronaves son dispositivos técnicos altamente avanzados que requieren una industria de alta tecnología para diseñar y construir. Si alguna vez vamos a tener nuestras propias aeronaves, debe hacerse la experimentación."
- sp_aircraft_project_tt: "¡Podremos investigar §YEstructuras Ligeras de Aeronaves§!, §YEstructuras Medianas de Aeronaves§!, §YEstructuras Pesadas de Aeronaves§!, §YHelicópteros de Ataque§! y §YHelicópteros de Transporte§!"
+ sp_aircraft_project_tt: "Podremos investigar §YEstructuras Ligeras de Aeronaves§!, §YEstructuras Medianas de Aeronaves§!, §YEstructuras Pesadas de Aeronaves§!, §YHelicópteros de Ataque§! y §YHelicópteros de Transporte§!"
  sp_5thgen_airframe_tt: "Un paso crucial para investigar §YEstructuras de Aeronaves de 5ª Generación§!"
  sp_experimental_engines: "Tipos de Motores Experimentales"
  sp_experimental_engines_desc: "Hay una serie de diversos tipos de motores experimentales que se han propuesto a los equipos de investigación y desarrollo de varios grupos. Invertir en la experimentación de motores y tipos experimentales puede permitirnos obtener una ventaja tecnológica sobre nuestros enemigos en el aire."
@@ -278,7 +278,7 @@
  ########################
  sp_missile_project: "Experimentación con Misiles"
  sp_missile_project_desc: "Los misiles pueden ser una alternativa económica cuando no podemos permitirnos aeronaves reales. Debemos invertir en la ciencia de los misiles (no en la ciencia de cohetes) para obtener algunas capacidades ofensivas adicionales."
- sp_missile_project_tt: "¡Podremos investigar §YMisiles Balísticos Intercontinentales§!, §YMisiles Balísticos de Alcance Intermedio§!, §YMisiles de Crucero Lanzados desde Tierra§! y §YMisiles Tierra-Aire§!"
+ sp_missile_project_tt: "Podremos investigar §YMisiles Balísticos Intercontinentales§!, §YMisiles Balísticos de Alcance Intermedio§!, §YMisiles de Crucero Lanzados desde Tierra§! y §YMisiles Tierra-Aire§!"
 
  #PROTOTYPE REWARDS OR PHASES
 
@@ -408,18 +408,18 @@
  #GENERIC
  sp_naval_generic_reward_scientist_xp_1: "Nadando en Ideas"
  sp_naval_generic_reward_scientist_xp_2: "Ahogándose en Creatividad"
- sp_naval_generic_reward_scientist_xp_3: "¡Bañera - Eureka!"
+ sp_naval_generic_reward_scientist_xp_3: "Bañera - Eureka!"
  sp_naval_generic_reward_navy_xp_1: "Cambio en el Flujo de Ideas"
  sp_naval_generic_reward_navy_xp_2: "Ola de Ideas"
- sp_naval_generic_reward_navy_xp_3: "¡Tsunami de Innovaciones!"
+ sp_naval_generic_reward_navy_xp_3: "Tsunami de Innovaciones!"
  sp_naval_generic_reward_army_xp_1: "Cambio en el Flujo de Ideas"
  sp_naval_generic_reward_army_xp_2: "Ola de Ideas"
- sp_naval_generic_reward_army_xp_3: "¡Tsunami de Innovaciones!"
- sp_naval_generic_reward_major_progress_1: "¡Avance Importante!"
- sp_naval_generic_reward_major_progress_2: "¡Gran Éxito!"
- sp_naval_generic_reward_major_progress_3: "¡Progreso Enorme!"
- sp_naval_generic_reward_test_failure_1: "¡Retraso en el Proyecto!"
- sp_naval_generic_reward_test_failure_2: "¡Solo un Contratiempo!"
+ sp_naval_generic_reward_army_xp_3: "Tsunami de Innovaciones!"
+ sp_naval_generic_reward_major_progress_1: "Avance Importante!"
+ sp_naval_generic_reward_major_progress_2: "Gran Éxito!"
+ sp_naval_generic_reward_major_progress_3: "Progreso Enorme!"
+ sp_naval_generic_reward_test_failure_1: "Retraso en el Proyecto!"
+ sp_naval_generic_reward_test_failure_2: "Solo un Contratiempo!"
  sp_naval_generic_reward_test_failure_3: "Resultados Desastrosos"
  sp_naval_generic_reward_resource_scarcity: "Escasez de Recursos"
  sp_naval_generic_reward_critical_failure: "Fallo Crítico"

@@ -217,7 +217,7 @@
  KOR_subversive_approach: "Enfoque Subversivo"
  KOR_subversive_approach_desc: "No podemos arriesgarnos a declarar una guerra total contra el Norte, pero tampoco podemos simplemente esperar la invasión inevitable. En cambio, debemos buscar socavar al Norte desde adentro."
  KOR_spark_insurrection: "Provocar una Insurrección"
- KOR_spark_insurrection_desc: "¡Ha llegado el momento de que el pueblo del Norte se libere de las cadenas que lo atan y se levante contra la brutal dictadura de [NKO.GetLeader]!"
+ KOR_spark_insurrection_desc: "Ha llegado el momento de que el pueblo del Norte se libere de las cadenas que lo atan y se levante contra la brutal dictadura de [NKO.GetLeader]!"
  KOR_raise_tensions: "Aumentar las Tensiones"
  KOR_subversive_approach_lar: "Enfoque Subversivo"
  KOR_subversive_approach_lar_desc: "No podemos arriesgarnos a declarar una guerra total contra el Norte, pero tampoco podemos simplemente esperar la invasión inevitable. En cambio, debemos buscar socavar al Norte desde adentro."
@@ -557,7 +557,7 @@
  #Decisions
  KOR_grant_wartime_control: "Conceder Control en Tiempo de Guerra"
  KOR_grant_wartime_control_desc: "Hemos acordado con los Estados Unidos que, si nuestro país entra en guerra con Corea del Norte, el control sobre nuestras fuerzas armadas pasará a ellos. Negarse a hacer esto sería desastroso para el esfuerzo bélico."
- KOR_expeditionary_forces_tt: "¡Todas las unidades han sido enviadas a §Y[USA.GetNameDef]§! como §Yfuerzas expedicionarias§!"
+ KOR_expeditionary_forces_tt: "Todas las unidades han sido enviadas a §Y[USA.GetNameDef]§! como §Yfuerzas expedicionarias§!"
  ### The 38th Parallel ###
  38th_parallel_KOR: "Ministerio de Unificación"
  KOR_38th_parallel: "[Root.38th_parallel]"

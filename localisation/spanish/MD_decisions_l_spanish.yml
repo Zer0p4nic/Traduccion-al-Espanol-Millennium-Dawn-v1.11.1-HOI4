@@ -1,7 +1,7 @@
 ﻿l_spanish:
 
  ##Jihadist Decision##
- jihadist_decisions: "¡Yihad!"
+ jihadist_decisions: "Yihad!"
  jihadist_decisions_desc: "La yihad ha sido declarada por nuestro gran califa."
  allow_foreign_recruitment: "Permitir reclutamiento extranjero"
  allow_foreign_recruitment_desc: "Permitir el reclutamiento extranjero nos dará la oportunidad de aumentar nuestras filas para seguir luchando por Alá. Sin embargo, esta medida será impopular entre algunos de nuestros yihadistas más xenófobos."
@@ -12,7 +12,7 @@
  ### Japanese Decisions ###
 
  JAP_spirit_of_the_warrior: "Proclamar el Espíritu del Guerrero"
- JAP_spirit_of_the_warrior_desc: "¡Primero debemos conquistar toda China, luego conquistamos el mundo!"
+ JAP_spirit_of_the_warrior_desc: "Primero debemos conquistar toda China, luego conquistamos el mundo!"
 
  ### Nationalist Claims ###
  ALB_nationalist_claims_FYR: "Recuperar nuestras tierras de [FYR.GetNameWithFlag]"
@@ -52,8 +52,8 @@
  generic_coalition_politics_decisions: "[Root.GetFlag][Root.GetAdjective] Decisiones Políticas"
  generic_coalition_politics_decisions_desc: "\n£MAIN_desctext_elections\n\n\n\n [Root.GetFlag]§YLeyes Políticas§!:\n\n[Root.GetFlag]§YTiene Elecciones§!: [has_elections_check]\n[Root.GetFlag]§YUmbral Electoral§!: [?election_threshold|%0] [term_limit_text]"
  term_limit_text: "\nLímite de Mandato: [?term_limit]\nMandato Actual: [?current_term]"
- has_election_no: "§R¡No§!"
- has_election_yes: "§G¡Sí§!"
+ has_election_no: "§RNo§!"
+ has_election_yes: "§GSí§!"
  remove_usaid: "§REnd§! USAID"
  remove_usaid_desc: "Es hora de que nos mantengamos firmes contra Estados Unidos y rechacemos su ayuda. No la necesitamos y nunca la necesitaremos. Nos mantendremos firmes como nación y como pueblo contra las potencias occidentales que interfieren en nuestra nación."
  GEN_remove_saudi_aid: "Detener la financiación saudí de mezquitas"
@@ -63,7 +63,7 @@
  GEN_allow_al_jazeera: "Permitir Al-Jazeera"
  GEN_ban_al_jazeera: "Prohibir Al-Jazeera"
 
- retire_current_leader: "§Y[Root.GetLeader]§!: §R¡Retirarse§! como Líder"
+ retire_current_leader: "§Y[Root.GetLeader]§!: §RRetirarse§! como Líder"
  retire_current_leader_desc: "Aunque ciertamente sería un shock, y costaría un alto precio político, y descartaría para siempre la posibilidad de que [Root.GetLeader] regrese a la política, existe la posibilidad abierta de retirarse para pasar más tiempo con la familia y mantenerse alejado de las labores de la política.\n\n§WEfecto:§!\n§H[Root.GetLeader]§! §Wse retirará como líder de [Root.GetName]§!\n§H[show_ruling_party]§! §Welegirá un nuevo líder de entre sus filas.§!"
 
  hold_reelections: "§YCelebrar Nuevas§! Elecciones Extraordinarias"
@@ -104,11 +104,11 @@
  caliphate_20_tt: "[Caliphate_L] ([?party_pop_array^11|%1]) > 20% de Popularidad"
 
  communist_state_extremist_civil_war: "[Communist-State_L] ([?party_pop_array^4|%0]) Lanza un Golpe de Estado"
- communist_state_extremist_civil_war_desc: "Los comunistas de [Communist-State_L] están cansados de simplemente marchar por las calles y repartir panfletos. Esta vez no es solo hablar. Con apoyo en una amplia gama de la sociedad, finalmente parecen estar listos para lanzar la revolución armada de lucha de clases para derrocar al gobierno burgués-imperialista de [Root.GetName], ¡estableciendo finalmente la dictadura del proletariado que las masas oprimidas anhelan! El espíritu de Lenin y Mao está bien vivo - ¡Viva la revolución!\n\nEfecto:\n§HComenzar Guerra Civil: 50% de fuerza§!\n\n§RAl activar esto, tomarás el control del levantamiento§!"
+ communist_state_extremist_civil_war_desc: "Los comunistas de [Communist-State_L] están cansados de simplemente marchar por las calles y repartir panfletos. Esta vez no es solo hablar. Con apoyo en una amplia gama de la sociedad, finalmente parecen estar listos para lanzar la revolución armada de lucha de clases para derrocar al gobierno burgués-imperialista de [Root.GetName], estableciendo finalmente la dictadura del proletariado que las masas oprimidas anhelan! El espíritu de Lenin y Mao está bien vivo - Viva la revolución!\n\nEfecto:\n§HComenzar Guerra Civil: 50% de fuerza§!\n\n§RAl activar esto, tomarás el control del levantamiento§!"
  communist_state_20_tt: "[Communist-State_L] ([?party_pop_array^4|%1]) > 20% de popularidad"
 
  neutral_communist_extremist_civil_war: "[Neutral_Communism_L] ([?party_pop_array^19|%0]) Lanza un golpe de estado"
- neutral_communist_extremist_civil_war_desc: "Los comunistas de [Neutral_Communism_L] están cansados de simplemente marchar por las calles y repartir panfletos. Esta vez no es solo hablar. Con apoyo en una amplia gama de la sociedad, finalmente parecen estar listos para lanzar la revolución armada de lucha de clases para derrocar al gobierno burgués-imperialista de [Root.GetName], ¡estableciendo finalmente la dictadura del proletariado que las masas oprimidas anhelan! El espíritu de Lenin y Mao está bien vivo - ¡Viva la revolución!\n\nEfecto:\n§HComenzar Guerra Civil: 50% de fuerza§!\n\n§RAl activar esto, tomarás el control del levantamiento§!"
+ neutral_communist_extremist_civil_war_desc: "Los comunistas de [Neutral_Communism_L] están cansados de simplemente marchar por las calles y repartir panfletos. Esta vez no es solo hablar. Con apoyo en una amplia gama de la sociedad, finalmente parecen estar listos para lanzar la revolución armada de lucha de clases para derrocar al gobierno burgués-imperialista de [Root.GetName], estableciendo finalmente la dictadura del proletariado que las masas oprimidas anhelan! El espíritu de Lenin y Mao está bien vivo - Viva la revolución!\n\nEfecto:\n§HComenzar Guerra Civil: 50% de fuerza§!\n\n§RAl activar esto, tomarás el control del levantamiento§!"
  neutral_communist_20_tt: "[Neutral_Communism_L] ([?party_pop_array^19|%1]) > 20% de popularidad"
 
  #possible if autocratic:
@@ -145,7 +145,7 @@
  AI_form_government_TT: "La IA formará un gobierno por ti\n"
 
  coalition_decisions: "Formar un nuevo gobierno"
- coalition_decisions_desc: "[Root.GetLeader], [show_ruling_party] ([show_ruling_elect_percentage]) no alcanzó la mayoría necesaria en las elecciones para formar un gobierno por sí solo. Necesitamos invitar a otros partidos a unirse.\n\nLos partidos que obtuvieron más votos que nosotros no estarán interesados en unirse. El costo en poder político para agregar un partido al gobierno depende de su tamaño y distancia política con respecto a nosotros.\n\n§H¡Hasta ahora, nuestra coalición consiste en:§!\n[show_ruling_party] ([show_ruling_elect_percentage])[L_coal_elect_percent_0][L_coal_elect_percent_1][L_coal_elect_percent_2][L_coal_elect_percent_3][L_coal_elect_percent_4][L_coal_elect_percent_5][L_coal_elect_percent_6][L_coal_elect_percent_7][L_coal_elect_percent_8][L_coal_elect_percent_9][L_coal_elect_percent_10][L_coal_elect_percent_11][L_coal_elect_percent_12][L_coal_elect_percent_13][L_coal_elect_percent_14][L_coal_elect_percent_15][L_coal_elect_percent_16][L_coal_elect_percent_17][L_coal_elect_percent_18][L_coal_elect_percent_19][L_coal_elect_percent_20][L_coal_elect_percent_21][L_coal_elect_percent_22][L_coal_elect_percent_23]\n\n§H§!Fuerza de la coalición actual: [?government_coalition_strength_elect|%1].\n§R§!Fuerza necesaria para formar un gobierno mayoritario: [?majority_threshold|%1]\nNuestro umbral de §H[?election_threshold|%0]§! hace que los partidos que obtuvieron menos votos que esto no sean elegibles.\n"
+ coalition_decisions_desc: "[Root.GetLeader], [show_ruling_party] ([show_ruling_elect_percentage]) no alcanzó la mayoría necesaria en las elecciones para formar un gobierno por sí solo. Necesitamos invitar a otros partidos a unirse.\n\nLos partidos que obtuvieron más votos que nosotros no estarán interesados en unirse. El costo en poder político para agregar un partido al gobierno depende de su tamaño y distancia política con respecto a nosotros.\n\n§HHasta ahora, nuestra coalición consiste en:§!\n[show_ruling_party] ([show_ruling_elect_percentage])[L_coal_elect_percent_0][L_coal_elect_percent_1][L_coal_elect_percent_2][L_coal_elect_percent_3][L_coal_elect_percent_4][L_coal_elect_percent_5][L_coal_elect_percent_6][L_coal_elect_percent_7][L_coal_elect_percent_8][L_coal_elect_percent_9][L_coal_elect_percent_10][L_coal_elect_percent_11][L_coal_elect_percent_12][L_coal_elect_percent_13][L_coal_elect_percent_14][L_coal_elect_percent_15][L_coal_elect_percent_16][L_coal_elect_percent_17][L_coal_elect_percent_18][L_coal_elect_percent_19][L_coal_elect_percent_20][L_coal_elect_percent_21][L_coal_elect_percent_22][L_coal_elect_percent_23]\n\n§H§!Fuerza de la coalición actual: [?government_coalition_strength_elect|%1].\n§R§!Fuerza necesaria para formar un gobierno mayoritario: [?majority_threshold|%1]\nNuestro umbral de §H[?election_threshold|%0]§! hace que los partidos que obtuvieron menos votos que esto no sean elegibles.\n"
 
  give_up_coalition_0: "Rendirse: [show_biggest_party_elect] lo intentará en su lugar"
  give_up_coalition_0_desc: "Admitir el fracaso de [Root.GetLeader] y [show_ruling_party] para formar un gobierno. El trabajo ahora lo realizará [show_biggest_party_elect] ([show_biggest_elect_percentage]).\n\nSe reembolsará el 75% del poder político gastado hasta ahora para formar la coalición actual."
@@ -675,8 +675,8 @@
 
  ##### Argentina #####
  ARG_falklands_question_category: "La Cuestión de las Malvinas"
- ARG_falklands_question_category_desc: "Las Islas Malvinas son nuestro derecho de nacimiento y nuestra tierra soberana. No olvidaremos la sangre que nuestros hermanos han derramado en nuestras islas por nuestra patria. \n¡Es hora de recuperar nuestra tierra de los imperialistas bebedores de té!"
- ARG_second_falklands_war: "¡Recuperar las Malvinas!"
+ ARG_falklands_question_category_desc: "Las Islas Malvinas son nuestro derecho de nacimiento y nuestra tierra soberana. No olvidaremos la sangre que nuestros hermanos han derramado en nuestras islas por nuestra patria. \nEs hora de recuperar nuestra tierra de los imperialistas bebedores de té!"
+ ARG_second_falklands_war: "Recuperar las Malvinas!"
  ARG_second_falklands_war_desc: "§REsto llevará a la guerra con los [ENG.GetName] después de que hayan pasado 120 días.§!"
 
  ##### TURKEY #####
@@ -738,15 +738,15 @@
  SOV_CHE_desc: "Finalmente tomamos Chechenia, y podemos integrarla totalmente."
  sov_CHE: "Integración de Chechenia"
  sov_CHE_desc: "Históricamente, Chechenia siempre fue Rusia, y podemos hacerlo de nuevo."
- SOV_Propaganda: "¡Haz funcionar la máquina de propaganda!"
- SOV_Propaganda_desc: "Tenemos una popularidad muy baja y hay algo de probabilidad de que perdamos las elecciones de 2004. ¡Debemos hacer funcionar nuestra máquina de propaganda!"
+ SOV_Propaganda: "Haz funcionar la máquina de propaganda!"
+ SOV_Propaganda_desc: "Tenemos una popularidad muy baja y hay algo de probabilidad de que perdamos las elecciones de 2004. Debemos hacer funcionar nuestra máquina de propaganda!"
  SOV_Propaganda_1: "Tomar control de NTV"
  SOV_Propaganda_1_desc: "NTV es un canal independiente-opositor. Y debemos tomar control de él."
  SOV_Propaganda_2: "Tomar control de RTR"
  SOV_Propaganda_2_desc: "RTR es un canal independiente-opositor. Y debemos tomar control de él."
  SOV_Propaganda_3: "Tomar control de ORT"
  SOV_Propaganda_3_desc: "ORT es el canal más visto, por lo que tomar control de él nos dará mucha popularidad."
- SOV_crush_da_opositon: "¡Destruir a la Oposición!"
+ SOV_crush_da_opositon: "Destruir a la Oposición!"
  SOV_crush_da_opositon_desc: "La oposición es lo suficientemente fuerte como para derrocar a nuestro Gobierno Corrupto, si gastamos algo de dinero, se callarán."
  SOV_tv_1: "Dar algo de dinero a Solovyev."
  SOV_tv_1_desc: "Solovyev es uno de los enemigos de Putin, pero por algo de dinero se convertirá en uno de sus seguidores."
@@ -766,7 +766,7 @@
  IRQ_MOBILIZE: "Milicias chiítas"
  IRQ_MOBILIZE_DESC: "Todas las decisiones relacionadas con las milicias chiítas en Irak."
  MOBILIZE_SHIA_MILITIA: "Movilizar las milicias chiítas"
- MOBILIZE_SHIA_MILITIA_DESC: "Nuestro equipo y mano de obra están agotados por la lucha contra el ISIL, ¡debemos movilizar las milicias chiítas!"
+ MOBILIZE_SHIA_MILITIA_DESC: "Nuestro equipo y mano de obra están agotados por la lucha contra el ISIL, debemos movilizar las milicias chiítas!"
 
  ### Public War Weariness ###
  public_war_wariness_decision_category: "Cansancio público por la guerra"
@@ -812,14 +812,14 @@
 
  ### Cheat Decision ###
  game_rule_toggle_cheat_decisions: "§Y[show_cheat_decision_status_3]§! Decisiones de trampa §Rglobales§!"
- game_rule_toggle_cheat_decisions_desc: "§YNOTA:§! Cualquier nación en el mundo puede activar o desactivar las decisiones de trampa, y los efectos son §Rglobales§!. Aparecerá un evento indicando qué nación las activó.\n§Y¡Debes asegurarte de que estás autorizado para usar esta decisión en un juego multijugador!§!"
+ game_rule_toggle_cheat_decisions_desc: "§YNOTA:§! Cualquier nación en el mundo puede activar o desactivar las decisiones de trampa, y los efectos son §Rglobales§!. Aparecerá un evento indicando qué nación las activó.\n§YDebes asegurarte de que estás autorizado para usar esta decisión en un juego multijugador!§!"
  cheat_decisions_disabled_TT: "Trampas: §RDesactivadas§!"
  cheat_decisions_enabled_TT: "Trampas: §GActivadas§!"
  cheat_decisions_disabled_2_TT: "desactivado"
  cheat_decisions_enabled_2_TT: "activado"
  cheat_decisions_disabled_3_TT: "Activar"
  cheat_decisions_enabled_3_TT: "Desactivar"
- cheat_decisions_enabled_4_TT: "Estado actual de [show_cheat_decision_status]\n§YNOTA:§! Cualquier nación en el mundo puede activar o desactivar las trampas, y los efectos son §Rglobales.§!\n\nAparecerá un evento indicando qué nación las activó.\n§Y¡Debes asegurarte de que estás autorizado para usar esta decisión en un juego multijugador!§!"
+ cheat_decisions_enabled_4_TT: "Estado actual de [show_cheat_decision_status]\n§YNOTA:§! Cualquier nación en el mundo puede activar o desactivar las trampas, y los efectos son §Rglobales.§!\n\nAparecerá un evento indicando qué nación las activó.\n§YDebes asegurarte de que estás autorizado para usar esta decisión en un juego multijugador!§!"
  cheat_decisions_disabled_4_TT: ""
  cheat_decision_categories: "Decisiones de Trampa"
  cheat_decision_categories_desc: "[show_cheat_decision_status_4]"
@@ -939,7 +939,7 @@
  campaign_for_recognition_CHI: "§YHacer campaña§! por el reconocimiento en §Y[CHI.GetFlag]China§!"
  campaign_for_recognition_CHI_desc: "China ejerce un enorme poder económico en Asia y más allá, lo que significa que el apoyo de China probablemente nos ganaría el apoyo de una gran proporción de aquellos países que dependen de China de alguna manera. Además, no podemos permitir que un miembro permanente con derecho a veto del Consejo de Seguridad de la ONU siga oponiéndose a la posibilidad de nuestra soberanía."
  become_a_UN_member_state: "§YConvertirse§! en un Estado miembro de la ONU"
- become_a_UN_member_state_desc: "¡Finalmente! Hemos logrado asegurar el apoyo para nuestra soberanía de los 5 miembros permanentes del Consejo de Seguridad de la ONU y suficientes estados como para conseguir una mayoría de dos tercios en la Asamblea General respecto a una votación sobre nuestra membresía. Unirse a las Naciones Unidas traerá, por fin, a nuestra nación a la comunidad internacional como un igual legal."
+ become_a_UN_member_state_desc: "Finalmente! Hemos logrado asegurar el apoyo para nuestra soberanía de los 5 miembros permanentes del Consejo de Seguridad de la ONU y suficientes estados como para conseguir una mayoría de dos tercios en la Asamblea General respecto a una votación sobre nuestra membresía. Unirse a las Naciones Unidas traerá, por fin, a nuestra nación a la comunidad internacional como un igual legal."
  recognition_category: "Reconocimiento internacional"
  recognition_category_desc: "Existen algunos estados no reconocidos que desean ingresar a la comunidad internacional. Debemos considerar si deseamos prestar nuestro apoyo a su campaña. Si estos obtienen suficiente apoyo de los estados miembros de la ONU, podrían ser admitidos en las Naciones Unidas, perdiendo su estatus de no reconocidos y las desventajas que este conlleva. Podemos ayudar a las campañas de los estados que hemos reconocido influyendo sobre los estados miembros de la ONU que aún no los han reconocido."
  switch_recognition: "Reconocer a [recognition_target]"

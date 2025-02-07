@@ -89,24 +89,24 @@
 
  ivory_coast_md.4.t: "Protestas a gran escala"
  ivory_coast_md.4.d: "Ha habido protestas a gran escala encabezadas por el Frente Popular Marfileño y el Movimiento Patriótico en el sur y el norte del país, respectivamente. Están pidiendo el fin de nuestra dictadura militar y un retorno al gobierno civil, aunque nadie parece estar de acuerdo en quién debería gobernar el país."
- ivory_coast_md.4.o1: "¡Esto es inaceptable, envíen al ejército!"
+ ivory_coast_md.4.o1: "Esto es inaceptable, envíen al ejército!"
  ivory_coast_md.4.o2: "Ceder el poder al Frente Popular Marfileño."
 
  ivory_coast_md.5.t: "Rebelión en el Norte"
  ivory_coast_md.5.d: "Las protestas se han intensificado con elementos del ejército desertando y declarando un gobierno rival. Sus fuerzas controlan la mayoría del norte. Hasta ahora no han intentado invadir el sur."
- ivory_coast_md.5.o1: "¡Muerte a los rebeldes!"
+ ivory_coast_md.5.o1: "Muerte a los rebeldes!"
  ivory_coast_md.5.o2: "Ahora no es el momento para la guerra."
  ivory_coast_md.5.o3: "El FNC es la opción correcta."
 
  ivory_coast_md.6.t: "Rebelión en el Norte"
  ivory_coast_md.6.d: "Las protestas se han intensificado con elementos del ejército desertando y declarando un gobierno rival. Nuestro país ha caído ahora en guerra civil. El FNC ha declarado su secesión en el norte, citando una multitud de razones como el trato injusto y la falta de voz en el gobierno del sur. Hermanos y hermanas ahora se han alzado en armas unos contra otros, ya que cada persona debe elegir un bando en el conflicto que se está gestando. Ha comenzado la Primera Guerra Civil Marfileña."
  ivory_coast_md.6.o1: "Bueno, esto iba a suceder tarde o temprano."
- ivory_coast_md.6.o2: "¡Muerte al FPI! (Convertirse en el FNC)"
+ ivory_coast_md.6.o2: "Muerte al FPI! (Convertirse en el FNC)"
 
  ivory_coast_md.7.t: "Una nueva guerra civil"
  ivory_coast_md.7.d: "Las protestas en el país se han intensificado mucho más allá de nuestro control. Miembros del ejército y de los partidos de oposición han declarado sus gobiernos rivales, uno en el norte y otro en el suroeste de nuestro país, abriendo el camino a una guerra civil a tres bandas. Nuestro país ha caído en guerra civil. Hermanos y hermanas ahora se han alzado en armas unos contra otros, ya que cada persona debe elegir un bando en el conflicto que se está gestando. Ha comenzado la Primera Guerra Civil Marfileña."
  ivory_coast_md.7.o1: "Bueno, no podría empeorar."
- ivory_coast_md.7.o2: "¡Muerte al FPI! (Convertirse en el FNC)"
+ ivory_coast_md.7.o2: "Muerte al FPI! (Convertirse en el FNC)"
 
  ivory_coast_md.8.t: "El gobierno sofoca las protestas"
  ivory_coast_md.8.d: "Las autoridades marfileñas han tenido en su mayoría éxito en sofocar las protestas en la región. El apoyo del ejército y los esfuerzos de las fuerzas policiales. La situación con los manifestantes sigue siendo volátil. Queda por ver si nuestra interrupción violenta de la protesta finalmente traerá problemas adicionales, pero por ahora han sido detenidas."
@@ -151,8 +151,8 @@
 
  ivory_coast_md.101.t: "Primera Guerra Civil Marfileña"
  ivory_coast_md.101.d: "Provocada por tensiones raciales entre los nativos de Costa de Marfil y los inmigrantes, que reciben poca representación política, una coalición que se autodenomina las Nuevas Fuerzas se ha levantado contra el gobierno."
- ivory_coast_md.101.o1: "¡Muerte a los rebeldes!"
- ivory_coast_md.101.o2: "¡Muerte al FPI!"
+ ivory_coast_md.101.o1: "Muerte a los rebeldes!"
+ ivory_coast_md.101.o2: "Muerte al FPI!"
  ivory_coast_md.101.o3: "Intervenir en apoyo del FNCI (nacionalista)."
  ivory_coast_md.101.o4: "Pensamientos y oraciones"
  ivory_coast_md.101.o5: "Un desarrollo preocupante"
@@ -160,14 +160,14 @@
  ivory_coast_md.102.t: "Levantamiento en Costa de Marfil"
  ivory_coast_md.102.d: "Provocada por tensiones raciales entre los nativos de Costa de Marfil y los inmigrantes, que reciben poca representación política, una coalición que se autodenomina las Nuevas Fuerzas se ha levantado y ha tomado el control de gran parte del norte del país. El gobierno del sur aún no ha respondido. No está claro qué sucederá a continuación."
  ivory_coast_md.102.o1: "Bueno, podría ser peor..."
- ivory_coast_md.102.o2: "¡Libertad al fin!"
+ ivory_coast_md.102.o2: "Libertad al fin!"
  ivory_coast_md.102.o3: "Apoyar al FNCI (nacionalista)."
  ivory_coast_md.102.o4: "Pensamientos y oraciones."
 
  ivory_coast_md.103.t: "Primera Guerra Civil de Costa de Marfil"
  ivory_coast_md.103.d: "El Frente Popular Marfileño ha intentado un golpe de Estado contra la actual Junta Militar en la capital Yamoussoukro. Sin embargo, la Junta logró escapar de la ciudad antes, dejando a los rebeldes al control de gran parte del este del país. Para empeorar las cosas, una coalición que se autodenomina las Nuevas Fuerzas, encabezada por el Movimiento Patriótico, se ha levantado en el norte también proclamándose como el gobierno legítimo."
- ivory_coast_md.103.o1: "¡Muerte a los rebeldes!"
- ivory_coast_md.103.o2: "¡Abajo con la Junta!"
+ ivory_coast_md.103.o1: "Muerte a los rebeldes!"
+ ivory_coast_md.103.o2: "Abajo con la Junta!"
  ivory_coast_md.103.o3: "Apoyar a la Junta."
  ivory_coast_md.103.o4: "Apoyar al FNCI (populistas nacionales)."
  ivory_coast_md.103.o5: "Pensamientos y oraciones."
@@ -176,7 +176,7 @@
  ivory_coast_md.104.d: "La guerra civil en [CDI.GetNameDef] ha concluido hoy, ya que las facciones en guerra han comenzado a calmarse. Es de vital importancia que el país se estabilice en su nuevo statu quo y avance hacia la estabilidad. Finalmente, la paz ha reinado sobre el país devastado por la guerra. La Primera Guerra Civil Marfileña ha llegado a su fin."
  ivory_coast_md.104.o1: "Los rebeldes han sido derrotados."
  ivory_coast_md.104.o2: "El gobierno ha tenido éxito."
- ivory_coast_md.104.o3: "¡Paz al fin!"
+ ivory_coast_md.104.o3: "Paz al fin!"
 
  ivory_coast_md.105.t: "Fin de la Segunda Guerra Civil [CDI.GetAdjective]"
  ivory_coast_md.105.d: "La Segunda Guerra Civil [CDI.GetAdjective] ha llegado a su fin, ya que los combates entre el [FNC.GetName] y el [CDI.GetName] han concluido. El país comienza a asentarse en su nuevo statu quo tras los combates. El tiempo dirá cuáles serán las consecuencias de esta guerra, pero la paz reinará nuevamente en [CDI.GetName]."
@@ -193,7 +193,7 @@
 
  senegal_md.2.t: "Fraude electoral"
  senegal_md.2.d: "Nuestra intervención en las elecciones ha pasado en su mayoría desapercibida por nuestra población y los observadores internacionales. Aunque algunos en la oposición han impugnado el resultado, estas teorías no han ganado mucho apoyo entre la gente."
- senegal_md.2.o1: "¡Jaja, agárrate!"
+ senegal_md.2.o1: "Jaja, agárrate!"
 
  senegal_md.3.t: "Protestas"
  senegal_md.3.d: "Ha habido protestas generalizadas condenando el desastre que han sido nuestras elecciones. Se han lanzado numerosas acusaciones sobre este supuesto 'fraude electoral'. ¿Cómo debemos proceder con las protestas?"
@@ -235,18 +235,18 @@
  # End of the Senegalese Civil War
  senegal_md.11.t: "Fin de la Guerra Civil [SEN.GetAdjective]"
  senegal_md.11.d: "Las facciones beligerantes en [SEN.GetName] finalmente han depuesto las armas hoy mientras concluye el combate. La paz ha continuado reinando suprema mientras los funcionarios del gobierno y el ejército restablecen el orden en las regiones que vieron lo peor de los combates entre el gobierno y las fuerzas rebeldes. Es tiempo de un nuevo Senegal en los próximos meses, al menos, Senegal está unido."
- senegal_md.11.o1: "¡Unidos al fin!"
+ senegal_md.11.o1: "Unidos al fin!"
 
  senegal_md.100.t: "Guerra Civil [SEN.GetAdjective]"
  senegal_md.100.d: "El conflicto ha estallado hoy en Senegal. El gobierno se ha desmoronado debido a las recientes elecciones en el país. [CSM.GetNameDef] se ha separado del estado de Senegal y está luchando activamente por su independencia mientras el país se ve sumido aún más en el caos."
- senegal_md.100.o1: "¡La rebelión será aplastada!"
- senegal_md.100.o2: "¡Un nuevo Senegal en el horizonte!"
+ senegal_md.100.o1: "La rebelión será aplastada!"
+ senegal_md.100.o2: "Un nuevo Senegal en el horizonte!"
  senegal_md.100.o3: "Un desarrollo preocupante"
 
  senegal_md.101.t: "Fin de la Guerra Civil [SEN.GetAdjective]"
  senegal_md.101.d: "Las facciones beligerantes en [SEN.GetName] finalmente han depuesto las armas hoy mientras concluye el combate."
- senegal_md.101.o1: "¡Estamos unidos!"
- senegal_md.101.o2: "¡Paz al fin!"
+ senegal_md.101.o1: "Estamos unidos!"
+ senegal_md.101.o2: "Paz al fin!"
 
  # the Central African Republic
  # TODO: Add news events for the CAR
@@ -272,7 +272,7 @@
  central_africa.6.t: "La cuestión Bozizé"
  central_africa.6.d: "El golpe de mayo aún está fresco en nuestra mente y Bozizé sigue en el país. El traidor aún parece estar ganando apoyo entre los diversos pueblos del país. Es hora de plantear la cuestión y tratar con el líder del golpe fallido."
  central_africa.6.a: "Arrestar a Bozizé"
- central_africa.6.b: "¡Podría escapar!"
+ central_africa.6.b: "Podría escapar!"
 
  central_africa.7.t: "Bozizé huye a Chad"
  central_africa.7.d: "Bozizé ha huido del país justo horas antes de que se pudiera hacer algo al respecto. Las fuerzas militares leales a Bozizé también han salido con él, lo que ha causado una pérdida sustancial de fuerzas entrenadas, y las milicias leales a él se niegan a adherirse al gobierno de nuestro país. Podemos invadir Chad para cazarlos, o podemos centrarnos en nuestros problemas internos."
@@ -282,7 +282,7 @@
  central_africa.8.t: "Bozizé regresa tomando Bangui"
  central_africa.8.d: "Bozizé y su grupo han regresado con una fuerza considerable que incluye a los desertores, equipo chadiano, voluntarios y más. Han barrido rápidamente el país marchando directamente hacia Bangui. Las fuerzas hostiles han tomado la mayoría del país en lo que parece haber sido una ofensiva nocturna."
  central_africa.8.a: "Permitir la transición de poder"
- central_africa.8.b: "¡Luchar contra Bozizé y sus rebeldes!"
+ central_africa.8.b: "Luchar contra Bozizé y sus rebeldes!"
 
  central_africa.9.t: "La sombra de la guerra se avecina"
  central_africa.9.d: "El reciente caos político y el cambiante panorama nos están llevando por un camino sin retorno. La sombra de la guerra se cierne sobre la República Centroafricana mientras Bozizé se afianza en su posición como presidente. Las milicias están almacenando municiones y equipo, y los adversarios y la oposición siguen fermentando. El tiempo dirá qué sucederá en estos tiempos difíciles y qué se hará con el país en este estado delicado."
@@ -314,7 +314,7 @@
  central_africa.15.a: "Apoyar a Bozizé y CAR"
  central_africa.15.b: "Rechazar la solicitud"
 
- central_africa.16.t1: "¡Francia nos apoya!"
+ central_africa.16.t1: "Francia nos apoya!"
  central_africa.16.t2: "Francia rechaza apoyar nuestra causa"
  central_africa.16.d1: "Francia ha decidido enviarnos ayuda militar durante nuestra lucha en la guerra del Bush. Sin embargo, la decisión ha enfurecido a más grupos rebeldes que nos ven como los líderes violentos de una nación que no desea hacer nada más que bombardear a sus propios ciudadanos. Las partes norte y este del país han tomado las armas contra nosotros, además de las otras fuerzas que están luchando activamente contra el gobierno. Ahora ha comenzado una verdadera guerra civil."
  central_africa.16.d2: "El gobierno francés ha decidido que no es lo mejor para nuestros intereses enviarnos ayuda. La lucha en el campo continuará siendo de bajo nivel debido a la falta de escalada al buscar apoyo adicional de potencias extranjeras."
@@ -332,18 +332,18 @@
  central_africa.19.t: "Acusaciones de violaciones"
  central_africa.19.d: "En las últimas semanas, muchas personas han sido perjudicadas de alguna forma. La oposición al gobierno ha declarado que son los culpables y una serie de personas dentro de nuestro gobierno siguen culpando a los rebeldes. Las acusaciones mutuas solo buscan aliviar la culpa sobre sí mismos. Ahora es el momento de calmar a los rebeldes o instigar la violencia. El tiempo dirá cuán pronto el conflicto se convertirá en realidad dependiendo de nuestra actual línea de acción."
  central_africa.19.a: "Calmar a los Rebeldes"
- central_africa.19.b: "¡Ellos son el Problema!"
+ central_africa.19.b: "Ellos son el Problema!"
 
  central_africa.20.t: "[CAR.GetLeader] Solicita Apoyo Contra los Rebeldes"
  central_africa.20.d: "[CAR.GetLeader] parece estar en una posición de gran conflicto. Los rebeldes en la República Centroafricana están empuñando armas y se están preparando activamente para lo que parece ser otra guerra civil en la nación. La República Centroafricana es un país al que podríamos buscar apoyar activamente en nuestro juego de influencia en África."
  central_africa.20.a: "Apoyar a [CAR.GetLeader]"
- central_africa.20.b: "¡Ellos son el Problema!"
+ central_africa.20.b: "Ellos son el Problema!"
 
  central_africa.21.t1: "Francia Nos Apoya Nuevamente"
  central_africa.21.t2: "Francia Declina Ayudar a Nuestra Causa"
  central_africa.21.d1: "Francia ha decidido enviarnos ayuda en el conflicto que se avecina. Ayuda militar y apoyo diplomático están disponibles ya que se nos ve como el verdadero gobierno en esta guerra próxima. Usaremos su ayuda con gran eficacia."
  central_africa.21.d2: "Nos hemos quedado abandonados por los franceses. Parece que no encajamos dentro de sus ambiciones para su imperio postcolonial."
- central_africa.21.a: "¡Nos Han Apoyado!"
+ central_africa.21.a: "Nos Han Apoyado!"
  central_africa.21.b: "Rechazar la Solicitud"
 
  central_africa.22.t: "La Guerra Civil de la República Centroafricana"
@@ -366,7 +366,7 @@
 
  central_africa.26.t: "La Siguiente Fase de la Guerra"
  central_africa.26.d: "[CAR.GetLeader] y las acusaciones de violaciones de los diversos grupos rebeldes han comenzado a aumentar las tensiones hasta el punto de una lucha total. Ex soldados de Séléka se han separado del ejército y ahora están luchando abiertamente contra Anti-Balaka. Anti-Balaka culpa a los ex-Séléka por los combates y [LOG.GetLeader] ha declarado su propio cacicazgo personal en el noreste de la nación. El país está una vez más en ruinas mientras la plaga de la guerra continúa asolando nuestra nación."
- central_africa.26.a: "¡Lucha contra los Rebeldes!"
+ central_africa.26.a: "Lucha contra los Rebeldes!"
  central_africa.26.b: "Apoya a Anti-Balaka"
  central_africa.26.c: "Apoya a la República de Logone"
  central_africa.26.d1: "Apoya a los ex-Séléka"
@@ -470,7 +470,7 @@
  mali.13.a: "Los diplomáticos son devueltos"
  mali.13.b: "El intento de rescate tuvo éxito"
  mali.13.c: "El intento de rescate fracasó"
- mali.13.d: "¡No es nuestro problema!"
+ mali.13.d: "No es nuestro problema!"
 
  mali.14.t: "El secuestro de nuestros diplomáticos"
  mali.14.d1: "El gobierno [MAL.GetAdjective] y [MAL.GetLeader] han pagado el rescate por nuestros diplomáticos y un pequeño número de turistas europeos. El movimiento es muy apreciado y el pueblo de Canadá ha comenzado a volar [MAL.GetAdjective] en apoyo al gobierno. Está claro que el gobierno [MAL.GetAdjective] está interesado en ayudar a aquellos atrapados en el fuego cruzado de su conflicto con los rebeldes AQIM."
@@ -520,7 +520,7 @@
  mali.24.t: "Los Islamistas Intervienen en la Guerra Maliense"
  mali.24.d: "Ansar Dine y otros insurgentes islámicos han comenzado a luchar contra los tuareg por el control de Azawad. Su delicada alianza se ha roto ahora mientras continúan luchando entre ellos y contra las fuerzas gubernamentales. El ascenso de los extremistas islámicos en el Magreb y el África subsahariana ha mostrado ahora su rostro en Malí. Las consecuencias de esta guerra son claras y quedarán grabadas en el suelo con sangre, lágrimas y la destrucción de la mitad noreste del país."
  mali.24.a: "Ansongo Deserta"
- mali.24.b: "¡Por Alá! ¡Por la libertad del Sahel!"
+ mali.24.b: "Por Alá! Por la libertad del Sahel!"
 
  # Niger - This section is a set of events in Niger. MNJ is a regional organization in Niger.
  mali.25.t: "El MNJ Ataca Puestos Avanzados"
@@ -545,7 +545,7 @@
  mali.28.b: "No Es Nuestro Problema"
 
  # Response to mali.27 with the kidnapping of Areva employees
- mali.29.t: "¡Empleados de Areva Secuestrados!"
+ mali.29.t: "Empleados de Areva Secuestrados!"
  mali.29.d: "Areva, una empresa francesa de minería de uranio, ha tenido varios empleados secuestrados en la región norte de Níger. Los rebeldes tuareg y grupos radicales están reclamando la responsabilidad por el secuestro de los empleados de Areva."
  mali.29.a: "Aprovechar el Apoyo Diplomático"
  mali.29.b: "Poner la Responsabilidad en Areva"
@@ -553,7 +553,7 @@
  # Fire pre-2007 Tuareg Rebellion
  mali.30.t: "Hassan ag Fagaga Deserta"
  mali.30.d: "Hassan ag Fagaga, un tuareg Ifoghas, uno de nuestros comandantes más prominentes en el ejército, ha desertado de su puesto. Un gran contingente de tropas leales a él desertó de sus puestos junto con él, a medida que las tensiones entre el gobierno maliense y los pueblos tuareg de Malí comenzaban a aumentar. No está claro qué significa esto para el futuro cercano, pero probablemente Fagaga reaparezca de una u otra manera."
- mali.30.a: "¡Traidores!"
+ mali.30.a: "Traidores!"
 
  mali.31.t: "El Ejército Maliense Atacado en Tin Zawaten"
  mali.31.d: "Fuerzas armadas tuareg han atacado a nuestras fuerzas en Tin Zawaten. Tin Zawaten es un puesto militar remoto donde varias de nuestras tropas están destacadas para ayudar a frenar la marea de fuerzas rebeldes en la región. Más de cien soldados han resultado heridos, capturados o muertos."
@@ -630,7 +630,7 @@
  somalia.7.t2: "La Alianza del Valle de Juba Se Niega a Unirse al TNG"
  somalia.7.d2: "La Alianza del Valle de Juba se ha negado a unirse al TNG. ¿Cómo debemos manejar este evento?"
  somalia.7.b: "Dejarlos a su Propio Destino"
- somalia.7.c: "¡Reclamar el Territorio a Cualquier Costo!"
+ somalia.7.c: "Reclamar el Territorio a Cualquier Costo!"
 
  somalia.8.t: "La Formación del TFG"
  somalia.8.d: "El TNG ha consolidado la mayoría de los problemas dentro de la administración incipiente. El Gobierno Federal Transitorio (TFG) ahora ha sido formado con la unificación de la mayoría de los estados-nación somalíes que buscan nuevamente unirse entre sí. El [SML.GetName] ha rechazado unirse al TFG, pero esto puede ser algo a manejar más adelante."
@@ -645,7 +645,7 @@
  somalia.10.t: "El Ascenso de la Unión de Cortes Islámicas"
  somalia.10.d: "[SHB.GetName] ha comenzado a ganar prominencia entre nuestras comunidades y ahora lucha abiertamente contra nuestro gobierno. La Unión de Cortes Islámicas ha hecho maniobras para competir por el control de la parte sur del país. El desbordamiento continúa colocando al Gobierno Federal Transitorio en una posición precaria con el constante cambio en la nación."
  somalia.10.a: "La ICU Se Eleva"
- somalia.10.b: "¡Por Alá!"
+ somalia.10.b: "Por Alá!"
 
  somalia.11.t: "El Fin de la Guerra Civil Somalí"
  somalia.11.d: "La Guerra Civil Somalí ha llegado a su conclusión natural. [THIS.GetName] ha emergido ahora como victorioso y nuestra bandera ondea sobre Mogadishu. Ahora lideraremos Somalia hacia el futuro como la cabeza de su gobierno."
@@ -670,12 +670,12 @@
  # Haiti - I know this isn't Africa I just didn't want to make a file for Haiti only
  haiti.1.t: "Elecciones Locales de 2000"
  haiti.1.d: "Las Elecciones Locales de 2000 han visto un gran aumento en la popularidad de los miembros del partido Fanmi Lavalas. Muchos de los opositores han comenzado a gritar sobre evidencia de manipulación o fraude electoral. Probablemente esto sea una de las causas de la alta participación en su partido o podría ser simplemente popularidad. ¿Cómo debemos proceder?"
- haiti.1.a: "¡Perdedores Amargados!"
+ haiti.1.a: "Perdedores Amargados!"
  haiti.1.b: "Recontar los Votos"
 
  haiti.2.t: "La Oposición Boicotea las Elecciones"
  haiti.2.d: "La oposición a Aristide ha decidido boicotear las elecciones. Han comenzado a acusar al gobierno y a Fanmi Lavalas de manipular las elecciones a su favor."
- haiti.2.a: "¡Absolutamente Perdedores Amargados!"
+ haiti.2.a: "Absolutamente Perdedores Amargados!"
 
  haiti.3.t: "La Oposición Decide Participar"
  haiti.3.d: "Nuestras decisiones son volver a realizar la elección y llevar a la oposición a la conversación. Las elecciones presidenciales de 2000 más adelante este año serán justas y libres, y la oposición formará parte de las elecciones."
@@ -691,7 +691,7 @@
  haiti.5.a: "Negociar con los Estudiantes"
  haiti.5.b: "Sofocar las Protestas"
 
- haiti.6.t: "¡Protestas Estudiantiles Contra Aristide!"
+ haiti.6.t: "Protestas Estudiantiles Contra Aristide!"
  haiti.6.d: "Otro grupo de manifestantes de las universidades ha decidido protestar nuevamente contra Aristide. Las protestas continúan denunciando la corrupción y el trato hacia la oposición al presidente Aristide."
  haiti.6.a: "Negociar con los Estudiantes"
  haiti.6.b: "Sofocar las Protestas"
@@ -710,7 +710,7 @@
  haiti.9.t2: "Francia Declina las Reparaciones"
  haiti.9.d1: "Francia ha decidido pagar las reparaciones a Haití por la Deuda de Independencia. El aumento de los ingresos debería permitir a nuestro gobierno reinvertir y mejorar nuestra posición económica actual."
  haiti.9.d2: "Los franceses han declinado pagar las reparaciones por la Deuda de Indemnización de la Independencia. La negativa es una decepción, pero tiene sentido que rechacen el pago después de todo."
- haiti.9.a: "¡Un Maravilloso Día!"
+ haiti.9.a: "Un Maravilloso Día!"
  haiti.9.b: "Desafortunado"
 
  haiti.10.t: "Amiot Métayer y el Ejército Caníbal"
@@ -726,7 +726,7 @@
  haiti.12.d: "Los partidarios de Aristide, respaldados por la policía en algunos casos, entraron en el departamento de estudios sociales de la Université d'État d'Haïti. El ataque ocurrió como preludio de una posible protesta estudiantil antigubernamental que iba a suceder más tarde en el día."
  haiti.12.a: "Las Cosas Se Están Caldeando"
 
- haiti.13.t: "¡Las Protestas Estudiantiles Se Vuelven Violentas!"
+ haiti.13.t: "Las Protestas Estudiantiles Se Vuelven Violentas!"
  haiti.13.d: "Las protestas estudiantiles en Puerto Príncipe se han vuelto violentas. El ataque constante a la democracia y los valores democráticos ha causado tensiones descontroladas entre la población estudiantil y el gobierno. Los manifestantes fueron rápidamente sofocados por la policía después de que sus disturbios se volvieran cada vez más violentos."
  haiti.13.a: "Reprender a los Oficiales"
  haiti.13.b: "Deberían Estar en Clases"
@@ -742,9 +742,9 @@
  haiti.15.a: "Es Hora de Renunciar..."
  haiti.15.b: "Movilizar las Fuerzas de Seguridad."
 
- haiti.16.t: "¡El Golpe Haitiano Ha Comenzado!"
+ haiti.16.t: "El Golpe Haitiano Ha Comenzado!"
  haiti.16.d: "Haití ha estallado en caos, ya que Buteur Métayer y su Frente Revolucionario de Resistencia Artibonite han tomado la parte norte del país. El tiempo apremia y la Comunidad del Caribe ha solicitado que se desplieguen fuerzas de paz internacionales para estabilizar a su vecino. ¿Cómo deberíamos proceder?"
- haiti.16.a: "¡Intervenir en el país!"
+ haiti.16.a: "Intervenir en el país!"
  haiti.16.b: "Mantenernos al margen"
 
  haiti.17.t: "Vuelo 1301 de Tropical Airways"
@@ -760,13 +760,13 @@
  haiti.19.t2: "América No Apoya la Operación"
  haiti.19.d1: "Estados Unidos ha comprometido fuerzas para una operación en Haití a la que han denominado Operación Asegurar el Mañana. Los rebeldes que buscan derrocar al gobierno autocrático de Aristide serán los que reciban nuestro apoyo."
  haiti.19.d2: "Estados Unidos ha declinado comprometer fuerzas en Haití. Tendremos que decidir nuestro camino sin Estados Unidos."
- haiti.19.a: "¡Los estadounidenses están con nosotros!"
- haiti.19.b: "¡Cobardes!"
+ haiti.19.a: "Los estadounidenses están con nosotros!"
+ haiti.19.b: "Cobardes!"
  haiti.19.c: "Realmente no deberían involucrarse"
 
  haiti.20.t: "Fuerzas de Paz Extranjeras"
  haiti.20.d: "La inestabilidad en nuestro gran país ha hecho que la comunidad internacional en su conjunto tome nota. Fuerzas de Estados Unidos, Francia y otros países están desplegando recursos de paz en la región para combatir a las fuerzas anti-gobierno que han tomado el control de la parte norte de la nación."
- haiti.20.a: "¡La ayuda es apreciada!"
+ haiti.20.a: "La ayuda es apreciada!"
  haiti.20.b: "No tenemos apoyo"
  haiti.20.tt1: "[FRA.GetNameWithFlag] probablemente enviará apoyo extranjero pronto."
  haiti.20.tt2: "[USA.GetNameWithFlag] probablemente enviará apoyo extranjero pronto."

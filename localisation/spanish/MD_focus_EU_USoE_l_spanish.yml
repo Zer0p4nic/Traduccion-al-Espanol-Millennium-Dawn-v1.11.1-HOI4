@@ -21,13 +21,13 @@
  USoE005_desc: "El Nuevo Gran Juego acaba de comenzar y Europa va tarde, mientras que EE. UU., China y Rusia ya han hecho sus primeros movimientos."
  ### Europe's Heart and Soul ###
  USoE006: "El Corazón y el Alma de Europa"
- USoE006_desc: "La nueva nación necesita definir sus valores y estándares. ¡Europa necesita un Corazón y un Alma!"
+ USoE006_desc: "La nueva nación necesita definir sus valores y estándares. Europa necesita un Corazón y un Alma!"
  ### A Game of Spheres ###
  USoE100: "Un Juego de Esferas"
  USoE100_desc: "Cuando juegas al juego de las esferas, ganas o mueres. No hay término medio."
  ### Engage the Eagle ###
  USoE101: "Desplegar el Águila"
- USoE101_desc: "¡El Águila Americana necesita ser aterrizada! Ha volado demasiado tiempo sobre los cielos europeos."
+ USoE101_desc: "El Águila Americana necesita ser aterrizada! Ha volado demasiado tiempo sobre los cielos europeos."
  ### Brawl with the Bear ###
  USoE102: "Pelea con el Oso"
  USoE102_desc: "Necesitamos golpear al Oso antes de que él nos golpee."
@@ -114,7 +114,7 @@
  USoE325_desc: "La Operación Imposible fue un plan de guerra de los Jefes del Estado Mayor británicos contra la Unión Soviética ordenado por Winston Churchill en mayo de 1945. Junto con la antigua Wehrmacht alemana, los aliados occidentales deberían lanzar un ataque sorpresa contra la Unión Soviética. Occidente necesita revisar ese plan para ajustarlo a la configuración actual y actuar en defensa preventiva contra Rusia para evitar la hegemonía rusa en Europa."
  ### The Torch of Freedom ###
  USoE400: "La Antorcha de la Libertad"
- USoE400_desc: "¡Europa necesita continuar con la Antorcha de la Libertad! Los Estados Unidos de Europa son una república democrática que respeta los derechos humanos y el estado de derecho."
+ USoE400_desc: "Europa necesita continuar con la Antorcha de la Libertad! Los Estados Unidos de Europa son una república democrática que respeta los derechos humanos y el estado de derecho."
  ### Digital Democracy ###
  USoE401: "Democracia Digital"
  USoE401_desc: "Europa necesita reformar sus instituciones democráticas para la era digital. Con las redes sociales y las redes sociales, el pueblo puede participar directamente en la legislación y el gobierno."
@@ -326,23 +326,23 @@
 
  USoEevent.3.t: "[FROM.GetName] ofrece alianza o ataque"
  USoEevent.3.d: "[FROM.GetName] ofrece una alianza o nos atacarán."
- USoEevent.3.a: "¡Está bien, aliémonos!"
- USoEevent.3.b: "¡No, luchemos!"
+ USoEevent.3.a: "Está bien, aliémonos!"
+ USoEevent.3.b: "No, luchemos!"
 
  USoEevent.4.t: "[FROM.GetName] ofrece alianza o ataque"
  USoEevent.4.d: "[FROM.GetName] ofrece una alianza o nos atacarán."
- USoEevent.4.a: "¡Está bien, aliémonos!"
- USoEevent.4.b: "¡No, luchemos!"
+ USoEevent.4.a: "Está bien, aliémonos!"
+ USoEevent.4.b: "No, luchemos!"
 
- USoEevent.5.t: "Imperialismo Ambiental en [FROM.GetName] - ¡Éxito!"
+ USoEevent.5.t: "Imperialismo Ambiental en [FROM.GetName] - Éxito!"
  USoEevent.5.d: "[FROM.GetName] ha aceptado nuestras demandas ambientales."
  USoEevent.5.a: "Está bien"
 
- USoEevent.6.t: "Imperialismo Ambiental en [FROM.GetName] - ¡Sanciones Impuestas!"
- USoEevent.6.d: "[FROM.GetName] no ha aceptado nuestras demandas ambientales. ¡Sanciones impuestas!"
+ USoEevent.6.t: "Imperialismo Ambiental en [FROM.GetName] - Sanciones Impuestas!"
+ USoEevent.6.d: "[FROM.GetName] no ha aceptado nuestras demandas ambientales. Sanciones impuestas!"
  USoEevent.6.a: "Está bien"
 
- USoEevent.7.t: "¡Sanciones Ambientales rotas por [FROM.GetName]!"
+ USoEevent.7.t: "Sanciones Ambientales rotas por [FROM.GetName]!"
  USoEevent.7.d: "[FROM.GetName] ha roto nuestras sanciones."
  USoEevent.7.a: "Está bien"
 

@@ -18,7 +18,7 @@
  CHI_weaponized_space: "Militarizar el Espacio"
  CHI_weaponized_space_desc: "Dondequiera que aparezcan los humanos, habrá disputas, incluso en el espacio. No te quedes sentado viendo el desarrollo de tus oponentes y permanece indiferente. El tiempo no espera a nadie."
  CHI_space_marines: "Marines Espaciales"
- CHI_space_marines_desc: "El vasto universo es como el océano en el pasado, esperando ser conquistado por los humanos, ¡los marines espaciales lideran el camino!"
+ CHI_space_marines_desc: "El vasto universo es como el océano en el pasado, esperando ser conquistado por los humanos, los marines espaciales lideran el camino!"
  CHI_visit_dark_side_moon: "Misión al lado oscuro de la luna"
  CHI_visit_dark_side_moon_desc: "Debido al bloqueo por marea, el mismo lado de la luna siempre mira hacia la Tierra. Aterrizar en el lado oscuro de la luna sería un paso histórico en la conquista de la luna."
  CHI_lunar_outpost: "Puesto Avanzado Lunar"
@@ -36,11 +36,11 @@
 
  chi_mars.1.t: "Misión del Rover de Marte"
  chi_mars.1.d: "Nuestros científicos e ingenieros están listos para enviar nuestro Rover a Marte. Tiene un total de aproximadamente 14 sensores instalados, junto con equipos por valor de decenas de millones de dólares. Este Rover necesitará ser movido regularmente, ya que el día en Marte dura 1 1/5 días terrestres, lo cual es demasiado largo para que las baterías conserven la energía almacenada en Marte.\n\nEl propio Rover estará en los polos, fácilmente movilizable, para aprovechar al máximo nuestros paneles solares. Además, se llevarán a cabo experimentos para determinar las condiciones de vida a largo plazo en Marte. La extracción de hielo no solo podría llevar a la obtención de agua líquida para las plantas y alimento para los futuros astronautas en Marte, sino también a separarlo en oxígeno e hidrógeno, combustible para cohetes.\n\nEsto podría tomar meses o años para obtener la investigación necesaria para hacerlo. Sin embargo, durante este tiempo, utilizando los fondos para este proyecto, construiremos un depósito orbitando Marte para permitir un acceso más fácil a Marte y repostar para regresar a la Tierra.\n\nTodo esto es alcanzable dentro de la próxima década. Ahora, sin embargo, es el momento de lanzar."
- chi_mars.1.o1: "¡Lanzar!"
+ chi_mars.1.o1: "Lanzar!"
 
  chi_mars.2.t: "Proyecto de Colonia en Marte"
  chi_mars.2.d: "Si los humanos quieren colonizar Marte, deben establecer una base permanente que sea autosuficiente. Este es el sueño de innumerables exploradores espaciales y la única manera para que los humanos pongan un pie en el espacio. Todo esto se convertirá en una realidad hoy."
- chi_mars.2.o1: "¡Marte, allá vamos!"
+ chi_mars.2.o1: "Marte, allá vamos!"
 
  chi_mars.3.t: "Fallo en el sistema de aterrizaje"
  chi_mars.3.d: "Después de un viaje de casi 60 millones de kilómetros, nuestra nave espacial finalmente apareció sobre Marte. El óxido de hierro que cubre Marte mostró un aspecto rojo. El planeta, que solo se veía a través de una lente, ahora está a la vista. \n"La nave espacial entra en modo de aterrizaje." El capitán, que había practicado innumerables veces en el simulador, dio la orden, pero parecía haber un problema con el dispositivo de aterrizaje. En ese momento, grandes gotas de sudor cubrieron instantáneamente la frente del capitán."
@@ -84,7 +84,7 @@
  chi_mars.12.o2: "Reparar la base"
 
  chi_mars.13.t: "Evacuar"
- chi_mars.13.d: "Ya no podemos esperar más. La situación ahora es muy crítica y es hora de usar los cohetes de respaldo para la evacuación. Después de verificar que todos los miembros del equipo habían subido de manera segura a la nave, el capitán miró con pesar hacia el edificio de la base que aún estaba en construcción. Suprimió la tristeza en su corazón y dio la orden a la guía de inteligencia artificial para lanzar la nave espacial. \n'¡Volveremos!' Mientras una gran explosión de humo se elevaba, la nave espacial se separó del suelo marciano y subió lentamente al cielo."
+ chi_mars.13.d: "Ya no podemos esperar más. La situación ahora es muy crítica y es hora de usar los cohetes de respaldo para la evacuación. Después de verificar que todos los miembros del equipo habían subido de manera segura a la nave, el capitán miró con pesar hacia el edificio de la base que aún estaba en construcción. Suprimió la tristeza en su corazón y dio la orden a la guía de inteligencia artificial para lanzar la nave espacial. \n'Volveremos!' Mientras una gran explosión de humo se elevaba, la nave espacial se separó del suelo marciano y subió lentamente al cielo."
  chi_mars.13.o1: "Donde hay vida, hay esperanza."
 
  chi_mars.14.t: "Reparar base dañada"
@@ -114,7 +114,7 @@
  
  chi_mars.20.t: "Monumento de la Ciudad Marte"
  chi_mars.20.d: "A medida que los humanos viajaron por Marte, Marte se convirtió en el nuevo hogar para los humanos en la Tierra. La terraformación de Marte avanza de manera ordenada. En el primer punto de aterrizaje de la nave espacial humana, se construyó un enorme monumento para conmemorar a los hombres y mujeres que sacrificaron sus vidas durante el viaje y la construcción en el proceso de conquistar Marte. Ellos serán eternamente grabados en el viaje de la civilización humana."
- chi_mars.20.o1: "¡Por la humanidad!"
+ chi_mars.20.o1: "Por la humanidad!"
 
  chi_mars_city_building_completed: "Construcción de la ciudad Marte completada"
  
@@ -124,11 +124,11 @@
   
  chi_moon.1.t: "Puesto avanzado en la Luna"
  chi_moon.1.d: "Nuestros científicos e ingenieros están listos para enviar astronautas y equipo a vivir de manera semi-permanente en la Luna. Un total de aproximadamente 12 astronautas serán enviados allí, junto con decenas de millones de dólares en equipo, suministros, espacios para vivir y artículos personales. Este puesto avanzado necesitará ser movido regularmente ya que el día lunar dura 29 días terrestres, lo que es demasiado largo para que las baterías mantengan la energía almacenada en la Luna. \n\nLa base misma estará en los polos, fácilmente movible, para aprovechar al máximo nuestros paneles solares. Además, se llevarán a cabo experimentos para determinar las condiciones de vida a largo plazo en la Luna. La extracción de hielo lunar podría no solo llevar a obtener agua líquida para plantas y alimentos para los astronautas en la Luna, sino también a separarlo en oxígeno e hidrógeno, combustible para cohetes. \n\nEsto puede llevar meses o años para obtener la investigación necesaria para hacer esto. Sin embargo, durante este tiempo, utilizando los fondos para este proyecto, construiremos un depósito en órbita alrededor de la Luna para permitir un acceso más fácil a la Luna y reabastecimiento para regresar a la Tierra. \n\nTodo esto es alcanzable dentro de la próxima década. Sin embargo, ahora es el momento de lanzar."
- chi_moon.1.o1: "¡Lanzar!"
+ chi_moon.1.o1: "Lanzar!"
 
  chi_moon.2.t: "Base Lunar Alpha"
  chi_moon.2.d: "Nuestros científicos e ingenieros han aterrizado oficialmente en la Luna, y actualmente están en el proceso de establecer la base lunar. Cada sección está dividida en \"módulos,\" no exactamente edificios por sí mismos, pero tampoco unidos como uno solo. Hay un módulo de habitabilidad, para descanso, un módulo de alimentos, para cultivar comida, un módulo de laboratorio, que es el más grande y tiene la mayoría de los equipos científicos, un módulo de mantenimiento, que contiene todas las herramientas necesarias para reparar cosas si se rompen, un módulo de comodidades, ya que estas personas estarán aquí durante 6 meses, y trabajar todo el día todos los días no es bueno para la mente, y varios paneles solares. \n\nLas entregas de alimentos serán comunes durante estos primeros meses, ya que toma tiempo cultivar alimentos. El agua y el oxígeno se obtendrán a través del hielo lunar. Finalmente, estos científicos permanecerán hasta poco después de trasladarse al siguiente lugar en aproximadamente 6 meses, cuando los paneles solares queden inoperativos debido al día y la noche lunar en el lugar donde se encuentra el puesto avanzado, que dura 6 meses. \n\nLa base lunar Alpha está completa."
- chi_moon.2.o1: "¡Ciencia!"
+ chi_moon.2.o1: "Ciencia!"
 
  chi_moon.3.t: "La colonia avanza"
  chi_moon.3.d: "Nuestro puesto avanzado científico en la Luna ha tenido un gran avance. Con la expansión de su red actual de paneles solares, y los recientes descubrimientos que hacen más fácil separar el agua para producir oxígeno e hidrógeno, han logrado obtener suficiente oxígeno e hidrógeno para abastecer completamente el cohete de suministros más reciente. Este es un avance necesario que permitirá que la propia Luna, con suficiente tiempo e inversión, se convierta en un centro para futuras empresas espaciales hacia el espacio exterior. \n\nEl espacio mismo se está haciendo más pequeño."
@@ -136,21 +136,21 @@
 
  chi_moon.4.t: "Crisis en la Luna"
  chi_moon.4.d: "Se deben tomar medidas drásticas de inmediato. Por razones actualmente desconocidas, el módulo de habitabilidad se ha roto y \"explotado.\" \n\nHace una hora, los 12 científicos estaban cumpliendo con sus deberes cuando, de repente, hubo una gran ruptura en el módulo de habitabilidad. \n\nComo las ondas no viajan en el vacío, la mayoría no se dio cuenta hasta que vieron físicamente lo que había sucedido. \n\nHay un fondo de emergencia como parte del presupuesto, por lo que no es necesario asignar más fondos al proyecto, y los científicos siempre pueden dormir en los otros módulos aislados; sin embargo, esto ha asustado a muchos, quienes dicen que algunos, muchos, o incluso todos nuestros científicos podrían haber muerto, lo que también ha reducido la moral de los científicos, ya que podrían haber muerto. Por lo tanto, intentar continuar el puesto avanzado en la Luna será políticamente costoso, y es posible que sea necesario realizar una rotación de científicos ahora en lugar de más tarde, debido a la merma de moral. \n\n¿Qué debemos hacer?"
- chi_moon.4.o1: "¡Enviar ayuda de emergencia!"
+ chi_moon.4.o1: "Enviar ayuda de emergencia!"
  chi_moon.4.o2: "Abandonar el proyecto. No está hecho para nosotros"
 
  chi_moon.5.t: "La colonia avanza aún más"
- chi_moon.5.d: "Nuestro puesto avanzado en la Luna ha logrado otro gran avance. Han conseguido enviar Hidrógeno 3, un gas que parece perfecto para la fusión, a la Tierra, ¡y los científicos en casa han descubierto cómo realizar la fusión con él! No solo esto, sino que la energía generada por esta fusión es casi la cantidad que se usa para realizar la reacción en primer lugar. Esto significa que, con algunas mejoras, ¡esto podría resultar en energía de fusión exitosa! Esto no solo permite enormes beneficios en casa, junto con el conocimiento que podríamos utilizar para usar otros materiales para la fusión, sino que podemos usar esto en la Luna, permitiendo un puesto avanzado permanente en lugar de puestos avanzados móviles. \n\nTodo esto está muy adelantado respecto al calendario, lo cual es una sorpresa, y muchos en la CNSA se han quedado sin preparación para implementar esto en la actual base lunar. Así que, se necesita una nueva base lunar, en un lugar mucho mejor para una expansión rápida que la ubicación actual de la Base Lunar Alpha. Es hora de comenzar los preparativos para la Base Lunar Beta."
+ chi_moon.5.d: "Nuestro puesto avanzado en la Luna ha logrado otro gran avance. Han conseguido enviar Hidrógeno 3, un gas que parece perfecto para la fusión, a la Tierra, y los científicos en casa han descubierto cómo realizar la fusión con él! No solo esto, sino que la energía generada por esta fusión es casi la cantidad que se usa para realizar la reacción en primer lugar. Esto significa que, con algunas mejoras, esto podría resultar en energía de fusión exitosa! Esto no solo permite enormes beneficios en casa, junto con el conocimiento que podríamos utilizar para usar otros materiales para la fusión, sino que podemos usar esto en la Luna, permitiendo un puesto avanzado permanente en lugar de puestos avanzados móviles. \n\nTodo esto está muy adelantado respecto al calendario, lo cual es una sorpresa, y muchos en la CNSA se han quedado sin preparación para implementar esto en la actual base lunar. Así que, se necesita una nueva base lunar, en un lugar mucho mejor para una expansión rápida que la ubicación actual de la Base Lunar Alpha. Es hora de comenzar los preparativos para la Base Lunar Beta."
  chi_moon.5.o1: "La vida continúa"
 
  chi_moon.6.t: "Otra crisis en la Luna"
  chi_moon.6.d: "Es necesario tomar medidas aún más drásticas ahora. Dos módulos más se han roto. Esta vez, son los módulos de Alimentos y Comodidades. \n\nAproximadamente hace cuarenta minutos, un científico estaba a punto de entrar al módulo de Alimentos cuando de repente explotó. El científico está bien, y nadie más que las plantas resultaron dañadas. Sin embargo, estaba adyacente al módulo de Comodidades, y esto causó que también se rompiera y explotara. De nuevo, nadie resultó herido. \n\nEste nuevo suceso, sin embargo, ha puesto en alerta a muchos en casa, cuestionando la seguridad de los módulos. Después de la explosión anterior, la CNSA reemplazó los módulos, asegurándose de que no explotaran, pero parece que la presión prolongada puede causar que algo se rompa mucho más fácilmente de lo que lo haría de otra manera. La CNSA ya ha respondido rápidamente, ordenando que se fabriquen nuevos módulos de inmediato, así como una inspección minuciosa de todos los módulos actuales (ya que no se pueden \"recoger\" los módulos de la Luna en este momento). \n\nCon la creciente presión en casa para detener el avance del proyecto hasta que se resuelvan todas las preocupaciones de seguridad, la continuación del programa Base Lunar está en duda. Además de la resistencia política, el fondo de emergencia se ha reducido a la mitad, por lo que la CNSA está solicitando otros $5 mil millones de dólares para resolver preocupaciones futuras. Sigue siendo tu decisión decidir si continuar."
- chi_moon.6.o1: "¡Enviar más ayuda de emergencia!"
+ chi_moon.6.o1: "Enviar más ayuda de emergencia!"
  chi_moon.6.o2: "No podemos seguir haciendo esto"
 
  chi_moon.7.t: "Base Lunar Beta"
  chi_moon.7.d: "En este momento, nuestros científicos e ingenieros en la Luna necesitan trasladarse a otra ubicación en los polos. Los costos para hacerlo ya están establecidos en el presupuesto a largo plazo, por lo que no necesitamos agregar nuevos fondos al proyecto aún. \n\nCon esta nueva base lunar, podremos utilizar nuevos descubrimientos que hemos desvelado para permitir que la base se establezca permanentemente, a diferencia de nuestra base lunar anterior. Con el uso de cohetes mejores, una mejor generación de energía, mejor extracción y separación de hielo, podemos usar esta nueva base, en un lugar más adecuado para una expansión rápida, para facilitar los esfuerzos de colonización de la Luna. Esta no es la única buena noticia, los emprendedores y las corporaciones están inundando la CNSA en masa con solicitudes para poner sus sistemas de minería recién desarrollados en la Luna. Incluso otros programas espaciales en otros países están ahora extremadamente interesados en iniciar puestos avanzados científicos y de minería en la Luna, sin embargo, debido a nuestros esfuerzos diligentes, no solo tenemos una ventaja significativa, sino que somos el único país que intenta activamente colonizar la Luna. \n\nEl futuro en nuestra Luna es brillante y chino."
- chi_moon.7.o1: "¡Hurra!"
+ chi_moon.7.o1: "Hurra!"
  
  chi_moonbase_beta_completed: "Base Lunar Beta completada"
  chi_the_one_china_policy: "La Política de Una Sola China"
@@ -283,7 +283,7 @@
  CHI_Network_Centric_Warfare_bonus: "Guerra Centrada en Redes"
  CHI_New_Era_PLA: "PLA de la Nueva Era"
  CHI_New_Era_PLA_desc: "El PLA en la nueva era cumplirá mejor las tareas asignadas por el partido y el estado, y también es una parte importante para lograr las cuatro modernizaciones."
- CHI_Preserve_the_Revolution: "¡Preservar la Revolución!"
+ CHI_Preserve_the_Revolution: "Preservar la Revolución!"
  CHI_Preserve_the_Revolution_desc: "El milenio presenta nuevos desafíos a la autoridad de nuestro gobierno. Debemos decidir si deseamos responder a estos desafíos bloqueándolos o abrazándolos."
  CHI_Internet_Crackdown: "Represión de Internet"
  CHI_Internet_Crackdown_desc: "Internet no es más que un caldo de cultivo de descontento e insurrección. Debemos evitar que nuestros ciudadanos utilicen este medio y censurar todos los demás junto con él."
@@ -692,7 +692,7 @@
  CHI_Jiangnan_Shipbuilding: "Construcción Naval de Jiangnan"
  CHI_Jiangnan_Shipbuilding_desc: "El astillero Jiangnan era anteriormente conocido como la Administración de Manufactura de Jiangnan. El primer horno de acero de China, su primer cañón de acero, su primer buque de guerra blindado, su primer prensa hidráulica de 10,000 toneladas, su primer submarino, su primer fragata, su primer barco de carga de diseño propio para navegación oceánica, su primer barco de investigación de comunicaciones marítimas, el primer barco de gas licuado de petróleo, el primer transbordador de trenes de un mar a otro, etc., todos salieron de la fábrica."
  CHI_Global_Shipyard: "Astillero Global"
- CHI_Global_Shipyard_desc: "¡Nuestras inversiones en la industria de la navegación del noreste han dado frutos! Los barcos chinos ahora son muy conocidos por su alta calidad y bajo costo. Exportar a naciones costeras de todo el mundo ayudará a aumentar nuestra influencia global."
+ CHI_Global_Shipyard_desc: "Nuestras inversiones en la industria de la navegación del noreste han dado frutos! Los barcos chinos ahora son muy conocidos por su alta calidad y bajo costo. Exportar a naciones costeras de todo el mundo ayudará a aumentar nuestra influencia global."
  CHI_Aerospace_Industry: "Industria Aeroespacial"
  CHI_Aerospace_Industry_desc: "La industria aeroespacial es un sector importante para cualquier economía importante. Para una nación como China que busca rivalizar con Estados Unidos en tecnología aérea y espacial, es absolutamente esencial."
  CHI_Mobile_Launcher_Platforms: "Plataformas Lanzadoras Móviles"
@@ -760,7 +760,7 @@
  CHI_The_Korean_Peninsula: "La Península de Corea"
  CHI_The_Korean_Peninsula_desc: "Corea siempre ha sido de interés para los chinos debido a su tamaño y proximidad. La península está actualmente dividida entre el Norte y el Sur. Mientras que estamos alineados políticamente con el primero, el segundo ofrece oportunidades sustanciales para la cooperación económica."
  CHI_Criticize_the_American_Presence: "Criticar la Presencia Estadounidense"
- CHI_Criticize_the_American_Presence_desc: "¡La existencia de tropas estadounidenses en nuestra esfera de influencia es una ofensa y no puede ser tolerada! Estas tropas, supuestamente destinadas a defenderse de una invasión desde el Norte, sirven como una espada que cuelga sobre las cabezas del pueblo chino, esperando el momento adecuado para atacar."
+ CHI_Criticize_the_American_Presence_desc: "La existencia de tropas estadounidenses en nuestra esfera de influencia es una ofensa y no puede ser tolerada! Estas tropas, supuestamente destinadas a defenderse de una invasión desde el Norte, sirven como una espada que cuelga sobre las cabezas del pueblo chino, esperando el momento adecuado para atacar."
  CHI_Demand_a_Withdrawal: "Exigir la Retirada"
  CHI_Demand_a_Withdrawal_desc: "Una retirada estadounidense eliminará una amenaza sustancial para nuestra seguridad y abrirá el camino para la restauración de una Corea unificada bajo la RPDC. Los estadounidenses tienen más probabilidades de ceder a nuestras demandas si ya hemos socavado su influencia global."
  CHI_Support_the_Norths_Military_Buildup: "Apoyar el Reforzamiento Militar del Norte"
@@ -960,19 +960,19 @@
  china.1.t: "China Aumenta su 'Iniciativa de la Franja y la Ruta'"
  china.1.d: "Se sabe que la ambiciosa Iniciativa de la Franja y la Ruta (BRI) de China ha estado en proceso durante los últimos años, habiendo sufrido un cambio de nombre después de que se considerara que la \"Estrategia de Una Franja, Una Ruta\" era demasiado amenazante. La administración de [CHI.GetLeader] anunció hoy su intención de invertir en múltiples proyectos de infraestructura como parte de la BRI en países de todo el mundo. Si bien muchos países en desarrollo han acogido el anuncio con la esperanza de una muy necesaria inversión china en sus economías, Japón, India, EE. UU. y Australia han expresado reservas sobre la iniciativa, viéndola como un intento velado de difundir la influencia china en el extranjero."
  china.1.a: "¿Dónde firmamos?"
- china.1.b: "¡Rechazamos esta amenaza a nuestra independencia!"
+ china.1.b: "Rechazamos esta amenaza a nuestra independencia!"
  
  china.2.t: "China anuncia la política de \"Ascenso Pacífico\""
  china.2.d: "Hu Jintao aseguró hoy a los funcionarios del sudeste asiático y estadounidenses que, en el futuro, la política exterior china se caracterizará por un \"ascenso pacífico\". Esta política busca tranquilizar a aquellos países que más temen la agresión china de que la ambición china es puramente económica y que China hará todo lo posible para contribuir a la paz mundial y la cooperación global."
  china.2.a: "Considérennos tranquilos."
  
- china.3.t: "¡La Iniciativa de la Franja y la Ruta ha llegado a nuestras costas!"
- china.3.d: "¡Las empresas chinas han invertido en nuestra infraestructura clave! Esto está proporcionando un impulso bienvenido a nuestra economía y ha fortalecido los lazos entre nuestras dos naciones, aunque algunos pueden decir que debemos tener cuidado con la creciente influencia de China en nuestra nación."
+ china.3.t: "La Iniciativa de la Franja y la Ruta ha llegado a nuestras costas!"
+ china.3.d: "Las empresas chinas han invertido en nuestra infraestructura clave! Esto está proporcionando un impulso bienvenido a nuestra economía y ha fortalecido los lazos entre nuestras dos naciones, aunque algunos pueden decir que debemos tener cuidado con la creciente influencia de China en nuestra nación."
  china.3.a: "Estamos agradecidos con la RPC."
  
  china.4.t: "Escándalo de la leche"
  china.4.d: "La nación está indignada por el descubrimiento de que las empresas lácteas chinas han estado vendiendo productos contaminados con el compuesto tóxico Melamina; más de 300,000 ciudadanos chinos han sido envenenados por la leche y la fórmula para bebés contaminadas, y 11 países han prohibido las importaciones de alimentos chinos. Varios altos funcionarios de la industria y el gobierno han sido implicados; parece que eran plenamente conscientes del contenido de Melamina, que la Organización Mundial de la Salud ha declarado uno de los mayores incidentes de seguridad alimentaria en la historia."
- china.4.a: "¡Terrible! Los responsables serán castigados."
+ china.4.a: "Terrible! Los responsables serán castigados."
  
  china.5.t: "Tifón Bilis"
  china.5.d: "Las preparaciones para el tifón Bilis comenzaron cuando el Observatorio Meteorológico de Xiamen emitió una advertencia para la provincia de Fujian. Se anticipaba que el tifón sería la tormenta más fuerte que afectara a Xiamen hasta ese momento en el año 2000. Al igual que en Taiwán, los tres aeropuertos de la provincia fueron cerrados y el servicio de ferry fue suspendido en preparación para la tormenta. Asimismo, Xiamen Airlines canceló todos los vuelos programados.\n\nA pesar de convertirse en una tormenta más débil al tocar tierra en China en comparación con su aterrizaje en Taiwán, Bilis causó más muertes y generó un mayor costo por daños en China. Las pérdidas económicas en China sumaron $534 millones de dólares estadounidenses, siendo la mayoría de las pérdidas ocurridas en la provincia de Fujian. Un total de 57 personas murieron, aunque 1,077 personas más resultaron heridas o desaparecieron. Debido a los árboles caídos, una línea ferroviaria de Fuzhou a Mawei bloqueó el servicio ferroviario. Bilis generó varios tornados en el área de Yueqing, arrasando cuatro aldeas y destruyendo 20 edificios."
@@ -1005,7 +1005,7 @@
 
  china.12.t: "China recibe condena internacional por los campos de internamiento uigures"
  china.12.d: "Human Rights Watch ha instado al gobierno chino a poner fin a su política de internar a musulmanes uigures en la provincia de Xinjiang en 'campos de reeducación'. La ONG condenó esta práctica recientemente acelerada como una flagrante violación tanto del derecho internacional de los derechos humanos como de la propia constitución de China."
- china.12.a: "¡Esta práctica debe ser condenada!"
+ china.12.a: "Esta práctica debe ser condenada!"
  china.12.b: "No vemos nada de malo en esto."
  china.12.c: "Esto no es asunto nuestro."
  
@@ -1035,12 +1035,12 @@
  
  china.19.t: "China ofrece el estatus de RAE a Mongolia Exterior."
  china.19.d: "Nuestros amigos en China han ofrecido acercarse para permitir que nuestro país sin salida al mar se una a una familia mucho más grande, recupere la gloria y comparta el gran mercado chino. Claro, habrá un pequeño ajuste en el estatus nacional actual de Mongolia, pero por los enormes beneficios, este precio no es nada, ¿verdad?"
- china.19.a: "¡Ahora somos uno!"
- china.19.b: "¡Resistir y morder!"
+ china.19.a: "Ahora somos uno!"
+ china.19.b: "Resistir y morder!"
  
- china.20.t: "¡Mongolia Exterior resiste nuestra demanda!"
- china.20.d: "¡La Mongolia Exterior realmente tiene la intención de detener el proceso de reunificación de China! ¿El camino fácil o el difícil? Parece inevitable una operación militar especial."
- china.20.a: "¡Actúa ahora!"
+ china.20.t: "Mongolia Exterior resiste nuestra demanda!"
+ china.20.d: "La Mongolia Exterior realmente tiene la intención de detener el proceso de reunificación de China! ¿El camino fácil o el difícil? Parece inevitable una operación militar especial."
+ china.20.a: "Actúa ahora!"
  china.20.b: "Aún necesitamos algo de preparación."
  
  china.21.t: "China toma el control de Mongolia Exterior"
@@ -1056,10 +1056,10 @@
  china.23.a: "Debemos seguir el procedimiento adecuado, aunque tome más tiempo."
  china.23.b: "No podemos darnos el lujo de perder tiempo debatiendo esto, debemos apresurar el CSSTA."
  
- china.24.t: "¡China nos está amenazando con medidas económicas punitivas!"
+ china.24.t: "China nos está amenazando con medidas económicas punitivas!"
  china.24.d: "Citando nuestro reconocimiento de la ROC como el representante legítimo de China en lugar de la RPC, las autoridades chinas han amenazado con reducir el comercio bilateral entre nuestro país y el suyo. Si cedemos a sus demandas, nuestras relaciones económicas continuarán sin afectar."
  china.24.a: "Debemos aceptar sus demandas."
- china.24.b: "¡No somos nada si no somos leales!"
+ china.24.b: "No somos nada si no somos leales!"
  
  china.25.t: "Establecimiento de la RAE de Taiwán"
  china.25.d: "Después de medio siglo de disputa y conflicto, los dos lados del estrecho de Taiwán finalmente lograron la reunificación pacífica. Taiwán, o el anterior gobierno Nacionalista, terminó con el estado de hostilidad y se unió a la República Popular China como una región administrativa especial."
@@ -1075,7 +1075,7 @@
  
  china.28.t: "La decisión del NPCSC sobre Hong Kong"
  china.28.d: "La Ley Básica de Hong Kong establece que el Jefe Ejecutivo debe ser elegido finalmente por sufragio universal. Sin embargo, si implementamos este sistema electoral, las posibilidades de que figuras pro-Beijing gobiernen el territorio serán significativamente menores debido a la mayor popularidad relativa de los candidatos pan-demócratas. Si bien debemos evitar la posibilidad de que una figura anti-china o pro-independencia se convierta en el Jefe Ejecutivo de Hong Kong, también debemos tener cuidado de no antagonizar al pueblo de Hong Kong. ¿Podría haber una tercera vía para salir de esta situación?"
- china.28.a: "¡El sufragio universal está fuera de discusión!"
+ china.28.a: "El sufragio universal está fuera de discusión!"
  china.28.b: "Podemos aceptar el sufragio universal, siempre y cuando evaluemos a los candidatos primero."
  china.28.c: "El pueblo de Hong Kong debe elegir a sus líderes."
 
@@ -1084,20 +1084,20 @@
  china.29.a: "La RAE perdurará."
  china.29.b: "Hong Kong regresará a nuestro control."
  
- china.30.t: "¡China exige nuestra lealtad!"
+ china.30.t: "China exige nuestra lealtad!"
  china.30.d: "Citando la soberanía histórica de China sobre Vietnam, [CHI.GetLeader] ha exigido que nos sometamos a la autoridad china y cedamos el control de nuestra política exterior. Esta demanda extremadamente ofensiva viola nuestra soberanía estatal garantizada por el derecho internacional. Sin embargo, ¿realmente podemos permitirnos antagonizar a esta potencia en ascenso?"
- china.30.a: "¡Ya no tenemos que someternos a los chinos!"
+ china.30.a: "Ya no tenemos que someternos a los chinos!"
  china.30.b: "Debemos aceptar esta humillación..."
 
- china.31.t: "¡China está socavando nuestra posición internacional!"
+ china.31.t: "China está socavando nuestra posición internacional!"
  china.31.d: "Nuestra influencia global ha disminuido drásticamente en los últimos años gracias a los esfuerzos de los chinos, poniendo en peligro nuestra posición como el único hegemón del mundo y sentando las bases para un nuevo orden mundial. Tal vez aquellos que predijeron el \"Fin de la Historia\" tras nuestra victoria sobre la Unión Soviética estaban, después de todo, demasiado optimistas."
  china.31.d_SOV: "Nuestros antiguos aliados han estado ocupados expulsándonos de nuestra esfera de influencia en Asia Central. A medida que la interferencia de China en nuestro dominio crece, la principal razón de nuestra alineación estratégica, la amenaza que representa Estados Unidos, palidece en comparación. El tiempo para la inacción debe llegar a su fin si queremos mantener nuestra posición actual."
- china.31.a: "¡Debemos atacar ahora antes de que sea demasiado tarde!"
+ china.31.a: "Debemos atacar ahora antes de que sea demasiado tarde!"
  china.31.b: "Nos dirigimos hacia la irrelevancia..."
  
- china.32.t: "¡China exige las islas Natuna!"
+ china.32.t: "China exige las islas Natuna!"
  china.32.d: "Recientemente, [CHI.GetLeader] ha exigido que transfiramos las islas Natuna a la autoridad de China. Anteriormente, China había controlado completamente las islas Spratly. Sin embargo, ¿realmente podemos permitirnos antagonizar a esta potencia en ascenso?"
- china.32.a: "¡No entregaremos nuestras islas a los chinos!"
+ china.32.a: "No entregaremos nuestras islas a los chinos!"
  china.32.b: "No podemos soportar la presión..."
  
  china.33.t: "Un vestigio del pasado soviético"
@@ -1106,9 +1106,9 @@
  china.33.b: "Negociemos por una tarifa prioritaria."
  
  china.34.t: "Los turcos piden nuestra paciencia"
- china.34.d: "¡El crucero de portaaviones ex-soviético Varyag que fue comprado hace 2 años a [UKR.GetFlag]Ucrania ha sido detenido! El casco incompleto está en un viaje desde el Mar Negro hasta nuestros puertos. Ahora las autoridades [TUR.GetFlag]turcas citan el \"riesgo de que una ráfaga de viento haga que el barco gire de lado y bloquee todo el estrecho del Bósforo\".\n\nPiden nuestra paciencia."
+ china.34.d: "El crucero de portaaviones ex-soviético Varyag que fue comprado hace 2 años a [UKR.GetFlag]Ucrania ha sido detenido! El casco incompleto está en un viaje desde el Mar Negro hasta nuestros puertos. Ahora las autoridades [TUR.GetFlag]turcas citan el \"riesgo de que una ráfaga de viento haga que el barco gire de lado y bloquee todo el estrecho del Bósforo\".\n\nPiden nuestra paciencia."
  china.34.a: "¿Tal vez podemos negociar?"
- china.34.b: "¿Paciencia? ¡Presionaremos un poco!"
+ china.34.b: "¿Paciencia? Presionaremos un poco!"
  china.34.c: "Supongo que debemos esperar..."
  
  china.35.t: "Delegación china"
@@ -1116,23 +1116,23 @@
  china.35.a: "Lo dejaremos pasar en la primera oportunidad."
  china.35.b: "No hay nada de qué hablar."
  
- china.36.t: "¡Negociaciones exitosas!"
- china.36.d: "Nuestros hábiles negociadores han llegado a un acuerdo con las autoridades turcas. ¡El Varyag continuará su viaje por el Bósforo §Hen 6 meses§!!"
+ china.36.t: "Negociaciones exitosas!"
+ china.36.d: "Nuestros hábiles negociadores han llegado a un acuerdo con las autoridades turcas. El Varyag continuará su viaje por el Bósforo §Hen 6 meses§!!"
  china.36.a: "Valdrá la pena el precio."
- china.36.b: "¡Que traigan unos delicias turcas!"
+ china.36.b: "Que traigan unos delicias turcas!"
  
- china.37.t: "¡Negociaciones fallidas!"
+ china.37.t: "Negociaciones fallidas!"
  china.37.d: "Los turcos no estaban interesados en ninguna negociación, hemos hecho todo lo posible por ahora."
  china.37.a: "Entonces tendremos que esperar."
 
- china.38.t: "¡Beijing molesto!"
+ china.38.t: "Beijing molesto!"
  china.38.d: "No contentos con nuestra respuesta, los chinos enfurecidos han respondido con una retórica dura para presionarnos a dejar que el Varyag pase más rápido. ¿Cuál es nuestra respuesta?"
  china.38.a: "Tienen razón, debemos ceder."
  china.38.b: "Podemos alcanzar un punto medio."
- china.38.c: "¡Qué lástima, tendrán que esperar aún más!"
+ china.38.c: "Qué lástima, tendrán que esperar aún más!"
 
- china.39.t: "¡Ankara cede!"
- china.39.d: "¡Nuestros esfuerzos para presionar a los turcos para aceptar nuestro paso legítimo del Varyag han tenido éxito! ¡En dos semanas, el barco continuará su viaje!"
+ china.39.t: "Ankara cede!"
+ china.39.d: "Nuestros esfuerzos para presionar a los turcos para aceptar nuestro paso legítimo del Varyag han tenido éxito! En dos semanas, el barco continuará su viaje!"
  china.39.a: "Está bien"
  
  china.40.t: "Compensación de Ankara"
@@ -1140,7 +1140,7 @@
  china.40.a: "Está bien"
  
  china.41.t: "Insulto tras insulto"
- china.41.d: "¡Nuestro último esfuerzo para presionar a Ankara ha salido mal! El Varyag no pasará por un tiempo considerable y por ahora navegará alrededor del puerto del Mar Negro de puerto en puerto."
+ china.41.d: "Nuestro último esfuerzo para presionar a Ankara ha salido mal! El Varyag no pasará por un tiempo considerable y por ahora navegará alrededor del puerto del Mar Negro de puerto en puerto."
  china.41.a: "Maldita sea"
  
  china.42.t: "Una solicitud de algo más"
@@ -1152,7 +1152,7 @@
  china.43.d: "Los chinos han aceptado y deberíamos tener el dinero transferido a nuestro tesoro para el final de la semana."
  china.43.a: "Y así ganamos."
  
- china.44.t: "¡[CHI.Capital.GetName] rechaza!"
+ china.44.t: "[CHI.Capital.GetName] rechaza!"
  china.44.d: "En lugar de recibir una carta de aceptación, recibimos una respuesta corta casi insultando a nuestro liderazgo por \"Pensar en una idea tan ridícula\"."
  china.44.a: "Qué lástima."
  
@@ -1160,9 +1160,9 @@
  china.45.d: "En 1964, después de la apertura del Shinkansen en Japón, China comenzó a prestar atención al desarrollo de ferrocarriles de alta velocidad en el extranjero. En 1978, Deng Xiaoping visitó Japón y tomó el Shinkansen Tokaido desde Tokio hasta Kioto bajo la disposición del lado japonés. En el camino, dijo: \"Nosotros también necesitamos un tren de alta velocidad como este\".\nEn 1990, el Ministerio de Ferrocarriles completó el \"Informe conceptual del plan de la línea ferroviaria de alta velocidad Beijing-Shanghai\" y lo presentó al Congreso Nacional del Pueblo para su discusión. Esta fue la primera vez que China propuso formalmente construir un ferrocarril de alta velocidad.\nDado que los ferrocarriles de alta velocidad tienen una capacidad de carga relativamente grande, alta velocidad de funcionamiento y alta eficiencia de transporte, los principales problemas que enfrentan los ferrocarriles de China en este momento son la velocidad lenta de los pasajeros y la grave falta de capacidad de transporte, por lo que los ferrocarriles de alta velocidad han recibido cada vez más atención. Desde el comienzo del nuevo siglo, la construcción de una red ferroviaria de alta velocidad que conecte todo el país se ha convertido en una tendencia inevitable."
  china.45.a: "En la necesidad de velocidad."
  
- china.46.t: "¡El viaje continúa!"
- china.46.d: "Los remolcadores y el Varyag que remolcan han pasado hoy al mediodía por la Hagia Sophia con miles de espectadores observando el poderoso buque de guerra. ¡Un verdadero espectáculo para contemplar!"
- china.46.a: "¡Nada puede detener a la RPC!"
+ china.46.t: "El viaje continúa!"
+ china.46.d: "Los remolcadores y el Varyag que remolcan han pasado hoy al mediodía por la Hagia Sophia con miles de espectadores observando el poderoso buque de guerra. Un verdadero espectáculo para contemplar!"
+ china.46.a: "Nada puede detener a la RPC!"
  
  china.47.t: "China se convierte en la fábrica del mundo"
  china.47.d: "El proceso de industrialización de 70 años de la Nueva China ha pasado por todas las etapas importantes del desarrollo industrial en la industrialización mundial durante los últimos 200 años y ha logrado el segundo brillante logro histórico en la historia industrial humana después de la industrialización de Occidente. La industrialización de China no solo ha promovido la mejora del volumen económico mundial y el nivel de desarrollo, sino que también ha cambiado profundamente el panorama político y económico mundial. Desde la reforma y apertura, la industria manufacturera de China ha crecido a una tasa anual promedio del 14%, se integró rápidamente en el sistema de división internacional del trabajo y se ha convertido en la 'fábrica del mundo' de un solo golpe."
@@ -1174,26 +1174,26 @@
  
  china.49.t: "China se prepara para cruzar el estrecho de Taiwán para poner fin a la guerra civil"
  china.49.d: "La disputa a través del estrecho que ha durado más de medio siglo finalmente ha llegado a su fin. No podemos dejar el problema a la próxima generación."
- china.49.a: "¡Marcha a Taiwán y libera toda China!"
+ china.49.a: "Marcha a Taiwán y libera toda China!"
 
  china.50.t: "Beijing muestra paciencia"
  china.50.d: "Al ver los peligros de dejar pasar al Varyag, decidieron preparar y coordinar en otra fecha en un futuro cercano. En unos seis meses, el Varyag pasará."
  china.50.a: "Muy bien."
  
- china.51.t: "¡Tormenta!"
- china.51.d: "¡Los fuertes vientos en el Egeo desviaron al Varyag de su curso! Un marinero que intentó volver a unir el casco a uno de los remolcadores desafortunadamente perdió la vida. Afortunadamente, el Varyag aún está intacto y continúa hacia..."
+ china.51.t: "Tormenta!"
+ china.51.d: "Los fuertes vientos en el Egeo desviaron al Varyag de su curso! Un marinero que intentó volver a unir el casco a uno de los remolcadores desafortunadamente perdió la vida. Afortunadamente, el Varyag aún está intacto y continúa hacia..."
  china.51.a: "El Océano Atlántico."
  
- china.52.t: "¡Por fin!"
- china.52.d: "¡El Varyag ha completado su largo viaje a través de la mitad del planeta hasta nuestros grandes territorios! Nuestros ingenieros navales son bastante positivos de que el casco puede completarse para convertirse en nuestro primer portaaviones de flota. Las posibilidades de tener una verdadera marina de aguas profundas realmente no pueden subestimarse... y las experiencias en la construcción de portaaviones serán invaluables.\n\nTambién podría renovarse para convertirse en un lujoso casino como \"se planeó originalmente\"."
- china.52.a: "¡Será el orgullo de la marina!"
+ china.52.t: "Por fin!"
+ china.52.d: "El Varyag ha completado su largo viaje a través de la mitad del planeta hasta nuestros grandes territorios! Nuestros ingenieros navales son bastante positivos de que el casco puede completarse para convertirse en nuestro primer portaaviones de flota. Las posibilidades de tener una verdadera marina de aguas profundas realmente no pueden subestimarse... y las experiencias en la construcción de portaaviones serán invaluables.\n\nTambién podría renovarse para convertirse en un lujoso casino como \"se planeó originalmente\"."
+ china.52.a: "Será el orgullo de la marina!"
  china.52.b: "Me gusta más la idea de un casino..."
  
  china.53.t: "Paz en el área fronteriza"
  china.53.d: "A través de esfuerzos incansables, no solo hemos restaurado las fronteras tradicionales, sino que también hemos completado el desarrollo de las áreas minoritarias fronterizas. Los disturbios fronterizos que nos han preocupado durante mucho tiempo también se han resuelto fundamentalmente. Las áreas fronterizas se han convertido en la columna vertebral del desarrollo de nuestro país."
  china.53.a: "Bien hecho."
  
- china.54.t: "¡La guerra sobre el estrecho de Taiwán ha terminado!"
+ china.54.t: "La guerra sobre el estrecho de Taiwán ha terminado!"
  china.54.d: "La Batalla del Estrecho de Taiwán está llegando a su fin. La disputa que duró medio siglo finalmente terminó en este momento. Las botas militares del Ejército Popular de Liberación atravesaron el No. 122, Sección 1, Calle Chongqing Sur. Si planificar el futuro de la zona de Taiwán se ha convertido en la prioridad principal actual, ¿cuáles son nuestras opciones?"
  china.54.a: "Toda la zona de Taiwán finalmente regresó al abrazo de la madre patria."
  china.54.b: "Hay otro plan."
@@ -1202,7 +1202,7 @@
  china.55.d: ""
  china.55.a: ""
  
- china.56.t: "¡La Operación Militar Especial sobre Mongolia Exterior ha terminado!"
+ china.56.t: "La Operación Militar Especial sobre Mongolia Exterior ha terminado!"
  china.56.d: "La operación militar especial sobre Mongolia Exterior está llegando a su fin. Frente a la feroz ofensiva del sur, las autoridades de Ulán Bator fueron derrotadas sin ningún suspense, y la meseta mongola dio la bienvenida a su antiguo amo. Si planificar el futuro de Mongolia Exterior se ha convertido en la prioridad principal actual, ¿cuáles son nuestras opciones?"
  china.56.a: "Toda la región de Mongolia Exterior finalmente regresó al abrazo de la madre patria."
  china.56.b: "Hay otro plan."
@@ -1217,27 +1217,27 @@
  
  china.59.t: "Taiwán adopta la Constitución de la Segunda República"
  china.59.d: "Las autoridades de Taiwán adoptaron descaradamente la Constitución de la Segunda República y limitaron el territorio a Taiwán, Penghu, Jinmen y Matsu para lograr la independencia legal. Este acto descarado ha violado la Ley Anti-Secesión, y el Congreso Nacional del Pueblo autorizó al Consejo de Estado y a la Comisión Militar Central a usar la fuerza para resolver el incidente actual."
- china.59.a: "¡Recuperen Taiwán! ¡Comiencen la guerra ahora!"
- china.59.b: "¡No digan que no fue predecible!"
+ china.59.a: "Recuperen Taiwán! Comiencen la guerra ahora!"
+ china.59.b: "No digan que no fue predecible!"
  
  china.60.t: "Las autoridades de Taiwán declaran la independencia"
  china.60.d: "Las autoridades de Taiwán declararon la independencia y establecieron la llamada República Democrática de Taiwán. Este acto descarado ha violado la Ley Anti-Secesión, y el Congreso Nacional del Pueblo autorizó al Consejo de Estado y a la Comisión Militar Central a usar la fuerza para resolver el incidente actual."
- china.60.a: "¡Recuperen Taiwán! ¡Comiencen la guerra ahora!"
- china.60.b: "¡No digas que no estaba previsto!"
+ china.60.a: "Recuperen Taiwán! Comiencen la guerra ahora!"
+ china.60.b: "No digas que no estaba previsto!"
  
  china.61.t: "La Séptima Flota de EE.UU. pasa por el Estrecho de Taiwán"
  china.61.d: "Recientemente, las acciones de los barcos de la Marina de EE.UU. que pasan por el Estrecho de Taiwán han provocado una fuerte indignación entre el pueblo chino. En cuanto al frecuente paso de barcos estadounidenses por el Estrecho de Taiwán, el Ministerio de Defensa Nacional de China ha expresado su posición muchas veces antes; Taiwán es parte de China, y el tema de Taiwán es un asunto interno de China, relacionado con los intereses fundamentales de China y los sentimientos nacionales del pueblo chino, y no tolera ninguna interferencia externa. El Ejército Popular de Liberación de China tiene la voluntad firme, la plena confianza y las capacidades suficientes para frustrar todas las actividades separatistas y salvaguardar la soberanía nacional y la integridad territorial."
- china.61.a: "¡No hay paz en la división!"
+ china.61.a: "No hay paz en la división!"
  
  china.62.t: "Las autoridades de Taiwán fueron aceptadas por la OTAN"
  china.62.d: "Las autoridades de Taiwán se han confabulado con la OTAN en un intento de coaccionar a los países extranjeros y usar la fuerza para resistir la reunificación. Este acto descarado ha violado la Ley Antisecesión. El Congreso Nacional del Pueblo autoriza al Consejo de Estado y a la Comisión Militar Central a usar la fuerza para resolver la disputa actual."
- china.62.a: "¡Recuperen Taiwán! ¡Empiecen la guerra ahora!"
- china.62.b: "¡No digas que no estaba previsto!"
+ china.62.a: "Recuperen Taiwán! Empiecen la guerra ahora!"
+ china.62.b: "No digas que no estaba previsto!"
  
  china.63.t: "China completa los preparativos para la operación militar en Mongolia Exterior"
  china.63.d: "Durante mucho tiempo, este país satélite que fue arrebatado y apoyado por la Rusia Soviética ha mostrado hostilidad hacia nosotros. Solo toma una noche para que las tropas blindadas lleguen a Beijing desde Zamyn-Uud. Es hora de poner fin a este feo producto del Acuerdo de Yalta y avanzar hacia la reunificación de la gran patria.\n\n'Tengo una copa de vino, pero el hogar está lejos. La guerra en el norte aún no se ha ganado, no puedo regresar pero debo quedarme.'"
- china.63.a: "¡No digas que no estaba previsto!"
- china.63.b: "¡Recuperen Mongolia Exterior! ¡Envía las tropas ahora!"
+ china.63.a: "No digas que no estaba previsto!"
+ china.63.b: "Recuperen Mongolia Exterior! Envía las tropas ahora!"
  
  china.64.t: "China completa los objetivos estratégicos regionales"
  china.64.d: "Érase una vez, el débil imperio central fue devorado por las potencias invasoras. Después de casi cien años de lucha a vida o muerte, el pueblo chino finalmente erradicó completamente a los bárbaros extranjeros y eliminó a los traidores, logrando la paz bajo el dominio de China en la región."
@@ -1245,12 +1245,12 @@
  
  china_news.1.t: "19º Congreso Nacional del Partido Comunista de China"
  china_news.1.d: "El 19° Congreso Nacional se celebró en el Gran Salón del Pueblo en Pekín, entre el 18 y el 24 de octubre de 2017. Los preparativos para el 19° Congreso Nacional comenzaron en 2016 y finalizaron con una sesión plenaria del Comité Central pocos días antes del Congreso. En 2016, las organizaciones locales y provinciales del partido comenzaron a elegir delegados para el congreso, así como a recibir y enmendar los documentos del partido. Durante el congreso, se escribió en la constitución del partido una nueva ideología guía, etiquetada como el Pensamiento de Xi Jinping sobre el Socialismo con Características Chinas para una Nueva Era. Fue la primera vez desde el Pensamiento de Mao Zedong que un líder del partido en vida consagró en la constitución del partido una ideología que lleva su nombre. El Congreso también enfatizó el fortalecimiento del socialismo con características chinas, la construcción del partido, el Estado de Derecho socialista y la fijación de plazos concretos para alcanzar los objetivos de desarrollo, como construir una sociedad moderadamente próspera y lograr la "modernización socialista"."
- china_news.1.a: "¡Nunca olvides tu intención original y mantén tu misión en mente!"
- china_news.1.b: "¡Una Nueva Era para el Socialismo!"
+ china_news.1.a: "Nunca olvides tu intención original y mantén tu misión en mente!"
+ china_news.1.b: "Una Nueva Era para el Socialismo!"
 
  china_news.2.t: "90° Aniversario del Ejército Popular de Liberación"
  china_news.2.d: "Con motivo del 90° aniversario de la fundación del Ejército Popular de Liberación (EPL), que se celebra el 1 de agosto, se inauguró una gran exposición el viernes pasado en Pekín, que atrajo a personas de todos los ámbitos de la vida. Con importantes batallas, eventos y logros históricos del EPL, la exposición incluye modelos de los principales equipos militares del EPL en servicio activo, con más de 1,000 fotos y 1,300 reliquias y otros objetos en exhibición. El domingo por la mañana, el presidente Xi revisó las fuerzas armadas como parte de las conmemoraciones. Más de 12,000 efectivos del ejército, la marina, la fuerza aérea, la policía armada, así como la recién formada fuerza de cohetes y las tropas de apoyo estratégico, participaron en el desfile en la base de entrenamiento militar de Zhurihe."
- china_news.2.a: "¡Sirve al pueblo!"
+ china_news.2.a: "Sirve al pueblo!"
  china_news.2.b: "Un gran desfile militar."
  
  china_news.3.t: "La Caída de Bo Xilai"
@@ -1263,7 +1263,7 @@
  
  china_news.5.t: "China Instituye la \"Democracia con Características Chinas\""
  china_news.5.d: "[CHI.GetLeader] ha anunciado que China dejará de ser un estado de partido único. Habiendo ya eliminado las restricciones a los partidos políticos no-CCP existentes, el gobierno ha comenzado a permitir que otros partidos se registren en las primeras elecciones libres y justas del país. Sin embargo, [CHI.GetLeader] advirtió contra tomar esta decisión como un movimiento de China hacia el Occidente. \"Aunque hemos decidido aceptar esta importación occidental de democracia, simultáneamente estamos decididos a preservar los valores culturales de China y su estabilidad a largo plazo.\""
- china_news.5.a: "¡Un momento histórico!"
+ china_news.5.a: "Un momento histórico!"
  
  china_news.6.t: "China Se Une a la Organización Mundial del Comercio"
  china_news.6.d: "Después de un largo proceso de negociaciones con los miembros actuales de la Organización Mundial del Comercio (OMC), China finalmente ha logrado la ratificación de su solicitud para unirse a la OMC. China ha tenido que demostrar a los miembros de la OMC, especialmente a los Estados Unidos y la Unión Europea, que está dando pasos notables para abrir su economía a la competencia. Los medios estatales chinos han calificado este evento como \"un momento histórico en la reforma y apertura de China y el proceso de modernización\"."
@@ -1284,14 +1284,14 @@
  china_news.10.t: "China obtiene el control del puerto de Sri Lanka"
  china_news.10.d: "Hace más de 100 años, China firmó arrendamientos de 99 años con Alemania, Francia y el Reino Unido cediendo territorio estratégico a las potencias europeas dominantes de entonces. Hoy en día no es China la que firma su propio territorio, sino Sri Lanka, ya que su puerto de Hambantota, construido con ayuda china, ha generado enormes pérdidas para el gobierno en Colombo. El arrendamiento de 99 años tiene como objetivo ostensiblemente ayudar a Sri Lanka a pagar su deuda con China, pero los críticos han denunciado el acuerdo como una amenaza a la soberanía de Sri Lanka y un intento de extender la influencia china en la región de manera neocolonial."
  china_news.10.a: "El alcance global de China está creciendo."
- china_news.10.b: "¡La soberanía de Sri Lanka ha sido erosionada!"
+ china_news.10.b: "La soberanía de Sri Lanka ha sido erosionada!"
 
  china_news.11.t: "China expulsa intereses extranjeros"
  china_news.11.d: "Atrayendo una condena internacional generalizada, China ha expulsado a todas las empresas y ONG extranjeras de su territorio, independientemente del país de origen. Este movimiento sigue a una serie de cambios radicales en los últimos meses que han visto a China tomar un fuerte giro hacia un gobierno comunista puro, sobre todo una denuncia de Deng Xiaoping y el resurgimiento del pensamiento de Mao Zedong.\n\n[USA.GetLeader], entre otros líderes mundiales, ha criticado duramente a la administración de [CHI.GetLeader] por su expulsión de intereses extranjeros, así como el creciente acoso a individuos extranjeros que residen en China. China, por su parte, no ha emitido una respuesta oficial a las quejas de [USA.GetLeader] y otros, pero ha proclamado la naturaleza patriótica de sus acciones a través de los medios estatales a audiencias nacionales."
- china_news.11.a: "¡Los chinos han perdido la razón!"
- china_news.11.b: "¡El pueblo chino está una vez más libre de la opresión extranjera!"
+ china_news.11.a: "Los chinos han perdido la razón!"
+ china_news.11.b: "El pueblo chino está una vez más libre de la opresión extranjera!"
  
- china_news.12.t: "¡[CHI.GetLeader] se compromete a celebrar elecciones!"
+ china_news.12.t: "[CHI.GetLeader] se compromete a celebrar elecciones!"
  china_news.12.d: "Los observadores externos se sorprendieron hoy al saber que la República Popular de China celebrará ahora elecciones a nivel local. Si bien algunos han elogiado la medida como un gran paso adelante en términos de liberalización política china, los expertos han descrito este sentimiento como demasiado optimista, dada la falta de reforma política en otras áreas del gobierno, como los enfoques hacia los partidos políticos y la censura. Un analista afirmó que estas elecciones \"resultarán ser nada más que un refuerzo y legitimación del gobierno del Partido Comunista\"."
  china_news.12.a: "El PCC no renunciará al poder tan fácilmente..."
  
@@ -1330,7 +1330,7 @@
  china_news.21.t: "La \"Hoja de ruta para la reunificación\" de la RPC"
  china_news.21.d: "Los informes indican que el gobierno de [CHI.GetLeader] ha ofrecido a su homólogo con sede en Taipei una \"Hoja de ruta para la reunificación\" que traza un camino para que Taiwán finalmente regrese al control chino como una Región Administrativa Especial. La propuesta incluye múltiples salvaguardias para la continuación de la democracia y la autonomía política de Taiwán, pero esto puede no ser suficiente para los opositores taiwaneses a la reunificación con el continente. Cómo respondería China si las autoridades taiwanesas rechazan este plan sigue siendo incierto."
  china_news.21.a: "Veamos cómo resulta esto."
- china_news.21.b: "¡Improbable!"
+ china_news.21.b: "Improbable!"
  
  china_news.22.t: "China bloquea las islas de Taiwán"
  china_news.22.d: "Tras el aumento de las tensiones con Taiwán, la Armada del Ejército Popular de Liberación ha impuesto un bloqueo a las islas Kinmen y Matsu de Taiwán. Se informa que este movimiento tiene como objetivo evitar que Taiwán prepare las islas para una posible invasión china, así como obstaculizar el comercio taiwanés con el resto del mundo.\n\nLos líderes mundiales se han dividido entre aquellos que criticaron explícitamente la agresión china y otros que pidieron calma. El Secretario General de la ONU hizo un llamamiento particularmente fuerte por la paz, instando al gobierno chino a recordar que \"el orden internacional no se mantiene con violencia y fuerza bruta, sino con diplomacia y moderación.\""
@@ -1353,7 +1353,7 @@
  
  china_news.26.t: "El Varyag"
  china_news.26.d: "Hace dos años, el casco oxidado conocido como el crucero de aviación de la clase Kuznetsov, Varyag, fue vendido a Chong Lot en Macao. Se suponía que sería el portaaviones soviético más moderno de la Flota Roja, pero el destino tenía otros planes. Nunca se completó, y fue puesto en subasta por Ucrania para ser vendido. La empresa que lo compró oficialmente quiere renovarlo en un lujoso casino.\n\nEl casco está siendo remolcado hoy a través del Mar Negro y se aproxima al Bósforo. Una vez que llegue a nuestras aguas, el casco podrá ser examinado y se determinará cómo puede servirnos mejor."
- china_news.26.a: "¡Esperemos que todo transcurra sin contratiempos!"
+ china_news.26.a: "Esperemos que todo transcurra sin contratiempos!"
  
  china_news.27.t: "China declara a Mongolia Exterior como su interés central"
  china_news.27.d: "La parte norte del desierto de Gobi, donde se encuentra Mongolia Exterior, ha sido conocida durante mucho tiempo por su duro entorno y sus áreas escasamente pobladas. Sin embargo, es rica en recursos naturales, y la parte sur de la región está rodeada por el territorio chino. Históricamente, la región siempre ha tenido estrechos lazos con las dinastías chinas. La China en ascenso ha anunciado que la región está en sus intereses. ¿Cuál será el destino de esta antigua tierra?"
@@ -1362,13 +1362,13 @@
  china_news.27.c: "El Gigante Despierta"
 
  china_news.28.t: "Por fin"
- china_news.28.d: "El Varyag finalmente ha cruzado hoy el Bósforo con un suspiro de alivio. ¡Un largo capítulo entre Ankara y Pekín discutiendo sobre un casco flotante de óxido ahora queda en el pasado!\n\nUno podría empezar a preguntarse qué tanto revuelo hubo en primer lugar..."
+ china_news.28.d: "El Varyag finalmente ha cruzado hoy el Bósforo con un suspiro de alivio. Un largo capítulo entre Ankara y Pekín discutiendo sobre un casco flotante de óxido ahora queda en el pasado!\n\nUno podría empezar a preguntarse qué tanto revuelo hubo en primer lugar..."
  china_news.28.a: "¿Pensaba que iba a ser un casino?"
  china_news.28.b: "Noticias interesantes."
  
  china_news.29.t: "Terremoto de Wenchuan"
  china_news.29.d: "El terremoto de Wenchuan ocurrió el 12 de mayo de 2008, hora de Pekín. El epicentro se ubicó cerca de la localidad de Yingxiu, en el condado de Wenchuan, en la prefectura autónoma tibetana y qiang de Aba, provincia de Sichuan, China, a 79 kilómetros al noroeste de Chengdu, la capital de la provincia de Sichuan. Hasta el 25 de septiembre de 2008, el terremoto había matado a un total de 69.227 personas, 17.923 estaban desaparecidas, 374.643 personas resultaron heridas de diversa gravedad, 19.9303 millones de personas perdieron sus hogares y la población total afectada alcanzó los 46.256 millones. Es el terremoto más destructivo desde la fundación de la República Popular China y el más mortal después del terremoto de Tangshan."
- china_news.29.a: "¡Movilizar todas las fuerzas para el alivio del desastre!"
+ china_news.29.a: "Movilizar todas las fuerzas para el alivio del desastre!"
  china_news.29.b: "Una terrible pérdida."
  
  china_news.30.t: "Juegos Olímpicos de Pekín 2008"
@@ -1379,7 +1379,7 @@
  china_news.31.t: "China y Estados Unidos chocan en el Mar del Sur de China"
  china_news.31.d: "Tras un aumento de las tensiones en el Mar del Sur de China, una patrulla estadounidense de libertad de navegación fue atacada por la Armada del Ejército Popular de Liberación, lo que resultó en el hundimiento de un barco estadounidense. Decenas de vidas estadounidenses se perdieron en este incidente. La respuesta de Estados Unidos a este enfrentamiento está por verse, pero se informa que el presidente de EE. UU., [USA.Getleader], está considerando una respuesta armada.\n\nLos analistas están divididos sobre si la reacción china sin precedentes a la patrulla naval estadounidense se debió a oficiales navales chinos demasiado nerviosos en el terreno que inadvertidamente causaron una peligrosa escalada, o si estos eventos representan un esfuerzo deliberado de Beijing para desencadenar un conflicto con Estados Unidos."
  china_news.31.a: "Seguramente esto significa guerra."
- china_news.31.b: "¡Cómo se atreven!"
+ china_news.31.b: "Cómo se atreven!"
  
  china_news.32.t: "China continental anuncia solución militar de la situación en Taiwán"
  china_news.32.d: "La República Popular China declaró la guerra a Taiwán con el argumento de que las autoridades taiwanesas habían dividido el territorio chino a través de la Constitución de la Segunda República de la República de China. Un portavoz del Ministerio de Relaciones Exteriores dijo: \"Nadie puede quitarle a China su sagrado territorio de Taiwán\"."
@@ -1417,7 +1417,7 @@
  china_news.37.b: "No hay otra opción."
  china_news.37.c: "Millones de personas morirán por este largo conflicto."
  
- china_news.38.t: "¡Genshin Impact, comienza!"
+ china_news.38.t: "Genshin Impact, comienza!"
  china_news.38.d: "Genshin Impact es un juego de rol de acción desarrollado por miHoYo, publicado por miHoYo en China continental y en todo el mundo por Cognosphere, operando como HoYoverse.\nGenshin Impact tiene lugar en el mundo de fantasía de Teyvat, hogar de siete naciones, cada una de las cuales está ligada a un elemento diferente y gobernada por un dios diferente (arconte). La historia sigue al Viajero, un aventurero interestelar que, al comienzo del juego, se separa de su hermano gemelo después de que ambos aterrizan en Teyvat. A partir de ahí, el Viajero recorre las naciones de Teyvat en busca de su hermano perdido, acompañado por su guía, Paimon. A lo largo del camino, los dos se hacen amigos de innumerables personas, se involucran en los asuntos de sus naciones y comienzan a desentrañar los misterios de la tierra."
  china_news.38.a: "Genshin Impact ha comenzado y la diversión es infinita."
  china_news.38.b: "Sus síntomas actuales son causados por jugar Genshin Impact."
@@ -1452,88 +1452,88 @@
  china_news.43.b: "Terminar con el Creador de Problemas"
  china_news.43.c: "El Gigante Despierto"
  
- south_china_sea_clash.1.t: "¡China ha ganado la confrontación en las Islas Spratly!"
- south_china_sea_clash.1.d: "¡Nuestra apuesta ha dado sus frutos! Ahora hemos extendido nuestro control sobre el Mar del Sur de China y, por lo tanto, tenemos mayor acceso a los múltiples beneficios de esa vía fluvial. Nuestros adversarios se han retirado, pero debemos ser cautelosos en caso de que decidan lanzar una contraofensiva."
- south_china_sea_clash.1.d_loser: "¡Hemos perdido nuestro territorio estratégico en el Mar del Sur de China ante los chinos! Este es un día triste para nuestra nación y nuestro pueblo, y exige una respuesta de nuestro gobierno. Debido al asiento permanente de China en el Consejo de Seguridad de la ONU, nuestras posibilidades de éxito si apelamos por una intervención extranjera son escasas. La respuesta debe venir de nosotros mismos, ya sea en forma de condenas y protestas verbales o de un asalto armado."
- south_china_sea_clash.1.a: "¡Somos victoriosos!"
- south_china_sea_clash.1.b: "¡Condenamos la agresión de China!"
- south_china_sea_clash.1.c: "¡Esto significa guerra!"
+ south_china_sea_clash.1.t: "China ha ganado la confrontación en las Islas Spratly!"
+ south_china_sea_clash.1.d: "Nuestra apuesta ha dado sus frutos! Ahora hemos extendido nuestro control sobre el Mar del Sur de China y, por lo tanto, tenemos mayor acceso a los múltiples beneficios de esa vía fluvial. Nuestros adversarios se han retirado, pero debemos ser cautelosos en caso de que decidan lanzar una contraofensiva."
+ south_china_sea_clash.1.d_loser: "Hemos perdido nuestro territorio estratégico en el Mar del Sur de China ante los chinos! Este es un día triste para nuestra nación y nuestro pueblo, y exige una respuesta de nuestro gobierno. Debido al asiento permanente de China en el Consejo de Seguridad de la ONU, nuestras posibilidades de éxito si apelamos por una intervención extranjera son escasas. La respuesta debe venir de nosotros mismos, ya sea en forma de condenas y protestas verbales o de un asalto armado."
+ south_china_sea_clash.1.a: "Somos victoriosos!"
+ south_china_sea_clash.1.b: "Condenamos la agresión de China!"
+ south_china_sea_clash.1.c: "Esto significa guerra!"
 
- south_china_sea_clash.2.t: "¡Vietnam ha ganado el enfrentamiento en las Spratly!"
- south_china_sea_clash.2.d: "¡Los chinos han fallado! No solo hemos defendido con éxito nuestro territorio, sino que también hemos extendido nuestro control sobre el Mar del Sur de China y, por lo tanto, tenemos mayor acceso a los múltiples beneficios de esa vía fluvial. Nuestros adversarios se han retirado, pero debemos ser cautelosos en caso de que decidan lanzar una contraofensiva."
- south_china_sea_clash.2.d_loser: "¡Nuestra apuesta ha fallado! No solo hemos fallado en expandir nuestro control sobre las Spratly, sino que también hemos perdido el territorio que originalmente poseíamos. Este es un día triste para nuestra nación y nuestro pueblo, y exige una respuesta de nuestro gobierno. Debemos decidir si admitir la derrota o continuar la lucha y, al hacerlo, escalar el conflicto más allá de los confines de las islas Spratly."
- south_china_sea_clash.2.a: "¡Somos victoriosos!"
+ south_china_sea_clash.2.t: "Vietnam ha ganado el enfrentamiento en las Spratly!"
+ south_china_sea_clash.2.d: "Los chinos han fallado! No solo hemos defendido con éxito nuestro territorio, sino que también hemos extendido nuestro control sobre el Mar del Sur de China y, por lo tanto, tenemos mayor acceso a los múltiples beneficios de esa vía fluvial. Nuestros adversarios se han retirado, pero debemos ser cautelosos en caso de que decidan lanzar una contraofensiva."
+ south_china_sea_clash.2.d_loser: "Nuestra apuesta ha fallado! No solo hemos fallado en expandir nuestro control sobre las Spratly, sino que también hemos perdido el territorio que originalmente poseíamos. Este es un día triste para nuestra nación y nuestro pueblo, y exige una respuesta de nuestro gobierno. Debemos decidir si admitir la derrota o continuar la lucha y, al hacerlo, escalar el conflicto más allá de los confines de las islas Spratly."
+ south_china_sea_clash.2.a: "Somos victoriosos!"
  south_china_sea_clash.2.b: "Debemos admitir la derrota..."
- south_china_sea_clash.2.c: "¡China no será derrotada!"
+ south_china_sea_clash.2.c: "China no será derrotada!"
 
  south_china_sea_clash.3.t: "El enfrentamiento ha terminado en empate"
  south_china_sea_clash.3.d: "Después de luchar contra el enemigo hasta un punto muerto, nuestras fuerzas no han logrado ningún avance significativo, pero tampoco se han visto obligadas a retirarse. Debemos reagruparnos y considerar el mejor enfoque para la situación actual."
  south_china_sea_clash.3.a: "Paz, por ahora..."
 
- south_china_sea_clash.4.t: "¡Filipinas ha ganado el enfrentamiento en las Spratly!"
- south_china_sea_clash.4.d: "¡Los chinos han fallado! No solo hemos defendido con éxito nuestro territorio, sino que también hemos extendido nuestro control sobre el Mar del Sur de China y, por lo tanto, tenemos mayor acceso a los múltiples beneficios de esa vía fluvial. Nuestros adversarios se han retirado, pero debemos ser cautelosos en caso de que decidan lanzar una contraofensiva."
- south_china_sea_clash.4.d_loser: "¡Nuestra apuesta ha fallado! No solo hemos fallado en expandir nuestro control sobre las Spratly, sino que también hemos perdido el territorio que originalmente poseíamos. Este es un día triste para nuestra nación y nuestro pueblo, y exige una respuesta de nuestro gobierno. Debemos decidir si admitir la derrota o continuar la lucha y, al hacerlo, escalar el conflicto más allá de los confines de las islas Spratly."
- south_china_sea_clash.4.a: "¡Somos victoriosos!"
+ south_china_sea_clash.4.t: "Filipinas ha ganado el enfrentamiento en las Spratly!"
+ south_china_sea_clash.4.d: "Los chinos han fallado! No solo hemos defendido con éxito nuestro territorio, sino que también hemos extendido nuestro control sobre el Mar del Sur de China y, por lo tanto, tenemos mayor acceso a los múltiples beneficios de esa vía fluvial. Nuestros adversarios se han retirado, pero debemos ser cautelosos en caso de que decidan lanzar una contraofensiva."
+ south_china_sea_clash.4.d_loser: "Nuestra apuesta ha fallado! No solo hemos fallado en expandir nuestro control sobre las Spratly, sino que también hemos perdido el territorio que originalmente poseíamos. Este es un día triste para nuestra nación y nuestro pueblo, y exige una respuesta de nuestro gobierno. Debemos decidir si admitir la derrota o continuar la lucha y, al hacerlo, escalar el conflicto más allá de los confines de las islas Spratly."
+ south_china_sea_clash.4.a: "Somos victoriosos!"
  south_china_sea_clash.4.b: "Debemos admitir la derrota..."
- south_china_sea_clash.4.c: "¡China no será derrotada!"
+ south_china_sea_clash.4.c: "China no será derrotada!"
 
- south_china_sea_clash.5.t: "¡Malasia ha ganado el enfrentamiento en las Spratly!"
- south_china_sea_clash.5.d: "¡Los chinos han fallado! No solo hemos defendido con éxito nuestro territorio, sino que también hemos extendido nuestro control sobre el Mar del Sur de China y, por lo tanto, tenemos mayor acceso a los múltiples beneficios de esa vía fluvial. Nuestros adversarios se han retirado, pero debemos ser cautelosos en caso de que decidan lanzar una contraofensiva."
- south_china_sea_clash.5.d_loser: "¡Nuestra apuesta ha fallado! No solo hemos fallado en expandir nuestro control sobre las Spratly, sino que también hemos perdido el territorio que originalmente poseíamos. Este es un día triste para nuestra nación y nuestro pueblo, y exige una respuesta de nuestro gobierno. Debemos decidir si admitir la derrota o continuar la lucha y, al hacerlo, escalar el conflicto más allá de los confines de las islas Spratly."
- south_china_sea_clash.5.a: "¡Somos victoriosos!"
+ south_china_sea_clash.5.t: "Malasia ha ganado el enfrentamiento en las Spratly!"
+ south_china_sea_clash.5.d: "Los chinos han fallado! No solo hemos defendido con éxito nuestro territorio, sino que también hemos extendido nuestro control sobre el Mar del Sur de China y, por lo tanto, tenemos mayor acceso a los múltiples beneficios de esa vía fluvial. Nuestros adversarios se han retirado, pero debemos ser cautelosos en caso de que decidan lanzar una contraofensiva."
+ south_china_sea_clash.5.d_loser: "Nuestra apuesta ha fallado! No solo hemos fallado en expandir nuestro control sobre las Spratly, sino que también hemos perdido el territorio que originalmente poseíamos. Este es un día triste para nuestra nación y nuestro pueblo, y exige una respuesta de nuestro gobierno. Debemos decidir si admitir la derrota o continuar la lucha y, al hacerlo, escalar el conflicto más allá de los confines de las islas Spratly."
+ south_china_sea_clash.5.a: "Somos victoriosos!"
  south_china_sea_clash.5.b: "Debemos admitir la derrota..."
- south_china_sea_clash.5.c: "¡China no será derrotada!"
+ south_china_sea_clash.5.c: "China no será derrotada!"
 
  south_china_sea_clash.6.t: "Tensiones en el Mar del Sur de China"
  south_china_sea_clash.6.d_VIE: "Las fuerzas vietnamitas y chinas están cerca de un enfrentamiento violento en las islas Spratly mientras China realiza maniobras cada vez más agresivas en lo que Vietnam considera su territorio soberano. Los líderes mundiales han instado a ambas partes a desescalar la situación, pero ningún país parece dispuesto a retroceder."
  south_china_sea_clash.6.d_MAY: "Las fuerzas malasias y chinas están cerca de un enfrentamiento violento en las islas Spratly mientras China realiza maniobras cada vez más agresivas en lo que Malasia considera su territorio soberano. Los líderes mundiales han instado a ambas partes a desescalar la situación, pero ningún país parece dispuesto a retroceder."
  south_china_sea_clash.6.d_PHI: "Las fuerzas filipinas y chinas están cerca de un enfrentamiento violento en las islas Spratly mientras China realiza maniobras cada vez más agresivas en lo que Filipinas considera su territorio soberano. Los líderes mundiales han instado a ambas partes a desescalar la situación, pero ningún país parece dispuesto a retroceder."
  south_china_sea_clash.6.a: "Veamos cómo se desarrolla esto..."
- south_china_sea_clash.6.b: "¡Debemos desplegar nuestras fuerzas en las Spratly de inmediato!"
+ south_china_sea_clash.6.b: "Debemos desplegar nuestras fuerzas en las Spratly de inmediato!"
 
- south_china_sea_clash.7.t: "¡China ha llevado a cabo ejercicios de flota provocativos en el Mar del Sur de China!"
+ south_china_sea_clash.7.t: "China ha llevado a cabo ejercicios de flota provocativos en el Mar del Sur de China!"
  south_china_sea_clash.7.d: "En un intento por afirmar su soberanía sobre el Mar del Sur de China, China ha ordenado ejercicios de flota provocativos en aguas internacionales. Deberíamos considerar el uso de nuestra marina para llevar a cabo operaciones de libertad de navegación para mostrar al mundo que estas aguas pertenecen a la comunidad internacional, no a los chinos."
  south_china_sea_clash.7.a: "No podemos permitirnos antagonizar a China..."
- south_china_sea_clash.7.b: "¡Debemos preservar la libertad de navegación!"
+ south_china_sea_clash.7.b: "Debemos preservar la libertad de navegación!"
 
- south_china_sea_clash.8.t: "¡Los estadounidenses están realizando patrullas agresivas a través de nuestras aguas territoriales!"
+ south_china_sea_clash.8.t: "Los estadounidenses están realizando patrullas agresivas a través de nuestras aguas territoriales!"
  south_china_sea_clash.8.d: "En respuesta a nuestros ejercicios de flota perfectamente legales en el Mar del Sur de China, los estadounidenses han entrado en nuestras aguas soberanas en un movimiento agresivo pero inútil. Podríamos simplemente esperar a que los estadounidenses abandonen nuestras aguas, o podríamos buscar afirmar nuestra soberanía sobre el Mar del Sur de China mostrando a los estadounidenses toda la fuerza de nuestra marina."
  south_china_sea_clash.8.a: "No debemos arriesgarnos a una guerra por este asunto..."
- south_china_sea_clash.8.b: "¡Expulsen a los imperialistas!"
+ south_china_sea_clash.8.b: "Expulsen a los imperialistas!"
 
- south_china_sea_clash.9.t: "¡China ha atacado nuestra patrulla de libertad de navegación!"
+ south_china_sea_clash.9.t: "China ha atacado nuestra patrulla de libertad de navegación!"
  south_china_sea_clash.9.d: "En un sorprendente alejamiento de la convención, nuestra patrulla de libertad de navegación en el Mar del Sur de China fue atacada y uno de nuestros barcos ha sido hundido con múltiples militares estadounidenses muertos en acción. Nuestro pueblo está clamando por una respuesta, pero ¿realmente deseamos declarar la guerra por lo que sigue siendo un enfrentamiento menor?"
  south_china_sea_clash.9.a: "No debemos escalar la situación..."
- south_china_sea_clash.9.b: "¡Esta agresión debe ser castigada!"
+ south_china_sea_clash.9.b: "Esta agresión debe ser castigada!"
 
  south_china_sea_clash.10.t: "El destino de las islas Paracel"
  south_china_sea_clash.10.d: "Las islas Paracel tienen un gran valor estratégico en el Mar del Sur de China y nos dan acceso a lucrativas oportunidades de extracción de recursos. A pesar de los beneficios de mantener nuestro control de facto sobre las Paracel, deberíamos considerar la posibilidad de compartir estos recursos con Vietnam a través de zonas de desarrollo conjunto o incluso ceder el control por completo para negociar el fin de la disputa actual."
- south_china_sea_clash.10.a: "¡No podemos permitirnos conceder nada a los vietnamitas!"
+ south_china_sea_clash.10.a: "No podemos permitirnos conceder nada a los vietnamitas!"
  south_china_sea_clash.10.b: "Las islas Paracel se pueden compartir."
  south_china_sea_clash.10.c: "Deberíamos ceder el control de las islas."
 
  south_china_sea_clash.11.t: "El destino del Banco de Macclesfield"
  south_china_sea_clash.11.d: "El Banco de Macclesfield tiene un gran valor estratégico en el Mar del Sur de China y nos da acceso a lucrativas oportunidades de extracción de recursos. A pesar de los beneficios de mantener nuestro control de facto sobre el Banco de Macclesfield, deberíamos considerar la posibilidad de compartir estos recursos con Filipinas a través de zonas de desarrollo conjunto o incluso ceder el control por completo para negociar el fin de la disputa actual."
- south_china_sea_clash.11.a: "¡No podemos permitirnos conceder nada a Filipinas!"
+ south_china_sea_clash.11.a: "No podemos permitirnos conceder nada a Filipinas!"
  south_china_sea_clash.11.b: "El Banco de Macclesfield se puede compartir."
  south_china_sea_clash.11.c: "Deberíamos ceder el control de las islas."
 
- sino_indian.1.t: "¡Se está violando la soberanía de Bután!"
+ sino_indian.1.t: "Se está violando la soberanía de Bután!"
  sino_indian.1.d: "Las tropas chinas están acompañando los esfuerzos de construcción de carreteras en Doklam, territorio butanés que los chinos reclaman como suyo. Si esta clara violación de la soberanía butanesa no se enfrenta, China podría consolidar sus reclamos sobre Doklam y tal vez otras áreas disputadas del territorio butanés."
- sino_indian.1.a: "¡Deberíamos enviar tropas para detener esta incursión!"
+ sino_indian.1.a: "Deberíamos enviar tropas para detener esta incursión!"
  sino_indian.1.b: "No podemos hacer nada..."
  sino_indian.1.c: "Nuestros protectores vendrán en nuestra defensa."
- sino_indian.1.e: "¡Debemos defendernos!"
+ sino_indian.1.e: "Debemos defendernos!"
 
  sino_indian.2.t: "Parece que nuestros protectores nos han abandonado..."
  sino_indian.2.d: "India ha decidido no cumplir su compromiso de defender nuestra soberanía. Por lo tanto, la elección recae en nosotros para decidir si oponerse o no a la incursión china."
  sino_indian.2.a: "No podemos hacer nada..."
- sino_indian.2.b: "¡Debemos defendernos!"
+ sino_indian.2.b: "Debemos defendernos!"
 
  sino_indian.3.t: "[FROM.GetName] ha desplegado tropas para detener nuestra construcción de carreteras"
  sino_indian.3.d: "Cientos de tropas [FROM.GetAdjective] han cruzado la frontera entre nuestro territorio y el suyo, aparentemente en respuesta a una incursión nuestra en territorio butanés. Dejando de lado lo absurdo de esta afirmación, debemos decidir si retirarnos y evitar una confrontación armada o escalar la situación actual."
  sino_indian.3.a: "Deberíamos retirarnos."
- sino_indian.3.b: "¡Debemos mantener nuestra posición!"
+ sino_indian.3.b: "Debemos mantener nuestra posición!"
 
  sino_indian.4.t: "China extiende su influencia sobre Bután"
  sino_indian.4.d: "La pequeña nación de Bután ha visto su independencia gravemente socavada por la extensión de una carretera hacia el territorio soberano del país sin su consentimiento. Ni Bután ni su protector, la India, ofrecieron resistencia a este movimiento más allá de condenarlo y reiterar el estatus del territorio como butanés y no chino. Se ha informado que el fracaso de la India para proteger a su vecino de este acto ha socavado gravemente la histórica relación cercana entre los dos países."
@@ -1543,42 +1543,42 @@
  sino_indian.5.d: "Ante una resistencia significativa a sus esfuerzos por extender una carretera existente hacia el territorio butanés de Doklam, China ha retirado sus tropas y personal de la región. [CHI.GetLeader] ha reiterado el compromiso de China con la paz y la estabilidad en la región."
  sino_indian.5.a: "China ha retrocedido, por ahora."
 
- sino_indian.6.t: "¡China ha ganado la confrontación de Doklam!"
- sino_indian.6.d: "Habiendo derrotado a nuestros oponentes, ¡nuestra supremacía sobre el territorio de Doklam ahora está asegurada!"
+ sino_indian.6.t: "China ha ganado la confrontación de Doklam!"
+ sino_indian.6.d: "Habiendo derrotado a nuestros oponentes, nuestra supremacía sobre el territorio de Doklam ahora está asegurada!"
  sino_indian.6.d_RAJ: "Habiendo fallado en defender el territorio de Bután, no tenemos más opción que ceder Doklam a los chinos."
- sino_indian.6.a: "¡Una victoria gloriosa!"
- sino_indian.6.b: "¡Una derrota humillante..."
+ sino_indian.6.a: "Una victoria gloriosa!"
+ sino_indian.6.b: "Una derrota humillante..."
 
- sino_indian.7.t: "¡China ha perdido la confrontación de Doklam!"
+ sino_indian.7.t: "China ha perdido la confrontación de Doklam!"
  sino_indian.7.d: "Habiendo fracasado en tomar Doklam de nuestros oponentes, no tenemos más opción que retirarnos de la tierra que legítimamente nos pertenece."
- sino_indian.7.d_RAJ: "Habiendo derrotado a nuestros oponentes, ¡la soberanía de Bután sobre Doklam ha sido preservada!"
- sino_indian.7.a: "¡Una victoria gloriosa!"
- sino_indian.7.b: "¡Una derrota humillante..."
+ sino_indian.7.d_RAJ: "Habiendo derrotado a nuestros oponentes, la soberanía de Bután sobre Doklam ha sido preservada!"
+ sino_indian.7.a: "Una victoria gloriosa!"
+ sino_indian.7.b: "Una derrota humillante..."
 
  sino_indian.8.t: "La confrontación de Doklam termina sin un resultado claro"
  sino_indian.8.d: "Tanto nuestra parte como la suya han fallado en ganar ventaja en este enfrentamiento sobre el territorio de Doklam."
  sino_indian.8.a: "Paz, por ahora..."
 
- sino_indian.9.t: "¡China ha tomado Arunachal Pradesh!"
- sino_indian.9.d: "Habiendo derrotado a nuestros oponentes, ¡nuestra supremacía sobre el territorio del Tíbet del Sur, conocido por nuestros enemigos como Arunachal Pradesh, ahora está asegurada!"
+ sino_indian.9.t: "China ha tomado Arunachal Pradesh!"
+ sino_indian.9.d: "Habiendo derrotado a nuestros oponentes, nuestra supremacía sobre el territorio del Tíbet del Sur, conocido por nuestros enemigos como Arunachal Pradesh, ahora está asegurada!"
  sino_indian.9.d_RAJ: "Habiendo fallado en defender nuestro territorio, no tenemos más opción que ceder Arunachal Pradesh a los chinos."
- sino_indian.9.a: "¡Una victoria gloriosa!"
- sino_indian.9.b: "¡Una derrota humillante..."
+ sino_indian.9.a: "Una victoria gloriosa!"
+ sino_indian.9.b: "Una derrota humillante..."
 
- sino_indian.10.t: "¡China ha fallado en tomar Arunachal Pradesh!"
+ sino_indian.10.t: "China ha fallado en tomar Arunachal Pradesh!"
  sino_indian.10.d: "Habiendo fracasado en tomar este estado de nuestros enemigos, no tenemos más opción que retirarnos de la tierra que legítimamente nos pertenece."
- sino_indian.10.d_RAJ: "Habiendo derrotado a nuestros oponentes, ¡la soberanía de la India sobre Arunachal Pradesh ha sido preservada!"
- sino_indian.10.a: "¡Una victoria gloriosa!"
- sino_indian.10.b: "¡Una derrota humillante..."
+ sino_indian.10.d_RAJ: "Habiendo derrotado a nuestros oponentes, la soberanía de la India sobre Arunachal Pradesh ha sido preservada!"
+ sino_indian.10.a: "Una victoria gloriosa!"
+ sino_indian.10.b: "Una derrota humillante..."
 
  sino_indian.11.t: "China está proponiendo un tratado para mejorar las relaciones y resolver disputas"
  sino_indian.11.d: "Los actos conciliatorios previos de China han culminado en esta oferta para firmar un tratado entre nuestras dos naciones que resuelve nuestras disputas fronterizas y deja de lado nuestras diferencias de una vez por todas. ¿Deberíamos aceptar su oferta o mantener el statu quo?"
- sino_indian.11.a: "¡Debemos aceptar esta oferta histórica!"
- sino_indian.11.b: "¡No se debe confiar en los chinos!"
+ sino_indian.11.a: "Debemos aceptar esta oferta histórica!"
+ sino_indian.11.b: "No se debe confiar en los chinos!"
 
  sino_indian.12.t: "El Tratado de Amistad Sino-India"
  sino_indian.12.d: "China e India han firmado un tratado de amistad, marcando el fin de décadas de resentimiento y sospecha que existían entre los dos gigantes regionales. Tras una notable serie de intentos conciliatorios por parte de China, las quejas del gobierno indio contra los chinos se desvanecieron rápidamente. Las implicaciones de esta nueva y sorprendente asociación aún están por revelarse."
- sino_indian.12.a: "¡Un buen día para la paz y la diplomacia!"
+ sino_indian.12.a: "Un buen día para la paz y la diplomacia!"
  sino_indian.12.b: "Un desarrollo extremadamente preocupante..."
 
  sino_indian.13.t: "China se orienta hacia India"

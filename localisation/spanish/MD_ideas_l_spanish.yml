@@ -5,7 +5,7 @@
  minority_government_desc: "Nuestro gobierno actualmente opera como un gobierno minoritario, lo que hace que todas las acciones políticas sean muy difíciles."
  international_sanctions: "Sanciones internacionales"
  international_sanctions_desc: "Estamos sujetos a sanciones económicas por parte de la comunidad internacional."
- international_sanctions_tt: "§R¡No se puede acceder al §YMercado de Armas§!§!"
+ international_sanctions_tt: "§RNo se puede acceder al §YMercado de Armas§!§!"
  p5_member: "Miembro permanente del Consejo de Seguridad de la ONU"
  p5_member_desc: "Los miembros permanentes del Consejo de Seguridad de las Naciones Unidas, también conocidos como los Cinco Permanentes, Cinco Grandes o P5, incluyen los siguientes cinco gobiernos: China, Francia, Rusia, el Reino Unido y los Estados Unidos. Los miembros representan las cinco grandes potencias consideradas las vencedoras de la Segunda Guerra Mundial. Cada uno de los miembros permanentes tiene el poder de veto, lo que les permite impedir la adopción de cualquier proyecto de resolución 'sustantivo' del Consejo, independientemente del nivel de apoyo internacional para el proyecto."
  g7_member: "Miembro del Grupo de los Siete"
@@ -171,7 +171,7 @@
  consumption_econemy_desc: "Una economía de consumo describe una economía impulsada por el gasto del consumidor como un porcentaje de su producto interno bruto, en contraste con los otros componentes principales del PIB."
  export_econemy: "Economía Impulsada por Exportaciones"
  export_econemy_desc: "Los exportadores de productos básicos incluyen países con grandes depósitos de recursos naturales o grandes cantidades de tierras agrícolas, con poblaciones demasiado pequeñas para usar todos sus propios recursos."
- bankrupcy: "¡En Bancarrota!"
+ bankrupcy: "En Bancarrota!"
  limited_power_projection: "Capacidad Limitada de Proyección de Poder"
  limited_power_projection_desc: "Este país ha establecido una o más bases militares en países extranjeros, pero aún no ha logrado establecerse como una verdadera potencia global."
  significant_power_projection: "Capacidad Significativa de Proyección de Poder"
@@ -345,7 +345,7 @@
  CHI_highspeed_railway_construction: "Construcción del Tren de Alta Velocidad de China"
  CHI_highspeed_railway_construction_desc: "China tiene una gran población y una movilidad frecuente, y hay una gran demanda de trenes de alta velocidad como medio de transporte popular. El desarrollo de trenes de alta velocidad mejorará significativamente las condiciones de transporte del país."
  TAI_flight_crew_strike: "Huelga del Sindicato de Auxiliares de Vuelo de Taoyuan"
- TAI_flight_crew_strike_desc: "¡Sin resultados! ¡Sin parar!"
+ TAI_flight_crew_strike_desc: "Sin resultados! Sin parar!"
 
  #Hong Kong
  Basic_Law_HKG: "Ley Básica de la RAE de Hong Kong"
@@ -466,7 +466,7 @@
 
  #Strategic City Captured events
  Strategic_city_captured1: "Capturamos una Ciudad Estratégica"
- Strategic_city_captured1_desc: "¡Hemos capturado una ciudad estratégica, lo que ha impulsado la moral de nuestras tropas!"
+ Strategic_city_captured1_desc: "Hemos capturado una ciudad estratégica, lo que ha impulsado la moral de nuestras tropas!"
 
  #Ideology drift ideas
  western_country: "Parte del Primer Mundo"
@@ -525,7 +525,7 @@
  Major_Non_NATO_Ally_desc: "Aliado mayor no perteneciente a la OTAN (MNNA) es una designación otorgada por el gobierno de los Estados Unidos a aliados cercanos que tienen relaciones de trabajo estratégicas con las Fuerzas Armadas de EE. UU., pero no son miembros de la Organización del Tratado del Atlántico Norte (OTAN). Aunque el estatus de MNNA no incluye automáticamente un pacto de defensa mutua con los Estados Unidos, confiere una variedad de ventajas militares y financieras que de otro modo no son obtenibles por países no pertenecientes a la OTAN."
 
  ISI_jihadist_islamic_state: "Estado Islámico Yihadista"
- ISI_jihadist_islamic_state_desc: "[ISI.GetNamewithFlag] se ha reagrupado y el Califato sigue fuerte. ¡Es hora de hacer yihad contra los infieles y poner fin a su miserable existencia!"
+ ISI_jihadist_islamic_state_desc: "[ISI.GetNamewithFlag] se ha reagrupado y el Califato sigue fuerte. Es hora de hacer yihad contra los infieles y poner fin a su miserable existencia!"
 
  #Outside Political Influences
  major_western_influence: "Influencia Occidental Mayor"
@@ -898,7 +898,7 @@
  corruption_decreased_health_spending: "Gestión Corrupta de los Servicios de Salud"
  corruption_decreased_health_spending_desc: "La atención médica es un esquema Ponzi de todos modos."
  corruption_decreased_social_spending: "Gestión Corrupta de los Servicios Sociales"
- corruption_decreased_social_spending_desc: "¿Bienestar? No necesitan tener un bienestar efectivo, ¡es hora de recortar la financiación!"
+ corruption_decreased_social_spending_desc: "¿Bienestar? No necesitan tener un bienestar efectivo, es hora de recortar la financiación!"
  corruption_civ_construction: "Esquemas de Construcción Civil"
  corruption_civ_construction_desc: "Eliminar algo de burocracia del camino y mirar hacia otro lado debería permitir la construcción de algunos edificios que no deberían haberse construido."
  corruption_mil_construction: "Esquemas de Construcción Militar"

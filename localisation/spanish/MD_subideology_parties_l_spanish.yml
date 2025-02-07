@@ -828,7 +828,7 @@
 
  # Subideology Buttons
  ban_all_title_tt: "§HDeclarar Estado de Partido Único§!"
- ban_all_TT: "Como el único partido gobernante que dirige el gobierno, podemos convertir en ley declarar ilegales a todos los demás partidos políticos.\n\n¡Larga vida al partido!\n\n§YRequisito previo:§!\n[!opt_partyall_ban_button_click_enabled]\n\n§YEfectos:§!\nPoder Político: [!opt_partyall_ban_button_click]"
+ ban_all_TT: "Como el único partido gobernante que dirige el gobierno, podemos convertir en ley declarar ilegales a todos los demás partidos políticos.\n\nLarga vida al partido!\n\n§YRequisito previo:§!\n[!opt_partyall_ban_button_click_enabled]\n\n§YEfectos:§!\nPoder Político: [!opt_partyall_ban_button_click]"
  allow_all_title_tt: "§HRenunciar al Estado de Partido Único§!"
  allow_all_TT: "Es hora de levantar nuestra prohibición total de otros partidos.\n\n§YRequisito previo:§!\n[!opt_partyall_allow_button_click_enabled]\n\n§YEfectos:§!\nPoder Político: [!opt_partyall_allow_button_click]"
  boost_Party_0_TT: "§HAumentar [Western_Autocracy_L] ([?party_pop_array^0|%1])§!\nEn un esfuerzo por diluir el poder de nuestros verdaderos oponentes políticos, podemos usar nuestra maquinaria política para aumentar la popularidad de otros partidos\n\n§YRequisito previo:§!\n[!opt_party1_boost_button_click_enabled]\n\n§YEfectos:§!\n[!opt_party1_boost_button_click]"
@@ -1362,7 +1362,7 @@
  FRA.liberalism_desc: "Liberal - Union pour la Democratie Francaise (Unión por la Democracia Francesa) es un partido centrista compuesto por liberales, demócratas cristianos y radicales (liberalistas tradicionales franceses). Generalmente, se ve como el partido para todos los que no son socialistas, populistas de extrema derecha o conservadores gaullistas. Apoya el federalismo europeo, abogando por la creación de los \"Estados Unidos de Europa\"."
  FRA.liberalism_2017: "£FRA_liberalism_2017 En Marche!"
  FRA.liberalism_2017_icon: "£FRA_liberalism_2017"
- FRA.liberalism_2017_desc: "Liberal - La République En Marche! (¡Adelante con la República!) es un partido liberal-centrista con valores generalmente progresistas creado en 2016 por Emmanuel Macron. Es el partido más pro-UE en Francia y es liberal tanto en temas económicos como sociales."
+ FRA.liberalism_2017_desc: "Liberal - La République En Marche! (Adelante con la República!) es un partido liberal-centrista con valores generalmente progresistas creado en 2016 por Emmanuel Macron. Es el partido más pro-UE en Francia y es liberal tanto en temas económicos como sociales."
  FRA.socialism: "£FRA_socialism Parti Socialiste"
  FRA.socialism_icon: "£FRA_socialism"
  FRA.socialism_desc: "Socialdemócrata - Parti Socialiste (Partido Socialista) emergió de la sombra del entonces más grande Partido Comunista a finales de los años 70, llegando al poder durante los dos mandatos de François Mitterrand. El partido se debilitó por escándalos en los años 90, pero sigue siendo una fuerza potente de la izquierda francesa. Suavizando gradualmente sus posiciones sobre los mercados libres, el partido es considerado por muchos como de centro-izquierda hoy en día."
@@ -2685,7 +2685,7 @@
  DAG.socialism: "£SOV_western_social_democrat Partido Popular de Daguestán"
  DAG.socialism_icon: "£SOV_western_social_democrat"
  DAG.socialism_desc: ""
- DAG.socialism_1: "£SOV_social_democrat_1 Daguestán Justo - ¡§CAlas pro-occidentales§!"
+ DAG.socialism_1: "£SOV_social_democrat_1 Daguestán Justo - §CAlas pro-occidentales§!"
  DAG.socialism_1_icon: "£SOV_social_democrat_1"
  #Emerging
  DAG.Communist-State: "£SOV_emerging_communism Partido Comunista de Daguestán"
@@ -2739,7 +2739,7 @@
  ING.socialism: "£SOV_western_social_democrat Partido Popular de Ingusetia"
  ING.socialism_icon: "£SOV_western_social_democrat"
  ING.socialism_desc: ""
- ING.socialism_1: "£SOV_social_democrat_1 Ingusetia Justa - ¡§CAlas pro-occidentales§!"
+ ING.socialism_1: "£SOV_social_democrat_1 Ingusetia Justa - §CAlas pro-occidentales§!"
  ING.socialism_1_icon: "£SOV_social_democrat_1"
  #Emerging
  ING.Communist-State: "£SOV_emerging_communism Partido Comunista de Ingusetia"
@@ -2801,7 +2801,7 @@
  TAT.socialism: "£SOV_western_social_democrat Partido Popular de Tartaristán"
  TAT.socialism_icon: "£SOV_western_social_democrat"
  TAT.socialism_desc: ""
- TAT.socialism_1: "£SOV_social_democrat_1 Tartaristán Justo - ¡§CAlas pro-occidentales§!"
+ TAT.socialism_1: "£SOV_social_democrat_1 Tartaristán Justo - §CAlas pro-occidentales§!"
  TAT.socialism_1_icon: "£SOV_social_democrat_1"
  #Emerging
  TAT.Conservative: "£SOV_emerging_reactionary Rusia Unida"
@@ -2907,7 +2907,7 @@
  MEL.socialism: "£SOV_western_social_democrat Partido Popular de Mari El"
  MEL.socialism_icon: "£SOV_western_social_democrat"
  MEL.socialism_desc: ""
- MEL.socialism_1: "£SOV_social_democrat_1 Un Mari El Justo - ¡§CAlas pro-occidentales§!"
+ MEL.socialism_1: "£SOV_social_democrat_1 Un Mari El Justo - §CAlas pro-occidentales§!"
  MEL.socialism_1_icon: "£SOV_social_democrat_1"
  #Emerging
  MEL.Communist-State: "£SOV_emerging_communism Partido Comunista de Mari El"
@@ -2954,7 +2954,7 @@
  ALT.socialism: "£SOV_western_social_democrat Partido Popular de Altai"
  ALT.socialism_icon: "£SOV_western_social_democrat"
  ALT.socialism_desc: ""
- ALT.socialism_1: "£SOV_social_democrat_1 Un Altai Justo - ¡§CAlas pro-occidentales§!"
+ ALT.socialism_1: "£SOV_social_democrat_1 Un Altai Justo - §CAlas pro-occidentales§!"
  ALT.socialism_1_icon: "£SOV_social_democrat_1"
  #Emerging
  ALT.Communist-State: "£SOV_emerging_communism Partido Comunista de Altai"
@@ -2998,7 +2998,7 @@
  ALT.Nat_Autocracy: "£SOV_nationalist_military_junta_alt Partido Conceptual Unidad"
  ALT.Nat_Autocracy_icon: "£SOV_nationalist_military_junta_alt"
  ### Mordovia ###
- MOV.Western_Autocracy: "£MOV_western_autocracy ¡Derechos Mordovianos!"
+ MOV.Western_Autocracy: "£MOV_western_autocracy Derechos Mordovianos!"
  MOV.Western_Autocracy_icon: "£MOV_western_autocracy"
  MOV.liberalism: "£SOV_western_liberal Yabloko"
  MOV.liberalism_icon: "£SOV_western_liberal"
@@ -3009,7 +3009,7 @@
  MOV.socialism: "£SOV_western_social_democrat Partido del Pueblo de Mordovia"
  MOV.socialism_icon: "£SOV_western_social_democrat"
  MOV.socialism_desc: ""
- MOV.socialism_1: "£SOV_social_democrat_1 ¡Una Mordovia Justa - §Cala Pro-Occidental§!"
+ MOV.socialism_1: "£SOV_social_democrat_1 Una Mordovia Justa - §Cala Pro-Occidental§!"
  MOV.socialism_1_icon: "£SOV_social_democrat_1"
  #Emerging
  MOV.Communist-State: "£SOV_emerging_communism Partido Comunista de Mordovia"
@@ -3025,7 +3025,7 @@
  MOV.Autocracy: "£SOV_Autocracy Rodina"
  MOV.Autocracy_icon: "£SOV_Autocracy"
  #Non-Aligned
- MOV.oligarchism: "£MOV_oligarchism ¡Por la Santa Rus!"
+ MOV.oligarchism: "£MOV_oligarchism Por la Santa Rus!"
  MOV.oligarchism_icon: "£MOV_oligarchism"
  MOV.neutral_Social: "£SOV_non_aligned_socialist_democrat Patriotas de Mordovia"
  MOV.neutral_Social_icon: "£SOV_non_aligned_socialist_democrat"
@@ -3043,7 +3043,7 @@
  MOV.Nat_Populism: "£SOV_nationalist_right_wing_populist LDPM"
  MOV.Nat_Populism_icon: "£SOV_nationalist_right_wing_populist"
  ### Udmurtia ###
- UDM.Western_Autocracy: "£UDM_western_autocracy ¡Intereses Udmurtianos!"
+ UDM.Western_Autocracy: "£UDM_western_autocracy Intereses Udmurtianos!"
  UDM.Western_Autocracy_icon: "£UDM_western_autocracy"
  UDM.liberalism: "£SOV_western_liberal Yabloko"
  UDM.liberalism_icon: "£SOV_western_liberal"
@@ -3054,7 +3054,7 @@
  UDM.socialism: "£SOV_western_social_democrat Partido del Pueblo de Udmurtia"
  UDM.socialism_icon: "£SOV_western_social_democrat"
  UDM.socialism_desc: ""
- UDM.socialism_1: "£SOV_social_democrat_1 ¡Una Udmurtia Justa - §Cala Pro-Occidental§!"
+ UDM.socialism_1: "£SOV_social_democrat_1 Una Udmurtia Justa - §Cala Pro-Occidental§!"
  UDM.socialism_1_icon: "£SOV_social_democrat_1"
  #Emerging
  UDM.Communist-State: "£SOV_emerging_communism Partido Comunista de Udmurtia"
@@ -3111,7 +3111,7 @@
  CHU.socialism: "£SOV_western_social_democrat Partido del Pueblo de Chuvashia"
  CHU.socialism_icon: "£SOV_western_social_democrat"
  CHU.socialism_desc: ""
- CHU.socialism_1: "£SOV_social_democrat_1 ¡Una Chuvashia Justa - §Cala Pro-Occidental§!"
+ CHU.socialism_1: "£SOV_social_democrat_1 Una Chuvashia Justa - §Cala Pro-Occidental§!"
  CHU.socialism_1_icon: "£SOV_social_democrat_1"
  #Emerging
  CHU.Communist-State: "£SOV_emerging_communism Partido Comunista de Chuvashia"
@@ -3180,7 +3180,7 @@
  #Non-Aligned
  YAK.oligarchism: "£BSH_neutral_conservatism Partido de Gobierno del Pueblo"
  YAK.oligarchism_icon: "£BSH_neutral_conservatism"
- YAK.neutral_Social: "£YAK_neutral_social ¡Por las Mujeres de Sakha!"
+ YAK.neutral_Social: "£YAK_neutral_social Por las Mujeres de Sakha!"
  YAK.neutral_Social_icon: "£YAK_neutral_social"
  YAK.neutral_Social_1: "£SOV_non_aligned_socialist_democrat_1 Gente Nueva"
  YAK.neutral_Social_1_icon: "£SOV_non_aligned_socialist_democrat_1"
@@ -3313,7 +3313,7 @@
  KHS.socialism: "£SOV_western_social_democrat Partido del Pueblo de Jakasia"
  KHS.socialism_icon: "£SOV_western_social_democrat"
  KHS.socialism_desc: ""
- KHS.socialism_1: "£SOV_social_democrat_1 ¡Una Jakasia Justa - §Cala Pro-Occidental§!"
+ KHS.socialism_1: "£SOV_social_democrat_1 Una Jakasia Justa - §Cala Pro-Occidental§!"
  KHS.socialism_1_icon: "£SOV_social_democrat_1"
  #Emerging
  KHS.Communist-State: "£SOV_emerging_communism Partido Comunista de Jakasia"
@@ -3366,7 +3366,7 @@
  CKK.socialism: "£SOV_western_social_democrat Partido del Pueblo de Chukotka"
  CKK.socialism_icon: "£SOV_western_social_democrat"
  CKK.socialism_desc: ""
- CKK.socialism_1: "£SOV_social_democrat_1 ¡Una Chukotka Justa - §Cala Pro-Occidental§!"
+ CKK.socialism_1: "£SOV_social_democrat_1 Una Chukotka Justa - §Cala Pro-Occidental§!"
  CKK.socialism_1_icon: "£SOV_social_democrat_1"
  #Emerging
  CKK.Communist-State: "£SOV_emerging_communism Partido Comunista de Chukotka"
@@ -3502,7 +3502,7 @@
  NEE.socialism: "£SOV_western_social_democrat Partido del Pueblo de Nenets"
  NEE.socialism_icon: "£SOV_western_social_democrat"
  NEE.socialism_desc: ""
- NEE.socialism_1: "£SOV_social_democrat_1 ¡Un Nenets Justo - §Cala Pro-Occidental§!"
+ NEE.socialism_1: "£SOV_social_democrat_1 Un Nenets Justo - §Cala Pro-Occidental§!"
  NEE.socialism_1_icon: "£SOV_social_democrat_1"
  #Emerging
  NEE.Communist-State: "£SOV_emerging_communism Partido Comunista de Nenets"
@@ -3598,7 +3598,7 @@
  PMR.anarchist_communism_sov_icon: "£SOV_left_wing_radical_1"
  PMR.Autocracy: "£PMR_emerging_autocracy (R) República"
  PMR.Autocracy_icon: "£PMR_emerging_autocracy"
- PMR.Conservative: "£PMR_conservative (PDP) Partido Democrático Popular \"¡Avance!\""
+ PMR.Conservative: "£PMR_conservative (PDP) Partido Democrático Popular \"Avance!\""
  PMR.Conservative_icon: "£PMR_conservative"
  PMR.oligarchism: "£PMR_non_aligned_oligarchism (RPR) El Partido Republicano \"Renovación\""
  PMR.oligarchism_icon: "£PMR_non_aligned_oligarchism"
@@ -4500,7 +4500,7 @@
  UKR.Communist-State_desc: "Partido Comunista de Ucrania £ukr_cpu Con la caída de la Unión Soviética, el partido predecesor, el Partido Comunista de Ucrania (Unión Soviética), fue prohibido previamente en 1991, reformándose en el Partido Socialista de Ucrania. Entre 1991 y 1993, se crearon varias pequeñas organizaciones comunistas en toda Ucrania. «Sin una legalidad clara», comunistas de toda Ucrania se reunieron el 6 de marzo de 1993 para la Conferencia Panucraniana de Comunistas en un intento de restablecer el KPU. En reacción, la Verkhovna Rada, dos meses después, legalizó la creación de partidos comunistas."
  UKR.Conservative: "£UKR_emerging_kuchma Za Yedynu Ukrayinu!"
  UKR.Conservative_icon: "£UKR_emerging_kuchma"
- UKR.Conservative_desc: "¡Por una Ucrania Unida! £UKR_emerging_kuchma - un bloque electoral de cinco partidos políticos en Ucrania, creado con anticipación para participar en las elecciones de la Verkhovna Rada de 2002. El bloque apoyó al presidente Leonid Kuchma y se centró principalmente en él."
+ UKR.Conservative_desc: "Por una Ucrania Unida! £UKR_emerging_kuchma - un bloque electoral de cinco partidos políticos en Ucrania, creado con anticipación para participar en las elecciones de la Verkhovna Rada de 2002. El bloque apoyó al presidente Leonid Kuchma y se centró principalmente en él."
  UKR.Conservative_2001: "£ukr_regions Partiya Rehioniv"
  UKR.Conservative_2001_icon: "£ukr_regions"
  UKR.Conservative_2001_desc: "Partido de las Regiones £ukr_regions  es un partido político pro-ruso creado a finales de 1997. El partido afirma tener un enfoque pragmático hacia la membresía de Ucrania en la UE con respecto a los intereses económicos extranjeros del país; apoya «recorrer el camino de la integración europea y la implementación de las normas respectivas en las esferas social y económica». Sin embargo, dada la crisis financiera europea, el partido considera el tema de la adhesión de Ucrania a la UE como «puramente teórico.»"
@@ -4647,7 +4647,7 @@
  JAP.Western_Autocracy_desc: "Los Revisionistas son el ala derecha del PLD y proponen una política exterior más confrontacional. Proponen una adaptación del Artículo 9 a la situación global, así como a la situación regional. China y Corea del Norte son una amenaza real para el Estado de Japón y no podemos confiar solo en los EE.UU. para proporcionar protección. Debemos tomar el asunto en nuestras propias manos y construir suficientes capacidades militares para proteger nuestros intereses. La aparición de nuevas megacorporaciones en China también está desafiando fuertemente nuestra economía. Si no cambiamos nuestra política, perderemos nuestra posición actual en el mundo."
  JAP.conservatism: "£JAP_conservatism Kochikai Liberal Democratic Party"
  JAP.conservatism_icon: "£JAP_conservatism"
- JAP.conservatism_desc: "Desde 1955, el conservador PLD es uno de los dos partidos principales en Japón. ¡Su influencia ha alcanzado todos los rangos del gobierno y la sociedad japonesa! Pero después de muchos años de crisis económica y la falta de voluntad para adaptarse al mundo moderno, está claro que el partido está dividido. El ala derecha del PLD está a favor de asegurar el comercio y la cooperación con los EE.UU., y el ala izquierda apoya las reclamaciones de China en la región a cambio de relaciones comerciales más profundas. Un enfoque equilibrado parece impensable y el partido necesita decidir qué curso quiere tomar. Si no, puede perder su estatus en el sistema y otros partidos tomarán su lugar!"
+ JAP.conservatism_desc: "Desde 1955, el conservador PLD es uno de los dos partidos principales en Japón. Su influencia ha alcanzado todos los rangos del gobierno y la sociedad japonesa! Pero después de muchos años de crisis económica y la falta de voluntad para adaptarse al mundo moderno, está claro que el partido está dividido. El ala derecha del PLD está a favor de asegurar el comercio y la cooperación con los EE.UU., y el ala izquierda apoya las reclamaciones de China en la región a cambio de relaciones comerciales más profundas. Un enfoque equilibrado parece impensable y el partido necesita decidir qué curso quiere tomar. Si no, puede perder su estatus en el sistema y otros partidos tomarán su lugar!"
  JAP.liberalism: "£JAP_liberalism Democratic Party of Japan"
  JAP.liberalism_icon: "£JAP_liberalism"
  JAP.liberalism_desc: "El PDJ fue fundado en 1998 como una fusión de cuatro partidos independientes y se considera de centroizquierda. El Partido tiene como objetivo construir «un nuevo camino del centro democrático». Los principales objetivos son crear una sociedad más transparente y justa, así como dar más poder a las personas y a los gobiernos locales. Además de eso, quiere crear una sociedad inclusiva con igualdad de oportunidades para todos. El partido se aferra firmemente al Artículo 9 y al pacifismo. Las Fuerzas de Autodefensa de Japón son, en su opinión, necesarias e importantes para la seguridad del estado, así como de los ciudadanos."
@@ -4679,10 +4679,10 @@
  JAP.Neutral_Communism_desc: "El Partido Comunista Japonés (Nihon Kyousan-tou) es uno de los partidos comunistas no gobernantes más grandes del mundo. El partido se ha distanciado de los ideales comunistas de la Unión Soviética o China y siempre ha permanecido distante de ellos. Sin embargo, el partido está en un declive constante desde la caída de la Unión Soviética en 1991. A pesar de las reformas y los cambios en el programa del partido, el partido está en crisis. A pesar de ser el partido más progresista en el parlamento y ser un miembro tradicional de la democracia, el pueblo de Japón no apoya el curso socialista. Hasta ser parte del gobierno, el PCJ seguirá siendo uno de los principales partidos de la oposición y mantendrá un ojo cercano sobre sus rivales."
  JAP.Neutral_green: "£JAP_Neutral_green Greens"
  JAP.Neutral_green_icon: "£JAP_Neutral_green"
- JAP.Neutral_green_desc: "Los Verdes ahora están en el proceso de organizarse y aún no son un partido político, sino más bien un grupo político, aunque están representados en algunos gobiernos locales. Quieren aumentar la conciencia del público sobre el cambio climático y tienen como objetivo prevenir la próxima crisis climática. Japón también es un país que depende en gran medida de la energía nuclear insegura. Las muchas plantas nucleares podrían ser dañadas por uno de los cientos de terremotos en la región, lo que podría crear una crisis importante en el país. Creen en los tres principios anti-nucleares y harán todo lo posible para que el país sea más verde. ¡Incluso sin estar en el gobierno o en el parlamento!"
+ JAP.Neutral_green_desc: "Los Verdes ahora están en el proceso de organizarse y aún no son un partido político, sino más bien un grupo político, aunque están representados en algunos gobiernos locales. Quieren aumentar la conciencia del público sobre el cambio climático y tienen como objetivo prevenir la próxima crisis climática. Japón también es un país que depende en gran medida de la energía nuclear insegura. Las muchas plantas nucleares podrían ser dañadas por uno de los cientos de terremotos en la región, lo que podría crear una crisis importante en el país. Creen en los tres principios anti-nucleares y harán todo lo posible para que el país sea más verde. Incluso sin estar en el gobierno o en el parlamento!"
  JAP.Neutral_Libertarian: "£JAP_Neutral_Libertarian Liberal League"
  JAP.Neutral_Libertarian_icon: "£JAP_Neutral_Libertarian"
- JAP.Neutral_Libertarian_desc: "La Liga Liberal está compuesta principalmente por exmiembros del Partido de la Nueva Frontera y ha intentado disputar la mayoría del LDP junto con el DPJ. El partido tiene como objetivo apoyar una ideología liberal y social-liberal. Aunque los liberales apoyan una política de libre comercio, tienen en mente la salud del pueblo japonés y lo protegerán. ¡Incluso si eso significa restricciones comerciales! En los tiempos actuales, el partido está entre dos ideologías extremas e incierto si ganará más influencia o perderá el mínimo que tiene ahora."
+ JAP.Neutral_Libertarian_desc: "La Liga Liberal está compuesta principalmente por exmiembros del Partido de la Nueva Frontera y ha intentado disputar la mayoría del LDP junto con el DPJ. El partido tiene como objetivo apoyar una ideología liberal y social-liberal. Aunque los liberales apoyan una política de libre comercio, tienen en mente la salud del pueblo japonés y lo protegerán. Incluso si eso significa restricciones comerciales! En los tiempos actuales, el partido está entre dos ideologías extremas e incierto si ganará más influencia o perderá el mínimo que tiene ahora."
  JAP.neutral_Social: "£JAP_neutral_Social Social Democratic Party"
  JAP.neutral_Social_icon: "£JAP_neutral_Social"
  JAP.neutral_Social_desc: "Después de una reforma del Partido Socialista Japonés en 1996, el SDP surgió como un partido de centro-izquierda con el objetivo de crear una oposición al LDP y al DPJ. En el debate actual sobre el Artículo 9, el partido lo defiende y propone incluso la abolición de las Fuerzas de Autodefensa de Japón. El SDP quiere crear un sólido sistema de bienestar y salud. La hermosa naturaleza y vida silvestre de Japón deben protegerse mejor mediante la creación de más zonas protegidas. El pueblo japonés aún no sabe qué esperar de sus fuerzas de defensa. Hasta entonces, el SDP está en una situación complicada, ya que solo una minoría apoya su política."
@@ -4848,7 +4848,7 @@
  USA.Militarist_NFP_Victory_desc: "Sociedad Militar Estadounidense - La AMS es el producto de las políticas NFP que vieron un cambio en la base del partido hacia los militaristas y las élites del Pentágono. Ahora a cargo, esos mismos generales del Pentágono necesitan encontrar una rama de oficina para empujar en asuntos civiles para que puedan seguir enfocándose en lo que ellos llaman, soldadesca real. No obstante, el público está entusiasmado y el orgullo nacional está en su punto más alto, así que aprovechemos la ola mientras podamos."
  USA.Monarchist: "£USA_nationalist_monarchist Movimiento Monárquico Estadounidense"
  USA.Monarchist_icon: "£USA_nationalist_monarchist"
- USA.Monarchist_desc: "El movimiento monárquico estadounidense es un movimiento marginal para aquellos que sueñan con siglos pasados. Aunque nadie toma en serio el movimiento fuera de sus propios miembros, la realidad es que las organizaciones del gobierno no son tan diferentes en esencia. Un cambio en algunos títulos de oficina y ¡bum! tienes una monarquía constitucional. Pero por ahora, el movimiento busca crecer a través de movimientos de base y son fáciles de coalicionar en movimientos más grandes para difundir pasivamente sus ideas e ideales."
+ USA.Monarchist_desc: "El movimiento monárquico estadounidense es un movimiento marginal para aquellos que sueñan con siglos pasados. Aunque nadie toma en serio el movimiento fuera de sus propios miembros, la realidad es que las organizaciones del gobierno no son tan diferentes en esencia. Un cambio en algunos títulos de oficina y bum! tienes una monarquía constitucional. Pero por ahora, el movimiento busca crecer a través de movimientos de base y son fáciles de coalicionar en movimientos más grandes para difundir pasivamente sus ideas e ideales."
 
 
  ##############################
@@ -5642,8 +5642,8 @@
  BLR.Nat_Populism: "£BLR_Nat_Populism Frente Popular Bielorruso \"Renacimiento\""
  BLR.Nat_Populism_icon: "£BLR_Nat_Populism"
  BLR.Nat_Populism_desc: "El partido BPF es un partido bielorruso de centro-derecha creado en 1993 bajo el nombre de \"Frente Popular Bielorruso\". Su rostro y líder es Zenon Poznyak. Es conocido por sus puntos de vista anti-rusos, así como partidario de la autonomía total de Bielorrusia del Oeste y el Este."
- BLR.Monarchist: "£generic_Monarchist_small \"¡Por la Fe, la Patria y el Príncipe!\""
- BLR.Monarchist_desc: "La Liga Monárquica del Gran Ducado de Lituania \"¡Por la Fe, la Patria y el Príncipe!\" es una organización sociopolítica de dirección monárquica, patriótica y pro-lituana (pro-bielorrusa). Opera en el territorio de Bielorrusia y Lituania. Fundada el 30 de junio de 2002. La gestión se encuentra en Minsk. Une a conservadores y partidarios de la restauración de la monarquía en Lituania y Bielorrusia. Aboga por la restauración de las libertades de la iglesia y la nobleza. La misión de la Liga es revivir el Gran Ducado de Lituania como una monarquía hereditaria católica, sujeto del derecho internacional como en 1654."
+ BLR.Monarchist: "£generic_Monarchist_small \"Por la Fe, la Patria y el Príncipe!\""
+ BLR.Monarchist_desc: "La Liga Monárquica del Gran Ducado de Lituania \"Por la Fe, la Patria y el Príncipe!\" es una organización sociopolítica de dirección monárquica, patriótica y pro-lituana (pro-bielorrusa). Opera en el territorio de Bielorrusia y Lituania. Fundada el 30 de junio de 2002. La gestión se encuentra en Minsk. Une a conservadores y partidarios de la restauración de la monarquía en Lituania y Bielorrusia. Aboga por la restauración de las libertades de la iglesia y la nobleza. La misión de la Liga es revivir el Gran Ducado de Lituania como una monarquía hereditaria católica, sujeto del derecho internacional como en 1654."
  BLZ.conservatism: "£generic_conservatism_small Partido Democrático Unido (UDP)"
  BLZ.conservatism_desc: ""
  BLZ.socialism: "£generic_socialism_small Partido Unido del Pueblo (PUP)"
@@ -9640,7 +9640,7 @@
  USoE.anarchist_communism_desc: "(Radical de Izquierda) - Izquierda Anticapitalista Europea (EACL)\n\nLa Izquierda Anticapitalista Europea (EACL) es un partido de extrema izquierda en el Parlamento de la USoE y está compuesta principalmente por comunistas moderados. Cree en la necesidad de reemplazar el capitalismo por un sistema económico donde todos los medios de producción sean propiedad del pueblo. Busca alcanzar el verdadero socialismo mediante un enfoque democrático y basado en reformas."
  USoE.anarchist_communism_2017: "£EU_parliament_PG_2017_anarchist_communism (NP) - Now the People! "
  USoE.anarchist_communism_2017_icon: "£EU_parliament_PG_2017_anarchist_communism"
- USoE.anarchist_communism_2017_desc: "(Radical de Izquierda) - ¡Ahora el Pueblo! (NP)\n\n¡Ahora el Pueblo! (NP) es un partido de extrema izquierda en el Parlamento de la USoE y está compuesta principalmente por comunistas moderados. Cree en la necesidad de reemplazar el capitalismo por un sistema económico donde todos los medios de producción sean propiedad del estado. Busca alcanzar el verdadero socialismo mediante un enfoque democrático y basado en reformas."
+ USoE.anarchist_communism_2017_desc: "(Radical de Izquierda) - Ahora el Pueblo! (NP)\n\nAhora el Pueblo! (NP) es un partido de extrema izquierda en el Parlamento de la USoE y está compuesta principalmente por comunistas moderados. Cree en la necesidad de reemplazar el capitalismo por un sistema económico donde todos los medios de producción sean propiedad del estado. Busca alcanzar el verdadero socialismo mediante un enfoque democrático y basado en reformas."
  USoE.Conservative: "£EU_parliament_PG_Conservative (AoR) - Alliance of Reactionaries"
  USoE.Conservative_icon: "£EU_parliament_PG_Conservative"
  USoE.Conservative_desc: "(Reaccionario) - Alianza de Reaccionarios (AoR)\n\nLa Alianza de Reaccionarios (AoR) es un partido de extrema derecha, euroescéptico y nacionalista que busca deshacer la Unión y restaurar las naciones basadas en grupos étnicos. Sus puntos de vista políticos se centran en defender las tradiciones, rechazar la inmigración y combatir la globalización."

@@ -134,14 +134,14 @@
  # Cartel Events
  cartel_event.1.t: "Fin de los Cárteles"
  cartel_event.1.d: "La influencia de los principales cárteles en nuestra nación ha disminuido lo suficiente como para que podamos considerar seriamente comenzar a retomar el control de nuestro campo. Todo lo que queda por hacer es dar la orden de avanzar."
- cartel_event.1.a: "¡Los Narcos pagarán por sus crímenes!"
+ cartel_event.1.a: "Los Narcos pagarán por sus crímenes!"
 
  cartel_event.3.t: "Destino de México"
  cartel_event.3.d: "Nuestros esfuerzos para acabar con los cárteles no han pasado desapercibidos y han tomado las armas contra el gobierno mexicano. La Guerra contra las Drogas en México ha entrado en su etapa final."
  cartel_event.3.a: "Únete al Cártel de Sinaloa."
  cartel_event.3.b: "Únete al Cártel de Tierra Caliente."
  cartel_event.3.c: "Únete al Cártel de Tamaulipas."
- cartel_event.3.e: "¡Viva México para siempre!"
+ cartel_event.3.e: "Viva México para siempre!"
 
  cartel_event.10.t: "Fin de la Guerra contra las Drogas"
  cartel_event.10.d: "Después de meses de lucha en las calles de nuestras principales ciudades, las junglas, llanuras y desiertos, hemos logrado eliminar todos los bastiones y rutas principales de los cárteles, y detener o matar a todos los líderes importantes de los cárteles. El fin está cerca para los Narcos y pronto México respirará libre de nuevo."
@@ -149,7 +149,7 @@
 
  cartel_event.12.t: "Los Cárteles Contraatacan"
  cartel_event.12.d: "Los cárteles se niegan a quedarse de brazos cruzados mientras interrumpimos sus operaciones y atacamos a sus miembros. En respuesta, han lanzado una serie de bombardeos y ataques de represalia contra nuestras fuerzas locales."
- cartel_event.12.a: "¡Malditos Narcos!"
+ cartel_event.12.a: "Malditos Narcos!"
 
  # Generic Cartel Events
  cartel_event.15.t: "Fusiles y Municiones Desaparecidos"
@@ -272,7 +272,7 @@
 
  cartel_event.40.t: "Denuncia Anónima"
  cartel_event.40.d: "Hemos recibido una denuncia anónima sobre un puesto vulnerable de un cártel. Si actuamos rápidamente, podríamos tomar la posición. Sin embargo, esto podría ser una broma o una estratagema de los cárteles para sacarnos de posición y emboscarnos."
- cartel_event.40.a: "Actuar sobre la denuncia, ¡cualquier oportunidad es real!"
+ cartel_event.40.a: "Actuar sobre la denuncia, cualquier oportunidad es real!"
  cartel_event.40.b: "Ignorar la denuncia, es probablemente una broma."
 
  cartel_event.41.t: "Negocios Locales Cooperan con Cárteles"
@@ -282,7 +282,7 @@
 
  cartel_event.42.t: "Conglomerados Industriales Almacenan Contrabando"
  cartel_event.42.d: "Recientemente nos llegó un aviso de que muchas de nuestras empresas más grandes han estado permitiendo que los cárteles usen sus almacenes para almacenar contrabando. Si bien esto puede ser un signo de corrupción descarada, existe la posibilidad de que sea el resultado de chantaje. En cualquier caso, es necesaria algún tipo de respuesta de nuestra parte. De lo contrario, es probable que el informante vaya a las noticias."
- cartel_event.42.a: "¡Incautar los almacenes y multar a los conglomerados!"
+ cartel_event.42.a: "Incautar los almacenes y multar a los conglomerados!"
  cartel_event.42.b: "Incautar el contrabando y dar a las empresas una palmada en la muñeca."
  cartel_event.42.c: "Son sus almacenes, pero ahora todos lo saben."
 
@@ -304,8 +304,8 @@
 
  cartel_event.46.t: "Sobornos Tentadores de los Cárteles"
  cartel_event.46.d: "Varios miembros de nuestro establishment político han sido recientemente abordados con una propuesta intrigante. Tratamos a los cárteles como cualquier otro grupo de interés, dándoles espacio para operar como les plazca, y ellos financian varias elecciones importantes que se avecinan. Los miembros más ideológicamente maleables nos están pidiendo orientación."
- cartel_event.46.a: "¡Por supuesto! Estamos felices de trabajar con un grupo de interés tan importante."
- cartel_event.46.b: "¡Escandaloso! No representan los mejores intereses del pueblo."
+ cartel_event.46.a: "Por supuesto! Estamos felices de trabajar con un grupo de interés tan importante."
+ cartel_event.46.b: "Escandaloso! No representan los mejores intereses del pueblo."
 
  cartel_event.47.t: "Tratos con el Diablo"
  cartel_event.47.d: "Varios miembros de alto rango de nuestro establishment político fueron recientemente invitados a una reunión con los líderes de uno de los cárteles más grandes de nuestra nación. Durante la reunión, los líderes del cártel dejaron claras sus intenciones. No necesitan ser nuestros enemigos; de hecho, podríamos ser aliados políticos. Ya han ofrecido una parte sustancial del pastel por nuestra cooperación y prometen más a medida que nuestra asociación continúe."
@@ -337,7 +337,7 @@
 
  cartel_event.56.t: "Sobreviviente de Ejecución del Cártel"
  cartel_event.56.d: "Encontrado por un buen samaritano y llevado de urgencia al hospital, un hombre de una de las regiones infestadas de cárteles en nuestra nación ahora yace en lo que pronto podría ser su lecho de muerte. Sin embargo, se nos presenta la oportunidad de ayudarlo. Necesita ser trasladado a un hospital con mejores instalaciones, algo que uno de nuestros helicópteros militares cercanos podría lograr."
- cartel_event.56.a: "¡Se convertirá en nuestro nuevo El Fusilado!"
+ cartel_event.56.a: "Se convertirá en nuestro nuevo El Fusilado!"
  cartel_event.56.b: "Es una pena que nuestros médicos no pudieran salvarlo..."
 
  #cartel_event.num.t: ""

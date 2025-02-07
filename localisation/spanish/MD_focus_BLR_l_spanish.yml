@@ -138,7 +138,7 @@
  BLR_five_year_plan: "Primer Plan Quinquenal"
  BLR_five_year_plan_desc: "Los modelos económicos libres de los estados occidentales no son el futuro para un estado socialista. El regreso a la economía planificada, preferentemente en la forma de los clásicos Planes Quinquenales al estilo soviético, le dará al gobierno una influencia sin restricciones sobre la economía previamente descontrolada."
  BLR_reestablish_the_military_industrial_complex: "Restablecer el Complejo Militar-Industrial"
- BLR_reestablish_the_military_industrial_complex_desc: "¡El Ejército y el Pueblo Son Uno!"
+ BLR_reestablish_the_military_industrial_complex_desc: "El Ejército y el Pueblo Son Uno!"
  BLR_mobilize_the_masses: "Movilizar a las Masas"
  BLR_mobilize_the_masses_desc: "Nuestro ejército necesita gente para defender los intereses de nuestro país donde sea que el partido lo demande."
  BLR_better_roads: "Mejora General de Carreteras"
@@ -160,9 +160,9 @@
  BLR_the_litbel: "Estado de Dos Pueblos"
  BLR_the_litbel_desc: "Ha llegado el momento de convertirnos en un solo estado de dos pueblos: bielorruso y lituano."
  BLR_dissolve_monasteries: "Disolución de los Monasterios"
- BLR_dissolve_monasteries_desc: "¡Vamos a limpiar nuestro país de la religión por completo!"
+ BLR_dissolve_monasteries_desc: "Vamos a limpiar nuestro país de la religión por completo!"
  BLR_support_of_the_worker: "Apoyo a los Trabajadores"
- BLR_support_of_the_worker_desc: "¡La clase trabajadora es nuestro apoyo y fuerza, siempre los apoyaremos en la lucha contra el contagio capitalista!"
+ BLR_support_of_the_worker_desc: "La clase trabajadora es nuestro apoyo y fuerza, siempre los apoyaremos en la lucha contra el contagio capitalista!"
  BLR_litbel_attack_lat: "Latgalia bielorrusa"
  BLR_litbel_attack_lat_desc: "Las tierras de Latgalia han sido arrancadas de nosotros por Letonia, es hora de poner fin a esta injusticia."
  BLR_litbel_annex_lat: "El fin del Estado Letón"
@@ -658,7 +658,7 @@
  BLR_buy_militaries_lat: "Sobornar a la Milicia Local"
  BLR_litbel_propaganda_lat: "Propaganda del Poder del Estado LitBel"
  BLR_parlament_lat_places: "Sobornar a los Políticos Locales"
- BLR_revoult_lat: "¡Levantar una Rebelión en Letonia!"
+ BLR_revoult_lat: "Levantar una Rebelión en Letonia!"
 
  BLR_pol_revol_category: "Llevar al poder a los Nacionalistas que Necesitamos en Polonia"
  BLR_pol_revol_category_desc: "Debemos vengarnos de Polonia por todos esos años en los que intentaron destruir nuestra independencia, por la humillante Unión de Lublin, por la división de nuestro país en el siglo XX. Pondremos al pueblo polaco en una posición en la que no tendrán otra opción que obedecernos"
@@ -995,9 +995,9 @@
  BLR_soviet_system: "Bielorrusia Nacional Bolchevique"
  BLR_soviet_system_desc: "Los Bolcheviques Nacionales han tomado el poder en el país y están listos para comenzar sus primeras reformas económicas. Una de ellas será el regreso al sistema económico soviético, a la vista de la experiencia fallida del gobernante anterior."
  BLR_free_weapon: "Libre porte de armas"
- BLR_free_weapon_desc: "Permitiremos que nuestros ciudadanos lleven armas libremente en el país, ¡tienen derecho a la autodefensa!"
+ BLR_free_weapon_desc: "Permitiremos que nuestros ciudadanos lleven armas libremente en el país, tienen derecho a la autodefensa!"
  BLR_new_church: "Nueva religión"
- BLR_new_church_desc: "¡Es hora de crear una nueva religión que se ajuste a los intereses de nuestro estado!"
+ BLR_new_church_desc: "Es hora de crear una nueva religión que se ajuste a los intereses de nuestro estado!"
  BLR_reform_education: "Reforma educativa"
  BLR_reform_education_desc: "El sistema educativo está en un estado terrible, lo arreglaremos e introduciremos cambios importantes en este sistema. Una de las innovaciones será que reduciremos el tiempo de aprendizaje de los escolares y estudiantes, preparándolos más rápido para convertirse en ciudadanos de pleno derecho."
  BLR_ruralisation: "Ruralización"
@@ -1005,7 +1005,7 @@
  BLR_revoult_army: "El ejército revolucionario"
  BLR_revoult_army_desc: "Nuestro ejército no se mostró bajo la mejor luz, necesita personas que ardan con la pasión de la revolución, dispuestas a lanzarse contra una ametralladora enemiga por la patria."
  BLR_revoult_army_zeks: "Permitir que los prisioneros sean reclutados en el ejército"
- BLR_revoult_army_zeks_desc: "Comenzaremos a reclutar prisioneros de las cárceles para el ejército, en batallones separados. ¡Dejen de alimentar a los prisioneros, ellos deben alimentar la llama de la revolución!"
+ BLR_revoult_army_zeks_desc: "Comenzaremos a reclutar prisioneros de las cárceles para el ejército, en batallones separados. Dejen de alimentar a los prisioneros, ellos deben alimentar la llama de la revolución!"
  BLR_revoult_rne: "Invitar a la Unidad Nacional Rusa"
  BLR_revoult_rne_desc: "Introduciremos oficialmente a los representantes de esta organización nacionalista en las estructuras gubernamentales."
  BLR_revoult_sobor: "Invitar a la Catedral Eslava de Belaya Rus"
@@ -1023,9 +1023,9 @@
  BLR_revoult_army_gco_anti_corrupt: "Comité Revolucionario Anticorrupción"
  BLR_revoult_army_gco_anti_corrupt_desc: "Crearemos una unidad especial que se encargará de luchar contra la corrupción en nuestro país, nadie se esconderá de la mano de la justicia."
  BLR_revoult_dsocial: "Apoyo Social"
- BLR_revoult_dsocial_desc: "¡Fortaleceremos el apoyo social para nuestros ciudadanos! Nadie se irá ofendido"
+ BLR_revoult_dsocial_desc: "Fortaleceremos el apoyo social para nuestros ciudadanos! Nadie se irá ofendido"
  BLR_revoult_army_agro_invest: "Desarrollo de la Agroindustria"
- BLR_revoult_army_agro_invest_desc: "¡Debemos patrocinar el máximo desarrollo de nuestra agroindustria!"
+ BLR_revoult_army_agro_invest_desc: "Debemos patrocinar el máximo desarrollo de nuestra agroindustria!"
  BLR_revoult_army_gco_air: "Fuerza Aérea"
  BLR_revoult_army_gco_air_desc: "Crearemos y daremos a nuestros guardianes la oportunidad de utilizar la aviación para cumplir sus objetivos"
  BLR_revoult_army_gco_drone: "Tropas de Drones"
@@ -1041,19 +1041,19 @@
  BLR_prepare_attacks: "Preparación para Intervenciones"
  BLR_prepare_attacks_desc: "Nuestro ejército está listo, hemos reunido una impresionante fuerza de tropas y estamos listos para expandir la influencia de nuestro país sobre el antiguo territorio de la URSS."
  BLR_baltic_campaign: "La Campaña Báltica"
- BLR_baltic_campaign_desc: "Comenzaremos los preparativos para una campaña militar en los Estados Bálticos. ¡Estos países no tienen derecho a la independencia ni a la existencia!"
+ BLR_baltic_campaign_desc: "Comenzaremos los preparativos para una campaña militar en los Estados Bálticos. Estos países no tienen derecho a la independencia ni a la existencia!"
  BLR_baltic_war: "Iniciar la Marcha Báltica"
  BLR_baltic_war_desc: "Nuestro ejército ha tomado posiciones y está listo para comenzar la marcha hacia los Estados Bálticos"
  BLR_ukraine_campaign: "La Campaña Ucraniana"
- BLR_ukraine_campaign_desc: "Nuestro vecino del sur está mostrando signos de lo que puede hacer en un bloque militar-político hostil hacia nosotros, seguido de un ataque contra nosotros, ¡debemos golpear primero!"
+ BLR_ukraine_campaign_desc: "Nuestro vecino del sur está mostrando signos de lo que puede hacer en un bloque militar-político hostil hacia nosotros, seguido de un ataque contra nosotros, debemos golpear primero!"
  BLR_ukraine_campaign_border_prepare: "Fortalecer la Frontera con Ucrania"
  BLR_ukraine_campaign_border_prepare_desc: "A pesar de que estamos atacando, debemos prever posibles escenarios, por lo que prepararemos fortificaciones en la frontera"
  BLR_poland_campaign_border_prepare: "Fortalecer la Frontera con Polonia"
  BLR_poland_campaign_border_prepare_desc: "A pesar de que estamos atacando, debemos prever posibles escenarios, por lo que prepararemos fortificaciones en la frontera"
  BLR_poland_campaign_war: "Iniciar una Campaña en Polonia"
- BLR_poland_campaign_war_desc: "¡Nuestro ejército está listo! ¡adelante hacia Varsovia!"
+ BLR_poland_campaign_war_desc: "Nuestro ejército está listo! adelante hacia Varsovia!"
  BLR_ukraine_campaign_war: "Iniciar una Campaña Ucraniana"
- BLR_ukraine_campaign_war_desc: "¡Nuestro ejército está listo! ¡adelante hacia Kiev!"
+ BLR_ukraine_campaign_war_desc: "Nuestro ejército está listo! adelante hacia Kiev!"
  BLR_military_nazbol: "Inversiones en la Industria Militar"
  BLR_military_nazbol_desc: "Nuestra industria militar aún no se ha recuperado al nivel de la época soviética, debemos corregir esto"
 
@@ -1188,12 +1188,12 @@
  BLR_tikhanovsky_not_arrested_flag: "§YTikhanovsky no fue arrestado§!"
  BLR_silesian_help_flag: "§YHemos proporcionado a los Silesios todo lo que necesitan§!"
  BLR_poland_parlament_belarus_agent_flag: "§YNuestros agentes están entre los parlamentarios de Polonia§!"
- BLR_kommunarka_russia_flag: "¡Los productos de Kommunarka ahora están disponibles en §YRusia§!"
- BLR_kommunarka_georgia_flag: "¡Los productos de Kommunarka ahora están disponibles en §YGeorgia§!"
- BLR_kommunarka_moldova_flag: "¡Los productos de Kommunarka ahora están disponibles en §YMoldavia§!"
- BLR_kommunarka_kazakhstan_flag: "¡Los productos de Kommunarka ahora están disponibles en §YKazajistán§!"
- BLR_kommunarka_latvia_flag: "¡Los productos de Kommunarka ahora están disponibles en §YLetonia§!"
- BLR_kommunarka_armenia_flag: "¡Los productos de Kommunarka ahora están disponibles en §YArmenia§!"
+ BLR_kommunarka_russia_flag: "Los productos de Kommunarka ahora están disponibles en §YRusia§!"
+ BLR_kommunarka_georgia_flag: "Los productos de Kommunarka ahora están disponibles en §YGeorgia§!"
+ BLR_kommunarka_moldova_flag: "Los productos de Kommunarka ahora están disponibles en §YMoldavia§!"
+ BLR_kommunarka_kazakhstan_flag: "Los productos de Kommunarka ahora están disponibles en §YKazajistán§!"
+ BLR_kommunarka_latvia_flag: "Los productos de Kommunarka ahora están disponibles en §YLetonia§!"
+ BLR_kommunarka_armenia_flag: "Los productos de Kommunarka ahora están disponibles en §YArmenia§!"
  BLR_choose_way_flag: "Se eligió un camino para nuestro país"
 
  #Religion
@@ -1239,10 +1239,10 @@
  BLR_ger_guns_desc: "Estamos listos para comprar muchos subfusiles alemanes para nuestros servicios especiales"
 
  #Tooltips
- BLR_SOV_more_than_70_percent_influence_TT: "§Y[BLR.GetAdjective]§! ¡La influencia en [SOV.GetNameWithFlag] es superior al 80%"
- UKR_SOV_more_than_70_percent_influence_TT: "§Y[UKR.GetAdjective]§! ¡La influencia en [SOV.GetNameWithFlag] es superior al 80%"
- SOV_targeted_country_has_more_than_60_percent_influence_TT: "§Y[SOV.GetAdjective]§! ¡La influencia en [BLR.GetNameWithFlag] es superior al 60%"
- SOV_targeted_country_has_more_than_75_percent_influence_TT: "§Y[SOV.GetAdjective]§! ¡La influencia en [BLR.GetNameWithFlag] es superior al 75%"
+ BLR_SOV_more_than_70_percent_influence_TT: "§Y[BLR.GetAdjective]§! La influencia en [SOV.GetNameWithFlag] es superior al 80%"
+ UKR_SOV_more_than_70_percent_influence_TT: "§Y[UKR.GetAdjective]§! La influencia en [SOV.GetNameWithFlag] es superior al 80%"
+ SOV_targeted_country_has_more_than_60_percent_influence_TT: "§Y[SOV.GetAdjective]§! La influencia en [BLR.GetNameWithFlag] es superior al 60%"
+ SOV_targeted_country_has_more_than_75_percent_influence_TT: "§Y[SOV.GetAdjective]§! La influencia en [BLR.GetNameWithFlag] es superior al 75%"
  BLR_with_tt: "Ingreso adicional: $$§G0.150§! del comercio conjunto de potasio [BLR.GetFlag]bielorruso-[SOV.GetFlag]ruso §YPotassium Trade§!\n"
  BLR_without_tt: "Ingreso adicional: $$§G0.210§! del comercio conjunto de potasio [BLR.GetFlag]bielorruso-[SOV.GetFlag]ruso §YPotassium Trade§!\n"
  BLR_rus_oil_tt: "Gasto semanal de $§R0.044§! por los recursos energéticos §Y[SOV.GetFlag]rusos§!\n"
@@ -1348,12 +1348,12 @@
 
  belarus_ukraine.3.t: "Bielorrusia ofrece Minsk como plataforma para las conversaciones de paz"
  belarus_ukraine.3.d: "Bielorrusia ofrece Minsk como ciudad para las negociaciones sobre el establecimiento de la paz en Ucrania. ¿Estaremos de acuerdo en concluir una tregua con los separatistas?"
- belarus_ukraine.3.a: "¡La paz es lo que debemos buscar!"
- belarus_ukraine.3.b: "¡Restauraremos la integridad territorial de Ucrania!"
+ belarus_ukraine.3.a: "La paz es lo que debemos buscar!"
+ belarus_ukraine.3.b: "Restauraremos la integridad territorial de Ucrania!"
 
  belarus_ukraine.4.t: "Operación Especial en Ucrania"
  belarus_ukraine.4.d: "Rusia ha lanzado una operación especial en Ucrania. Nuestro liderazgo se enfrentó a la opción de participar o no. Tenemos muchas obligaciones, pero aún así debemos pensar tres veces antes de involucrarnos en esta carnicería"
- belarus_ukraine.4.a: "¡Ucrania debe ser liberada!"
+ belarus_ukraine.4.a: "Ucrania debe ser liberada!"
  belarus_ukraine.4.b: "No participaremos en esto"
 
 
@@ -1488,7 +1488,7 @@
 
  belarus_another.2.t: "Guerra diplomática polaco-bielorrusa"
  belarus_another.2.d: "Nuestras relaciones con Polonia comenzaron a deteriorarse rápidamente. Bielorrusia ha acusado a uno de los diplomáticos polacos de \"acciones activas dirigidas a desestabilizar la sociedad bielorrusa\". En respuesta, Polonia ha preparado una lista de funcionarios bielorrusos que serán prohibidos de entrar en el territorio de Polonia. La causa del conflicto fue la asociación pública \"Unión de Polacos de Bielorrusia\", que unió a unas 20 mil personas. En el congreso de la Unión de Polacos de Bielorrusia, su antiguo líder, leal a la dirección de Bielorrusia, fue destituido, tras lo cual la Unión de Polacos de Bielorrusia fue sometida a una gran presión por parte de las autoridades, que acusaron a la dirección de Polonia, que financió el congreso de la Unión de Polacos de Bielorrusia y la embajada de este país, de \"actividades subversivas\" contra Bielorrusia. El Ministerio de Justicia de Bielorrusia se negó a aprobar los resultados del Congreso de la Unión de Polacos de Bielorrusia, que eligió a Angelika Borys como su presidenta. El Sejm polaco expresó su descontento con las acciones de las autoridades bielorrusas, lo que fue percibido en Bielorrusia como un intento de inmiscuirse en sus asuntos internos. Los desarrollos posteriores llevaron a un conflicto diplomático."
- belarus_another.2.a: "¡Ya hemos tenido suficiente de los polacos!"
+ belarus_another.2.a: "Ya hemos tenido suficiente de los polacos!"
 
  belarus_another.3.t: "Unitarismo en Ucrania"
  belarus_another.3.d: "El unitarismo comenzó a extenderse activamente en el territorio de nuestro país, y muchos residentes comenzaron a exigir un rechazo oficial de la Iglesia Ortodoxa, que está subordinada a Moscú. ¿Tal vez valga la pena escucharlos?"
@@ -1527,7 +1527,7 @@
 
  belarus_another.11.t: "Guerra Civil en Bielorrusia"
  belarus_another.11.d: "Nuestra clara retórica anti-rusa, la política de imposición rígida del idioma bielorruso, así como la imposición activa de una historia que afirma que no tenemos nada en común con los rusos, ha dado sus frutos. Las regiones orientales se han sublevado, las fuerzas de autodefensa locales han tomado el poder, debemos detener esto lo antes posible antes de que las grandes potencias se beneficien de ello"
- belarus_another.11.a: "¡Esto es terrible!"
+ belarus_another.11.a: "Esto es terrible!"
 
  belarus_another.12.t: "El General Azarenok hace lobby por los intereses rusos en nuestro país"
  belarus_another.12.d: "Nuestras agencias de seguridad han sabido del lobby de los intereses rusos en nuestro país a través de las conexiones del General Azarenka. ¿Debemos prestarle atención o está en los intereses de la República de Bielorrusia?"
@@ -1549,7 +1549,7 @@
 
  belarus_another.17.t: "Cooperación militar con Bielorrusia"
  belarus_another.17.d: "Hemos invitado a especialistas militares de Bielorrusia para resolver las tareas más importantes en nuestro ejército. Las fuerzas especiales bielorrusas realizaron entrenamientos para nuestros combatientes, y la industria militar bielorrusa mejoró nuestro sistema de defensa aérea"
- belarus_another.17.a: "¡Increíble!"
+ belarus_another.17.a: "Increíble!"
 
  belarus_another.18.t: "Latgale o guerra"
  belarus_another.18.d: "El gobierno de Bielorrusia se está volviendo más agresivo. Nos dieron un ultimátum: o les entregamos la región de Latgale, o las consecuencias serán las más terribles para nuestro país. Tal declaración inesperada nos sorprendió. ¿Qué vamos a hacer?"
@@ -1562,17 +1562,17 @@
  belarus_another.19.b: "Nuestra independencia es todo para nosotros"
 
  belarus_another.20.t: "Firmando la unión"
- belarus_another.20.d: "¡El gobierno polaco ha aceptado crear una unión con nosotros! ¡Esta es una victoria para todo el pueblo bielorruso!"
+ belarus_another.20.d: "El gobierno polaco ha aceptado crear una unión con nosotros! Esta es una victoria para todo el pueblo bielorruso!"
  belarus_another.20.a: "Bueno, ya veremos"
 
- belarus_another.21.t: "¡Polonia se negó!"
+ belarus_another.21.t: "Polonia se negó!"
  belarus_another.21.d: "El gobierno polaco, al que hemos apoyado tanto tiempo, nos ha traicionado. Aparentemente no tenemos otra opción y debemos decidir por nosotros mismos qué haremos con estos traidores. Tal vez tengamos que usar toda la influencia disponible"
  belarus_another.21.a: "Hagamos un infierno para los polacos"
  belarus_another.21.b: "Dejémoslos"
 
  belarus_another.22.t: "Milicia Silesiana"
- belarus_another.22.d: "Nuestro pueblo tiene la oportunidad de independizarse, ¡es hora de aprovecharla y tomar las armas!"
- belarus_another.22.a: "¡Abajo con la opresión polaca!"
+ belarus_another.22.d: "Nuestro pueblo tiene la oportunidad de independizarse, es hora de aprovecharla y tomar las armas!"
+ belarus_another.22.a: "Abajo con la opresión polaca!"
 
  belarus_another.23.t: "Ejercicios conjuntos con Bielorrusia"
  belarus_another.23.d: "Bielorrusia nos ofrece realizar ejercicios conjuntos para la coordinación de combate de nuestras tropas. ¿Estaremos de acuerdo?"
@@ -1638,8 +1638,8 @@
  belarus_another.36.b: "Nos negamos."
 
  belarus_another.37.t: "Nos unimos a la OTAN"
- belarus_another.37.d: "Nuestra solicitud de membresía ha sido aprobada y ahora somos parte de esta gran alianza, ¡listos para defender la democracia en todo el mundo!"
- belarus_another.37.a: "¡Hurra!"
+ belarus_another.37.d: "Nuestra solicitud de membresía ha sido aprobada y ahora somos parte de esta gran alianza, listos para defender la democracia en todo el mundo!"
+ belarus_another.37.a: "Hurra!"
 
  belarus_another.38.t: "Bielorrusia quiere unirse a USAID"
  belarus_another.38.d: "El gobierno bielorruso ha enviado una solicitud para unirse al programa USAID. ¿Estamos listos para responder positivamente?"
@@ -1648,7 +1648,7 @@
 
  belarus_another.39.t: "Nuestra solicitud fue aceptada por USAID."
  belarus_another.39.d: "EE. UU. aprobó nuestra solicitud y ahora somos parte del programa USAID."
- belarus_another.39.a: "¡Hurra!"
+ belarus_another.39.a: "Hurra!"
 
  belarus_another.40.t: "La crisis económica de 2008 en Bielorrusia."
  belarus_another.40.d: "Fenómenos complejos en la economía del país, que indican el deterioro de la situación financiera y económica en el país. En 2008, comenzó la crisis financiera en Bielorrusia. Ahora tenemos que elegir un área en la que reduciremos nuestros gastos para salvar el presupuesto."
@@ -1678,7 +1678,7 @@
 
  belarus_another.45.t: "Guerra Civil en Bielorrusia"
  belarus_another.45.d: "No pudimos mantener a los manifestantes bajo control, ahora han llevado al país al caos total. ¿Qué sucederá después....?"
- belarus_another.45.a: "¡Esto es terrible!"
+ belarus_another.45.a: "Esto es terrible!"
 
  belarus_another.46.t: ""Excursión a Varsovia""
  belarus_another.46.d: "Con la asistencia de nuestros guardias fronterizos, los PMCs Wagner atravesaron la frontera de Polonia e ingresaron a su territorio. Comenzó lo que nadie esperaba"
@@ -1716,7 +1716,7 @@
  belarus_another.55.b: "No Interfiramos"
 
  belarus_another.56.t: "Revolución de los Jeans"
- belarus_another.56.d: "¡Rusia envió a sus especialistas y juntos pudimos suprimir las protestas!"
+ belarus_another.56.d: "Rusia envió a sus especialistas y juntos pudimos suprimir las protestas!"
  belarus_another.56.a: "Gracias Rusia"
 
  belarus_another.57.t: "Revolución de los Jeans"
@@ -1725,7 +1725,7 @@
 
  belarus_another.58.t: "Revolución de los Jeans"
  belarus_another.58.d: "Las protestas están ganando fuerza, ya se han tomado algunos edificios administrativos, además ya comienzan los disturbios en otras ciudades, también algunos de los generales se han pasado a los rebeldes, ¿qué debemos hacer?"
- belarus_another.58.a: "¡Lucharemos hasta el final!"
+ belarus_another.58.a: "Lucharemos hasta el final!"
  belarus_another.58.b: "Cederemos el poder pacíficamente"
 
  belarus_another.59.t: "Bielorrusia está pidiendo un préstamo"
@@ -1771,10 +1771,10 @@
  belarus_azot.2.a: "Finalmente, algunas buenas noticias."
  belarus_azot.3.t: "[From.GetName] rechaza nuestro trato."
  belarus_azot.3.d: "Nuestros esfuerzos para hacer un trato con [From.GetName] parecen ser en vano, no hemos recibido respuesta, y parece que no va a ninguna parte."
- belarus_azot.3.a: "¡Malditos sean, [From.GetNameDef]!"
+ belarus_azot.3.a: "Malditos sean, [From.GetNameDef]!"
  belarus_azot.4.t: "[From.GetName] anula su contrato."
  belarus_azot.4.d: "Hemos recibido una noticia impactante: [From.GetName] cancela su contrato de fertilizantes con nosotros, no podremos venderles nuestro producto, al menos por ahora."
- belarus_azot.4.a: "¡Tontos! ¡No saben lo que pierden!"
+ belarus_azot.4.a: "Tontos! No saben lo que pierden!"
 
  BLR_Azot_category: "Comercio de Fertilizantes GrodnoAzot"
  BLR_Azot_category_desc: "Enfocarse en la cantidad de mercados a los que GrodnoAzot tiene acceso es vital para la diversidad y expansión de la economía bielorrusa. La multitud de fertilizantes y pesticidas diferentes a su disposición puede ser útil para muchas naciones. Establecer contratos con otros países y expandir la producción de nuestros fertilizantes traerá una gran cantidad de ingresos a la nación y al pueblo de Bielorrusia.\n\nLos ingresos obtenidos del comercio se determinan por la cantidad de contratos que hayas firmado multiplicada por diez por ciento.\n§YContratos Actuales de Fertilizantes:§! [?current_azot_capacity]/[?current_max_azot_capacity]\n§YCapacidad de Fertilizantes:§! [?current_max_azot_capacity]/[?max_azot_capacity]"

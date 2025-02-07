@@ -45,7 +45,7 @@
  RESEARCH_UNLOCKS_SUBUNITS_HEADER:0 "§THabilita $SUBUNITS$§!"
  RESEARCH_UNLOCKS_TACTICS_HEADER:0 "§THabilita Táctica: $TACTICS$§!"
  RESEARCH_MODIFIERS_HEADER:0 "Estadísticas globales"
- RESEARCH_MESSAGE_UNLOCKED_TITLE:0 "¡Investigación Completada!"
+ RESEARCH_MESSAGE_UNLOCKED_TITLE:0 "Investigación Completada!"
  RESEARCH_MESSAGE_UNLOCKED_DESC:0 "Nuestro país ha completado la investigación en $NAME|Y$.\n $DESC$"
  RESEARCH_INSTANT_DESC:0 "La investigación es instantánea al cambiar el árbol con más de una tecnología investigada en el árbol actual."
  infantry_folder:0 "Infantería"

@@ -1,5 +1,5 @@
 ﻿l_spanish:
- USoE: "¡Se formó los §YEstados Unidos de Europa§!"
+ USoE: "Se formó los §YEstados Unidos de Europa§!"
  not_usoe_tt: "No se ha formado los §YEstados Unidos de Europa§!"
  not_poteuf_tt: "No se ha formado la §YFederación Europea§!"
  not_omt_start: "El programa OMT no ha comenzado"
@@ -314,7 +314,7 @@
 
  EU_budget_subsidies_tooltip: "£click_left §GAl hacer clic izquierdo:§! Aumentar los Subsidios de Crecimiento, reduciendo los subsidios naturales\n§YRequisitos previos:§!\n[!EU_growth_natural_subsidies_click_enabled]\n§YEfectos:§!\n[!EU_growth_natural_subsidies_click]\n\n£GFX_click_right §GAl hacer clic derecho:§! Reducir los Subsidios de Crecimiento, reduciendo los subsidios naturales\n§YRequisitos previos:§!\n[!EU_growth_natural_subsidies_right_click_enabled]\n§YEfectos:§!\n[!EU_growth_natural_subsidies_right_click]\n"
 
- EU_has_a_current_budget_draft_trigger_TT: "¡Cualquier §CEstado Miembro de la Unión Europea§! está redactando un §YNuevo Presupuesto de la UE§!"
+ EU_has_a_current_budget_draft_trigger_TT: "Cualquier §CEstado Miembro de la Unión Europea§! está redactando un §YNuevo Presupuesto de la UE§!"
 
  EU_budget_draft_desc: "El estado miembro que redacta el Presupuesto de la UE para el próximo año fiscal debe poner el borrador en la agenda del Parlamento Europeo al final de las negociaciones. Como recompensa, el estado miembro redactor obtiene el poder político total invertido cuando el Presupuesto de la UE es aprobado y puesto en vigor."
 
@@ -640,9 +640,9 @@
  ### EU cheat events ###
  EUcheat.1.t: "Trampa de votación de la UE"
  EUcheat.1.d: "¿Activando la trampa de votación de la UE?"
- EUcheat.1.a: "¡Todos los Estados miembros de la UE votarán SÍ!"
- EUcheat.1.b: "¡Todos los Estados miembros de la UE votarán NO!"
- EUcheat.1.c: "¡Deja de hacer trampa!"
+ EUcheat.1.a: "Todos los Estados miembros de la UE votarán SÍ!"
+ EUcheat.1.b: "Todos los Estados miembros de la UE votarán NO!"
+ EUcheat.1.c: "Deja de hacer trampa!"
 
  influence_country_vote_tt: "§HRequisitos previos:§!\n[!list_of_council_voting_members_button_click_enabled]"
  country_not_supporting: "§Y[THIS.GetNameWithFlag]§! No está apoyando actualmente nuestra postura sobre la medida"
@@ -858,21 +858,21 @@
  EU_voting_mission_focus_EU611_QMV_result_desc: "Los estados miembros han votado sobre la ampliación interna. Es hora de mostrar el resultado."
 
  eu_voting_minor_popup_tt: "Si ya no desea recibir estas notificaciones, puede desmarcar las ventanas emergentes menores en el menú de decisiones. NOTA: Esto también ocultará otros eventos. No se referirá específicamente a las ventanas emergentes de la Unión Europea sobre votaciones o cuando el consejo o el parlamento estén listos para la sesión."
- EUvote.1.t: "¡Votación del Parlamento Europeo iniciada!"
- EUvote.1.d: "¡El Parlamento Europeo ha llevado una medida a votación! Consulte la sección del Parlamento de la UE para ayudar a revisar o aprobar la medida."
- EUvote.1.a: "¡A las urnas!"
+ EUvote.1.t: "Votación del Parlamento Europeo iniciada!"
+ EUvote.1.d: "El Parlamento Europeo ha llevado una medida a votación! Consulte la sección del Parlamento de la UE para ayudar a revisar o aprobar la medida."
+ EUvote.1.a: "A las urnas!"
 
- EUvote.2.t: "¡Votación del Consejo Europeo iniciada!"
- EUvote.2.d: "¡El Consejo Europeo ha comenzado a votar sobre una nueva ley! Consulte la sección de Votación Euro para emitir su voto e influir en otras naciones."
- EUvote.2.a: "¡A las urnas!"
+ EUvote.2.t: "Votación del Consejo Europeo iniciada!"
+ EUvote.2.d: "El Consejo Europeo ha comenzado a votar sobre una nueva ley! Consulte la sección de Votación Euro para emitir su voto e influir en otras naciones."
+ EUvote.2.a: "A las urnas!"
 
  EUvote.3.t: "El Parlamento Europeo está listo para la sesión"
  EUvote.3.d: "El Parlamento Europeo está listo para la sesión. Puede elegir proponer algo al Parlamento Europeo o la IA propondrá un proyecto de ley para la sesión en dos semanas."
- EUvote.3.a: "¡A las urnas!"
+ EUvote.3.a: "A las urnas!"
 
  EUvote.4.t: "La votación del Consejo Europeo está lista para la sesión"
  EUvote.4.d: "El Consejo Europeo está listo para la sesión. Puede elegir proponer algo al Consejo Europeo o la IA propondrá un proyecto de ley para la sesión en dos semanas."
- EUvote.4.a: "¡A las urnas!"
+ EUvote.4.a: "A las urnas!"
 
  ### EU-Turkey deal ###
  EUevent.2.t: "Acuerdo UE-Turquía"
@@ -885,16 +885,16 @@
 
  ### United States of Europe ###
  EUevent.3.t: "Estados Unidos de Europa"
- EUevent.3.d: "En un discurso pronunciado después del final de la Segunda Guerra Mundial, Churchill concluyó:\n\"Debemos construir una especie de Estados Unidos de Europa. Solo de esta manera cientos de millones de trabajadores podrán recuperar las simples alegrías y esperanzas que hacen que la vida valga la pena. El proceso es simple. Todo lo que se necesita es la determinación de cientos de millones de hombres y mujeres para hacer lo correcto en lugar de lo incorrecto y ganar como recompensa bendiciones en lugar de maldiciones.\"\n\n\"Por lo tanto, les digo: ¡Que Europa se levante!\"\n\nDespués de más de 70 años de integración europea, los estados miembros de §C[EUU.GetFlag] La Unión Europea§! han decidido renunciar a su soberanía y formar los §C[EUU.GetFlag] Estados Unidos de Europa§!."
- EUevent.3.a: "¡Oda a la Alegría!"
+ EUevent.3.d: "En un discurso pronunciado después del final de la Segunda Guerra Mundial, Churchill concluyó:\n\"Debemos construir una especie de Estados Unidos de Europa. Solo de esta manera cientos de millones de trabajadores podrán recuperar las simples alegrías y esperanzas que hacen que la vida valga la pena. El proceso es simple. Todo lo que se necesita es la determinación de cientos de millones de hombres y mujeres para hacer lo correcto en lugar de lo incorrecto y ganar como recompensa bendiciones en lugar de maldiciones.\"\n\n\"Por lo tanto, les digo: Que Europa se levante!\"\n\nDespués de más de 70 años de integración europea, los estados miembros de §C[EUU.GetFlag] La Unión Europea§! han decidido renunciar a su soberanía y formar los §C[EUU.GetFlag] Estados Unidos de Europa§!."
+ EUevent.3.a: "Oda a la Alegría!"
 
  EUevent.4.t: "Estados Unidos de Europa"
  EUevent.4.d: "[FROM.GetNameWithFlag] está uniendo a los estados miembros de §C[EUU.GetFlag] La Unión Europea§! en un superestado europeo llamado los §C[EUU.GetFlag] Estados Unidos de Europa§!. [ROOT.GetNameWithFlag] renunciará a su soberanía y se unirá a los §C[EUU.GetFlag] Estados Unidos de Europa§!."
- EUevent.4.a: "¡Oda a la Alegría!"
+ EUevent.4.a: "Oda a la Alegría!"
 
  EUevent.5.t: "Crisis de la deuda europea"
  EUevent.5.d: "El fracaso de la Unión Europea para implementar reformas en la Eurozona. Las naciones dentro de la unión no pueden reembolsar o refinanciar su deuda gubernamental ni rescatar a los bancos sobreendeudados. Los estados miembros ahora están luchando para tratar de impulsar las reformas rápidamente para garantizar que se asegure la viabilidad financiera y económica de la Eurozona. La crisis ha comenzado y el Euro está al borde."
- EUevent.5.a: "¡El Euro está en juego!"
+ EUevent.5.a: "El Euro está en juego!"
 
  EUevent.6.t: "Reformas en la Eurozona"
  EUevent.6.d: "La inminente crisis de deuda ha sido evitada a través de una serie de reformas en la Eurozona, como la implementación de una Unión Fiscal, el aumento de poderes del Banco Central Europeo (BCE) y mecanismos adicionales de estabilidad. La Eurozona ha sido salvada y la Unión Europea ahora puede mirar al futuro con confianza de que se ha evitado una crisis."
@@ -902,12 +902,12 @@
 
  EUevent.7.t: "Reformas en la Eurozona..."
  EUevent.7.d: "La Crisis Financiera Global en los Estados Unidos ha provocado un efecto en cascada entre las naciones de Europa. Muchos miembros del Parlamento Europeo están buscando una resolución a la creciente deuda en varios países de la Unión Europea. Los países no han podido ni pagar, ni refinanciar su deuda gubernamental, ni emitir fondos de emergencia para los bancos en quiebra a raíz de la Crisis Financiera Global. Todos los estados miembros involucrados han informado de su incapacidad para reembolsar su deuda y han revelado que sus déficits presupuestarios eran mucho peores de lo que se pensaba anteriormente. La principal similitud entre las naciones es que la causa raíz de la crisis proviene de transferir la deuda privada a deuda nacional a través de una serie de rescates de deuda para salvar instituciones en dificultades dentro de los países. El Banco Central Europeo (BCE) y el Fondo Monetario Internacional (FMI) han comenzado a trabajar en acuerdos con los estados miembros para emitir paquetes de alivio y programas de rescate nacional para prevenir una crisis mucho peor. Lo que queda claro es que la Unión Europea está al borde de una crisis catastrófica, ya que nos encontramos en el centro de la tormenta que es la Crisis Financiera Global. Debemos mantenernos fuertes y la Unión debe reformar la Eurozona para poder capear la tormenta y demostrar que la Unión Europea no flaqueará. Ni ahora, ni mañana, ni nunca. In varietate concordia."
- EUevent.7.a: "¡Por el Euro!"
+ EUevent.7.a: "Por el Euro!"
 
  ### troika_reforms accomplished ###
- EUevent.8.t: "¡Reformas de la Troika cumplidas!"
- EUevent.8.d: "[ROOT.GetNameWithFlag] ha promulgado las reformas exigidas por la llamada Troika de la Comisión Europea (CE), el Banco Central Europeo (BCE) y el Fondo Monetario Internacional (FMI). ¡Esto significa austeridad para el pueblo de [ROOT.GetNameWithFlag]!"
- EUevent.8.a: "¡Nos recuperaremos!"
+ EUevent.8.t: "Reformas de la Troika cumplidas!"
+ EUevent.8.d: "[ROOT.GetNameWithFlag] ha promulgado las reformas exigidas por la llamada Troika de la Comisión Europea (CE), el Banco Central Europeo (BCE) y el Fondo Monetario Internacional (FMI). Esto significa austeridad para el pueblo de [ROOT.GetNameWithFlag]!"
+ EUevent.8.a: "Nos recuperaremos!"
 
  # EU Exit by accident
  EUevent.9.t: "Salida por accidente"
@@ -917,8 +917,8 @@
  ### EuroNavy Transfer Navy ###
  EUevent.10.t: "Transferir la Armada a EuroNavy"
  EUevent.10.d: "Con las flotas multinacionales y las fuerzas de tarea siendo más comunes e importantes en el siglo XXI, los estados miembros de [EUU.GetFlag] La Unión Europea decidieron unir sus fuerzas y transferir sus buques de guerra a un Mando Naval Europeo unificado conocido como EuroNavy. \n\n[FROM.GetNameWithFlag] ocupa el cargo de Secretario General de EuroNavy y exige que nuestra Flota se una a EuroNavy."
- EUevent.10.a: "¡Europa, manda en los mares!"
- EUevent.10.b: "¡Nunca abandonaremos nuestra Flota!"
+ EUevent.10.a: "Europa, manda en los mares!"
+ EUevent.10.b: "Nunca abandonaremos nuestra Flota!"
 
  ### FROM asks us to host a Military Exercise
 
@@ -936,7 +936,7 @@
  # Office is Free
  EUevent.21.t: "Una oficina está abierta"
  EUevent.21.d: "Un asiento se ha vaciado, ya sea por jubilación o por el término del periodo del asiento. La oficina permanecerá vacía por parte de la IA durante los próximos catorce días, después de los cuales la IA buscará ocupar el asiento. Por favor, consulte la pantalla de la Oficina de la Unión Europea."
- EUevent.21.a: "¡Gracias por el consejo!"
+ EUevent.21.a: "Gracias por el consejo!"
 
  # The Migrant Crisis in Europe
  EUevent.22.t: "La Crisis Migratoria en Europa"
@@ -957,12 +957,12 @@
  ### EU Exit by accident (troika reforms) ###
  EU_news.20.t: "Salida por accidente"
  EU_news.20.d: "[FROM.GetNameWithFlag] no ha logrado cumplir con las reformas exigidas por la llamada Troika de la Comisión Europea (CE), el Banco Central Europeo (BCE) y el Fondo Monetario Internacional (FMI). Los demás estados miembros se refieren a la Cláusula de No Rescate, por lo que [FROM.GetNameWithFlag] tiene que salir de la eurozona y §C[EUU.GetFlag] La Unión Europea§! para devaluar su propia nueva moneda y evitar la quiebra."
- EU_news.20.a: "¡Adiós!"
+ EU_news.20.a: "Adiós!"
 
  ### EU Exit by accident (no deal exit) ###
  EU_news.21.t: "Un Estado miembro deja la Unión"
  EU_news.21.d: "[FROM.GetNameWithFlag] deja §C[EUU.GetFlag] La Unión Europea§!."
- EU_news.21.a: "¡Adiós!"
+ EU_news.21.a: "Adiós!"
 
  ### Article 50 is revoked ###
  EU_news.22.t: "El artículo 50 es revocado"
@@ -972,7 +972,7 @@
  ### withdrawal_treaty ###
  EU_news.23.t: "Tratado de Retiro"
  EU_news.23.d: "[FROM.GetNameWithFlag] y los estados miembros de §C[EUU.GetFlag] La Unión Europea§! han firmado un Tratado de Retiro. [FROM.GetNameWithFlag] dejará §C[EUU.GetFlag] La Unión Europea§! bajo las condiciones establecidas en el Tratado de Retiro."
- EU_news.23.a: "¡Adiós, amigos!"
+ EU_news.23.a: "Adiós, amigos!"
 
  ### EU_extend_Article_50 ###
  EU_news.24.t: "Extensión del artículo 50"
@@ -996,7 +996,7 @@
  ### Country joins EU ###
  EU_news.27.t: "Un país se une a la Unión Europea"
  EU_news.27.d: "[FROM.GetNameWithFlag] se une a §C[EUU.GetFlag] La Unión Europea§!."
- EU_news.27.a: "¡Bienvenido!"
+ EU_news.27.a: "Bienvenido!"
 
  ### euroscepticism decline -3% ###
  EU_news.28.t: "Declive del euroescepticismo (3%)"
@@ -1062,53 +1062,53 @@
 
  ### new euro campaign events
  ### pro_european_campaign success ###
- EU_news.35.t: "Campaña proeuropea - ¡Éxito!"
- EU_news.35.d: "[FROM.GetNameWithFlag] inició una campaña proeuropea. ¡Fue un éxito! El euroescepticismo está disminuyendo un 3% en [EUU.GetFlag] La Unión Europea y en todos los estados miembros potenciales."
+ EU_news.35.t: "Campaña proeuropea - Éxito!"
+ EU_news.35.d: "[FROM.GetNameWithFlag] inició una campaña proeuropea. Fue un éxito! El euroescepticismo está disminuyendo un 3% en [EUU.GetFlag] La Unión Europea y en todos los estados miembros potenciales."
  EU_news.35.a: "De acuerdo"
 
  ### pro_european_campaign great success ###
- EU_news.36.t: "Campaña proeuropea - ¡Gran éxito!"
- EU_news.36.d: "[FROM.GetNameWithFlag] inició una campaña proeuropea. ¡Fue un gran éxito! El euroescepticismo está disminuyendo un 5% en [EUU.GetFlag] La Unión Europea y en todos los estados miembros potenciales."
+ EU_news.36.t: "Campaña proeuropea - Gran éxito!"
+ EU_news.36.d: "[FROM.GetNameWithFlag] inició una campaña proeuropea. Fue un gran éxito! El euroescepticismo está disminuyendo un 5% en [EUU.GetFlag] La Unión Europea y en todos los estados miembros potenciales."
  EU_news.36.a: "De acuerdo"
 
  ### pro_european_campaign success ###
- EU_news.37.t: "Campaña proeuropea - ¡Fracaso!"
- EU_news.37.d: "[FROM.GetNameWithFlag] inició una campaña proeuropea. ¡Fue un fracaso! Nada cambió."
+ EU_news.37.t: "Campaña proeuropea - Fracaso!"
+ EU_news.37.d: "[FROM.GetNameWithFlag] inició una campaña proeuropea. Fue un fracaso! Nada cambió."
  EU_news.37.a: "De acuerdo"
 
  ### euroscepticism_campaign success ###
- EU_news.38.t: "Campaña euroescéptica - ¡Éxito!"
- EU_news.38.d: "[FROM.GetNameWithFlag] inició una campaña euroescéptica. ¡Fue un éxito! El euroescepticismo está aumentando un 3% en [EUU.GetFlag] La Unión Europea y en todos los estados miembros potenciales."
+ EU_news.38.t: "Campaña euroescéptica - Éxito!"
+ EU_news.38.d: "[FROM.GetNameWithFlag] inició una campaña euroescéptica. Fue un éxito! El euroescepticismo está aumentando un 3% en [EUU.GetFlag] La Unión Europea y en todos los estados miembros potenciales."
  EU_news.38.a: "De acuerdo"
 
  ### euroscepticism_campaign great success ###
- EU_news.39.t: "Campaña euroescéptica - ¡Gran éxito!"
- EU_news.39.d: "[FROM.GetNameWithFlag] inició una campaña euroescéptica. ¡Fue un gran éxito! El euroescepticismo está aumentando un 5% en [EUU.GetFlag] La Unión Europea y en todos los estados miembros potenciales."
+ EU_news.39.t: "Campaña euroescéptica - Gran éxito!"
+ EU_news.39.d: "[FROM.GetNameWithFlag] inició una campaña euroescéptica. Fue un gran éxito! El euroescepticismo está aumentando un 5% en [EUU.GetFlag] La Unión Europea y en todos los estados miembros potenciales."
  EU_news.39.a: "De acuerdo"
 
  ### euroscepticism_campaign success ###
- EU_news.40.t: "Campaña euroescéptica - ¡Fracaso!"
- EU_news.40.d: "[FROM.GetNameWithFlag] inició una campaña euroescéptica. ¡Fue un fracaso! Nada cambió."
+ EU_news.40.t: "Campaña euroescéptica - Fracaso!"
+ EU_news.40.d: "[FROM.GetNameWithFlag] inició una campaña euroescéptica. Fue un fracaso! Nada cambió."
  EU_news.40.a: "De acuerdo"
 
  ### root_pro_european_campaign success ###
- EU_news.41.t: "Campaña proeuropea - ¡Éxito!"
- EU_news.41.d: "[FROM.GetNameWithFlag] inició una campaña proeuropea. ¡Fue un éxito! El euroescepticismo está disminuyendo un 5% en [ROOT.GetNameWithFlag]."
+ EU_news.41.t: "Campaña proeuropea - Éxito!"
+ EU_news.41.d: "[FROM.GetNameWithFlag] inició una campaña proeuropea. Fue un éxito! El euroescepticismo está disminuyendo un 5% en [ROOT.GetNameWithFlag]."
  EU_news.41.a: "De acuerdo"
 
  ### root_pro_european_campaign success ###
- EU_news.42.t: "Campaña proeuropea - ¡Fracaso!"
- EU_news.42.d: "[FROM.GetNameWithFlag] inició una campaña proeuropea. ¡Fue un fracaso! Nada cambió."
+ EU_news.42.t: "Campaña proeuropea - Fracaso!"
+ EU_news.42.d: "[FROM.GetNameWithFlag] inició una campaña proeuropea. Fue un fracaso! Nada cambió."
  EU_news.42.a: "De acuerdo"
 
  ### root_euroscepticism_campaign success ###
- EU_news.43.t: "Campaña euroescéptica - ¡Éxito!"
- EU_news.43.d: "[FROM.GetNameWithFlag] inició una campaña euroescéptica. ¡Fue un éxito! El euroescepticismo está aumentando un 5% en [ROOT.GetNameWithFlag]."
+ EU_news.43.t: "Campaña euroescéptica - Éxito!"
+ EU_news.43.d: "[FROM.GetNameWithFlag] inició una campaña euroescéptica. Fue un éxito! El euroescepticismo está aumentando un 5% en [ROOT.GetNameWithFlag]."
  EU_news.43.a: "De acuerdo"
 
  ### euroscepticism_campaign success ###
- EU_news.44.t: "Campaña euroescéptica - ¡Fracaso!"
- EU_news.44.d: "[FROM.GetNameWithFlag] inició una campaña euroescéptica. ¡Fue un fracaso! Nada cambió."
+ EU_news.44.t: "Campaña euroescéptica - Fracaso!"
+ EU_news.44.d: "[FROM.GetNameWithFlag] inició una campaña euroescéptica. Fue un fracaso! Nada cambió."
  EU_news.44.a: "De acuerdo"
 
  ### EU election ###
@@ -1146,14 +1146,14 @@
  EU_majority_voting: "Esto fue una votación por mayoría."
 
  ### EU Majority Voting YES ###
- EU_unanimity_voting_YES: "¡Por lo tanto, la propuesta fue ACEPTADA!"
- EU_qualified_majority_voting_YES: "¡Por lo tanto, la propuesta fue ACEPTADA!"
- EU_majority_voting_YES: "¡Por lo tanto, la propuesta fue ACEPTADA!"
+ EU_unanimity_voting_YES: "Por lo tanto, la propuesta fue ACEPTADA!"
+ EU_qualified_majority_voting_YES: "Por lo tanto, la propuesta fue ACEPTADA!"
+ EU_majority_voting_YES: "Por lo tanto, la propuesta fue ACEPTADA!"
 
  ### EU Majority Voting NO ###
- EU_unanimity_voting_NO: "¡Por lo tanto, la propuesta fue RECHAZADA!"
- EU_qualified_majority_voting_NO: "¡Por lo tanto, la propuesta fue RECHAZADA!"
- EU_majority_voting_NO: "¡Por lo tanto, la propuesta fue RECHAZADA!"
+ EU_unanimity_voting_NO: "Por lo tanto, la propuesta fue RECHAZADA!"
+ EU_qualified_majority_voting_NO: "Por lo tanto, la propuesta fue RECHAZADA!"
+ EU_majority_voting_NO: "Por lo tanto, la propuesta fue RECHAZADA!"
 
  ### European Union Idea Localization
  EUU_idea_gdpr: "Reglamento General de Protección de Datos"
@@ -1242,47 +1242,47 @@
  ### President of the European Commission ###
  EU_news.2.t: "Presidente de la Comisión Europea"
  EU_news.2.d: "[FROM.GetNameWithFlag] ocupará ahora el cargo de Presidente de la Comisión Europea durante los próximos 5 años."
- EU_news.2.a: "¡Esperamos una buena cooperación!"
+ EU_news.2.a: "Esperamos una buena cooperación!"
 ### President of the European Council ###
  EU_news.3.t: "Presidente del Consejo Europeo"
  EU_news.3.d: "[FROM.GetNameWithFlag] ocupará ahora el cargo de Presidente del Consejo Europeo durante los próximos 5 años."
- EU_news.3.a: "¡Esperamos una buena cooperación!"
+ EU_news.3.a: "Esperamos una buena cooperación!"
 ### High Representative of the Union for Foreign Affairs and Security Policy ###
  EU_news.4.t: "Alto Representante para Asuntos Exteriores y Política de Seguridad" #abreviado por razones gráficas
  EU_news.4.d: "[FROM.GetNameWithFlag] ocupará ahora el cargo de Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad durante los próximos 5 años."
- EU_news.4.a: "¡Esperamos una buena cooperación!"
+ EU_news.4.a: "Esperamos una buena cooperación!"
 ### President of the European Parliament ###
  EU_news.5.t: "Presidente del Parlamento Europeo"
  EU_news.5.d: "[FROM.GetNameWithFlag] ocupará ahora el cargo de Presidente del Parlamento Europeo durante los próximos 5 años."
- EU_news.5.a: "¡Esperamos una buena cooperación!"
+ EU_news.5.a: "Esperamos una buena cooperación!"
 ### President of the European Central Bank ###
  EU_news.6.t: "Presidente del Banco Central Europeo"
  EU_news.6.d: "[FROM.GetNameWithFlag] ocupará ahora el cargo de Presidente del Banco Central Europeo durante los próximos 8 años."
- EU_news.6.a: "¡Esperamos una buena cooperación!"
+ EU_news.6.a: "Esperamos una buena cooperación!"
 ### European Minister of Economy and Finance ###
  EU_news.7.t: "Ministro Europeo de Economía y Finanzas"
  EU_news.7.d: "[FROM.GetNameWithFlag] ocupará ahora el cargo de Ministro Europeo de Economía y Finanzas durante los próximos 5 años."
- EU_news.7.a: "¡Esperamos una buena cooperación!"
+ EU_news.7.a: "Esperamos una buena cooperación!"
 ### Frontex Executive Director ###
  EU_news.8.t: "Director Ejecutivo de Frontex"
  EU_news.8.d: "[FROM.GetNameWithFlag] ocupará ahora el cargo de Director Ejecutivo de Frontex durante los próximos 5 años."
- EU_news.8.a: "¡Esperamos una buena cooperación!"
+ EU_news.8.a: "Esperamos una buena cooperación!"
 ### Secretary General of EuroArmy ###
  EU_news.9.t: "Secretario General de EuroArmy"
  EU_news.9.d: "[FROM.GetNameWithFlag] ocupará ahora el cargo de Secretario General de EuroArmy durante los próximos 5 años."
- EU_news.9.a: "¡Esperamos una buena cooperación!"
+ EU_news.9.a: "Esperamos una buena cooperación!"
 ### Secretary General of EuroNavy ###
  EU_news.10.t: "Secretario General de EuroNavy"
  EU_news.10.d: "[FROM.GetNameWithFlag] ocupará ahora el cargo de Secretario General de EuroNavy durante los próximos 5 años."
- EU_news.10.a: "¡Esperamos una buena cooperación!"
+ EU_news.10.a: "Esperamos una buena cooperación!"
 ### Ambassador of the Union to the United Nations ###
  EU_news.11.t: "Embajador de la Unión ante las Naciones Unidas"
  EU_news.11.d: "[FROM.GetNameWithFlag] ocupará ahora el cargo de Embajador de la Unión ante las Naciones Unidas durante los próximos 5 años."
- EU_news.11.a: "¡Esperamos una buena cooperación!"
+ EU_news.11.a: "Esperamos una buena cooperación!"
 ### President of the European Federation ###
  EU_news.12.t: "Presidente de la Federación Europea"
  EU_news.12.d: "[FROM.GetNameWithFlag] ocupará ahora el cargo de Presidente de la Federación Europea durante los próximos 5 años."
- EU_news.12.a: "¡Esperamos una buena cooperación!"
+ EU_news.12.a: "Esperamos una buena cooperación!"
 
  ### EU Tech Sharing ###
  EU_Tech_Share_name: "Agencia Europea de Defensa (EDA)"
@@ -1358,10 +1358,10 @@
  VOJ_Article_50_YES: "§Y[VOJ.GetNameWithFlag]§!\n"
 
  Article_50: "[THIS.GetName] ha invocado el Artículo 50"
- EU_Article_50: "¡Dejar la Unión Europea! (Artículo 50)"
+ EU_Article_50: "Dejar la Unión Europea! (Artículo 50)"
  EU_Article_50_desc: "\"Todo Estado miembro podrá decidir retirarse de la Unión de conformidad con sus propios requisitos constitucionales.\"\n- Artículo 50(1), Tratado de la Unión Europea.\n\nEl Artículo 50 se redactó por primera vez para el Tratado Constitucional de la Unión Europea. Tras el fracaso del proceso de ratificación de la Constitución Europea, la cláusula se incorporó al Tratado de Lisboa."
  EU_Revoke_Article_50: "Revocar el Artículo 50"
- EU_Revoke_Article_50_desc: "¡Revocar el Artículo 50 y permanecer en §C[EUU.GetFlag] La Unión Europea§!\n\"El artículo 50 del TUE debe interpretarse en el sentido de que, cuando un Estado miembro ha notificado al Consejo Europeo, de conformidad con dicho artículo, su intención de retirarse de la Unión Europea, dicho artículo permite a ese Estado miembro —mientras no haya entrado en vigor un acuerdo de retirada celebrado entre dicho Estado miembro y la Unión Europea o, si no se ha celebrado ningún acuerdo de este tipo, mientras no hayan expirado los dos años establecidos en el artículo 50, apartado 3, del TUE, posiblemente prorrogados por dicho apartado— revocar dicha notificación unilateralmente, de manera inequívoca e incondicional, mediante una notificación dirigida por escrito al Consejo Europeo, después de que el Estado miembro de que se trate haya adoptado la decisión de revocación de conformidad con sus requisitos constitucionales. La finalidad de dicha revocación es confirmar la pertenencia a la UE del Estado miembro de que se trate en condiciones que no hayan cambiado en lo que respecta a su estatuto de Estado miembro, y dicha revocación pone fin al procedimiento de retirada.\"\n- Sentencia del Tribunal de Justicia de la Unión Europea en el Asunto C-621/18"
+ EU_Revoke_Article_50_desc: "Revocar el Artículo 50 y permanecer en §C[EUU.GetFlag] La Unión Europea§!\n\"El artículo 50 del TUE debe interpretarse en el sentido de que, cuando un Estado miembro ha notificado al Consejo Europeo, de conformidad con dicho artículo, su intención de retirarse de la Unión Europea, dicho artículo permite a ese Estado miembro —mientras no haya entrado en vigor un acuerdo de retirada celebrado entre dicho Estado miembro y la Unión Europea o, si no se ha celebrado ningún acuerdo de este tipo, mientras no hayan expirado los dos años establecidos en el artículo 50, apartado 3, del TUE, posiblemente prorrogados por dicho apartado— revocar dicha notificación unilateralmente, de manera inequívoca e incondicional, mediante una notificación dirigida por escrito al Consejo Europeo, después de que el Estado miembro de que se trate haya adoptado la decisión de revocación de conformidad con sus requisitos constitucionales. La finalidad de dicha revocación es confirmar la pertenencia a la UE del Estado miembro de que se trate en condiciones que no hayan cambiado en lo que respecta a su estatuto de Estado miembro, y dicha revocación pone fin al procedimiento de retirada.\"\n- Sentencia del Tribunal de Justicia de la Unión Europea en el Asunto C-621/18"
  EU_exit: "Abandonando la UE..."
  EU_exit_desc: "§Y[ROOT.GetNameWithFlag]§! ha notificado al Consejo Europeo su intención de abandonar la §C[EUU.GetFlag] La Unión Europea§!. §Y[ROOT.GetNameWithFlag]§! abandonará la Unión dos años después de la notificación."
  EU_extend_Article_50: "Extensión del Artículo 50"
@@ -1428,7 +1428,7 @@
  EU_apply_for_membership_category: "Unirse a la UE"
  EU_apply_for_membership_category_desc: "Convertirse en miembro de la UE es un procedimiento complejo que no ocurre de la noche a la mañana. Una vez que un país solicitante cumple con los requisitos para la membresía, debe implementar las reglas y regulaciones de la UE en todas las áreas.\nCualquier país que cumpla con los requisitos de membresía puede aplicar. Estos requisitos son conocidos como los ‘criterios de Copenhague’ e incluyen una economía de mercado libre, una democracia estable y el estado de derecho, y la aceptación de toda la legislación de la UE, incluida la del euro."
  EU_apply_for_membership: "Unirse a la UE"
- EU_apply_for_membership_desc: "§Y[ROOT.GetNameWithFlag]§! puede unirse a la §C[EUU.GetFlag] La Unión Europea§! cantemos la Oda a la Alegría:\n¡Alegría, hermoso destello de divinidad,\nHija del Elíseo,\nEntramos, ebrios de fuego,\n¡Celestial, tu santuario!\nTu magia une de nuevo\nLo que la costumbre separó;\nTodos los hombres se hacen hermanos,\nDonde tu suave ala mora."
+ EU_apply_for_membership_desc: "§Y[ROOT.GetNameWithFlag]§! puede unirse a la §C[EUU.GetFlag] La Unión Europea§! cantemos la Oda a la Alegría:\nAlegría, hermoso destello de divinidad,\nHija del Elíseo,\nEntramos, ebrios de fuego,\nCelestial, tu santuario!\nTu magia une de nuevo\nLo que la costumbre separó;\nTodos los hombres se hacen hermanos,\nDonde tu suave ala mora."
  EU_adopt_EU_law: "Adoptar la ley de la UE"
  EU_adopt_EU_law_desc: "Debido al gran volumen de reglas y regulaciones de la UE que cada país candidato debe adoptar como ley nacional, las negociaciones tardan en completarse. Los candidatos reciben apoyo financiero, administrativo y técnico durante este período de preacceso."
  EU_join_the_Euro: "Unirse al Euro"
@@ -1486,7 +1486,7 @@
  EU_show_display_effects_for_law_no_effect_tt: "No hay ningún efecto adicional para esta ley."
 
  # Laws of the European Union
- tooltip_EU_parliament_focus_EU002_EP_agenda: "Coloca las §YPolíticas de los Estados Miembros§! en la agenda del PE.\n¡Activar la misión §YAprobar las Políticas de los Estados Miembros§!."
+ tooltip_EU_parliament_focus_EU002_EP_agenda: "Coloca las §YPolíticas de los Estados Miembros§! en la agenda del PE.\nActivar la misión §YAprobar las Políticas de los Estados Miembros§!."
  # European Parliament General Laws of the EU
  tooltip_EU_parliament_focus_EU101_EP_agenda: "Coloca la §YCarta de los Derechos Fundamentales de la Unión Europea§! en la agenda del PE.\n\nConduce a las siguientes Leyes de la §C[EUU.GetNameWithFlag]§!:\n- §YConvención Europea§!\n\n"
  tooltip_EU_parliament_focus_EU102_EP_agenda: "Coloca la §YConvención Europea§! en la agenda del PE.\n\nConduce a las siguientes Leyes de la §C[EUU.GetNameWithFlag]§!:\n- §YConstitución Europea§!\n\n"
@@ -1827,7 +1827,7 @@
 
  ### EU Council ###
  EU_council_category: "Consejo Europeo / Consejo de la Unión Europea"
- EU_council_category_desc: "Actos Legales de la Unión Europea\n\n§YNombre§! - Tipo de Mayoría - Estado - Predicción de Votación:\n§C¡SÍ:§! §CVotos§! - §CRatio del Total de la UE§! - Estados Miembros\n§gIndecidido:§! §gVotos§! - §gRatio del Total de la UE§! - Estados Miembros\n§RNO:§! §RVotos§! - §RRatio del Total de la UE§! - Estados Miembros\n"
+ EU_council_category_desc: "Actos Legales de la Unión Europea\n\n§YNombre§! - Tipo de Mayoría - Estado - Predicción de Votación:\n§CSÍ:§! §CVotos§! - §CRatio del Total de la UE§! - Estados Miembros\n§gIndecidido:§! §gVotos§! - §gRatio del Total de la UE§! - Estados Miembros\n§RNO:§! §RVotos§! - §RRatio del Total de la UE§! - Estados Miembros\n"
 
  EU_council_unanimity_loc_key: "Unanimidad"
  EU_council_QMV_loc_key: "Votación por Mayoría Calificada (QMV)"
@@ -2024,7 +2024,7 @@
  EU_parliament_PG_2017_liberalism_name_loc_key: "Alianza de Liberales y Demócratas por Europa (ALDE)"
  EU_parliament_PG_2017_socialism_name_loc_key: "Partido de los Socialistas Europeos (PES)"
  EU_parliament_PG_2017_Communist-State_name_loc_key: "Iniciativa de Partidos Comunistas y Obreros (INICIATIVA)"
- EU_parliament_PG_2017_anarchist_communism_name_loc_key: "¡Ahora el Pueblo!"
+ EU_parliament_PG_2017_anarchist_communism_name_loc_key: "Ahora el Pueblo!"
  EU_parliament_PG_2017_Conservative_name_loc_key: "Alianza de Movimientos Nacionales Europeos (AENM)"
  EU_parliament_PG_2017_Autocracy_name_loc_key: "Alianza de Autócratas"
  EU_parliament_PG_2017_Mod_Vilayat_e_Faqih_name_loc_key: "Alianza de Revolucionarios Chiítas Moderados"
@@ -2075,7 +2075,7 @@
  EU_parliament_PG_2017_liberalism_short_name_loc_key: "ALDE"
  EU_parliament_PG_2017_socialism_short_name_loc_key: "PES"
  EU_parliament_PG_2017_Communist-State_short_name_loc_key: "INICIATIVA"
- EU_parliament_PG_2017_anarchist_communism_short_name_loc_key: "¡Ahora el Pueblo!"
+ EU_parliament_PG_2017_anarchist_communism_short_name_loc_key: "Ahora el Pueblo!"
  EU_parliament_PG_2017_Conservative_short_name_loc_key: "AENM"
  EU_parliament_PG_2017_Autocracy_short_name_loc_key: "Autócratas"
  EU_parliament_PG_2017_Mod_Vilayat_e_Faqih_short_name_loc_key: "Chiítas Moderados"

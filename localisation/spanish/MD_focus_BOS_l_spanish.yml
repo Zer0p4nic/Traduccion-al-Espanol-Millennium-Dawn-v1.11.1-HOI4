@@ -325,7 +325,7 @@
  bos_expand_islamic_unity: "WIP DESC"
  bos_commence_centralization: "WIP DESC"
  bos_declare_a_islamic_take_over: "La Revuelta Mudžahid"
- bos_declare_a_islamic_take_over_desc: "¡Los combatientes extranjeros que hemos desplegado están descontentos con nuestra acción actual en la guerra civil y están planeando un golpe en curso contra el gobierno!"
+ bos_declare_a_islamic_take_over_desc: "Los combatientes extranjeros que hemos desplegado están descontentos con nuestra acción actual en la guerra civil y están planeando un golpe en curso contra el gobierno!"
  #Decisions
  bos_core_states_2: "Conversión islámica e integración de [From.GetName]"
  Boost_yugo_nost_serbia: "Fomentar la yugonostalgia en los Balcanes inferiores"
@@ -509,7 +509,7 @@
  bos_croat_gui_info_TOOLTIP: "§YCroatas§! son el grupo minoritario dentro de la Federación de Bosnia y Herzegovina. Viven principalmente en la región suroeste de Bosnia a lo largo de la frontera con la costa sur de Croacia. Son predominantemente católicos en su fe."
  has_low_relation_with_croats: "Tiene bajas relaciones con los croatas"
  has_high_relation_with_croats: "Tiene altas relaciones con los croatas"
- bos_no_Wars_tt: "§RNo podemos declarar guerras \n¡Si la estabilidad baja por debajo del 30% y las facciones no son leales, la posibilidad de una guerra civil aumentará drásticamente!§!"
+ bos_no_Wars_tt: "§RNo podemos declarar guerras \nSi la estabilidad baja por debajo del 30% y las facciones no son leales, la posibilidad de una guerra civil aumentará drásticamente!§!"
  bos_serbian_attitude_Hostile_tt: "Estará disponible si £text_icon_bos_srpska §YSerbios§! son §tHostiles§!"
  bos_serbian_attitude_friendly_tt: "Estará disponible si £text_icon_bos_srpska §YSerbios§! son §GFriendly§!"
  bos_serbian_attitude_loyal_tt: "Estará disponible si £text_icon_bos_srpska §YSerbios§! son §GLoyal§!"

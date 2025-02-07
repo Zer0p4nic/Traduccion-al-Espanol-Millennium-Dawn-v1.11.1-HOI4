@@ -20,14 +20,14 @@
  lit_rate_TT_yes: "\n\n[FROM.GetName] actualmente tiene una §YTasa de Alfabetización§! de [?FROM.literacy_rate|Y%2], esto afectará la §YTasa de Alfabetización§! de [ROOT.GetName] si ocurre la anexión!"
 
  # EVENTS
- education.1.t: "¡El Ministro de Educación Informa Sobre Altas Tasas de Alfabetización!"
+ education.1.t: "El Ministro de Educación Informa Sobre Altas Tasas de Alfabetización!"
  education.1.d: "Nuestra prudente financiación educativa y currículos gestionados expertamente han dado sus frutos, con una tasa de alfabetización superior al 95%, ahora podemos llamarnos una sociedad altamente educada y bien instruida, con poca resistencia de aquellos detractores, tanto dentro como fuera de las fronteras de la nación. Al lograr este objetivo monumental, ya no recibiremos informes anuales sobre las tasas de alfabetización de nuestra nación."
  education.1.A: "¿Todavía recibo mi manzana diaria?"
 
- education.2.t: "¡El Ministro de Educación Informa Sobre la Disminución de las Tasas de Alfabetización!"
+ education.2.t: "El Ministro de Educación Informa Sobre la Disminución de las Tasas de Alfabetización!"
  education.2.d: "A pesar de nuestros mejores esfuerzos, nuestras tasas de alfabetización parecen haber caído, ya sea debido al apoyo vacilante hacia mantener bien financiado el sistema educativo o a una gran afluencia de personas menos alfabetizadas, es una conjetura de cualquiera, una vez más recibiremos informes anuales sobre las tasas de alfabetización de nuestra nación."
  education.2.A: "¿Dónde están mis libros de abecedario?"
 
- education_literacy_pulse.1.t: "¡Vacaciones de Verano!"
+ education_literacy_pulse.1.t: "Vacaciones de Verano!"
  education_literacy_pulse.1.d: "Mientras la escuela está cerrada por el Verano, esperamos que nuestros estudiantes saluden la bandera, sin importar lo aburrido que sea. Los informes han llegado y los exámenes de nuestros estudiantes han sido contabilizados, no importa lo que pase, esperemos que se vuelvan útiles, ¿de acuerdo?"
  education_literacy_pulse.1.A: "Espero que nuestras calificaciones sean buenas."

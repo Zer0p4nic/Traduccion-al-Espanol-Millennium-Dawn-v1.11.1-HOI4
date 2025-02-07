@@ -230,12 +230,12 @@
  AC_event.1.o2: "Rechazar la Oferta"
 
  AC_event.2.t: "Permiso de Construcción Rechazado"
- AC_event.2.d: "Hemos recibido un rechazo de nuestro potencial nuevo socio de inversión. ¡Es increíble que rechazaran nuestro proyecto! No es como si fuéramos a ganar alguna influencia o control sobre su gobierno ayudando a desarrollar sus naciones. Oh, bueno, el trato de inversión con [FROM.GetName] ha fracasado en [?FROM.AC_state_target.GetName], así que podríamos enviar una oferta de inversión a alguien más."
+ AC_event.2.d: "Hemos recibido un rechazo de nuestro potencial nuevo socio de inversión. Es increíble que rechazaran nuestro proyecto! No es como si fuéramos a ganar alguna influencia o control sobre su gobierno ayudando a desarrollar sus naciones. Oh, bueno, el trato de inversión con [FROM.GetName] ha fracasado en [?FROM.AC_state_target.GetName], así que podríamos enviar una oferta de inversión a alguien más."
  AC_event.2.o1: "Tal vez su vecino..."
 
  AC_event.3.t: "Proyecto de Construcción Cancelado"
  AC_event.3.d: "Desafortunadamente, no pudimos completar nuestro trato de inversión con nuestros amigos en [FROM.GetName]. Hay muchas razones potenciales para esto, ya sea por relaciones con el gobierno, falta de fondos o tal vez solo una falta general de interés por parte de la gente local. Siempre podemos intentarlo en otro momento."
- AC_event.3.o1: "¡Su pérdida!"
+ AC_event.3.o1: "Su pérdida!"
 
  AC_cancel_investment_tt: "Cancelar la siguiente inversión de [From.GetName]:"
 

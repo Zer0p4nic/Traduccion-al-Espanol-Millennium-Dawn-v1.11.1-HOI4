@@ -2317,7 +2317,7 @@
  CZE_Anti_tank_2: "RPTZ-96" #Ficticio
  CZE_Anti_tank_2_desc: "Raketová Protitanková Zbraň 96 significa Arma Antitanque Cohete Tipo 96. Primer prototipo de nuestro propio diseño checo F&F (Fuego y Olvido). Al final, el proyecto resultó en un arma capaz de cambiar entre el poco fiable software Fuego y Olvido, que a veces intercambia la casa por un cañón autopropulsado, y un sistema SACLOS muy preciso."
  CZE_Anti_tank_3: "PTŘS-101" #Ficticio
- CZE_Anti_tank_3_desc: "Significa ATGM-101. Primer diseño F&F confiable, ¡solo 5 prototipos desde el primero! También utiliza misiles precursor para contrarrestar la nueva amenaza de los sistemas de protección activa. La idea es diferente a los diseños extranjeros, ya que la primera ojiva disparada aún está cargada con explosivos destinados a fragmentarse fuera del tanque y a los sensores en la parte superior de las torres de los tanques, y la segunda es una ojiva tándem penetrante."
+ CZE_Anti_tank_3_desc: "Significa ATGM-101. Primer diseño F&F confiable, solo 5 prototipos desde el primero! También utiliza misiles precursor para contrarrestar la nueva amenaza de los sistemas de protección activa. La idea es diferente a los diseños extranjeros, ya que la primera ojiva disparada aún está cargada con explosivos destinados a fragmentarse fuera del tanque y a los sensores en la parte superior de las torres de los tanques, y la segunda es una ojiva tándem penetrante."
  CZE_Anti_tank_4: "PTŘS-109 Pancíř" #Ficticio
  CZE_Anti_tank_4_desc: "Significa ATGM-109. Diseño de segunda generación de ATGM tándem utilizando misiles precursor (sí, dos precursor y 1 ojiva real) que impactan los sistemas APS antes de que la ojiva tándem, con penetración de 2500 mm RHA. Las ojivas tienen una velocidad de 500 m/s y eso le da al APS enemigo y a la tripulación muy poco tiempo de reacción, incluso a una distancia de 3 km. Combinando varios de estos sistemas móviles de armas, se puede destruir cualquier tanque con un número abrumador de ATGMs."
 
@@ -9092,7 +9092,7 @@
  CZE_transport_plane1: "Let-30" #Ficticio
  CZE_transport_plane1_desc: "Avión de carga/transportación a turbohélice."
  CZE_transport_plane2: "Let-40 Turbolet" #Ficticio
- CZE_transport_plane2_desc: "¡Nueva cabina digital, motores turbopropulsores más eficientes, más espacio de carga en este nuevo y más grande avión!"
+ CZE_transport_plane2_desc: "Nueva cabina digital, motores turbopropulsores más eficientes, más espacio de carga en este nuevo y más grande avión!"
  CZE_transport_plane3: "Let-50 Velryba" #Ficticio
  CZE_transport_plane3_desc: "Avión de carga/transportación a turbofán."
  CZE_transport_plane4: "Let-60" #Ficticio
