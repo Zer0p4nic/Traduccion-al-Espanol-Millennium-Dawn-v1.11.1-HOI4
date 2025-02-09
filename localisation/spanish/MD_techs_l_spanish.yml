@@ -1457,7 +1457,7 @@
  aviation_fire_strike: "Ataque de Fuego de Aviación"
  aviation_fire_strike_desc: "Un ataque de fuego de aviación es un primer ataque concentrado que emplea todos los aspectos de la entrega de fuego, incluidos misiles, aeronaves y activos electrónicos."
  alcm_raid_oi: "Incursiones de Misiles de Crucero Lanzados desde el Aire"
- alcm_raid_oi_desc: "Las incursiones de misiles de crucero lanzados desde el aire especifican el uso a gran escala de aeronaves de ataque naval que lanzan misiles antibuque contra flotas."
+ alcm_raid_oi_desc: "Las incursiones de misiles de crucero lanzados desde el aire especifican el uso a gran escala de aeronaves de Ataque Naval que lanzan misiles antibuque contra flotas."
  jsead: "JSEAD"
  jsead_desc: "Las operaciones conjuntas de supresión de defensas aéreas enemigas son acciones militares para suprimir las defensas aéreas enemigas. Las tácticas para la supresión o destrucción coordinada de sitios SAM y AAA permiten a los aviadores llevar a cabo sus misiones de apoyo aéreo con menor riesgo."
  jamming_package_escorts: "Escoltas de Paquetes de Interferencia"

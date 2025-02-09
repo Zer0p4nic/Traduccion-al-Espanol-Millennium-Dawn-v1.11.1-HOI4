@@ -359,7 +359,7 @@
  GCC_f35: "Optar por el F-35"
  GCC_f35_desc: "El F-35 Lightning II es el resultado de un largo y costoso programa estadounidense para producir un nuevo caza furtivo de quinta generación. Ha sido muy buscado por varios aliados de Estados Unidos, y con razón. Deberíamos seguir su ejemplo y buscar adquirir este avanzado caza multifunción para la Fuerza Aérea [ROOT.GetAdjective] para complementar nuestro inventario de aeronaves envejecido."
  GCC_eurofighter: "Optar por el Eurofighter"
- GCC_eurofighter_desc: "El Eurofighter Typhoon fue un ambicioso proyecto multinacional que involucró la experiencia aeronáutica del Reino Unido, Alemania, Italia y España. Es un efectivo y ampliamente utilizado caza de superioridad aérea y sería, por lo tanto, una valiosa adición a nuestro inventario de aeronaves."
+ GCC_eurofighter_desc: "El Eurofighter Typhoon fue un ambicioso proyecto multinacional que involucró la experiencia aeronáutica del Reino Unido, Alemania, Italia y España. Es un efectivo y ampliamente utilizado Caza de Superioridad Aérea y sería, por lo tanto, una valiosa adición a nuestro inventario de aeronaves."
  GCC_rafale: "Optar por el Rafale"
  GCC_rafale_desc: "Francia originalmente participó en el proyecto Eurofighter Typhoon, pero tras desacuerdos con los otros participantes del proyecto, Francia se separó y comenzó a seguir su propio programa de cazas. Este programa produjo el Dassault Rafale, un avión avanzado que sería una adición efectiva pero asequible a nuestro inventario de aeronaves existente."
  GCC_su57: "Optar por el Su-57"

@@ -8187,7 +8187,7 @@
  CV_MR_Fighter8_desc: ""
 
  AS_Fighter_equipment: "Cazas de Superioridad Aérea"
- AS_Fighter_equipment_desc: "Un caza de superioridad aérea está diseñado para ingresar y tomar el control del espacio aéreo enemigo como un medio para establecer una completa dominancia sobre la fuerza aérea del enemigo."
+ AS_Fighter_equipment_desc: "Un Caza de Superioridad Aérea está diseñado para ingresar y tomar el control del espacio aéreo enemigo como un medio para establecer una completa dominancia sobre la fuerza aérea del enemigo."
  AS_Fighter1: "3rd Gen AS"
  AS_Fighter1_desc: "Los cazas de superioridad aérea, a veces llamados 'Cazas de Dominio Aéreo', están completamente diseñados con el combate aire-aire en mente y sobresalen en este rol, con largos alcances y agilidad increíble. Generalmente no llevan armas para ataque terrestre."
  AS_Fighter2: "4th Gen AS"
@@ -8264,7 +8264,7 @@
  Air_UAV4_desc: "Un vehículo aéreo no tripulado (VANT), comúnmente conocido como dron, sistema de aeronaves no tripuladas (SANT), o por varios otros nombres, es un avión sin piloto humano a bordo. El vuelo de los VANT puede operar con varios grados de autonomía: ya sea bajo control remoto por un operador humano, o de manera completamente o intermitentemente autónoma, mediante computadoras a bordo."
 
  strategic_bomber_equipment: "Bombardero Estratégico (Bombardero STR)"
- strategic_bomber_equipment_desc: "Un bombardero estratégico es un avión bombardero de penetración de alcance medio a largo diseñado para lanzar grandes cantidades de armamento aire-superficie sobre un objetivo distante para debilitar la capacidad del enemigo para librar la guerra."
+ strategic_bomber_equipment_desc: "Un Bombardero Estratégico es un avión bombardero de penetración de alcance medio a largo diseñado para lanzar grandes cantidades de armamento aire-superficie sobre un objetivo distante para debilitar la capacidad del enemigo para librar la guerra."
  strategic_bomber1: "Bombardero STR 1965"
  strategic_bomber1_desc: ""
  strategic_bomber2: "Bombardero STR 1975"
@@ -8277,7 +8277,7 @@
  strategic_bomber5_desc: ""
  strategic_bomber6: "Bombardero STR 2035"
  strategic_bomber6_desc: ""
- strategic_bomberdesc: "Un bombardero estratégico es un avión bombardero de penetración de alcance medio a largo diseñado para lanzar grandes cantidades de armamento aire-superficie sobre un objetivo distante para debilitar la capacidad del enemigo para librar la guerra."
+ strategic_bomberdesc: "Un Bombardero Estratégico es un avión bombardero de penetración de alcance medio a largo diseñado para lanzar grandes cantidades de armamento aire-superficie sobre un objetivo distante para debilitar la capacidad del enemigo para librar la guerra."
 
  transport_plane_equipment: "Aeronaves de transporte"
  transport_plane_equipment_desc: "Las aeronaves de transporte militar son típicamente aeronaves de carga de alas fijas y alas rotatorias que se utilizan para transportar tropas, armas y otro equipo militar mediante diversos métodos a cualquier área de operaciones militares alrededor de la superficie del planeta, generalmente fuera de las rutas de vuelos comerciales en espacio aéreo no controlado."
@@ -8344,7 +8344,7 @@
  cv_awacs_equipment_2_desc: ""
  kamikaze_drone: "Dron kamikaze"
  Kamikaze_drone_equipment: "Dron kamikaze"
- Kamikaze_drone_equipment_desc: "Una munición de merodeo (también conocida como dron suicida o dron kamikaze) es una categoría de sistema de armas aéreas en la que la munición merodea (espera de manera pasiva) alrededor del área del objetivo durante un tiempo y ataca solo una vez que se localiza el objetivo. Las municiones de merodeo permiten tiempos de reacción más rápidos contra objetivos ocultos o escondidos que emergen por cortos períodos sin colocar plataformas de alto valor cerca del área objetivo, y también permiten un targeting más selectivo, ya que el ataque puede ser fácilmente abortado."
+ Kamikaze_drone_equipment_desc: "Una munición de merodeo (también conocida como Dron Suicida o dron kamikaze) es una categoría de sistema de armas aéreas en la que la munición merodea (espera de manera pasiva) alrededor del área del objetivo durante un tiempo y ataca solo una vez que se localiza el objetivo. Las municiones de merodeo permiten tiempos de reacción más rápidos contra objetivos ocultos o escondidos que emergen por cortos períodos sin colocar plataformas de alto valor cerca del área objetivo, y también permiten un targeting más selectivo, ya que el ataque puede ser fácilmente abortado."
  kamikaze_drone_1: "Dron kamikaze 2005"
  kamikaze_drone_1_desc: ""
  kamikaze_drone_2: "Dron kamikaze 2015"
@@ -8407,7 +8407,7 @@
  EQUIPMENT_CAS: "Apoyo aéreo cercano"
  EQUIPMENT_INTERCEPTOR: "Interceptor"
  EQUIPMENT_TACTICAL_BOMBER: "Bombardero táctico"
- EQUIPMENT_STRATEGIC_BOMBER: "Bombardero estratégico"
+ EQUIPMENT_STRATEGIC_BOMBER: "Bombardero Estratégico"
  EQUIPMENT_NAVAL_BOMBER: "Bombardero naval"
  EQUIPMENT_TRANSPORT: "Transporte"
  EQUIPMENT_CARRIER: "Portaaviones"
@@ -9106,15 +9106,15 @@
  CZE_strategic_bomber1: "Let-10" #Ficticio
  CZE_strategic_bomber1_desc: "Bombardero táctico a turbopropulsor."
  CZE_strategic_bomber2: "Let-110" #Ficticio
- CZE_strategic_bomber2_desc: "Bombardero estratégico a turbopropulsor."
+ CZE_strategic_bomber2_desc: "Bombardero Estratégico a turbopropulsor."
  CZE_strategic_bomber3: "Let-310 Vrána" #Ficticio
- CZE_strategic_bomber3_desc: "Bombardero estratégico a turbofán."
+ CZE_strategic_bomber3_desc: "Bombardero Estratégico a turbofán."
  CZE_strategic_bomber4: "Let-510 Volavka" #Ficticio
- CZE_strategic_bomber4_desc: "Bombardero estratégico a turbojet."
+ CZE_strategic_bomber4_desc: "Bombardero Estratégico a turbojet."
  CZE_strategic_bomber5: "Let-815E Vrabec" #Ficticio
- CZE_strategic_bomber5_desc: "Bombardero estratégico supersónico a turbojet con nuevo fuselaje de ala voladora y recubrimiento furtivo."
+ CZE_strategic_bomber5_desc: "Bombardero Estratégico supersónico a turbojet con nuevo fuselaje de ala voladora y recubrimiento furtivo."
  CZE_strategic_bomber6: "Let-915E Výr" #Ficticio
- CZE_strategic_bomber6_desc: "Bombardero estratégico hipersónico furtivo de ala voladora con motor híbrido Scramjet/ramjet/turbojet."
+ CZE_strategic_bomber6_desc: "Bombardero Estratégico hipersónico furtivo de ala voladora con motor híbrido Scramjet/ramjet/turbojet."
 
 
  CZE_naval_plane1: "Let-10N" #Ficticio
