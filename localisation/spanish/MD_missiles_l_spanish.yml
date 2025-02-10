@@ -211,9 +211,9 @@
  SALVO_TT: "La salva es el número de misiles que disparas a la vez."
  DURATION_TT: "La duración es con qué frecuencia se repite el disparo de la salva semanalmente."
  ### for other +/- Buttons
- INCREASE_SALVO_TT: "£click_left §YL Click§! para §GIncrementar§! en §G1§!"
+ INCREASE_SALVO_TT: "£click_left §YClick Izq§! para §GIncrementar§! en §G1§!"
  INCREASE_SALVO_delayed_TT: "£key_ctrl §YCtrl§!(10x) o £key_shift §YShift§!(100x) incrementa la cantidad."
- DECREASE_SALVO_TT: "£click_left §YL Click§! para §RDisminuir§! en §R1§!"
+ DECREASE_SALVO_TT: "£click_left §YClick Izq§! para §RDisminuir§! en §R1§!"
  DECREASE_SALVO_delayed_TT: "£key_ctrl §YCtrl§!(10x) o £key_shift §YShift§!(100x) disminuye la cantidad."
  ### Launch GUI +/- Buttons
  MISSILE_MODEL_NAME: "[missile_type_tech_loc]"
@@ -252,12 +252,12 @@
 
  INCREASE_AMOUNT: "Añadir 1 §YUnidad§! a esta producción."
  DECREASE_AMOUNT: "Eliminar 1 §YUnidad§! de esta producción."
- INCREASE_AMOUNT_DELAYED: "£key_ctrl + £click_left §YCtrl L Click§!: Añadir 10 §YUnidades§! a esta producción.\n£key_shift + £click_left §YShift L Click§!: Añadir 100 §YUnidades§! a esta producción.\n"
- DECREASE_AMOUNT_DELAYED: "£key_ctrl + £click_left §YCtrl L Click§!: Eliminar 10 §YUnidades§! de esta producción.\n£key_shift + £click_left §YShift L Click§!: Eliminar 100 §YUnidades§! de esta producción.\n"
+ INCREASE_AMOUNT_DELAYED: "£key_ctrl + £click_left §YCtrl Click Izq§!: Añadir 10 §YUnidades§! a esta producción.\n£key_shift + £click_left §YShift Click Izq§!: Añadir 100 §YUnidades§! a esta producción.\n"
+ DECREASE_AMOUNT_DELAYED: "£key_ctrl + £click_left §YCtrl Click Izq§!: Eliminar 10 §YUnidades§! de esta producción.\n£key_shift + £click_left §YShift Click Izq§!: Eliminar 100 §YUnidades§! de esta producción.\n"
  INCREASE_CIC: "£click_left Incrementar el §YMultiplicador de Producción§! de esta producción en §G1§!."
- INCREASE_CIC_TT: "£key_ctrl + £click_left §YCtrl L Click§!: Incrementar el §YMultiplicador de Producción§! de esta producción en §G10§!\n£key_shift + £click_left §YShift L Click§!: Incrementar el §YMultiplicador de Producción§! de esta producción en §G100§!\nIncrementar el dinero gastado por adelantado acelerará la producción, pero tendremos que gastar mucho más para hacerlo."
+ INCREASE_CIC_TT: "£key_ctrl + £click_left §YCtrl Click Izq§!: Incrementar el §YMultiplicador de Producción§! de esta producción en §G10§!\n£key_shift + £click_left §YShift Click Izq§!: Incrementar el §YMultiplicador de Producción§! de esta producción en §G100§!\nIncrementar el dinero gastado por adelantado acelerará la producción, pero tendremos que gastar mucho más para hacerlo."
  DECREASE_CIC: "£click_left Disminuir el §YMultiplicador de Producción§! de esta producción en §G1§!."
- DECREASE_CIC_TT: "£key_ctrl + £click_left §YCtrl L Click§!: Disminuir el §YMultiplicador de Producción§! de esta producción en §G10§!\n£key_shift + £click_left §YShift L Click§!: Disminuir el §YMultiplicador de Producción§! de esta producción en §G100§!\nDisminuir el dinero pagado por adelantado ralentizará la producción, pero nos ahorrará algo de efectivo para pagar por adelantado."
+ DECREASE_CIC_TT: "£key_ctrl + £click_left §YCtrl Click Izq§!: Disminuir el §YMultiplicador de Producción§! de esta producción en §G10§!\n£key_shift + £click_left §YShift Click Izq§!: Disminuir el §YMultiplicador de Producción§! de esta producción en §G100§!\nDisminuir el dinero pagado por adelantado ralentizará la producción, pero nos ahorrará algo de efectivo para pagar por adelantado."
  PRODUCTION_LEGEND_UNIT: "Unidad"
  PRODUCTION_LEGEND_TOTAL: "Total"
 
@@ -539,7 +539,7 @@
 
  temp_sat_ID_loc_key: "[?temp_sat_ID]"
 
- SAT_TT_DELAYED: "£key_ctrl + £click_left §YCtrl L Click§!: agregar a la lista de objetivos."
+ SAT_TT_DELAYED: "£key_ctrl + £click_left §YCtrl Click Izq§!: agregar a la lista de objetivos."
 
  LAUNCH_STATS: "[?orbit_selected_TAG.GetFlag] §CLanzamientos Orbitales:§!\nLanzamientos Orbitales Totales: [orbital_launch_total_loc]\nLanzamientos Orbitales Exitosos: [orbital_launch_success_loc]\nFallos en Lanzamientos Orbitales: [orbital_launch_fail_loc]"
  orbital_launch_total_loc_key: "[?temp_orbital_launch_total]"

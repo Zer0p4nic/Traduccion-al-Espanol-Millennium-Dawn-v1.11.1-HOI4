@@ -10,11 +10,11 @@
  MD_regional_music_TITLE: "Banda Sonora Regional"
 
  # Scripted GUI Button Clicks
- l_click: "£click_left §YL Click§!"
- shift_l_click: "£key_shift + £click_left §YShift L Click§!"
- ctrl_l_click: "£key_ctrl + £click_left §YCtrl L Click§!"
- r_click: "£click_right §YR Click§!"
- ctrl_r_click: "£key_ctrl + £click_right §YCtrl R Click§!"
- shift_r_click: "£key_shift + £click_right §YShift R Click§!"
+ l_click: "£click_left §YClick Izq§!"
+ shift_l_click: "£key_shift + £click_left §YShift Click Izq§!"
+ ctrl_l_click: "£key_ctrl + £click_left §YCtrl Click Izq§!"
+ r_click: "£click_right §YClick Dere§!"
+ ctrl_r_click: "£key_ctrl + £click_right §YCtrl Click Dere§!"
+ shift_r_click: "£key_shift + £click_right §YShift Click Dere§!"
 
  SLOTS_DESC: "VAMOOSSSSSSS!"
